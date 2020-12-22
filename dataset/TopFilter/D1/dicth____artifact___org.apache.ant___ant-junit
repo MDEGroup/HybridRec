@@ -1,0 +1,5 @@
+1	/artifact/org.apache.ant/ant-junit
+2	#DEP# apach
+3	#DEP# test
+4	#DEP# ant
+5	#DEP# junit

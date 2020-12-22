@@ -1,0 +1,5 @@
+1	/artifact/org.activiti.cloud/activiti-cloud-services-monitoring
+2	#DEP# servic
+3	#DEP# monitor
+4	#DEP# cloud
+5	#DEP# bpm

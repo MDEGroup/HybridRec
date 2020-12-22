@@ -1,0 +1,6 @@
+1	/artifact/org.jboss.xnio.netty/netty-xnio-transport
+2	#DEP# jboss
+3	#DEP# socket
+4	#DEP# netti
+5	#DEP# network
+6	#DEP# transport

@@ -1,0 +1,6 @@
+1	/artifact/org.neo4j/neo4j-cypher
+2	#DEP# neo4j
+3	#DEP# graph
+4	#DEP# queri
+5	#DEP# languag
+6	#DEP# databas

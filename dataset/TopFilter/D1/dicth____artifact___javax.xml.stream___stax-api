@@ -1,0 +1,7 @@
+1	/artifact/javax.xml.stream/stax-api
+2	#DEP# xml
+3	#DEP# spec
+4	#DEP# api
+5	#DEP# javax
+6	#DEP# stream
+7	#DEP# standard

@@ -1,0 +1,5 @@
+1	/artifact/apache-xerces/xml-apis
+2	#DEP# xml
+3	#DEP# parser
+4	#DEP# api
+5	#DEP# apach

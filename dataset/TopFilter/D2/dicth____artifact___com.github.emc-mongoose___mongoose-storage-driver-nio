@@ -1,0 +1,5 @@
+1	/artifact/com.github.emc-mongoose/mongoose-storage-driver-nio
+2	#DEP# driver
+3	#DEP# io
+4	#DEP# github
+5	#DEP# storag

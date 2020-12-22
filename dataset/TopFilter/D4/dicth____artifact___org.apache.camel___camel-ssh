@@ -1,0 +1,5 @@
+1	/artifact/org.apache.camel/camel-ssh
+2	#DEP# ssh
+3	#DEP# network
+4	#DEP# apach
+5	#DEP# camel

@@ -1,0 +1,8 @@
+1	/artifact/org.codehaus.cargo/cargo-jetty-deployer
+2	#DEP# webapp
+3	#DEP# webserv
+4	#DEP# web
+5	#DEP# jetti
+6	#DEP# applic
+7	#DEP# server
+8	#DEP# codehau

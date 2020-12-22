@@ -1,0 +1,5 @@
+1	/artifact/org.grails.plugins/mail
+2	#DEP# grail
+3	#DEP# mail
+4	#DEP# groovi
+5	#DEP# plugin

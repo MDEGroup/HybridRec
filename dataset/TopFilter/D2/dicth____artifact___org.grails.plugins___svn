@@ -1,0 +1,6 @@
+1	/artifact/org.grails.plugins/svn
+2	#DEP# groovi
+3	#DEP# grail
+4	#DEP# scm
+5	#DEP# svn
+6	#DEP# plugin

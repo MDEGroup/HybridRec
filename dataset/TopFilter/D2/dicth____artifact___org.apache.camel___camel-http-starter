@@ -1,0 +1,5 @@
+1	/artifact/org.apache.camel/camel-http-starter
+2	#DEP# http
+3	#DEP# apach
+4	#DEP# starter
+5	#DEP# camel

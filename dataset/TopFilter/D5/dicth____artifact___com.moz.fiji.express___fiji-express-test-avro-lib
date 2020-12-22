@@ -1,0 +1,6 @@
+1	/artifact/com.moz.fiji.express/fiji-express-test-avro-lib
+2	#DEP# avro
+3	#DEP# librari
+4	#DEP# test
+5	#DEP# protocol
+6	#DEP# serial

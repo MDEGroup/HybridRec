@@ -1,0 +1,5 @@
+1	/artifact/org.seleniumhq.selenium/selenium-remote-driver
+2	#DEP# driver
+3	#DEP# selenium
+4	#DEP# remot
+5	#DEP# test

@@ -1,0 +1,5 @@
+1	/artifact/tomcat/servlets-default
+2	#DEP# tomcat
+3	#DEP# servlet
+4	#DEP# webserv
+5	#DEP# server

@@ -1,0 +1,6 @@
+1	/artifact/org.grails/grails-datastore-gorm-support
+2	#DEP# groovi
+3	#DEP# grail
+4	#DEP# persist
+5	#DEP# orm
+6	#DEP# support

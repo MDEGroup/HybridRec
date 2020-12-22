@@ -1,0 +1,9 @@
+1	/artifact/org.eclipse.jetty/test-jetty-webapp
+2	#DEP# web
+3	#DEP# webapp
+4	#DEP# test
+5	#DEP# jetti
+6	#DEP# eclips
+7	#DEP# applic
+8	#DEP# webserv
+9	#DEP# server

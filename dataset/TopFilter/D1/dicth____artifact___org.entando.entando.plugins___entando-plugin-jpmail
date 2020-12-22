@@ -1,0 +1,5 @@
+1	/artifact/org.entando.entando.plugins/entando-plugin-jpmail
+2	#DEP# web
+3	#DEP# webapp
+4	#DEP# plugin
+5	#DEP# applic

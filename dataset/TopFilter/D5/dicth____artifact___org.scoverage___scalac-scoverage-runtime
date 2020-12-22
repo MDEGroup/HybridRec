@@ -1,0 +1,5 @@
+1	/artifact/org.scoverage/scalac-scoverage-runtime
+2	#DEP# coverag
+3	#DEP# runtim
+4	#DEP# analysi
+5	#DEP# code-coverag

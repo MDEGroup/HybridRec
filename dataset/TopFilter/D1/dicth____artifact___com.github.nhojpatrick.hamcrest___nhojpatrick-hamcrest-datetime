@@ -1,0 +1,5 @@
+1	/artifact/com.github.nhojpatrick.hamcrest/nhojpatrick-hamcrest-datetime
+2	#DEP# time
+3	#DEP# github
+4	#DEP# date
+5	#DEP# match

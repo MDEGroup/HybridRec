@@ -1,0 +1,5 @@
+1	/artifact/org.apache.lucene/lucene-core
+2	#DEP# lucen
+3	#DEP# full-text
+4	#DEP# apach
+5	#DEP# index

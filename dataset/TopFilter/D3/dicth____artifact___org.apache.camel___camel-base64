@@ -1,0 +1,5 @@
+1	/artifact/org.apache.camel/camel-base64
+2	#DEP# apach
+3	#DEP# encod
+4	#DEP# camel
+5	#DEP# base64

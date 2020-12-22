@@ -1,0 +1,5 @@
+1	/artifact/com.gruelbox/service-netty
+2	#DEP# socket
+3	#DEP# netti
+4	#DEP# network
+5	#DEP# servic

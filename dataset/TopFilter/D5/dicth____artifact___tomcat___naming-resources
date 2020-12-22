@@ -1,0 +1,6 @@
+1	/artifact/tomcat/naming-resources
+2	#DEP# name
+3	#DEP# webserv
+4	#DEP# tomcat
+5	#DEP# resourc
+6	#DEP# server

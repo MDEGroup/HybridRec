@@ -1,0 +1,5 @@
+1	/artifact/com.amazonaws.serverless/aws-serverless-java-container-core
+2	#DEP# serverless
+3	#DEP# amazon
+4	#DEP# aw
+5	#DEP# contain

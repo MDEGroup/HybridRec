@@ -1,0 +1,6 @@
+1	/artifact/org.webjars.bowergithub.vaadin/vaadin-usage-statistics
+2	#DEP# web
+3	#DEP# web-framework
+4	#DEP# asset
+5	#DEP# gwt
+6	#DEP# stat

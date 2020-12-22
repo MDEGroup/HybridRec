@@ -1,0 +1,9 @@
+1	/artifact/com.bmuschko/gradle-docker-plugin
+2	#DEP# docker
+3	#DEP# groovi
+4	#DEP# client
+5	#DEP# build
+6	#DEP# gradl
+7	#DEP# contain
+8	#DEP# plugin
+9	#DEP# build-system

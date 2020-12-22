@@ -1,0 +1,6 @@
+1	/artifact/org.scala-js/scalajs-junit-test-runtime
+2	#DEP# runtim
+3	#DEP# scalaj
+4	#DEP# scala
+5	#DEP# junit
+6	#DEP# test

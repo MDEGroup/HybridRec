@@ -1,0 +1,5 @@
+1	/artifact/org.grails/grails-plugin-testing
+2	#DEP# grail
+3	#DEP# test
+4	#DEP# plugin
+5	#DEP# groovi

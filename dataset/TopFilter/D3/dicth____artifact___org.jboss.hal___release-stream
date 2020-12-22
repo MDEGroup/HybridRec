@@ -1,0 +1,6 @@
+1	/artifact/org.jboss.hal/release-stream
+2	#DEP# jboss
+3	#DEP# web
+4	#DEP# webapp
+5	#DEP# stream
+6	#DEP# applic

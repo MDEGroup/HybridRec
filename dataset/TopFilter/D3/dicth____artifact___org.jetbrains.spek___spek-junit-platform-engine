@@ -1,0 +1,5 @@
+1	/artifact/org.jetbrains.spek/spek-junit-platform-engine
+2	#DEP# engin
+3	#DEP# platform
+4	#DEP# test
+5	#DEP# junit

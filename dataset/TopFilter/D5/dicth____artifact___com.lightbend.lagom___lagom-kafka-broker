@@ -1,0 +1,6 @@
+1	/artifact/com.lightbend.lagom/lagom-kafka-broker
+2	#DEP# stream
+3	#DEP# microservic
+4	#DEP# lightbend
+5	#DEP# broker
+6	#DEP# kafka

@@ -1,0 +1,5 @@
+1	/artifact/taglibs/datetime
+2	#DEP# time
+3	#DEP# taglib
+4	#DEP# date
+5	#DEP# jsp

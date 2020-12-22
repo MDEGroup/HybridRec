@@ -1,0 +1,5 @@
+1	/artifact/org.sonatype.p2.bridge/p2-bridge-api
+2	#DEP# api
+3	#DEP# bridg
+4	#DEP# eclips
+5	#DEP# plugin

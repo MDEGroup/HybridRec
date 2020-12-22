@@ -1,0 +1,6 @@
+1	/artifact/org.grails/grails-gorm
+2	#DEP# grail
+3	#DEP# orm
+4	#DEP# map
+5	#DEP# groovi
+6	#DEP# relat

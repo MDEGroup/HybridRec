@@ -1,0 +1,5 @@
+1	/artifact/fi.oulumo.lambda/lambda-base-dynamodb
+2	#DEP# lambda
+3	#DEP# dynamodb
+4	#DEP# databas
+5	#DEP# aw

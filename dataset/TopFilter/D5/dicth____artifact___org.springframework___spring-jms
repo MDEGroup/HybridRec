@@ -1,0 +1,6 @@
+1	/artifact/org.springframework/spring-jms
+2	#DEP# client
+3	#DEP# queue
+4	#DEP# spring
+5	#DEP# jm
+6	#DEP# messag

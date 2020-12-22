@@ -1,0 +1,5 @@
+1	/artifact/se.vgregion.daoframework/dao-framework-jpa
+2	#DEP# dao
+3	#DEP# persist
+4	#DEP# framework
+5	#DEP# jpa

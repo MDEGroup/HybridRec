@@ -1,0 +1,5 @@
+1	/artifact/io.zeebe.spring/spring-zeebe-broker-starter
+2	#DEP# starter
+3	#DEP# spring
+4	#DEP# broker
+5	#DEP# io

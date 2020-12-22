@@ -1,0 +1,5 @@
+1	/artifact/org.camunda.bpm.cycle/camunda-cycle
+2	#DEP# web
+3	#DEP# webapp
+4	#DEP# bpm
+5	#DEP# applic

@@ -1,0 +1,5 @@
+1	/artifact/org.jboss.narayana.jta/jdbc
+2	#DEP# sql
+3	#DEP# jboss
+4	#DEP# transact
+5	#DEP# jdbc

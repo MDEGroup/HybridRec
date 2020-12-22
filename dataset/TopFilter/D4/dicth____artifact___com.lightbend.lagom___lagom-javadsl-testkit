@@ -1,0 +1,5 @@
+1	/artifact/com.lightbend.lagom/lagom-javadsl-testkit
+2	#DEP# test
+3	#DEP# microservic
+4	#DEP# lightbend
+5	#DEP# dsl

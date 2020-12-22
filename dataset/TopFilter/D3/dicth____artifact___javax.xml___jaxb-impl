@@ -1,0 +1,6 @@
+1	/artifact/javax.xml/jaxb-impl
+2	#DEP# xml
+3	#DEP# javax
+4	#DEP# standard
+5	#DEP# spec
+6	#DEP# bind

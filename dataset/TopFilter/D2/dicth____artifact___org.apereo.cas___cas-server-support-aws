@@ -1,0 +1,5 @@
+1	/artifact/org.apereo.cas/cas-server-support-aws
+2	#DEP# support
+3	#DEP# amazon
+4	#DEP# aw
+5	#DEP# server

@@ -1,0 +1,6 @@
+1	/artifact/org.apache.directory.server/apacheds-protocol-dhcp
+2	#DEP# apach
+3	#DEP# network
+4	#DEP# protocol
+5	#DEP# directori
+6	#DEP# server

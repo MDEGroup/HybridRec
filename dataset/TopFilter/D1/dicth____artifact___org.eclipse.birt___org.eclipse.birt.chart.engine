@@ -1,0 +1,5 @@
+1	/artifact/org.eclipse.birt/org.eclipse.birt.chart.engine
+2	#DEP# visual
+3	#DEP# chart
+4	#DEP# engin
+5	#DEP# eclips

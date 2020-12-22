@@ -1,0 +1,5 @@
+1	/artifact/javax.jws/javax.jws-api
+2	#DEP# javax
+3	#DEP# api
+4	#DEP# spec
+5	#DEP# standard

@@ -1,0 +1,10 @@
+1	/artifact/com.typesafe.akka/akka-persistence-cassandra-launcher
+2	#DEP# persist
+3	#DEP# actor
+4	#DEP# typesaf
+5	#DEP# launcher
+6	#DEP# cassandra
+7	#DEP# distribut
+8	#DEP# concurr
+9	#DEP# akka
+10	#DEP# databas

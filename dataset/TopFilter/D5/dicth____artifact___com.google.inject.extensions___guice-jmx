@@ -1,0 +1,5 @@
+1	/artifact/com.google.inject.extensions/guice-jmx
+2	#DEP# jmx
+3	#DEP# extens
+4	#DEP# dependency-inject
+5	#DEP# googl

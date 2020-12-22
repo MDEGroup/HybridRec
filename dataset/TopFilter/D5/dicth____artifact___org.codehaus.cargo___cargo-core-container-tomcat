@@ -1,0 +1,6 @@
+1	/artifact/org.codehaus.cargo/cargo-core-container-tomcat
+2	#DEP# webserv
+3	#DEP# tomcat
+4	#DEP# contain
+5	#DEP# server
+6	#DEP# codehau

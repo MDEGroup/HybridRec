@@ -1,0 +1,5 @@
+1	/artifact/org.kie.soup/kie-soup-maven-support
+2	#DEP# support
+3	#DEP# build
+4	#DEP# maven
+5	#DEP# build-system

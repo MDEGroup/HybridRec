@@ -1,0 +1,5 @@
+1	/artifact/org.jfrog.buildinfo/build-info-extractor-gradle
+2	#DEP# gradl
+3	#DEP# build
+4	#DEP# build-system
+5	#DEP# groovi

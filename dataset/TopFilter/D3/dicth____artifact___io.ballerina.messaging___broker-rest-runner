@@ -1,0 +1,6 @@
+1	/artifact/io.ballerina.messaging/broker-rest-runner
+2	#DEP# runner
+3	#DEP# rest
+4	#DEP# io
+5	#DEP# broker
+6	#DEP# messag

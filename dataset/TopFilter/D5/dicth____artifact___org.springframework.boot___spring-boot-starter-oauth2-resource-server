@@ -1,0 +1,7 @@
+1	/artifact/org.springframework.boot/spring-boot-starter-oauth2-resource-server
+2	#DEP# resourc
+3	#DEP# oauth
+4	#DEP# spring
+5	#DEP# starter
+6	#DEP# authent
+7	#DEP# server

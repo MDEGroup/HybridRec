@@ -1,0 +1,6 @@
+1	/artifact/org.apache.camel.quarkus/camel-quarkus-support-xml-deployment
+2	#DEP# camel
+3	#DEP# deploy
+4	#DEP# apach
+5	#DEP# xml
+6	#DEP# support

@@ -1,0 +1,5 @@
+1	/artifact/io.fabric8/fabric-zookeeper
+2	#DEP# zookeep
+3	#DEP# distribut
+4	#DEP# io
+5	#DEP# coordin

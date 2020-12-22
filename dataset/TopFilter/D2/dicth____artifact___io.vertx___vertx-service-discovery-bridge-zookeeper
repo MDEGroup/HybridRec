@@ -1,0 +1,7 @@
+1	/artifact/io.vertx/vertx-service-discovery-bridge-zookeeper
+2	#DEP# io
+3	#DEP# zookeep
+4	#DEP# vertx
+5	#DEP# discoveri
+6	#DEP# servic
+7	#DEP# bridg

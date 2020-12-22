@@ -1,0 +1,5 @@
+1	/artifact/org.junit.platform/junit-platform-suite-api
+2	#DEP# junit
+3	#DEP# platform
+4	#DEP# test
+5	#DEP# api

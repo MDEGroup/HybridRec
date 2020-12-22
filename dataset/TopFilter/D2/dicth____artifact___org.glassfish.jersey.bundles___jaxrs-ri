@@ -1,0 +1,5 @@
+1	/artifact/org.glassfish.jersey.bundles/jaxrs-ri
+2	#DEP# webservic
+3	#DEP# bundl
+4	#DEP# jaxr
+5	#DEP# rest

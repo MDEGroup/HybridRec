@@ -1,0 +1,5 @@
+1	/artifact/software.amazon.awssdk/apache-client
+2	#DEP# apach
+3	#DEP# amazon
+4	#DEP# aw
+5	#DEP# client

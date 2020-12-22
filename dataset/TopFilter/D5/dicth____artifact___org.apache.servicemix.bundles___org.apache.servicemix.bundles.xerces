@@ -1,0 +1,5 @@
+1	/artifact/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xerces
+2	#DEP# parser
+3	#DEP# bundl
+4	#DEP# apach
+5	#DEP# esb

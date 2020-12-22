@@ -1,0 +1,9 @@
+1	/artifact/org.eclipse.jetty/jetty-maven-plugin
+2	#DEP# webserv
+3	#DEP# build
+4	#DEP# maven
+5	#DEP# jetti
+6	#DEP# plugin
+7	#DEP# eclips
+8	#DEP# server
+9	#DEP# build-system

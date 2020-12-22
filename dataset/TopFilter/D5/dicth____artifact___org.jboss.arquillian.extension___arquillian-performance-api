@@ -1,0 +1,5 @@
+1	/artifact/org.jboss.arquillian.extension/arquillian-performance-api
+2	#DEP# jboss
+3	#DEP# extens
+4	#DEP# perform
+5	#DEP# api

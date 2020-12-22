@@ -1,0 +1,7 @@
+1	/artifact/org.springframework.data/spring-data-mongodb
+2	#DEP# nosql
+3	#DEP# data
+4	#DEP# mongodb
+5	#DEP# spring
+6	#DEP# client
+7	#DEP# databas

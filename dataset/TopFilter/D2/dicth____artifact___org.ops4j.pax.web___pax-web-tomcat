@@ -1,0 +1,5 @@
+1	/artifact/org.ops4j.pax.web/pax-web-tomcat
+2	#DEP# tomcat
+3	#DEP# web
+4	#DEP# webserv
+5	#DEP# server

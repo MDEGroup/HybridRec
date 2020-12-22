@@ -1,0 +1,8 @@
+1	/artifact/org.jboss.dashboard-builder/dashboard-ui-core
+2	#DEP# web
+3	#DEP# dashboard
+4	#DEP# builder
+5	#DEP# webapp
+6	#DEP# jboss
+7	#DEP# ui
+8	#DEP# applic

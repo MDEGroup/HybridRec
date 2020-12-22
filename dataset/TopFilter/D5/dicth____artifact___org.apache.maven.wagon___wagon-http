@@ -1,0 +1,6 @@
+1	/artifact/org.apache.maven.wagon/wagon-http
+2	#DEP# apach
+3	#DEP# build
+4	#DEP# http
+5	#DEP# maven
+6	#DEP# build-system

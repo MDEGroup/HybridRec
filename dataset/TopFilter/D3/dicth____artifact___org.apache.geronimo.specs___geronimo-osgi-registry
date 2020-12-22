@@ -1,0 +1,5 @@
+1	/artifact/org.apache.geronimo.specs/geronimo-osgi-registry
+2	#DEP# spec
+3	#DEP# osgi
+4	#DEP# registri
+5	#DEP# apach

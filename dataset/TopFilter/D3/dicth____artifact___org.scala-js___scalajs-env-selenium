@@ -1,0 +1,5 @@
+1	/artifact/org.scala-js/scalajs-env-selenium
+2	#DEP# selenium
+3	#DEP# scalaj
+4	#DEP# scala
+5	#DEP# test

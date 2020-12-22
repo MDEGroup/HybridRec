@@ -1,0 +1,6 @@
+1	/artifact/org.apache.spark/spark-graphx
+2	#DEP# spark
+3	#DEP# apach
+4	#DEP# nosql
+5	#DEP# databas
+6	#DEP# graph

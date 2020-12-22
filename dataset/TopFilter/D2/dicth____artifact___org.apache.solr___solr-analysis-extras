@@ -1,0 +1,5 @@
+1	/artifact/org.apache.solr/solr-analysis-extras
+2	#DEP# solr
+3	#DEP# apach
+4	#DEP# analysi
+5	#DEP# search

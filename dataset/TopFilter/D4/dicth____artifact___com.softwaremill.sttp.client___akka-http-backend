@@ -1,0 +1,7 @@
+1	/artifact/com.softwaremill.sttp.client/akka-http-backend
+2	#DEP# http
+3	#DEP# concurr
+4	#DEP# akka
+5	#DEP# distribut
+6	#DEP# actor
+7	#DEP# client

@@ -1,0 +1,6 @@
+1	/artifact/org.camunda.bpm.webapp/camunda-webapp-jboss
+2	#DEP# applic
+3	#DEP# web
+4	#DEP# jboss
+5	#DEP# webapp
+6	#DEP# bpm

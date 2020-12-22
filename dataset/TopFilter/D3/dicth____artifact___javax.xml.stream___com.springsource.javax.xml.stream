@@ -1,0 +1,7 @@
+1	/artifact/javax.xml.stream/com.springsource.javax.xml.stream
+2	#DEP# xml
+3	#DEP# standard
+4	#DEP# javax
+5	#DEP# spec
+6	#DEP# stream
+7	#DEP# spring

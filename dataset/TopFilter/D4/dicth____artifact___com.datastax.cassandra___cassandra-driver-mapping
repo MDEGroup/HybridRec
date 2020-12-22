@@ -1,0 +1,6 @@
+1	/artifact/com.datastax.cassandra/cassandra-driver-mapping
+2	#DEP# cassandra
+3	#DEP# map
+4	#DEP# databas
+5	#DEP# driver
+6	#DEP# client

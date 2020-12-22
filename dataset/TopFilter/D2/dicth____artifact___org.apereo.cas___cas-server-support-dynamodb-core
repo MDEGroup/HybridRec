@@ -1,0 +1,6 @@
+1	/artifact/org.apereo.cas/cas-server-support-dynamodb-core
+2	#DEP# dynamodb
+3	#DEP# server
+4	#DEP# aw
+5	#DEP# databas
+6	#DEP# support

@@ -1,0 +1,8 @@
+1	/artifact/gradle.plugin.com.atlassian.performance.tools/gradle-release
+2	#DEP# groovi
+3	#DEP# build-system
+4	#DEP# perform
+5	#DEP# gradl
+6	#DEP# tool
+7	#DEP# build
+8	#DEP# plugin

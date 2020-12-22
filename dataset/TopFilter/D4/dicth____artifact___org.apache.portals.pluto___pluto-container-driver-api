@@ -1,0 +1,6 @@
+1	/artifact/org.apache.portals.pluto/pluto-container-driver-api
+2	#DEP# apach
+3	#DEP# contain
+4	#DEP# portal
+5	#DEP# api
+6	#DEP# driver

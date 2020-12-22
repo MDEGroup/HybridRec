@@ -1,0 +1,5 @@
+1	/artifact/net.databinder/unfiltered-netty-server
+2	#DEP# netti
+3	#DEP# socket
+4	#DEP# network
+5	#DEP# server

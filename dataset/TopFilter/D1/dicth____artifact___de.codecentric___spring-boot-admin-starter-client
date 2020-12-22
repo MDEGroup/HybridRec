@@ -1,0 +1,5 @@
+1	/artifact/de.codecentric/spring-boot-admin-starter-client
+2	#DEP# admin
+3	#DEP# client
+4	#DEP# starter
+5	#DEP# spring

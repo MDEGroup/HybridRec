@@ -1,0 +1,5 @@
+1	/artifact/org.slf4j/osgi-over-slf4j
+2	#DEP# bridg
+3	#DEP# log
+4	#DEP# slf4j
+5	#DEP# osgi

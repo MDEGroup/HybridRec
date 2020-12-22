@@ -1,0 +1,7 @@
+1	/artifact/org.overlord/overlord-commons-idp-tomcat7
+2	#DEP# web
+3	#DEP# server
+4	#DEP# webapp
+5	#DEP# tomcat
+6	#DEP# applic
+7	#DEP# webserv

@@ -1,0 +1,5 @@
+1	/artifact/com.android.support.test/runner
+2	#DEP# support
+3	#DEP# android
+4	#DEP# runner
+5	#DEP# test

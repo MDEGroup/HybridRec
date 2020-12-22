@@ -1,0 +1,8 @@
+1	/artifact/javax.servlet.jsp.jstl/jstl-api
+2	#DEP# taglib
+3	#DEP# spec
+4	#DEP# jsp
+5	#DEP# api
+6	#DEP# javax
+7	#DEP# servlet
+8	#DEP# standard

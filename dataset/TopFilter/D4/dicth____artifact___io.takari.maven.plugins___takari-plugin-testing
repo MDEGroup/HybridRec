@@ -1,0 +1,7 @@
+1	/artifact/io.takari.maven.plugins/takari-plugin-testing
+2	#DEP# build
+3	#DEP# maven
+4	#DEP# test
+5	#DEP# build-system
+6	#DEP# plugin
+7	#DEP# io

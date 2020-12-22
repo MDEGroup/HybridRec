@@ -1,0 +1,6 @@
+1	/artifact/com.twitter/finagle-core
+2	#DEP# commun
+3	#DEP# distribut
+4	#DEP# remot
+5	#DEP# twitter
+6	#DEP# finagl

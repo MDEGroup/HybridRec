@@ -1,0 +1,6 @@
+1	/artifact/org.apache.geronimo.specs.wso2/geronimo-stax-api_1.0_spec
+2	#DEP# apach
+3	#DEP# spec
+4	#DEP# xml
+5	#DEP# stream
+6	#DEP# api

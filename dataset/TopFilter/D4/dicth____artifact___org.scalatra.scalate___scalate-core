@@ -1,0 +1,5 @@
+1	/artifact/org.scalatra.scalate/scalate-core
+2	#DEP# scala
+3	#DEP# templat
+4	#DEP# engin
+5	#DEP# web-framework

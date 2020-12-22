@@ -1,0 +1,5 @@
+1	/artifact/org.eclipse.jgit/org.eclipse.jgit
+2	#DEP# scm
+3	#DEP# version-control
+4	#DEP# git
+5	#DEP# eclips

@@ -1,0 +1,5 @@
+1	/artifact/batik/batik-swing
+2	#DEP# graphic
+3	#DEP# svg
+4	#DEP# swing
+5	#DEP# ui

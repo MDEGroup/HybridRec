@@ -1,0 +1,5 @@
+1	/artifact/org.apache.parquet/parquet-common
+2	#DEP# parquet
+3	#DEP# serial
+4	#DEP# apach
+5	#DEP# column

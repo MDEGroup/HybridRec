@@ -1,0 +1,5 @@
+1	/artifact/ru.finam/slf4j-gwt
+2	#DEP# slf4j
+3	#DEP# log
+4	#DEP# gwt
+5	#DEP# ui

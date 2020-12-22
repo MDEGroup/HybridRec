@@ -1,0 +1,6 @@
+1	/artifact/org.apache.maven.shared/maven-filtering
+2	#DEP# build
+3	#DEP# maven
+4	#DEP# filter
+5	#DEP# build-system
+6	#DEP# apach

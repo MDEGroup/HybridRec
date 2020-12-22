@@ -1,0 +1,5 @@
+1	/artifact/org.apache.kafka/connect-runtime
+2	#DEP# runtim
+3	#DEP# stream
+4	#DEP# kafka
+5	#DEP# apach

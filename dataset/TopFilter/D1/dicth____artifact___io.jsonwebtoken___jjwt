@@ -1,0 +1,5 @@
+1	/artifact/io.jsonwebtoken/jjwt
+2	#DEP# secur
+3	#DEP# io
+4	#DEP# json
+5	#DEP# jwt

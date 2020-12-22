@@ -1,0 +1,7 @@
+1	/artifact/org.jboss.errai.io.netty/netty-transport
+2	#DEP# transport
+3	#DEP# io
+4	#DEP# netti
+5	#DEP# socket
+6	#DEP# jboss
+7	#DEP# network

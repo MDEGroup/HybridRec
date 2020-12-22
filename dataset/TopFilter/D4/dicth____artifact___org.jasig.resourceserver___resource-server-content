@@ -1,0 +1,6 @@
+1	/artifact/org.jasig.resourceserver/resource-server-content
+2	#DEP# web
+3	#DEP# webapp
+4	#DEP# applic
+5	#DEP# server
+6	#DEP# resourc

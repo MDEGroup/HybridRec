@@ -1,0 +1,7 @@
+1	/artifact/com.typesafe.akka/akka-osgi
+2	#DEP# osgi
+3	#DEP# distribut
+4	#DEP# concurr
+5	#DEP# actor
+6	#DEP# akka
+7	#DEP# typesaf

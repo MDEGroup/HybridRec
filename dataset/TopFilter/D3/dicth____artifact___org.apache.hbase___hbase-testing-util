@@ -1,0 +1,6 @@
+1	/artifact/org.apache.hbase/hbase-testing-util
+2	#DEP# hbase
+3	#DEP# hadoop
+4	#DEP# apach
+5	#DEP# test
+6	#DEP# databas

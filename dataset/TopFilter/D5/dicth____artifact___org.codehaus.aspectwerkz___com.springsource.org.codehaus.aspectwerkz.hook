@@ -1,0 +1,5 @@
+1	/artifact/org.codehaus.aspectwerkz/com.springsource.org.codehaus.aspectwerkz.hook
+2	#DEP# aop
+3	#DEP# aspect
+4	#DEP# spring
+5	#DEP# codehau

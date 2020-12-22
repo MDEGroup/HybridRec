@@ -1,0 +1,7 @@
+1	/artifact/com.typesafe.akka/akka-http-caching
+2	#DEP# http
+3	#DEP# concurr
+4	#DEP# akka
+5	#DEP# distribut
+6	#DEP# typesaf
+7	#DEP# actor

@@ -1,0 +1,8 @@
+1	/artifact/io.joynr.java.backend-services/domain-access-controller-servlet
+2	#DEP# web
+3	#DEP# webapp
+4	#DEP# control
+5	#DEP# servic
+6	#DEP# applic
+7	#DEP# servlet
+8	#DEP# io

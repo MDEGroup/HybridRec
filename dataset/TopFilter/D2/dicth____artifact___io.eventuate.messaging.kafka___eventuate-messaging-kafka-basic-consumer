@@ -1,0 +1,6 @@
+1	/artifact/io.eventuate.messaging.kafka/eventuate-messaging-kafka-basic-consumer
+2	#DEP# messag
+3	#DEP# io
+4	#DEP# stream
+5	#DEP# consum
+6	#DEP# kafka

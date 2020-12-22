@@ -1,0 +1,5 @@
+1	/artifact/org.apache.felix/org.apache.felix.http.api
+2	#DEP# osgi
+3	#DEP# apach
+4	#DEP# http
+5	#DEP# api

@@ -1,0 +1,7 @@
+1	/artifact/org.atmosphere.samples/atmosphere-jersey-pubsub
+2	#DEP# web
+3	#DEP# webapp
+4	#DEP# messag
+5	#DEP# webservic
+6	#DEP# applic
+7	#DEP# exampl

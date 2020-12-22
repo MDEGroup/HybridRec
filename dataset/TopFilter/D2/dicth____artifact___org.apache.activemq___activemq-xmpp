@@ -1,0 +1,6 @@
+1	/artifact/org.apache.activemq/activemq-xmpp
+2	#DEP# messag
+3	#DEP# queue
+4	#DEP# jm
+5	#DEP# apach
+6	#DEP# xmpp

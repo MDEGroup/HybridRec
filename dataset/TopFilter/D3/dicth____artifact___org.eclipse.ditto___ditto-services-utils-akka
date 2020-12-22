@@ -1,0 +1,7 @@
+1	/artifact/org.eclipse.ditto/ditto-services-utils-akka
+2	#DEP# actor
+3	#DEP# distribut
+4	#DEP# concurr
+5	#DEP# servic
+6	#DEP# akka
+7	#DEP# eclips

@@ -1,0 +1,5 @@
+1	/artifact/org.tranql/tranql-connector-mysql-local
+2	#DEP# languag
+3	#DEP# databas
+4	#DEP# mysql
+5	#DEP# connector

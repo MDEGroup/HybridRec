@@ -1,0 +1,5 @@
+1	/artifact/org.mobicents.protocols.ss7.management/shell-transport
+2	#DEP# shell
+3	#DEP# protocol
+4	#DEP# transport
+5	#DEP# manag

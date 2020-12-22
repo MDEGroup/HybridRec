@@ -1,0 +1,5 @@
+1	/artifact/javax.xml/jsr173
+2	#DEP# xml
+3	#DEP# javax
+4	#DEP# spec
+5	#DEP# standard

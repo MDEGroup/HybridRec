@@ -1,0 +1,5 @@
+1	/artifact/org.apache.camel/camel-jaxb
+2	#DEP# bind
+3	#DEP# apach
+4	#DEP# xml
+5	#DEP# camel

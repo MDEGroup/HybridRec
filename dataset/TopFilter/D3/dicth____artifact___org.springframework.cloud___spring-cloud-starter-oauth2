@@ -1,0 +1,6 @@
+1	/artifact/org.springframework.cloud/spring-cloud-starter-oauth2
+2	#DEP# authent
+3	#DEP# starter
+4	#DEP# cloud
+5	#DEP# oauth
+6	#DEP# spring

@@ -1,0 +1,5 @@
+1	/artifact/org.vaadin.addons/gwt-graphics
+2	#DEP# ui
+3	#DEP# graphic
+4	#DEP# web-framework
+5	#DEP# gwt

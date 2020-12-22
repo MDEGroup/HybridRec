@@ -1,0 +1,5 @@
+1	/artifact/com.lightbend.lagom/lagom-server-containers
+2	#DEP# lightbend
+3	#DEP# microservic
+4	#DEP# server
+5	#DEP# contain

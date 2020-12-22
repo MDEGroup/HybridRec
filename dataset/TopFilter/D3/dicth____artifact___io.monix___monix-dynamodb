@@ -1,0 +1,5 @@
+1	/artifact/io.monix/monix-dynamodb
+2	#DEP# io
+3	#DEP# dynamodb
+4	#DEP# databas
+5	#DEP# aw

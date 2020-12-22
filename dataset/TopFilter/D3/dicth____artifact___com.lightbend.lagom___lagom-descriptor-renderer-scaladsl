@@ -1,0 +1,6 @@
+1	/artifact/com.lightbend.lagom/lagom-descriptor-renderer-scaladsl
+2	#DEP# dsl
+3	#DEP# descriptor
+4	#DEP# lightbend
+5	#DEP# render
+6	#DEP# microservic

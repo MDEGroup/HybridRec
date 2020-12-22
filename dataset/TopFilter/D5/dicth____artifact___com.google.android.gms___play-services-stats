@@ -1,0 +1,5 @@
+1	/artifact/com.google.android.gms/play-services-stats
+2	#DEP# android
+3	#DEP# stat
+4	#DEP# servic
+5	#DEP# googl

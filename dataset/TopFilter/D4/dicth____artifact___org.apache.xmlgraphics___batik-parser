@@ -1,0 +1,5 @@
+1	/artifact/org.apache.xmlgraphics/batik-parser
+2	#DEP# apach
+3	#DEP# parser
+4	#DEP# svg
+5	#DEP# graphic

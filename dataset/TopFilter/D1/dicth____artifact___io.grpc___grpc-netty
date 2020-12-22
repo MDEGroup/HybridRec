@@ -1,0 +1,8 @@
+1	/artifact/io.grpc/grpc-netty
+2	#DEP# rpc
+3	#DEP# socket
+4	#DEP# netti
+5	#DEP# protocol
+6	#DEP# network
+7	#DEP# grpc
+8	#DEP# io

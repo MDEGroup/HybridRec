@@ -1,0 +1,6 @@
+1	/artifact/io.vertx/vertx-jdbc-client
+2	#DEP# sql
+3	#DEP# vertx
+4	#DEP# client
+5	#DEP# jdbc
+6	#DEP# io

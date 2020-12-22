@@ -1,0 +1,5 @@
+1	/artifact/org.apache.activemq/apollo-web
+2	#DEP# web
+3	#DEP# jm
+4	#DEP# apach
+5	#DEP# queue

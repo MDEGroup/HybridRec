@@ -1,0 +1,5 @@
+1	/artifact/org.apache.sling/org.apache.sling.testing.osgi-mock
+2	#DEP# test
+3	#DEP# apach
+4	#DEP# osgi
+5	#DEP# mock

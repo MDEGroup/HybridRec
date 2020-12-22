@@ -1,0 +1,7 @@
+1	/artifact/io.vertx/vertx-service-discovery-bridge-docker
+2	#DEP# io
+3	#DEP# vertx
+4	#DEP# docker
+5	#DEP# discoveri
+6	#DEP# servic
+7	#DEP# bridg

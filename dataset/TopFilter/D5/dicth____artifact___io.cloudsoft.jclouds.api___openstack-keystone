@@ -1,0 +1,5 @@
+1	/artifact/io.cloudsoft.jclouds.api/openstack-keystone
+2	#DEP# openstack
+3	#DEP# io
+4	#DEP# cloud
+5	#DEP# api

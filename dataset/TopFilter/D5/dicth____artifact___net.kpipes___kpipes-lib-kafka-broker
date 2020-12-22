@@ -1,0 +1,5 @@
+1	/artifact/net.kpipes/kpipes-lib-kafka-broker
+2	#DEP# librari
+3	#DEP# broker
+4	#DEP# stream
+5	#DEP# kafka

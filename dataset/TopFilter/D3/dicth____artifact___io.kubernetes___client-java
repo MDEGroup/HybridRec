@@ -1,0 +1,5 @@
+1	/artifact/io.kubernetes/client-java
+2	#DEP# io
+3	#DEP# client
+4	#DEP# kubernet
+5	#DEP# contain

@@ -1,0 +1,6 @@
+1	/artifact/org.apache.activemq/artemis-mqtt-protocol
+2	#DEP# queue
+3	#DEP# jm
+4	#DEP# apach
+5	#DEP# protocol
+6	#DEP# mqtt

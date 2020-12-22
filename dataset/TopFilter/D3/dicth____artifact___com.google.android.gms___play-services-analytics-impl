@@ -1,0 +1,5 @@
+1	/artifact/com.google.android.gms/play-services-analytics-impl
+2	#DEP# googl
+3	#DEP# android
+4	#DEP# analyt
+5	#DEP# servic

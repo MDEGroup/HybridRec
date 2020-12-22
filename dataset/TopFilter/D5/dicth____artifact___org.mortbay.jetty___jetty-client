@@ -1,0 +1,6 @@
+1	/artifact/org.mortbay.jetty/jetty-client
+2	#DEP# client
+3	#DEP# webserv
+4	#DEP# http
+5	#DEP# jetti
+6	#DEP# server

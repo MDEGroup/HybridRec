@@ -1,0 +1,5 @@
+1	/artifact/tomcat/jasper-compiler
+2	#DEP# compil
+3	#DEP# server
+4	#DEP# webserv
+5	#DEP# tomcat

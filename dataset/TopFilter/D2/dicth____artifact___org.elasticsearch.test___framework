@@ -1,0 +1,6 @@
+1	/artifact/org.elasticsearch.test/framework
+2	#DEP# framework
+3	#DEP# elasticsearch
+4	#DEP# elast
+5	#DEP# search
+6	#DEP# test

@@ -1,0 +1,5 @@
+1	/artifact/com.github.tototoshi/scala-csv
+2	#DEP# scala
+3	#DEP# csv
+4	#DEP# tabular
+5	#DEP# github

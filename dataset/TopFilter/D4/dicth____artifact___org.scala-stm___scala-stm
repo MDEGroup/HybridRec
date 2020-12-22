@@ -1,0 +1,5 @@
+1	/artifact/org.scala-stm/scala-stm
+2	#DEP# scala
+3	#DEP# memori
+4	#DEP# transact
+5	#DEP# stm

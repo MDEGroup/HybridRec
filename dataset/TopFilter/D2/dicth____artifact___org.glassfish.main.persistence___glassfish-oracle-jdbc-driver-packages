@@ -1,0 +1,5 @@
+1	/artifact/org.glassfish.main.persistence/glassfish-oracle-jdbc-driver-packages
+2	#DEP# driver
+3	#DEP# sql
+4	#DEP# persist
+5	#DEP# jdbc

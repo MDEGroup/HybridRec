@@ -1,0 +1,5 @@
+1	/artifact/org.locationtech.geowave/geowave-datastore-dynamodb
+2	#DEP# aw
+3	#DEP# databas
+4	#DEP# persist
+5	#DEP# dynamodb

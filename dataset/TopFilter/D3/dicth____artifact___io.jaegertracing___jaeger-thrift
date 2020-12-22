@@ -1,0 +1,5 @@
+1	/artifact/io.jaegertracing/jaeger-thrift
+2	#DEP# io
+3	#DEP# protocol
+4	#DEP# thrift
+5	#DEP# serial

@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.cloud/spring-cloud-open-service-broker-core
+2	#DEP# servic
+3	#DEP# broker
+4	#DEP# spring
+5	#DEP# cloud

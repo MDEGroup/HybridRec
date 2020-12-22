@@ -1,0 +1,6 @@
+1	/artifact/io.grpc/grpc-auth
+2	#DEP# authent
+3	#DEP# io
+4	#DEP# protocol
+5	#DEP# rpc
+6	#DEP# grpc

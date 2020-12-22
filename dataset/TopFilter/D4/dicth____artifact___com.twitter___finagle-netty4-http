@@ -1,0 +1,7 @@
+1	/artifact/com.twitter/finagle-netty4-http
+2	#DEP# http
+3	#DEP# netti
+4	#DEP# socket
+5	#DEP# twitter
+6	#DEP# finagl
+7	#DEP# network

@@ -1,0 +1,6 @@
+1	/artifact/org.eclipse.ditto/ditto-signals-events-amqp-bridge
+2	#DEP# queue
+3	#DEP# bridg
+4	#DEP# eclips
+5	#DEP# event
+6	#DEP# amqp

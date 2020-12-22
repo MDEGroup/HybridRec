@@ -1,0 +1,5 @@
+1	/artifact/org.sonatype.plugins/nexus-staging-maven-plugin
+2	#DEP# build-system
+3	#DEP# build
+4	#DEP# maven
+5	#DEP# plugin

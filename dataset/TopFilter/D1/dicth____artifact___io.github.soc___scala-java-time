@@ -1,0 +1,5 @@
+1	/artifact/io.github.soc/scala-java-time
+2	#DEP# time
+3	#DEP# github
+4	#DEP# io
+5	#DEP# scala

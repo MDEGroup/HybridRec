@@ -1,0 +1,6 @@
+1	/artifact/javax.sql/jdbc-stdext
+2	#DEP# javax
+3	#DEP# spec
+4	#DEP# sql
+5	#DEP# standard
+6	#DEP# jdbc

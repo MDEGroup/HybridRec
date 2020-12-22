@@ -1,0 +1,7 @@
+1	/artifact/com.typesafe.akka/akka-cluster
+2	#DEP# actor
+3	#DEP# typesaf
+4	#DEP# cluster
+5	#DEP# distribut
+6	#DEP# concurr
+7	#DEP# akka

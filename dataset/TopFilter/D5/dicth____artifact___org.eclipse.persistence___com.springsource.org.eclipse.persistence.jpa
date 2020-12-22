@@ -1,0 +1,5 @@
+1	/artifact/org.eclipse.persistence/com.springsource.org.eclipse.persistence.jpa
+2	#DEP# eclips
+3	#DEP# persist
+4	#DEP# spring
+5	#DEP# jpa

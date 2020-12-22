@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.cloud/spring-cloud-stream-binder-test
+2	#DEP# spring
+3	#DEP# cloud
+4	#DEP# test
+5	#DEP# stream

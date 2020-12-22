@@ -1,0 +1,6 @@
+1	/artifact/javax.transaction/transaction-api
+2	#DEP# standard
+3	#DEP# api
+4	#DEP# spec
+5	#DEP# javax
+6	#DEP# transact

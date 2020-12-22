@@ -1,0 +1,5 @@
+1	/artifact/javax.media/jai_codec
+2	#DEP# javax
+3	#DEP# codec
+4	#DEP# spec
+5	#DEP# standard

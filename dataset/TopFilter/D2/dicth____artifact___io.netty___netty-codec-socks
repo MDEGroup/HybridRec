@@ -1,0 +1,6 @@
+1	/artifact/io.netty/netty-codec-socks
+2	#DEP# io
+3	#DEP# netti
+4	#DEP# socket
+5	#DEP# codec
+6	#DEP# network

@@ -1,0 +1,5 @@
+1	/artifact/info.sunng/ring-jetty9-adapter
+2	#DEP# server
+3	#DEP# clojur
+4	#DEP# webserv
+5	#DEP# jetti

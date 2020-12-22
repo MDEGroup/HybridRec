@@ -1,0 +1,6 @@
+1	/artifact/org.jenkins-ci.plugins/apache-httpcomponents-client-4-api
+2	#DEP# apach
+3	#DEP# client
+4	#DEP# jenkin
+5	#DEP# api
+6	#DEP# plugin

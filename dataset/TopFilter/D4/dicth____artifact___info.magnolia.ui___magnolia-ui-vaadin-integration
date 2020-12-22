@@ -1,0 +1,5 @@
+1	/artifact/info.magnolia.ui/magnolia-ui-vaadin-integration
+2	#DEP# ui
+3	#DEP# gwt
+4	#DEP# web-framework
+5	#DEP# integr

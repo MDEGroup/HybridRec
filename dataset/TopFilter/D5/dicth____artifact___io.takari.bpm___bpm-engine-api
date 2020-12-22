@@ -1,0 +1,5 @@
+1	/artifact/io.takari.bpm/bpm-engine-api
+2	#DEP# io
+3	#DEP# engin
+4	#DEP# bpm
+5	#DEP# api

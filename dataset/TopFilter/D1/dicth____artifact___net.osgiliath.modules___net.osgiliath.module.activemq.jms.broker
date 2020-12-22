@@ -1,0 +1,5 @@
+1	/artifact/net.osgiliath.modules/net.osgiliath.module.activemq.jms.broker
+2	#DEP# modul
+3	#DEP# queue
+4	#DEP# jm
+5	#DEP# broker

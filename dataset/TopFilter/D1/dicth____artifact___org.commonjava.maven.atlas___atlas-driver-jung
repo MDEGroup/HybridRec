@@ -1,0 +1,5 @@
+1	/artifact/org.commonjava.maven.atlas/atlas-driver-jung
+2	#DEP# build-system
+3	#DEP# driver
+4	#DEP# maven
+5	#DEP# build

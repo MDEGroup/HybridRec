@@ -1,0 +1,7 @@
+1	/artifact/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-jms
+2	#DEP# bundl
+3	#DEP# apach
+4	#DEP# spring
+5	#DEP# jm
+6	#DEP# queue
+7	#DEP# esb

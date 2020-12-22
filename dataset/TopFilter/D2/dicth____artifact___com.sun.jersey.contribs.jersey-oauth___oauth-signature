@@ -1,0 +1,5 @@
+1	/artifact/com.sun.jersey.contribs.jersey-oauth/oauth-signature
+2	#DEP# webservic
+3	#DEP# oauth
+4	#DEP# sign
+5	#DEP# authent

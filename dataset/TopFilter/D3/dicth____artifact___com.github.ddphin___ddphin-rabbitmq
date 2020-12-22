@@ -1,0 +1,5 @@
+1	/artifact/com.github.ddphin/ddphin-rabbitmq
+2	#DEP# queue
+3	#DEP# github
+4	#DEP# amqp
+5	#DEP# rabbitmq

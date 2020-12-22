@@ -1,0 +1,5 @@
+1	/artifact/org.neo4j/neo4j-cluster
+2	#DEP# databas
+3	#DEP# graph
+4	#DEP# cluster
+5	#DEP# neo4j

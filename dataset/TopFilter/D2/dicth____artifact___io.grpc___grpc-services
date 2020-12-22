@@ -1,0 +1,6 @@
+1	/artifact/io.grpc/grpc-services
+2	#DEP# io
+3	#DEP# grpc
+4	#DEP# servic
+5	#DEP# protocol
+6	#DEP# rpc

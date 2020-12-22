@@ -1,0 +1,5 @@
+1	/artifact/org.apache.hadoop/hadoop-yarn-client
+2	#DEP# client
+3	#DEP# hadoop
+4	#DEP# apach
+5	#DEP# yarn

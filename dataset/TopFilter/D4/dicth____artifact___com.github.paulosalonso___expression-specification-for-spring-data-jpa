@@ -1,0 +1,7 @@
+1	/artifact/com.github.paulosalonso/expression-specification-for-spring-data-jpa
+2	#DEP# github
+3	#DEP# spring
+4	#DEP# persist
+5	#DEP# jpa
+6	#DEP# express
+7	#DEP# data

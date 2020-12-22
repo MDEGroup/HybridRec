@@ -1,0 +1,7 @@
+1	/artifact/javax.management.j2ee/management-api
+2	#DEP# standard
+3	#DEP# javax
+4	#DEP# api
+5	#DEP# jmx
+6	#DEP# manag
+7	#DEP# spec

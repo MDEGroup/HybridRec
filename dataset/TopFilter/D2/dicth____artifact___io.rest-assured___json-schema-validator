@@ -1,0 +1,6 @@
+1	/artifact/io.rest-assured/json-schema-validator
+2	#DEP# io
+3	#DEP# rest
+4	#DEP# schema
+5	#DEP# valid
+6	#DEP# json

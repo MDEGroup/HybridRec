@@ -1,0 +1,5 @@
+1	/artifact/org.netbeans.api/org-netbeans-api-annotations-common
+2	#DEP# ide
+3	#DEP# annot
+4	#DEP# api
+5	#DEP# netbean

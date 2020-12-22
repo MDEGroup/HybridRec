@@ -1,0 +1,6 @@
+1	/artifact/org.eclipse.jetty/jetty-security
+2	#DEP# webserv
+3	#DEP# secur
+4	#DEP# jetti
+5	#DEP# server
+6	#DEP# eclips

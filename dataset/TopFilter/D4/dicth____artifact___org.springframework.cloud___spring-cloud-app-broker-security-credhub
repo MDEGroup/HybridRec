@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.cloud/spring-cloud-app-broker-security-credhub
+2	#DEP# secur
+3	#DEP# cloud
+4	#DEP# broker
+5	#DEP# spring

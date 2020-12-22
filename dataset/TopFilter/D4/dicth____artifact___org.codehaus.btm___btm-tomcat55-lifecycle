@@ -1,0 +1,5 @@
+1	/artifact/org.codehaus.btm/btm-tomcat55-lifecycle
+2	#DEP# codehau
+3	#DEP# webserv
+4	#DEP# server
+5	#DEP# tomcat

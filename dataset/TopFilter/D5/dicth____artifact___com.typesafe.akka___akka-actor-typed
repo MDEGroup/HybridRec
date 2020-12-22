@@ -1,0 +1,6 @@
+1	/artifact/com.typesafe.akka/akka-actor-typed
+2	#DEP# distribut
+3	#DEP# actor
+4	#DEP# concurr
+5	#DEP# typesaf
+6	#DEP# akka

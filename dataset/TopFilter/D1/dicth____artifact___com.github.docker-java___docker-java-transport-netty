@@ -1,0 +1,7 @@
+1	/artifact/com.github.docker-java/docker-java-transport-netty
+2	#DEP# docker
+3	#DEP# github
+4	#DEP# socket
+5	#DEP# netti
+6	#DEP# network
+7	#DEP# transport

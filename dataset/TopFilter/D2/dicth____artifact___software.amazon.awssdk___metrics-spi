@@ -1,0 +1,5 @@
+1	/artifact/software.amazon.awssdk/metrics-spi
+2	#DEP# amazon
+3	#DEP# interfac
+4	#DEP# aw
+5	#DEP# metric

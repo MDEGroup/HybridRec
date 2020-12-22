@@ -1,0 +1,5 @@
+1	/artifact/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.template.mgt
+2	#DEP# templat
+3	#DEP# manag
+4	#DEP# ident
+5	#DEP# framework

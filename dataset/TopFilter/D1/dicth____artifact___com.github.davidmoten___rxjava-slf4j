@@ -1,0 +1,5 @@
+1	/artifact/com.github.davidmoten/rxjava-slf4j
+2	#DEP# reactiv
+3	#DEP# github
+4	#DEP# log
+5	#DEP# slf4j

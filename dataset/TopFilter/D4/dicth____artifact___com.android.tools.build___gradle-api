@@ -1,0 +1,8 @@
+1	/artifact/com.android.tools.build/gradle-api
+2	#DEP# gradl
+3	#DEP# android
+4	#DEP# build
+5	#DEP# tool
+6	#DEP# groovi
+7	#DEP# build-system
+8	#DEP# api

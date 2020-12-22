@@ -1,0 +1,7 @@
+1	/artifact/javax.xml.parsers/jaxp-api
+2	#DEP# xml
+3	#DEP# standard
+4	#DEP# javax
+5	#DEP# api
+6	#DEP# spec
+7	#DEP# parser

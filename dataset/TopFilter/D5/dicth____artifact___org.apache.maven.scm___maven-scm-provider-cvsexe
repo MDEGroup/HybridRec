@@ -1,0 +1,7 @@
+1	/artifact/org.apache.maven.scm/maven-scm-provider-cvsexe
+2	#DEP# apach
+3	#DEP# build
+4	#DEP# maven
+5	#DEP# scm
+6	#DEP# provid
+7	#DEP# build-system

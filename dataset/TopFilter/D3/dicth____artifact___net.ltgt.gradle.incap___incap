@@ -1,0 +1,5 @@
+1	/artifact/net.ltgt.gradle.incap/incap
+2	#DEP# build-system
+3	#DEP# gradl
+4	#DEP# groovi
+5	#DEP# build

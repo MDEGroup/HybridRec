@@ -1,0 +1,6 @@
+1	/artifact/org.eclipse.jetty.orbit/javax.mail.glassfish
+2	#DEP# server
+3	#DEP# eclips
+4	#DEP# jetti
+5	#DEP# mail
+6	#DEP# webserv

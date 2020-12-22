@@ -1,0 +1,5 @@
+1	/artifact/org.apache.geronimo.configs/activemq-broker-blueprint
+2	#DEP# jm
+3	#DEP# broker
+4	#DEP# apach
+5	#DEP# queue

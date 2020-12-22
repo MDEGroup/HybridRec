@@ -1,0 +1,5 @@
+1	/artifact/org.apache.commons/com.springsource.org.apache.commons.collections
+2	#DEP# spring
+3	#DEP# common
+4	#DEP# apach
+5	#DEP# collect

@@ -1,0 +1,6 @@
+1	/artifact/com.lightbend.lagom/lagom-descriptor-generator-api
+2	#DEP# microservic
+3	#DEP# gener
+4	#DEP# lightbend
+5	#DEP# api
+6	#DEP# descriptor

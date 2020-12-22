@@ -1,0 +1,5 @@
+1	/artifact/io.apiman/apiman-gateway-engine-core
+2	#DEP# io
+3	#DEP# engin
+4	#DEP# gateway
+5	#DEP# api

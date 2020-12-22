@@ -1,0 +1,5 @@
+1	/artifact/org.jboss.errai/errai-jpa-client
+2	#DEP# jboss
+3	#DEP# client
+4	#DEP# persist
+5	#DEP# jpa

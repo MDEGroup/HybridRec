@@ -1,0 +1,5 @@
+1	/artifact/org.netbeans.api/org-netbeans-spi-viewmodel
+2	#DEP# api
+3	#DEP# netbean
+4	#DEP# ide
+5	#DEP# interfac

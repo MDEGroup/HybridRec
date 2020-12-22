@@ -1,0 +1,6 @@
+1	/artifact/javax.mvc/javax.mvc-api
+2	#DEP# javax
+3	#DEP# mvc
+4	#DEP# spec
+5	#DEP# api
+6	#DEP# standard

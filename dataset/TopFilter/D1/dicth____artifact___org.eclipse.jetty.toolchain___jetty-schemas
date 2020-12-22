@@ -1,0 +1,6 @@
+1	/artifact/org.eclipse.jetty.toolchain/jetty-schemas
+2	#DEP# eclips
+3	#DEP# server
+4	#DEP# jetti
+5	#DEP# schema
+6	#DEP# webserv

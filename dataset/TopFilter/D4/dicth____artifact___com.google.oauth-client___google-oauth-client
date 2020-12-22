@@ -1,0 +1,5 @@
+1	/artifact/com.google.oauth-client/google-oauth-client
+2	#DEP# oauth
+3	#DEP# authent
+4	#DEP# client
+5	#DEP# googl

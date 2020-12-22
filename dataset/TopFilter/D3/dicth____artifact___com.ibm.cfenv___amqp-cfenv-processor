@@ -1,0 +1,5 @@
+1	/artifact/com.ibm.cfenv/amqp-cfenv-processor
+2	#DEP# processor
+3	#DEP# queue
+4	#DEP# ibm
+5	#DEP# amqp

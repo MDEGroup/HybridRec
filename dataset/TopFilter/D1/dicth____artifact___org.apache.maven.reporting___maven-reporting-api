@@ -1,0 +1,7 @@
+1	/artifact/org.apache.maven.reporting/maven-reporting-api
+2	#DEP# apach
+3	#DEP# build-system
+4	#DEP# report
+5	#DEP# build
+6	#DEP# api
+7	#DEP# maven

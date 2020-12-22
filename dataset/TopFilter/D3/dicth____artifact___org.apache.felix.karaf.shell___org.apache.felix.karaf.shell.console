@@ -1,0 +1,5 @@
+1	/artifact/org.apache.felix.karaf.shell/org.apache.felix.karaf.shell.console
+2	#DEP# consol
+3	#DEP# osgi
+4	#DEP# apach
+5	#DEP# shell

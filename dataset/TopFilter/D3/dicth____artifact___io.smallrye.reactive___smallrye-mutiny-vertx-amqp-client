@@ -1,0 +1,7 @@
+1	/artifact/io.smallrye.reactive/smallrye-mutiny-vertx-amqp-client
+2	#DEP# queue
+3	#DEP# reactiv
+4	#DEP# io
+5	#DEP# vertx
+6	#DEP# amqp
+7	#DEP# client

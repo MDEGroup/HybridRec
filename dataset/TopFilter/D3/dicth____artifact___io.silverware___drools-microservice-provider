@@ -1,0 +1,6 @@
+1	/artifact/io.silverware/drools-microservice-provider
+2	#DEP# io
+3	#DEP# provid
+4	#DEP# rule-engin
+5	#DEP# servic
+6	#DEP# microservic

@@ -1,0 +1,6 @@
+1	/artifact/io.siddhi.extension.io.rabbitmq/siddhi-io-rabbitmq
+2	#DEP# queue
+3	#DEP# extens
+4	#DEP# io
+5	#DEP# rabbitmq
+6	#DEP# amqp

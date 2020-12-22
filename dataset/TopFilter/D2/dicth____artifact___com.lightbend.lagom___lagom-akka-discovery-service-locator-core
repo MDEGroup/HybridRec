@@ -1,0 +1,9 @@
+1	/artifact/com.lightbend.lagom/lagom-akka-discovery-service-locator-core
+2	#DEP# concurr
+3	#DEP# microservic
+4	#DEP# distribut
+5	#DEP# akka
+6	#DEP# lightbend
+7	#DEP# discoveri
+8	#DEP# servic
+9	#DEP# actor

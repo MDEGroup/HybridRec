@@ -1,0 +1,5 @@
+1	/artifact/com.android.tools.build/transform-api
+2	#DEP# tool
+3	#DEP# build
+4	#DEP# android
+5	#DEP# api

@@ -1,0 +1,5 @@
+1	/artifact/org.testatoo.openqa/selenium-java-client-driver
+2	#DEP# selenium
+3	#DEP# driver
+4	#DEP# client
+5	#DEP# test

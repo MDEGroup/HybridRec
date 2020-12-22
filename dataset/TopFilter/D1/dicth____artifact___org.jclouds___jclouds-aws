@@ -1,0 +1,5 @@
+1	/artifact/org.jclouds/jclouds-aws
+2	#DEP# comput
+3	#DEP# amazon
+4	#DEP# aw
+5	#DEP# cloud

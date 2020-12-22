@@ -1,0 +1,5 @@
+1	/artifact/com.google.code.cli-parser/cli
+2	#DEP# parser
+3	#DEP# command-lin
+4	#DEP# cli
+5	#DEP# googl

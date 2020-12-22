@@ -1,0 +1,5 @@
+1	/artifact/org.kaazing/gateway.resource.address.tcp
+2	#DEP# tcp
+3	#DEP# resourc
+4	#DEP# network
+5	#DEP# gateway

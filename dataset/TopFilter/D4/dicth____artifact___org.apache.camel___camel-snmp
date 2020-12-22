@@ -1,0 +1,5 @@
+1	/artifact/org.apache.camel/camel-snmp
+2	#DEP# manag
+3	#DEP# snmp
+4	#DEP# apach
+5	#DEP# camel

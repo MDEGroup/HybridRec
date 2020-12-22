@@ -1,0 +1,5 @@
+1	/artifact/org.grails/grails-web
+2	#DEP# web
+3	#DEP# groovi
+4	#DEP# framework
+5	#DEP# grail

@@ -1,0 +1,7 @@
+1	/artifact/org.apache.hbase.thirdparty/hbase-shaded-protobuf
+2	#DEP# apach
+3	#DEP# databas
+4	#DEP# protocol
+5	#DEP# hbase
+6	#DEP# serial
+7	#DEP# hadoop

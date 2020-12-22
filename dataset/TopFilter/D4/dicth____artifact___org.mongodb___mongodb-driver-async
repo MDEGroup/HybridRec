@@ -1,0 +1,7 @@
+1	/artifact/org.mongodb/mongodb-driver-async
+2	#DEP# nosql
+3	#DEP# mongodb
+4	#DEP# asynchron
+5	#DEP# databas
+6	#DEP# driver
+7	#DEP# client

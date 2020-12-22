@@ -1,0 +1,6 @@
+1	/artifact/org.apache.tuscany.sca/tuscany-binding-jms-runtime
+2	#DEP# queue
+3	#DEP# bind
+4	#DEP# jm
+5	#DEP# apach
+6	#DEP# runtim

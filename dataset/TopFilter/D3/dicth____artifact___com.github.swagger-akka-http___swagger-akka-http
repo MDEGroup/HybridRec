@@ -1,0 +1,9 @@
+1	/artifact/com.github.swagger-akka-http/swagger-akka-http
+2	#DEP# api
+3	#DEP# actor
+4	#DEP# http
+5	#DEP# distribut
+6	#DEP# concurr
+7	#DEP# akka
+8	#DEP# swagger
+9	#DEP# github

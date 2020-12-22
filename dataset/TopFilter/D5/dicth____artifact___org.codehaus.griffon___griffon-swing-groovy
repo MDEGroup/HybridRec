@@ -1,0 +1,5 @@
+1	/artifact/org.codehaus.griffon/griffon-swing-groovy
+2	#DEP# swing
+3	#DEP# groovi
+4	#DEP# ui
+5	#DEP# codehau

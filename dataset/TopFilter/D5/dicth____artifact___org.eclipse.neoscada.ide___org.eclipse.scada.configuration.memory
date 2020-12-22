@@ -1,0 +1,5 @@
+1	/artifact/org.eclipse.neoscada.ide/org.eclipse.scada.configuration.memory
+2	#DEP# ide
+3	#DEP# config
+4	#DEP# memori
+5	#DEP# eclips

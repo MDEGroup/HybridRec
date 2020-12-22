@@ -1,0 +1,5 @@
+1	/artifact/org.apache.httpcomponents/fluent-hc
+2	#DEP# fluent
+3	#DEP# apach
+4	#DEP# client
+5	#DEP# http

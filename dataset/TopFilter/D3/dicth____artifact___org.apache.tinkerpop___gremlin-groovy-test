@@ -1,0 +1,5 @@
+1	/artifact/org.apache.tinkerpop/gremlin-groovy-test
+2	#DEP# apach
+3	#DEP# groovi
+4	#DEP# graph
+5	#DEP# test

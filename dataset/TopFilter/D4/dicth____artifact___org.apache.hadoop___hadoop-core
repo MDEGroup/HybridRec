@@ -1,0 +1,5 @@
+1	/artifact/org.apache.hadoop/hadoop-core
+2	#DEP# comput
+3	#DEP# distribut
+4	#DEP# apach
+5	#DEP# hadoop

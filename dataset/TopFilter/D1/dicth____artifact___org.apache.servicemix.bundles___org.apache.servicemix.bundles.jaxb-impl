@@ -1,0 +1,6 @@
+1	/artifact/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jaxb-impl
+2	#DEP# apach
+3	#DEP# esb
+4	#DEP# xml
+5	#DEP# bundl
+6	#DEP# bind

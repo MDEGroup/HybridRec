@@ -1,0 +1,7 @@
+1	/artifact/io.codearte.gradle.nexus/gradle-nexus-staging-plugin
+2	#DEP# groovi
+3	#DEP# build-system
+4	#DEP# gradl
+5	#DEP# build
+6	#DEP# io
+7	#DEP# plugin

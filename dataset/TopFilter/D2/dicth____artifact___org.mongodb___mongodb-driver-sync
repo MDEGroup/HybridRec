@@ -1,0 +1,5 @@
+1	/artifact/org.mongodb/mongodb-driver-sync
+2	#DEP# driver
+3	#DEP# databas
+4	#DEP# mongodb
+5	#DEP# sync

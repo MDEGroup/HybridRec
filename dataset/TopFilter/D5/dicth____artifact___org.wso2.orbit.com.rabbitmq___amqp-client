@@ -1,0 +1,5 @@
+1	/artifact/org.wso2.orbit.com.rabbitmq/amqp-client
+2	#DEP# client
+3	#DEP# queue
+4	#DEP# amqp
+5	#DEP# rabbitmq

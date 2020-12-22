@@ -1,0 +1,7 @@
+1	/artifact/org.apache.maven.plugins/maven-assembly-plugin
+2	#DEP# apach
+3	#DEP# build-system
+4	#DEP# assembl
+5	#DEP# build
+6	#DEP# maven
+7	#DEP# plugin

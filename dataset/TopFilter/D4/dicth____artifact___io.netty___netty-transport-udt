@@ -1,0 +1,6 @@
+1	/artifact/io.netty/netty-transport-udt
+2	#DEP# netti
+3	#DEP# socket
+4	#DEP# network
+5	#DEP# transport
+6	#DEP# io

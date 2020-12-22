@@ -1,0 +1,5 @@
+1	/artifact/org.apache.struts/struts-taglib
+2	#DEP# taglib
+3	#DEP# apach
+4	#DEP# jsp
+5	#DEP# web-framework

@@ -1,0 +1,5 @@
+1	/artifact/io.keyko.monitoring/schemas
+2	#DEP# web
+3	#DEP# monitor
+4	#DEP# io
+5	#DEP# schema

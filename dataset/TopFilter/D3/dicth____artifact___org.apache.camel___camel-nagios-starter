@@ -1,0 +1,5 @@
+1	/artifact/org.apache.camel/camel-nagios-starter
+2	#DEP# starter
+3	#DEP# monitor
+4	#DEP# camel
+5	#DEP# apach

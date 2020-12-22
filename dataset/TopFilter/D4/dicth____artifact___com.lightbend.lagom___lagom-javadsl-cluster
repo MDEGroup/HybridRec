@@ -1,0 +1,5 @@
+1	/artifact/com.lightbend.lagom/lagom-javadsl-cluster
+2	#DEP# lightbend
+3	#DEP# microservic
+4	#DEP# cluster
+5	#DEP# dsl

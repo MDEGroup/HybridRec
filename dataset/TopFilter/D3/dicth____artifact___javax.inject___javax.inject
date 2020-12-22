@@ -1,0 +1,5 @@
+1	/artifact/javax.inject/javax.inject
+2	#DEP# spec
+3	#DEP# javax
+4	#DEP# dependency-inject
+5	#DEP# standard

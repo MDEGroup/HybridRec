@@ -1,0 +1,5 @@
+1	/artifact/com.googlecode.genericdao/search-jpa-hibernate
+2	#DEP# persist
+3	#DEP# hibern
+4	#DEP# jpa
+5	#DEP# search

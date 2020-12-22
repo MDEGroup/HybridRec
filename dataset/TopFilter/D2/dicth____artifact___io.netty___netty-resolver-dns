@@ -1,0 +1,6 @@
+1	/artifact/io.netty/netty-resolver-dns
+2	#DEP# io
+3	#DEP# netti
+4	#DEP# socket
+5	#DEP# dn
+6	#DEP# network

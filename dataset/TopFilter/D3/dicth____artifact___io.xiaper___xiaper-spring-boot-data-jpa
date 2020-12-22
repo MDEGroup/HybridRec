@@ -1,0 +1,6 @@
+1	/artifact/io.xiaper/xiaper-spring-boot-data-jpa
+2	#DEP# persist
+3	#DEP# io
+4	#DEP# jpa
+5	#DEP# spring
+6	#DEP# data

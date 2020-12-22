@@ -1,0 +1,6 @@
+1	/artifact/com.wandoulabs.akka/spray-websocket
+2	#DEP# concurr
+3	#DEP# distribut
+4	#DEP# akka
+5	#DEP# websocket
+6	#DEP# actor

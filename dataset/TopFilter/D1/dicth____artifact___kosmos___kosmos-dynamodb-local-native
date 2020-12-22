@@ -1,0 +1,6 @@
+1	/artifact/kosmos/kosmos-dynamodb-local-native
+2	#DEP# nativ
+3	#DEP# dynamodb
+4	#DEP# aw
+5	#DEP# clojur
+6	#DEP# databas

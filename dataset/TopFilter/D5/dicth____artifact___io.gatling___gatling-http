@@ -1,0 +1,7 @@
+1	/artifact/io.gatling/gatling-http
+2	#DEP# load
+3	#DEP# metric
+4	#DEP# http
+5	#DEP# test
+6	#DEP# perform
+7	#DEP# io

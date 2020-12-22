@@ -1,0 +1,5 @@
+1	/artifact/org.xwiki.platform/xwiki-platform-rendering-macro-container
+2	#DEP# macro
+3	#DEP# platform
+4	#DEP# contain
+5	#DEP# render

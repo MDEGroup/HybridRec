@@ -1,0 +1,6 @@
+1	/artifact/com.liferay/org.gradle.gradle-language-jvm
+2	#DEP# gradl
+3	#DEP# languag
+4	#DEP# build
+5	#DEP# groovi
+6	#DEP# build-system

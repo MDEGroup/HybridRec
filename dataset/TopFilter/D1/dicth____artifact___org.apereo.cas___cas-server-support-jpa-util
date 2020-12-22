@@ -1,0 +1,5 @@
+1	/artifact/org.apereo.cas/cas-server-support-jpa-util
+2	#DEP# support
+3	#DEP# server
+4	#DEP# persist
+5	#DEP# jpa

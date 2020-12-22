@@ -1,0 +1,5 @@
+1	/artifact/org.bluestemsoftware.open.maven.tparty/xerces-impl
+2	#DEP# build-system
+3	#DEP# maven
+4	#DEP# build
+5	#DEP# parser

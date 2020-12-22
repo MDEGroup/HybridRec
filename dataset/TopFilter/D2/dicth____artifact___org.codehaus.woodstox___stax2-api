@@ -1,0 +1,5 @@
+1	/artifact/org.codehaus.woodstox/stax2-api
+2	#DEP# codehau
+3	#DEP# api
+4	#DEP# stream
+5	#DEP# xml

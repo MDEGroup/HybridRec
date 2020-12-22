@@ -1,0 +1,6 @@
+1	/artifact/io.vertx/vertx-redis-client
+2	#DEP# io
+3	#DEP# redi
+4	#DEP# vertx
+5	#DEP# databas
+6	#DEP# client

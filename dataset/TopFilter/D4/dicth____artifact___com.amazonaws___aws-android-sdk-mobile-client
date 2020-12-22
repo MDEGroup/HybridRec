@@ -1,0 +1,6 @@
+1	/artifact/com.amazonaws/aws-android-sdk-mobile-client
+2	#DEP# android
+3	#DEP# amazon
+4	#DEP# aw
+5	#DEP# sdk
+6	#DEP# client

@@ -1,0 +1,5 @@
+1	/artifact/org.apache.servicemix.samples/loan-broker
+2	#DEP# exampl
+3	#DEP# broker
+4	#DEP# apach
+5	#DEP# esb

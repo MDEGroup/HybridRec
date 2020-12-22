@@ -1,0 +1,5 @@
+1	/artifact/io.netty/netty-tcnative
+2	#DEP# socket
+3	#DEP# network
+4	#DEP# netti
+5	#DEP# io

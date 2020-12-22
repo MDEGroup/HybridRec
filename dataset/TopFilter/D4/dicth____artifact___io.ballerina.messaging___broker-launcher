@@ -1,0 +1,5 @@
+1	/artifact/io.ballerina.messaging/broker-launcher
+2	#DEP# io
+3	#DEP# broker
+4	#DEP# messag
+5	#DEP# launcher

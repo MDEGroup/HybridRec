@@ -1,0 +1,6 @@
+1	/artifact/com.lightbend.lagom/lagom-service-registry-client
+2	#DEP# client
+3	#DEP# lightbend
+4	#DEP# servic
+5	#DEP# microservic
+6	#DEP# registri

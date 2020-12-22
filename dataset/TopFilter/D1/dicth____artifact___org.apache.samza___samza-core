@@ -1,0 +1,5 @@
+1	/artifact/org.apache.samza/samza-core
+2	#DEP# stream
+3	#DEP# apach
+4	#DEP# process
+5	#DEP# distribut

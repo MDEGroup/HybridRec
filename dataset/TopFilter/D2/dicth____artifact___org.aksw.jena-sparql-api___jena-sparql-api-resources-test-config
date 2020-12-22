@@ -1,0 +1,6 @@
+1	/artifact/org.aksw.jena-sparql-api/jena-sparql-api-resources-test-config
+2	#DEP# sparql
+3	#DEP# resourc
+4	#DEP# api
+5	#DEP# config
+6	#DEP# test

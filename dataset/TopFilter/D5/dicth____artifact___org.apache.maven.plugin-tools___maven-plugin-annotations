@@ -1,0 +1,8 @@
+1	/artifact/org.apache.maven.plugin-tools/maven-plugin-annotations
+2	#DEP# annot
+3	#DEP# apach
+4	#DEP# build
+5	#DEP# maven
+6	#DEP# plugin
+7	#DEP# tool
+8	#DEP# build-system

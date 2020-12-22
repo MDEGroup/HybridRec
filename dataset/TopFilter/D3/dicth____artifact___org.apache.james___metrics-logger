@@ -1,0 +1,5 @@
+1	/artifact/org.apache.james/metrics-logger
+2	#DEP# apach
+3	#DEP# metric
+4	#DEP# log
+5	#DEP# mail

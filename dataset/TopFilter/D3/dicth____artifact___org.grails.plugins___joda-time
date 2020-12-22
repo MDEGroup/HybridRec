@@ -1,0 +1,5 @@
+1	/artifact/org.grails.plugins/joda-time
+2	#DEP# plugin
+3	#DEP# grail
+4	#DEP# time
+5	#DEP# groovi

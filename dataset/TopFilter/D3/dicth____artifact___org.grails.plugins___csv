@@ -1,0 +1,6 @@
+1	/artifact/org.grails.plugins/csv
+2	#DEP# grail
+3	#DEP# csv
+4	#DEP# plugin
+5	#DEP# groovi
+6	#DEP# tabular

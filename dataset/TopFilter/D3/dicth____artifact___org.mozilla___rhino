@@ -1,0 +1,5 @@
+1	/artifact/org.mozilla/rhino
+2	#DEP# javascript
+3	#DEP# script
+4	#DEP# languag
+5	#DEP# jvm

@@ -1,0 +1,7 @@
+1	/artifact/org.apache.cxf/cxf-rt-transports-http-jetty
+2	#DEP# http
+3	#DEP# apach
+4	#DEP# jetti
+5	#DEP# webserv
+6	#DEP# server
+7	#DEP# transport

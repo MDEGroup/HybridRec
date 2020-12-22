@@ -1,0 +1,7 @@
+1	/artifact/org.apache.maven.scm/maven-scm-test
+2	#DEP# apach
+3	#DEP# build
+4	#DEP# scm
+5	#DEP# maven
+6	#DEP# test
+7	#DEP# build-system

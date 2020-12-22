@@ -1,0 +1,6 @@
+1	/artifact/org.neo4j/neo4j-slf4j
+2	#DEP# neo4j
+3	#DEP# databas
+4	#DEP# slf4j
+5	#DEP# log
+6	#DEP# graph

@@ -1,0 +1,8 @@
+1	/artifact/org.springframework.build/aws-maven
+2	#DEP# build-system
+3	#DEP# amazon
+4	#DEP# spring
+5	#DEP# build
+6	#DEP# aw
+7	#DEP# maven
+8	#DEP# s3

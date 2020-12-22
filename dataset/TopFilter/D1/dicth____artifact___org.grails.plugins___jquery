@@ -1,0 +1,5 @@
+1	/artifact/org.grails.plugins/jquery
+2	#DEP# groovi
+3	#DEP# jqueri
+4	#DEP# plugin
+5	#DEP# grail

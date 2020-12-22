@@ -1,0 +1,5 @@
+1	/artifact/org.onap.policy.apex-pdp.testsuites.performance/performance-benchmark-test
+2	#DEP# polici
+3	#DEP# perform
+4	#DEP# benchmark
+5	#DEP# test

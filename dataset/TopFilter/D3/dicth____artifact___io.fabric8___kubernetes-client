@@ -1,0 +1,5 @@
+1	/artifact/io.fabric8/kubernetes-client
+2	#DEP# io
+3	#DEP# client
+4	#DEP# kubernet
+5	#DEP# contain

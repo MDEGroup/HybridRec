@@ -1,0 +1,5 @@
+1	/artifact/org.apache.directory.server/apacheds-kerberos-codec
+2	#DEP# apach
+3	#DEP# server
+4	#DEP# codec
+5	#DEP# directori

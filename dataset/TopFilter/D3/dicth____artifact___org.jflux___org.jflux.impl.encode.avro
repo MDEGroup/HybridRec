@@ -1,0 +1,5 @@
+1	/artifact/org.jflux/org.jflux.impl.encode.avro
+2	#DEP# encod
+3	#DEP# protocol
+4	#DEP# serial
+5	#DEP# avro

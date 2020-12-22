@@ -1,0 +1,5 @@
+1	/artifact/io.cloudsoft.jclouds.driver/jclouds-okhttp
+2	#DEP# io
+3	#DEP# http
+4	#DEP# cloud
+5	#DEP# driver

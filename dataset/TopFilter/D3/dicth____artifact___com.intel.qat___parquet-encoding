@@ -1,0 +1,6 @@
+1	/artifact/com.intel.qat/parquet-encoding
+2	#DEP# encod
+3	#DEP# parquet
+4	#DEP# column
+5	#DEP# intel
+6	#DEP# serial

@@ -1,0 +1,5 @@
+1	/artifact/org.apache.geronimo.specs/geronimo-jaxrs_1.1_spec
+2	#DEP# jaxr
+3	#DEP# apach
+4	#DEP# rest
+5	#DEP# spec

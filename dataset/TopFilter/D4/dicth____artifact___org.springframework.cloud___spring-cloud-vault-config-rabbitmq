@@ -1,0 +1,7 @@
+1	/artifact/org.springframework.cloud/spring-cloud-vault-config-rabbitmq
+2	#DEP# config
+3	#DEP# queue
+4	#DEP# cloud
+5	#DEP# spring
+6	#DEP# rabbitmq
+7	#DEP# amqp

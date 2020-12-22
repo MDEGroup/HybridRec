@@ -1,0 +1,5 @@
+1	/artifact/io.zipkin.brave/brave-instrumentation-http
+2	#DEP# io
+3	#DEP# http
+4	#DEP# instrument
+5	#DEP# trace

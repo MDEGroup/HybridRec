@@ -1,0 +1,7 @@
+1	/artifact/org.neo4j/neo4j-random-values
+2	#DEP# secur
+3	#DEP# neo4j
+4	#DEP# gener
+5	#DEP# random
+6	#DEP# databas
+7	#DEP# graph

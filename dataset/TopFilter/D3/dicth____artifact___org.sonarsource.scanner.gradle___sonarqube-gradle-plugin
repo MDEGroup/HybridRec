@@ -1,0 +1,8 @@
+1	/artifact/org.sonarsource.scanner.gradle/sonarqube-gradle-plugin
+2	#DEP# scan
+3	#DEP# sonar
+4	#DEP# plugin
+5	#DEP# groovi
+6	#DEP# build
+7	#DEP# build-system
+8	#DEP# gradl

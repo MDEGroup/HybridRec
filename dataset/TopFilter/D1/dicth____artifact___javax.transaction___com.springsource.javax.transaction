@@ -1,0 +1,6 @@
+1	/artifact/javax.transaction/com.springsource.javax.transaction
+2	#DEP# transact
+3	#DEP# spec
+4	#DEP# spring
+5	#DEP# javax
+6	#DEP# standard

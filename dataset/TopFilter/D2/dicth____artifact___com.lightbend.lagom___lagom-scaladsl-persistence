@@ -1,0 +1,5 @@
+1	/artifact/com.lightbend.lagom/lagom-scaladsl-persistence
+2	#DEP# dsl
+3	#DEP# microservic
+4	#DEP# lightbend
+5	#DEP# persist

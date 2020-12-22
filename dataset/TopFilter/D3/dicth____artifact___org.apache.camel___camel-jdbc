@@ -1,0 +1,5 @@
+1	/artifact/org.apache.camel/camel-jdbc
+2	#DEP# sql
+3	#DEP# camel
+4	#DEP# apach
+5	#DEP# jdbc

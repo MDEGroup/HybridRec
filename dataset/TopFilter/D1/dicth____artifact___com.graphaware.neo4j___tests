@@ -1,0 +1,5 @@
+1	/artifact/com.graphaware.neo4j/tests
+2	#DEP# graph
+3	#DEP# test
+4	#DEP# neo4j
+5	#DEP# databas

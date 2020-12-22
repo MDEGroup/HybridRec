@@ -1,0 +1,10 @@
+1	/artifact/org.apache.james/james-server-cassandra-rabbitmq-guice
+2	#DEP# queue
+3	#DEP# mail
+4	#DEP# cassandra
+5	#DEP# server
+6	#DEP# rabbitmq
+7	#DEP# dependency-inject
+8	#DEP# apach
+9	#DEP# amqp
+10	#DEP# databas

@@ -1,0 +1,5 @@
+1	/artifact/com.googlecode.efficient-java-matrix-library/ejml
+2	#DEP# librari
+3	#DEP# vector
+4	#DEP# match
+5	#DEP# matrix

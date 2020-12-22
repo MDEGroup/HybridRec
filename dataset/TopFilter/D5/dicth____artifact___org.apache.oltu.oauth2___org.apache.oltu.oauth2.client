@@ -1,0 +1,5 @@
+1	/artifact/org.apache.oltu.oauth2/org.apache.oltu.oauth2.client
+2	#DEP# apach
+3	#DEP# client
+4	#DEP# authent
+5	#DEP# oauth

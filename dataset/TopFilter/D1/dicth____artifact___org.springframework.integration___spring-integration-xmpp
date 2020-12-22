@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.integration/spring-integration-xmpp
+2	#DEP# xmpp
+3	#DEP# messag
+4	#DEP# integr
+5	#DEP# spring

@@ -1,0 +1,5 @@
+1	/artifact/org.apache.lucene/lucene-analyzers-common
+2	#DEP# apach
+3	#DEP# index
+4	#DEP# analyz
+5	#DEP# lucen

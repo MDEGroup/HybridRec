@@ -1,0 +1,5 @@
+1	/artifact/org.codehaus.fabric3/fabric3-container-web-spi
+2	#DEP# codehau
+3	#DEP# interfac
+4	#DEP# web
+5	#DEP# contain

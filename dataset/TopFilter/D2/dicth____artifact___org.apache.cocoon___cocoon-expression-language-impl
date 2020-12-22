@@ -1,0 +1,5 @@
+1	/artifact/org.apache.cocoon/cocoon-expression-language-impl
+2	#DEP# web-framework
+3	#DEP# languag
+4	#DEP# express
+5	#DEP# apach

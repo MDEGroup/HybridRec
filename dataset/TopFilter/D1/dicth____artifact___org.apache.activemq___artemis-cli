@@ -1,0 +1,5 @@
+1	/artifact/org.apache.activemq/artemis-cli
+2	#DEP# queue
+3	#DEP# apach
+4	#DEP# command-lin
+5	#DEP# jm

@@ -1,0 +1,5 @@
+1	/artifact/com.github.emc-mongoose/mongoose-storage-driver-builder
+2	#DEP# storag
+3	#DEP# github
+4	#DEP# builder
+5	#DEP# driver

@@ -1,0 +1,7 @@
+1	/artifact/io.confluent/kafka-avro-serializer
+2	#DEP# avro
+3	#DEP# stream
+4	#DEP# protocol
+5	#DEP# serial
+6	#DEP# io
+7	#DEP# kafka

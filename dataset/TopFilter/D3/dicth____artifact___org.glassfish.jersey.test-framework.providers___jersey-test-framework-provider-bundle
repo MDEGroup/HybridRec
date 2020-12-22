@@ -1,0 +1,6 @@
+1	/artifact/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-bundle
+2	#DEP# bundl
+3	#DEP# webservic
+4	#DEP# provid
+5	#DEP# framework
+6	#DEP# test

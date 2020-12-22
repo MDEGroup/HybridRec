@@ -1,0 +1,9 @@
+1	/artifact/com.digitalasset.ledger-api/rs-grpc-akka
+2	#DEP# concurr
+3	#DEP# distribut
+4	#DEP# actor
+5	#DEP# grpc
+6	#DEP# akka
+7	#DEP# api
+8	#DEP# protocol
+9	#DEP# rpc

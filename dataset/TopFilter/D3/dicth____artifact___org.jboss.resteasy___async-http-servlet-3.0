@@ -1,0 +1,5 @@
+1	/artifact/org.jboss.resteasy/async-http-servlet-3.0
+2	#DEP# servlet
+3	#DEP# jboss
+4	#DEP# asynchron
+5	#DEP# http

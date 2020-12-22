@@ -1,0 +1,5 @@
+1	/artifact/it.axians/axians-starter-data-jpa
+2	#DEP# persist
+3	#DEP# starter
+4	#DEP# data
+5	#DEP# jpa

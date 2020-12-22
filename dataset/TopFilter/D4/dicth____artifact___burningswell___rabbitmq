@@ -1,0 +1,5 @@
+1	/artifact/burningswell/rabbitmq
+2	#DEP# rabbitmq
+3	#DEP# clojur
+4	#DEP# amqp
+5	#DEP# queue

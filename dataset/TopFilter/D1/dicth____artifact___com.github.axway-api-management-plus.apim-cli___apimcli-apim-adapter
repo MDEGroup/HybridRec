@@ -1,0 +1,5 @@
+1	/artifact/com.github.axway-api-management-plus.apim-cli/apimcli-apim-adapter
+2	#DEP# manag
+3	#DEP# github
+4	#DEP# command-lin
+5	#DEP# api

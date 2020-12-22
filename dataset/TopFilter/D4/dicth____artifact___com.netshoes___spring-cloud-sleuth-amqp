@@ -1,0 +1,5 @@
+1	/artifact/com.netshoes/spring-cloud-sleuth-amqp
+2	#DEP# spring
+3	#DEP# amqp
+4	#DEP# cloud
+5	#DEP# queue

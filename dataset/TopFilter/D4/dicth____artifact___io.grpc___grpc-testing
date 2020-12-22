@@ -1,0 +1,6 @@
+1	/artifact/io.grpc/grpc-testing
+2	#DEP# test
+3	#DEP# rpc
+4	#DEP# protocol
+5	#DEP# io
+6	#DEP# grpc

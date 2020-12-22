@@ -1,0 +1,5 @@
+1	/artifact/com.vaadin/vaadin-client-compiler
+2	#DEP# client
+3	#DEP# compil
+4	#DEP# gwt
+5	#DEP# web-framework

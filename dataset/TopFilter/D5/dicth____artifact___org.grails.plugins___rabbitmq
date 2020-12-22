@@ -1,0 +1,7 @@
+1	/artifact/org.grails.plugins/rabbitmq
+2	#DEP# groovi
+3	#DEP# grail
+4	#DEP# rabbitmq
+5	#DEP# queue
+6	#DEP# amqp
+7	#DEP# plugin

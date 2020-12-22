@@ -1,0 +1,6 @@
+1	/artifact/org.netbeans.api/org-netbeans-spi-editor-hints
+2	#DEP# ide
+3	#DEP# editor
+4	#DEP# interfac
+5	#DEP# netbean
+6	#DEP# api

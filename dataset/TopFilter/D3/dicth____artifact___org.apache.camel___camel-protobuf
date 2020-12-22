@@ -1,0 +1,5 @@
+1	/artifact/org.apache.camel/camel-protobuf
+2	#DEP# serial
+3	#DEP# protocol
+4	#DEP# apach
+5	#DEP# camel

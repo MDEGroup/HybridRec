@@ -1,0 +1,9 @@
+1	/artifact/com.lightbend.akka.discovery/akka-discovery-kubernetes-api
+2	#DEP# concurr
+3	#DEP# distribut
+4	#DEP# akka
+5	#DEP# lightbend
+6	#DEP# api
+7	#DEP# discoveri
+8	#DEP# actor
+9	#DEP# kubernet

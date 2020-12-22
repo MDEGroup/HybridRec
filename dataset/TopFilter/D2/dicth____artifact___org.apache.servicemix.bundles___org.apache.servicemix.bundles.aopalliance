@@ -1,0 +1,5 @@
+1	/artifact/org.apache.servicemix.bundles/org.apache.servicemix.bundles.aopalliance
+2	#DEP# bundl
+3	#DEP# esb
+4	#DEP# apach
+5	#DEP# aop

@@ -1,0 +1,5 @@
+1	/artifact/org.apache.kafka/kafka-clients
+2	#DEP# kafka
+3	#DEP# stream
+4	#DEP# apach
+5	#DEP# client

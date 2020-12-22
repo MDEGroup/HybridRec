@@ -1,0 +1,5 @@
+1	/artifact/com.moz.kiji.schema/kiji-schema-avro
+2	#DEP# protocol
+3	#DEP# serial
+4	#DEP# schema
+5	#DEP# avro

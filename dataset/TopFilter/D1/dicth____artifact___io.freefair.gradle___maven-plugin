@@ -1,0 +1,8 @@
+1	/artifact/io.freefair.gradle/maven-plugin
+2	#DEP# groovi
+3	#DEP# build-system
+4	#DEP# gradl
+5	#DEP# build
+6	#DEP# maven
+7	#DEP# io
+8	#DEP# plugin

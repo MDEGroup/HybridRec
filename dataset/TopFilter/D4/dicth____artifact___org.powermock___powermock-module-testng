@@ -1,0 +1,5 @@
+1	/artifact/org.powermock/powermock-module-testng
+2	#DEP# test
+3	#DEP# modul
+4	#DEP# testng
+5	#DEP# mock

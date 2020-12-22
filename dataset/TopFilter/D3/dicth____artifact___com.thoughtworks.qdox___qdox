@@ -1,0 +1,5 @@
+1	/artifact/com.thoughtworks.qdox/qdox
+2	#DEP# java
+3	#DEP# parser
+4	#DEP# compil
+5	#DEP# doc

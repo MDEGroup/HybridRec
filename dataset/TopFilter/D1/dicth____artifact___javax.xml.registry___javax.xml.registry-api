@@ -1,0 +1,7 @@
+1	/artifact/javax.xml.registry/javax.xml.registry-api
+2	#DEP# xml
+3	#DEP# spec
+4	#DEP# api
+5	#DEP# javax
+6	#DEP# standard
+7	#DEP# registri

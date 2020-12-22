@@ -1,0 +1,6 @@
+1	/artifact/org.apache.qpid/qpid-broker-plugins-amqp-msg-conv-0-10-to-1-0
+2	#DEP# queue
+3	#DEP# amqp
+4	#DEP# apach
+5	#DEP# plugin
+6	#DEP# broker

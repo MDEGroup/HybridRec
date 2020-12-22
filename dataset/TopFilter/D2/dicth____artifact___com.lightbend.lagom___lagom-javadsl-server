@@ -1,0 +1,5 @@
+1	/artifact/com.lightbend.lagom/lagom-javadsl-server
+2	#DEP# microservic
+3	#DEP# lightbend
+4	#DEP# dsl
+5	#DEP# server

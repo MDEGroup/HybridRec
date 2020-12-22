@@ -1,0 +1,7 @@
+1	/artifact/io.xiaper/xiaper-spring-boot-service-rabbitmq
+2	#DEP# queue
+3	#DEP# spring
+4	#DEP# servic
+5	#DEP# amqp
+6	#DEP# rabbitmq
+7	#DEP# io

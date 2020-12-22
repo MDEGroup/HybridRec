@@ -1,0 +1,5 @@
+1	/artifact/io.bootique.jetty/bootique-jetty
+2	#DEP# io
+3	#DEP# webserv
+4	#DEP# jetti
+5	#DEP# server

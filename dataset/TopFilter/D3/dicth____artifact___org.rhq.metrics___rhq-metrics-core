@@ -1,0 +1,5 @@
+1	/artifact/org.rhq.metrics/rhq-metrics-core
+2	#DEP# metric
+3	#DEP# monitor
+4	#DEP# perform
+5	#DEP# manag

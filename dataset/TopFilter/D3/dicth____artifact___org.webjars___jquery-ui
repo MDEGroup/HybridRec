@@ -1,0 +1,5 @@
+1	/artifact/org.webjars/jquery-ui
+2	#DEP# ui
+3	#DEP# jqueri
+4	#DEP# web
+5	#DEP# asset

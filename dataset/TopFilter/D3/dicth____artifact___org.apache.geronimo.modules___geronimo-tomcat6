@@ -1,0 +1,6 @@
+1	/artifact/org.apache.geronimo.modules/geronimo-tomcat6
+2	#DEP# webserv
+3	#DEP# server
+4	#DEP# apach
+5	#DEP# modul
+6	#DEP# tomcat

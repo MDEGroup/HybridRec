@@ -1,0 +1,6 @@
+1	/artifact/org.neo4j/neo4j-jdbc
+2	#DEP# graph
+3	#DEP# neo4j
+4	#DEP# sql
+5	#DEP# jdbc
+6	#DEP# databas

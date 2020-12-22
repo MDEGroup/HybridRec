@@ -1,0 +1,6 @@
+1	/artifact/org.kermeta.eclipse/org.eclipse.swt.gtk.linux.x86_64
+2	#DEP# x86
+3	#DEP# ui
+4	#DEP# unix
+5	#DEP# swt
+6	#DEP# eclips

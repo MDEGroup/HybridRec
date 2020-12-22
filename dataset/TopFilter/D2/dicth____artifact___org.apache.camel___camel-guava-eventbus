@@ -1,0 +1,5 @@
+1	/artifact/org.apache.camel/camel-guava-eventbus
+2	#DEP# eventbu
+3	#DEP# messag
+4	#DEP# apach
+5	#DEP# camel

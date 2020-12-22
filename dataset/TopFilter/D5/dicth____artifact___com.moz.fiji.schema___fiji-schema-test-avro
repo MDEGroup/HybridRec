@@ -1,0 +1,6 @@
+1	/artifact/com.moz.fiji.schema/fiji-schema-test-avro
+2	#DEP# avro
+3	#DEP# test
+4	#DEP# protocol
+5	#DEP# serial
+6	#DEP# schema

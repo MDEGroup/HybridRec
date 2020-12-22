@@ -1,0 +1,5 @@
+1	/artifact/com.lightbend.lagom/lagom-scaladsl-cluster
+2	#DEP# cluster
+3	#DEP# dsl
+4	#DEP# microservic
+5	#DEP# lightbend

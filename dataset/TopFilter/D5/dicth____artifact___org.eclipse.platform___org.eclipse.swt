@@ -1,0 +1,5 @@
+1	/artifact/org.eclipse.platform/org.eclipse.swt
+2	#DEP# ui
+3	#DEP# eclips
+4	#DEP# platform
+5	#DEP# swt

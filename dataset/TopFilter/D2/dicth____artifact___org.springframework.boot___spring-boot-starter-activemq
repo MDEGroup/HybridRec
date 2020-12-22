@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.boot/spring-boot-starter-activemq
+2	#DEP# starter
+3	#DEP# jm
+4	#DEP# spring
+5	#DEP# queue

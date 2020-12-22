@@ -1,0 +1,10 @@
+1	/artifact/org.apache.activemq.examples.broker.camel/camel-war
+2	#DEP# queue
+3	#DEP# applic
+4	#DEP# camel
+5	#DEP# broker
+6	#DEP# jm
+7	#DEP# web
+8	#DEP# exampl
+9	#DEP# apach
+10	#DEP# webapp

@@ -1,0 +1,5 @@
+1	/artifact/io.zipkin.brave/brave-instrumentation-messaging
+2	#DEP# messag
+3	#DEP# io
+4	#DEP# instrument
+5	#DEP# trace

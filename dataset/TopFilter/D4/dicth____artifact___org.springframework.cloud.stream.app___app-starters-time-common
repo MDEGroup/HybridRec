@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.cloud.stream.app/app-starters-time-common
+2	#DEP# time
+3	#DEP# cloud
+4	#DEP# stream
+5	#DEP# spring

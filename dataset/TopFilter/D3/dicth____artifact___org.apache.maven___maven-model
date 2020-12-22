@@ -1,0 +1,6 @@
+1	/artifact/org.apache.maven/maven-model
+2	#DEP# build
+3	#DEP# apach
+4	#DEP# build-system
+5	#DEP# model
+6	#DEP# maven

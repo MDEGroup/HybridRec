@@ -1,0 +1,5 @@
+1	/artifact/org.eclipse.rdf4j/rdf4j-repository-api
+2	#DEP# rdf
+3	#DEP# eclips
+4	#DEP# repositori
+5	#DEP# api

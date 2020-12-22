@@ -1,0 +1,5 @@
+1	/artifact/cloud.altemista.fwk.integration/cloud-altemistafwk-core-integration-amqp-conf
+2	#DEP# cloud
+3	#DEP# queue
+4	#DEP# integr
+5	#DEP# amqp

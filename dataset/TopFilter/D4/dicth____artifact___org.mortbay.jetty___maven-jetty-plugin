@@ -1,0 +1,8 @@
+1	/artifact/org.mortbay.jetty/maven-jetty-plugin
+2	#DEP# build
+3	#DEP# maven
+4	#DEP# build-system
+5	#DEP# webserv
+6	#DEP# plugin
+7	#DEP# jetti
+8	#DEP# server

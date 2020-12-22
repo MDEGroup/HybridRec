@@ -1,0 +1,5 @@
+1	/artifact/org.apache.camel/camel-xmpp
+2	#DEP# apach
+3	#DEP# xmpp
+4	#DEP# messag
+5	#DEP# camel

@@ -1,0 +1,5 @@
+1	/artifact/org.opennms.features.activemq/org.opennms.features.activemq.broker-api
+2	#DEP# jm
+3	#DEP# broker
+4	#DEP# queue
+5	#DEP# api

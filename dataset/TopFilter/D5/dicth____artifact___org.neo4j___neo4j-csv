@@ -1,0 +1,6 @@
+1	/artifact/org.neo4j/neo4j-csv
+2	#DEP# neo4j
+3	#DEP# tabular
+4	#DEP# csv
+5	#DEP# databas
+6	#DEP# graph

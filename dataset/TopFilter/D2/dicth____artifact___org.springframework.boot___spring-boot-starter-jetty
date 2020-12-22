@@ -1,0 +1,6 @@
+1	/artifact/org.springframework.boot/spring-boot-starter-jetty
+2	#DEP# starter
+3	#DEP# server
+4	#DEP# spring
+5	#DEP# jetti
+6	#DEP# webserv

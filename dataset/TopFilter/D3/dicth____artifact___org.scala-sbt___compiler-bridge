@@ -1,0 +1,7 @@
+1	/artifact/org.scala-sbt/compiler-bridge
+2	#DEP# sbt
+3	#DEP# compil
+4	#DEP# scala
+5	#DEP# build
+6	#DEP# bridg
+7	#DEP# build-system

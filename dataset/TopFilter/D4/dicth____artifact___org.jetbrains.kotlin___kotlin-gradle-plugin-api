@@ -1,0 +1,8 @@
+1	/artifact/org.jetbrains.kotlin/kotlin-gradle-plugin-api
+2	#DEP# gradl
+3	#DEP# kotlin
+4	#DEP# build
+5	#DEP# groovi
+6	#DEP# build-system
+7	#DEP# plugin
+8	#DEP# api

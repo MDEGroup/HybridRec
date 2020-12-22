@@ -1,0 +1,5 @@
+1	/artifact/org.apache.plc4x/plc4j-protocol-driver-base-test
+2	#DEP# driver
+3	#DEP# protocol
+4	#DEP# apach
+5	#DEP# test

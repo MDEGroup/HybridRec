@@ -1,0 +1,6 @@
+1	/artifact/org.connid.bundles.soap/wssample
+2	#DEP# soap
+3	#DEP# applic
+4	#DEP# web
+5	#DEP# bundl
+6	#DEP# webapp

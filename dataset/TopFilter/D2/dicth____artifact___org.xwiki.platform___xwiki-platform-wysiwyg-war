@@ -1,0 +1,5 @@
+1	/artifact/org.xwiki.platform/xwiki-platform-wysiwyg-war
+2	#DEP# web
+3	#DEP# platform
+4	#DEP# webapp
+5	#DEP# applic

@@ -1,0 +1,7 @@
+1	/artifact/org.scala-sbt/compiler-interface
+2	#DEP# interfac
+3	#DEP# build
+4	#DEP# compil
+5	#DEP# scala
+6	#DEP# sbt
+7	#DEP# build-system

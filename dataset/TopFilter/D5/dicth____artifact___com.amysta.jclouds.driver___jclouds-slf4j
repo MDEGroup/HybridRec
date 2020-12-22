@@ -1,0 +1,5 @@
+1	/artifact/com.amysta.jclouds.driver/jclouds-slf4j
+2	#DEP# slf4j
+3	#DEP# log
+4	#DEP# cloud
+5	#DEP# driver

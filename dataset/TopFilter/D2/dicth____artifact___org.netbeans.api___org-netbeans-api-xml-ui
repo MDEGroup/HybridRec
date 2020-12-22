@@ -1,0 +1,6 @@
+1	/artifact/org.netbeans.api/org-netbeans-api-xml-ui
+2	#DEP# ui
+3	#DEP# api
+4	#DEP# ide
+5	#DEP# netbean
+6	#DEP# xml

@@ -1,0 +1,5 @@
+1	/artifact/org.no-hope.aspectj/metrics-aspectj-annotations
+2	#DEP# metric
+3	#DEP# aop
+4	#DEP# annot
+5	#DEP# aspect

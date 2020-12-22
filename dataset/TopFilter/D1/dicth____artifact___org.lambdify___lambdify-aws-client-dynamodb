@@ -1,0 +1,6 @@
+1	/artifact/org.lambdify/lambdify-aws-client-dynamodb
+2	#DEP# amazon
+3	#DEP# dynamodb
+4	#DEP# aw
+5	#DEP# client
+6	#DEP# databas

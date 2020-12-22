@@ -1,0 +1,7 @@
+1	/artifact/org.eclipse.ditto/ditto-services-models-amqp-bridge
+2	#DEP# queue
+3	#DEP# amqp
+4	#DEP# eclips
+5	#DEP# servic
+6	#DEP# model
+7	#DEP# bridg

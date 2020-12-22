@@ -1,0 +1,5 @@
+1	/artifact/com.j256.ormlite/ormlite-android
+2	#DEP# android
+3	#DEP# map
+4	#DEP# orm
+5	#DEP# relat

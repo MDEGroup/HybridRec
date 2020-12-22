@@ -1,0 +1,5 @@
+1	/artifact/com.thinkaurelius.thrift/thrift-server
+2	#DEP# serial
+3	#DEP# protocol
+4	#DEP# server
+5	#DEP# thrift

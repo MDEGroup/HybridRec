@@ -1,0 +1,5 @@
+1	/artifact/org.onehippo.cms7/hippo-package-cms-resources
+2	#DEP# web
+3	#DEP# webapp
+4	#DEP# resourc
+5	#DEP# applic

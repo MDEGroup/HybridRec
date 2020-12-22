@@ -1,0 +1,8 @@
+1	/artifact/com.typesafe.akka/akka-slf4j
+2	#DEP# concurr
+3	#DEP# akka
+4	#DEP# distribut
+5	#DEP# typesaf
+6	#DEP# log
+7	#DEP# actor
+8	#DEP# slf4j

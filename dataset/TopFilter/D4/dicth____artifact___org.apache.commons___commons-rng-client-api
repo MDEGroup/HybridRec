@@ -1,0 +1,5 @@
+1	/artifact/org.apache.commons/commons-rng-client-api
+2	#DEP# api
+3	#DEP# common
+4	#DEP# apach
+5	#DEP# client

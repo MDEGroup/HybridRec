@@ -1,0 +1,6 @@
+1	/artifact/org.apache.xmlgraphics/batik-swing
+2	#DEP# graphic
+3	#DEP# ui
+4	#DEP# swing
+5	#DEP# apach
+6	#DEP# svg

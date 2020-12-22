@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.security/spring-security-taglibs
+2	#DEP# jsp
+3	#DEP# spring
+4	#DEP# taglib
+5	#DEP# secur

@@ -1,0 +1,5 @@
+1	/artifact/net.sf.taverna.t2.ui-impl/data-management-config
+2	#DEP# config
+3	#DEP# manag
+4	#DEP# ui
+5	#DEP# data

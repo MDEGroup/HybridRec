@@ -1,0 +1,5 @@
+1	/artifact/com.amazonaws/aws-android-sdk-appsync
+2	#DEP# sdk
+3	#DEP# android
+4	#DEP# aw
+5	#DEP# amazon

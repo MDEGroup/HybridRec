@@ -1,0 +1,5 @@
+1	/artifact/com.amazonaws/aws-xray-recorder-sdk-core
+2	#DEP# aw
+3	#DEP# amazon
+4	#DEP# sdk
+5	#DEP# trace

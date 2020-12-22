@@ -1,0 +1,6 @@
+1	/artifact/org.apache.james/james-server-queue-memory
+2	#DEP# apach
+3	#DEP# mail
+4	#DEP# queue
+5	#DEP# memori
+6	#DEP# server

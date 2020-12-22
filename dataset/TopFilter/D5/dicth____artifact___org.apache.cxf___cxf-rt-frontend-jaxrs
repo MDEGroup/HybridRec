@@ -1,0 +1,5 @@
+1	/artifact/org.apache.cxf/cxf-rt-frontend-jaxrs
+2	#DEP# frontend
+3	#DEP# rest
+4	#DEP# apach
+5	#DEP# jaxr

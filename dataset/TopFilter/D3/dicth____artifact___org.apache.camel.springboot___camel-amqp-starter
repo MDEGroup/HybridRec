@@ -1,0 +1,6 @@
+1	/artifact/org.apache.camel.springboot/camel-amqp-starter
+2	#DEP# queue
+3	#DEP# camel
+4	#DEP# apach
+5	#DEP# starter
+6	#DEP# amqp

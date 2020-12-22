@@ -1,0 +1,6 @@
+1	/artifact/org.springframework.boot/spring-boot-starter-reactor-netty
+2	#DEP# starter
+3	#DEP# socket
+4	#DEP# netti
+5	#DEP# spring
+6	#DEP# network

@@ -1,0 +1,5 @@
+1	/artifact/org.daisy.pipeline.build/modules-test-helper
+2	#DEP# pipelin
+3	#DEP# build
+4	#DEP# test
+5	#DEP# modul

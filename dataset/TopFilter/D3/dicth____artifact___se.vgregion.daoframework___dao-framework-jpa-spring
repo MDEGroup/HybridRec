@@ -1,0 +1,6 @@
+1	/artifact/se.vgregion.daoframework/dao-framework-jpa-spring
+2	#DEP# persist
+3	#DEP# dao
+4	#DEP# jpa
+5	#DEP# framework
+6	#DEP# spring

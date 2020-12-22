@@ -1,0 +1,5 @@
+1	/artifact/org.apache.activemq/artemis-openwire-protocol
+2	#DEP# queue
+3	#DEP# apach
+4	#DEP# protocol
+5	#DEP# jm

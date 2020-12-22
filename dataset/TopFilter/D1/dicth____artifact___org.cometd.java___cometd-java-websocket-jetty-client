@@ -1,0 +1,7 @@
+1	/artifact/org.cometd.java/cometd-java-websocket-jetty-client
+2	#DEP# websocket
+3	#DEP# server
+4	#DEP# messag
+5	#DEP# jetti
+6	#DEP# webserv
+7	#DEP# client

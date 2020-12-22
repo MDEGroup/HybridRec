@@ -1,0 +1,5 @@
+1	/artifact/com.twitter/finagle-zipkin
+2	#DEP# trace
+3	#DEP# finagl
+4	#DEP# twitter
+5	#DEP# distribut

@@ -1,0 +1,6 @@
+1	/artifact/org.netbeans.api/org-netbeans-modules-java-lexer
+2	#DEP# lexer
+3	#DEP# api
+4	#DEP# ide
+5	#DEP# modul
+6	#DEP# netbean

@@ -1,0 +1,5 @@
+1	/artifact/com.cyrusinnovation/mockito-groovy-support
+2	#DEP# groovi
+3	#DEP# test
+4	#DEP# support
+5	#DEP# mock

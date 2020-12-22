@@ -1,0 +1,5 @@
+1	/artifact/com.typesafe.play/play-java-jpa
+2	#DEP# typesaf
+3	#DEP# persist
+4	#DEP# play-framework
+5	#DEP# jpa

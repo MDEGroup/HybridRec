@@ -1,0 +1,8 @@
+1	/artifact/com.google.api.grpc/grpc-google-cloud-pubsub-v1
+2	#DEP# protocol
+3	#DEP# cloud
+4	#DEP# messag
+5	#DEP# rpc
+6	#DEP# googl
+7	#DEP# api
+8	#DEP# grpc

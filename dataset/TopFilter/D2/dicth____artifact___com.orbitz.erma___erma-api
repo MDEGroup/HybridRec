@@ -1,0 +1,6 @@
+1	/artifact/com.orbitz.erma/erma-api
+2	#DEP# monitor
+3	#DEP# api
+4	#DEP# manag
+5	#DEP# metric
+6	#DEP# perform

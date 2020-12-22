@@ -1,0 +1,5 @@
+1	/artifact/software.amazon.awscdk/cloudwatch
+2	#DEP# monitor
+3	#DEP# amazon
+4	#DEP# aw
+5	#DEP# metric

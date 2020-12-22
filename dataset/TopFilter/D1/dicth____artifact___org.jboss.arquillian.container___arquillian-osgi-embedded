@@ -1,0 +1,5 @@
+1	/artifact/org.jboss.arquillian.container/arquillian-osgi-embedded
+2	#DEP# embed
+3	#DEP# jboss
+4	#DEP# osgi
+5	#DEP# contain

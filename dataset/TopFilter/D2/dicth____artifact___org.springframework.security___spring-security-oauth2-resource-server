@@ -1,0 +1,7 @@
+1	/artifact/org.springframework.security/spring-security-oauth2-resource-server
+2	#DEP# oauth
+3	#DEP# secur
+4	#DEP# server
+5	#DEP# spring
+6	#DEP# resourc
+7	#DEP# authent

@@ -1,0 +1,5 @@
+1	/artifact/com.vaadin.external.slf4j/vaadin-slf4j-jdk14
+2	#DEP# log
+3	#DEP# gwt
+4	#DEP# slf4j
+5	#DEP# web-framework

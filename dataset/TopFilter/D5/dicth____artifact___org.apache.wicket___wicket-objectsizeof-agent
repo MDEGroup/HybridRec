@@ -1,0 +1,6 @@
+1	/artifact/org.apache.wicket/wicket-objectsizeof-agent
+2	#DEP# apach
+3	#DEP# wicket
+4	#DEP# profil
+5	#DEP# memori
+6	#DEP# agent

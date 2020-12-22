@@ -1,0 +1,5 @@
+1	/artifact/org.apache.commons/commons-vfs2
+2	#DEP# io
+3	#DEP# apach
+4	#DEP# vf
+5	#DEP# common

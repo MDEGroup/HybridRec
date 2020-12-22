@@ -1,0 +1,5 @@
+1	/artifact/org.apache.beam/beam-vendor-grpc-1_26_0
+2	#DEP# protocol
+3	#DEP# grpc
+4	#DEP# apach
+5	#DEP# rpc

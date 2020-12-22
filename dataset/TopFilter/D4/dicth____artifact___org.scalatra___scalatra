@@ -1,0 +1,5 @@
+1	/artifact/org.scalatra/scalatra
+2	#DEP# scala
+3	#DEP# web
+4	#DEP# framework
+5	#DEP# web-framework

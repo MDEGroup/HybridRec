@@ -1,0 +1,6 @@
+1	/artifact/io.vertx/vertx-amqp-bridge
+2	#DEP# queue
+3	#DEP# io
+4	#DEP# vertx
+5	#DEP# bridg
+6	#DEP# amqp

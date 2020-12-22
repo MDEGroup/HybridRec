@@ -1,0 +1,5 @@
+1	/artifact/org.jboss.spec.javax.resource/jboss-connector-api_1.6_spec
+2	#DEP# api
+3	#DEP# jboss
+4	#DEP# resourc
+5	#DEP# connector

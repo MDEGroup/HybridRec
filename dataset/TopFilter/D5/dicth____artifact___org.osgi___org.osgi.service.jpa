@@ -1,0 +1,5 @@
+1	/artifact/org.osgi/org.osgi.service.jpa
+2	#DEP# osgi
+3	#DEP# servic
+4	#DEP# persist
+5	#DEP# jpa

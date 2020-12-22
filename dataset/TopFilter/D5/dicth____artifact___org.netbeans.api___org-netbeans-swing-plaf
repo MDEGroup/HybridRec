@@ -1,0 +1,6 @@
+1	/artifact/org.netbeans.api/org-netbeans-swing-plaf
+2	#DEP# netbean
+3	#DEP# api
+4	#DEP# swing
+5	#DEP# ui
+6	#DEP# ide

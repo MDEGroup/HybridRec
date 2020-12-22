@@ -1,0 +1,5 @@
+1	/artifact/io.tesla/airline
+2	#DEP# io
+3	#DEP# parser
+4	#DEP# cli
+5	#DEP# command-lin

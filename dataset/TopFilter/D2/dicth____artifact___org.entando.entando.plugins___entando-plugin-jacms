@@ -1,0 +1,5 @@
+1	/artifact/org.entando.entando.plugins/entando-plugin-jacms
+2	#DEP# plugin
+3	#DEP# web
+4	#DEP# webapp
+5	#DEP# applic

@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.boot/spring-boot-starter-jdbc
+2	#DEP# sql
+3	#DEP# spring
+4	#DEP# starter
+5	#DEP# jdbc

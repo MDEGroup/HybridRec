@@ -1,0 +1,5 @@
+1	/artifact/org.wso2.messaging/broker-rest-runner
+2	#DEP# runner
+3	#DEP# rest
+4	#DEP# broker
+5	#DEP# messag

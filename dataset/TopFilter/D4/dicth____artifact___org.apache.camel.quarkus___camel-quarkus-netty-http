@@ -1,0 +1,7 @@
+1	/artifact/org.apache.camel.quarkus/camel-quarkus-netty-http
+2	#DEP# http
+3	#DEP# apach
+4	#DEP# netti
+5	#DEP# socket
+6	#DEP# camel
+7	#DEP# network

@@ -1,0 +1,6 @@
+1	/artifact/org.apache.maven.doxia/doxia-module-xhtml
+2	#DEP# build
+3	#DEP# apach
+4	#DEP# modul
+5	#DEP# build-system
+6	#DEP# maven

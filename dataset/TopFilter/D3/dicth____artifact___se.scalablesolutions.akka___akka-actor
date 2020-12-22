@@ -1,0 +1,5 @@
+1	/artifact/se.scalablesolutions.akka/akka-actor
+2	#DEP# akka
+3	#DEP# concurr
+4	#DEP# actor
+5	#DEP# distribut

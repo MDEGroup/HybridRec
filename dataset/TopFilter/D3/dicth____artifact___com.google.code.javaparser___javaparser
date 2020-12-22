@@ -1,0 +1,5 @@
+1	/artifact/com.google.code.javaparser/javaparser
+2	#DEP# java
+3	#DEP# googl
+4	#DEP# parser
+5	#DEP# compil

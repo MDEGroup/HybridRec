@@ -1,0 +1,6 @@
+1	/artifact/com.j256.ormlite/ormlite-jdbc
+2	#DEP# orm
+3	#DEP# sql
+4	#DEP# relat
+5	#DEP# jdbc
+6	#DEP# map

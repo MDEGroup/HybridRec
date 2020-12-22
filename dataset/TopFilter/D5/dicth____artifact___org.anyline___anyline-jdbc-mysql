@@ -1,0 +1,5 @@
+1	/artifact/org.anyline/anyline-jdbc-mysql
+2	#DEP# jdbc
+3	#DEP# databas
+4	#DEP# mysql
+5	#DEP# sql

@@ -1,0 +1,5 @@
+1	/artifact/com.google.android.gms/play-services-auth-base
+2	#DEP# googl
+3	#DEP# android
+4	#DEP# authent
+5	#DEP# servic

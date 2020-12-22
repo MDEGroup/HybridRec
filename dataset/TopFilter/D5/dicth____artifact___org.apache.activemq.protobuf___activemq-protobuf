@@ -1,0 +1,8 @@
+1	/artifact/org.apache.activemq.protobuf/activemq-protobuf
+2	#DEP# apach
+3	#DEP# maven
+4	#DEP# protocol
+5	#DEP# jm
+6	#DEP# plugin
+7	#DEP# queue
+8	#DEP# serial

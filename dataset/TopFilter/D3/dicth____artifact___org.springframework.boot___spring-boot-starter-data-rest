@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.boot/spring-boot-starter-data-rest
+2	#DEP# rest
+3	#DEP# spring
+4	#DEP# data
+5	#DEP# starter

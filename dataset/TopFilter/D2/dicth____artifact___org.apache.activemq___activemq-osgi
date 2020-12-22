@@ -1,0 +1,5 @@
+1	/artifact/org.apache.activemq/activemq-osgi
+2	#DEP# osgi
+3	#DEP# jm
+4	#DEP# queue
+5	#DEP# apach

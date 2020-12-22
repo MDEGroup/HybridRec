@@ -1,0 +1,6 @@
+1	/artifact/tomcat/naming-factory-dbcp
+2	#DEP# name
+3	#DEP# server
+4	#DEP# tomcat
+5	#DEP# factori
+6	#DEP# webserv

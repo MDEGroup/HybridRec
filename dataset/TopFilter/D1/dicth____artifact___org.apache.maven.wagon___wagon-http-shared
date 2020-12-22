@@ -1,0 +1,6 @@
+1	/artifact/org.apache.maven.wagon/wagon-http-shared
+2	#DEP# apach
+3	#DEP# http
+4	#DEP# build-system
+5	#DEP# build
+6	#DEP# maven

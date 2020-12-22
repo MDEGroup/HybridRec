@@ -1,0 +1,7 @@
+1	/artifact/org.apache.maven.surefire/surefire-logger-api
+2	#DEP# apach
+3	#DEP# build-system
+4	#DEP# build
+5	#DEP# log
+6	#DEP# api
+7	#DEP# maven

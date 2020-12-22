@@ -1,0 +1,5 @@
+1	/artifact/com.google.android/annotations
+2	#DEP# android
+3	#DEP# platform
+4	#DEP# annot
+5	#DEP# googl

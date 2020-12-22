@@ -1,0 +1,5 @@
+1	/artifact/io.springfox/springfox-swagger-ui
+2	#DEP# ui
+3	#DEP# io
+4	#DEP# swagger
+5	#DEP# api

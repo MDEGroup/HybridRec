@@ -1,0 +1,7 @@
+1	/artifact/org.netbeans.api/org-netbeans-spi-debugger-ui
+2	#DEP# debug
+3	#DEP# ide
+4	#DEP# interfac
+5	#DEP# netbean
+6	#DEP# ui
+7	#DEP# api

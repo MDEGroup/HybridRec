@@ -1,0 +1,6 @@
+1	/artifact/org.apache.qpid/qpid-amqp-1-0-client-jms
+2	#DEP# queue
+3	#DEP# apach
+4	#DEP# amqp
+5	#DEP# jm
+6	#DEP# client

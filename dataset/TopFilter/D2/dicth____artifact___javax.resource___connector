@@ -1,0 +1,6 @@
+1	/artifact/javax.resource/connector
+2	#DEP# standard
+3	#DEP# connector
+4	#DEP# resourc
+5	#DEP# spec
+6	#DEP# javax

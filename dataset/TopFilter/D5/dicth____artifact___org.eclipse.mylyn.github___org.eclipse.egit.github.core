@@ -1,0 +1,5 @@
+1	/artifact/org.eclipse.mylyn.github/org.eclipse.egit.github.core
+2	#DEP# eclips
+3	#DEP# client
+4	#DEP# github
+5	#DEP# api

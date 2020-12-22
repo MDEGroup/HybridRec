@@ -1,0 +1,8 @@
+1	/artifact/org.wso2.orbit.org.apache.tomcat/jdbc-pool
+2	#DEP# apach
+3	#DEP# webserv
+4	#DEP# tomcat
+5	#DEP# pool
+6	#DEP# sql
+7	#DEP# jdbc
+8	#DEP# server

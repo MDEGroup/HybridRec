@@ -1,0 +1,8 @@
+1	/artifact/com.github.krasserm/akka-persistence-testkit
+2	#DEP# concurr
+3	#DEP# akka
+4	#DEP# distribut
+5	#DEP# github
+6	#DEP# test
+7	#DEP# persist
+8	#DEP# actor

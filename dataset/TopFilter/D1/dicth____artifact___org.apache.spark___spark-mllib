@@ -1,0 +1,5 @@
+1	/artifact/org.apache.spark/spark-mllib
+2	#DEP# ai
+3	#DEP# spark
+4	#DEP# machine-learn
+5	#DEP# apach

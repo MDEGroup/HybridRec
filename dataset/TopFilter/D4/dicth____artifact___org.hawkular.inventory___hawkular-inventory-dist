@@ -1,0 +1,5 @@
+1	/artifact/org.hawkular.inventory/hawkular-inventory-dist
+2	#DEP# applic
+3	#DEP# web
+4	#DEP# distribut
+5	#DEP# webapp

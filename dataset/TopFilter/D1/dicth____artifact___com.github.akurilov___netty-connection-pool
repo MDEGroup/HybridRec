@@ -1,0 +1,7 @@
+1	/artifact/com.github.akurilov/netty-connection-pool
+2	#DEP# github
+3	#DEP# socket
+4	#DEP# netti
+5	#DEP# network
+6	#DEP# connect
+7	#DEP# pool

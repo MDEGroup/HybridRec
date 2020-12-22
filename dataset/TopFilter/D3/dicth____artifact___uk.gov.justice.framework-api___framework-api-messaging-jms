@@ -1,0 +1,6 @@
+1	/artifact/uk.gov.justice.framework-api/framework-api-messaging-jms
+2	#DEP# queue
+3	#DEP# api
+4	#DEP# framework
+5	#DEP# messag
+6	#DEP# jm

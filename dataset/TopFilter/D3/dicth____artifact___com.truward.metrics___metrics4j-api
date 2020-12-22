@@ -1,0 +1,6 @@
+1	/artifact/com.truward.metrics/metrics4j-api
+2	#DEP# metric
+3	#DEP# api
+4	#DEP# manag
+5	#DEP# monitor
+6	#DEP# perform

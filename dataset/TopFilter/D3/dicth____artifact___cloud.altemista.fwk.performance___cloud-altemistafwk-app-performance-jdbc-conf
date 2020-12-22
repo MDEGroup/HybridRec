@@ -1,0 +1,5 @@
+1	/artifact/cloud.altemista.fwk.performance/cloud-altemistafwk-app-performance-jdbc-conf
+2	#DEP# cloud
+3	#DEP# perform
+4	#DEP# sql
+5	#DEP# jdbc

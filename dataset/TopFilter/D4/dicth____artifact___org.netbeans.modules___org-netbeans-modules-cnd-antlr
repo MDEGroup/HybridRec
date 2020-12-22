@@ -1,0 +1,6 @@
+1	/artifact/org.netbeans.modules/org-netbeans-modules-cnd-antlr
+2	#DEP# compil
+3	#DEP# ide
+4	#DEP# netbean
+5	#DEP# parser
+6	#DEP# modul

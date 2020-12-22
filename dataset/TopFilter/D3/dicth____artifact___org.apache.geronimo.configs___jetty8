@@ -1,0 +1,5 @@
+1	/artifact/org.apache.geronimo.configs/jetty8
+2	#DEP# webserv
+3	#DEP# jetti
+4	#DEP# apach
+5	#DEP# server

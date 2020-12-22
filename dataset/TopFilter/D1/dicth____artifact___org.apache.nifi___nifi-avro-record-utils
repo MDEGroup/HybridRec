@@ -1,0 +1,5 @@
+1	/artifact/org.apache.nifi/nifi-avro-record-utils
+2	#DEP# serial
+3	#DEP# protocol
+4	#DEP# avro
+5	#DEP# apach

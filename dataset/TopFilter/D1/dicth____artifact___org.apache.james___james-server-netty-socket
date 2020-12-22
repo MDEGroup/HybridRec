@@ -1,0 +1,7 @@
+1	/artifact/org.apache.james/james-server-netty-socket
+2	#DEP# apach
+3	#DEP# server
+4	#DEP# socket
+5	#DEP# netti
+6	#DEP# mail
+7	#DEP# network

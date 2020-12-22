@@ -1,0 +1,6 @@
+1	/artifact/com.lightbend.lagom/lagom-persistence-cassandra-core
+2	#DEP# microservic
+3	#DEP# cassandra
+4	#DEP# persist
+5	#DEP# lightbend
+6	#DEP# databas

@@ -1,0 +1,6 @@
+1	/artifact/com.typesafe.akka/akka-kernel
+2	#DEP# concurr
+3	#DEP# akka
+4	#DEP# distribut
+5	#DEP# typesaf
+6	#DEP# actor

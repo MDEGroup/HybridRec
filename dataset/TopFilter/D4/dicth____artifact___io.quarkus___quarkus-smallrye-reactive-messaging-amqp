@@ -1,0 +1,6 @@
+1	/artifact/io.quarkus/quarkus-smallrye-reactive-messaging-amqp
+2	#DEP# queue
+3	#DEP# reactiv
+4	#DEP# messag
+5	#DEP# amqp
+6	#DEP# io

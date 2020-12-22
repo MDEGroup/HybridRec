@@ -1,0 +1,5 @@
+1	/artifact/org.netbeans.api/org-openide-io
+2	#DEP# api
+3	#DEP# netbean
+4	#DEP# ide
+5	#DEP# io

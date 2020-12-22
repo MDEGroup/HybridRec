@@ -1,0 +1,5 @@
+1	/artifact/org.apache.hadoop/hadoop-aws
+2	#DEP# hadoop
+3	#DEP# apach
+4	#DEP# amazon
+5	#DEP# aw

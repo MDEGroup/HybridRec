@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.osgi/spring-osgi-mock
+2	#DEP# mock
+3	#DEP# test
+4	#DEP# osgi
+5	#DEP# spring

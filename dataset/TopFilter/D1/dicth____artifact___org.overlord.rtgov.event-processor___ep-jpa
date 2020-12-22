@@ -1,0 +1,5 @@
+1	/artifact/org.overlord.rtgov.event-processor/ep-jpa
+2	#DEP# event
+3	#DEP# processor
+4	#DEP# persist
+5	#DEP# jpa

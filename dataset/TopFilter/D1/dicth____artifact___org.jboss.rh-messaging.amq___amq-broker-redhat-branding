@@ -1,0 +1,7 @@
+1	/artifact/org.jboss.rh-messaging.amq/amq-broker-redhat-branding
+2	#DEP# web
+3	#DEP# jboss
+4	#DEP# broker
+5	#DEP# messag
+6	#DEP# webapp
+7	#DEP# applic

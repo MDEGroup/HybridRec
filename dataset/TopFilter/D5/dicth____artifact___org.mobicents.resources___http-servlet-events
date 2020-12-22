@@ -1,0 +1,5 @@
+1	/artifact/org.mobicents.resources/http-servlet-events
+2	#DEP# resourc
+3	#DEP# servlet
+4	#DEP# http
+5	#DEP# event

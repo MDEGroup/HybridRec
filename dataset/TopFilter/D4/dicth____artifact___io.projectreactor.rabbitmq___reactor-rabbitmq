@@ -1,0 +1,5 @@
+1	/artifact/io.projectreactor.rabbitmq/reactor-rabbitmq
+2	#DEP# rabbitmq
+3	#DEP# amqp
+4	#DEP# io
+5	#DEP# queue

@@ -1,0 +1,5 @@
+1	/artifact/org.apache.hadoop/hadoop-yarn-server-resourcemanager
+2	#DEP# yarn
+3	#DEP# apach
+4	#DEP# server
+5	#DEP# hadoop

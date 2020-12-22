@@ -1,0 +1,7 @@
+1	/artifact/org.apache.hbase/hbase-metrics-api
+2	#DEP# hadoop
+3	#DEP# api
+4	#DEP# apach
+5	#DEP# metric
+6	#DEP# databas
+7	#DEP# hbase

@@ -1,0 +1,6 @@
+1	/artifact/javax.portlet/com.springsource.javax.portlet
+2	#DEP# spec
+3	#DEP# spring
+4	#DEP# portlet
+5	#DEP# javax
+6	#DEP# standard

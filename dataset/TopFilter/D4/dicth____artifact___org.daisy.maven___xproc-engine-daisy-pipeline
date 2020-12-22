@@ -1,0 +1,6 @@
+1	/artifact/org.daisy.maven/xproc-engine-daisy-pipeline
+2	#DEP# build
+3	#DEP# engin
+4	#DEP# maven
+5	#DEP# build-system
+6	#DEP# pipelin

@@ -1,0 +1,8 @@
+1	/artifact/net.exoego/aws-sdk-scalajs-facade-dynamodb
+2	#DEP# aw
+3	#DEP# scalaj
+4	#DEP# sdk
+5	#DEP# databas
+6	#DEP# amazon
+7	#DEP# dynamodb
+8	#DEP# scala

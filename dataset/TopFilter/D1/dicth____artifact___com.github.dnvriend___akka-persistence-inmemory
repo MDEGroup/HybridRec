@@ -1,0 +1,7 @@
+1	/artifact/com.github.dnvriend/akka-persistence-inmemory
+2	#DEP# distribut
+3	#DEP# github
+4	#DEP# persist
+5	#DEP# concurr
+6	#DEP# actor
+7	#DEP# akka

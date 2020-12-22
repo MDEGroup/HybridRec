@@ -1,0 +1,5 @@
+1	/artifact/com.github.romix/java-concurrent-hash-trie-map
+2	#DEP# collect
+3	#DEP# concurr
+4	#DEP# github
+5	#DEP# structur

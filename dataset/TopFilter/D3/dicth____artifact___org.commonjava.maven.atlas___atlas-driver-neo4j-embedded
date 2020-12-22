@@ -1,0 +1,9 @@
+1	/artifact/org.commonjava.maven.atlas/atlas-driver-neo4j-embedded
+2	#DEP# neo4j
+3	#DEP# embed
+4	#DEP# graph
+5	#DEP# driver
+6	#DEP# build
+7	#DEP# build-system
+8	#DEP# maven
+9	#DEP# databas

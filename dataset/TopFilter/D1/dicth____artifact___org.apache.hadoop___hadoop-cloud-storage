@@ -1,0 +1,5 @@
+1	/artifact/org.apache.hadoop/hadoop-cloud-storage
+2	#DEP# hadoop
+3	#DEP# apach
+4	#DEP# storag
+5	#DEP# cloud

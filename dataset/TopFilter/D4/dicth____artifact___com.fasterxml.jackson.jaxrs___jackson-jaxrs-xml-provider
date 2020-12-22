@@ -1,0 +1,6 @@
+1	/artifact/com.fasterxml.jackson.jaxrs/jackson-jaxrs-xml-provider
+2	#DEP# xml
+3	#DEP# json
+4	#DEP# rest
+5	#DEP# jaxr
+6	#DEP# provid

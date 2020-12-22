@@ -1,0 +1,6 @@
+1	/artifact/dev.zio/zio-test-sbt
+2	#DEP# build
+3	#DEP# sbt
+4	#DEP# scala
+5	#DEP# build-system
+6	#DEP# test

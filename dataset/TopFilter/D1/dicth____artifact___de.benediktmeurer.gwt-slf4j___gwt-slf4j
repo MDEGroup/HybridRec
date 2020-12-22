@@ -1,0 +1,5 @@
+1	/artifact/de.benediktmeurer.gwt-slf4j/gwt-slf4j
+2	#DEP# ui
+3	#DEP# slf4j
+4	#DEP# log
+5	#DEP# gwt

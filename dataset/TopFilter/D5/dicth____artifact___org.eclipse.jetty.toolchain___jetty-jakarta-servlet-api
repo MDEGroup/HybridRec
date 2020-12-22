@@ -1,0 +1,7 @@
+1	/artifact/org.eclipse.jetty.toolchain/jetty-jakarta-servlet-api
+2	#DEP# webserv
+3	#DEP# servlet
+4	#DEP# jetti
+5	#DEP# api
+6	#DEP# eclips
+7	#DEP# server

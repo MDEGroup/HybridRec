@@ -1,0 +1,6 @@
+1	/artifact/io.arivera.oss/embedded-rabbitmq
+2	#DEP# rabbitmq
+3	#DEP# queue
+4	#DEP# amqp
+5	#DEP# embed
+6	#DEP# io

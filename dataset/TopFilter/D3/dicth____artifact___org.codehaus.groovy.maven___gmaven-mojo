@@ -1,0 +1,6 @@
+1	/artifact/org.codehaus.groovy.maven/gmaven-mojo
+2	#DEP# codehau
+3	#DEP# groovi
+4	#DEP# build
+5	#DEP# build-system
+6	#DEP# maven

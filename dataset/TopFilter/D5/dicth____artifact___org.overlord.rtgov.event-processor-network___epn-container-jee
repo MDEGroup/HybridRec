@@ -1,0 +1,5 @@
+1	/artifact/org.overlord.rtgov.event-processor-network/epn-container-jee
+2	#DEP# network
+3	#DEP# processor
+4	#DEP# event
+5	#DEP# contain

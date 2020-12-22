@@ -1,0 +1,6 @@
+1	/artifact/com.wordnik/swagger-jersey-jaxrs
+2	#DEP# swagger
+3	#DEP# rest
+4	#DEP# api
+5	#DEP# jaxr
+6	#DEP# webservic

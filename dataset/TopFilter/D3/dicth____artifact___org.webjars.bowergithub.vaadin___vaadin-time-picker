@@ -1,0 +1,6 @@
+1	/artifact/org.webjars.bowergithub.vaadin/vaadin-time-picker
+2	#DEP# web
+3	#DEP# gwt
+4	#DEP# time
+5	#DEP# asset
+6	#DEP# web-framework

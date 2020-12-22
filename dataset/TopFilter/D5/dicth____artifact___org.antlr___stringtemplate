@@ -1,0 +1,5 @@
+1	/artifact/org.antlr/stringtemplate
+2	#DEP# parser
+3	#DEP# compil
+4	#DEP# engin
+5	#DEP# templat

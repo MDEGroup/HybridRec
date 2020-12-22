@@ -1,0 +1,5 @@
+1	/artifact/org.apache.commons/com.springsource.org.apache.commons.cli
+2	#DEP# command-lin
+3	#DEP# spring
+4	#DEP# apach
+5	#DEP# common

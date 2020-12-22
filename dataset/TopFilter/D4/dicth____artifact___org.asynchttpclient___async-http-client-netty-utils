@@ -1,0 +1,7 @@
+1	/artifact/org.asynchttpclient/async-http-client-netty-utils
+2	#DEP# http
+3	#DEP# netti
+4	#DEP# socket
+5	#DEP# asynchron
+6	#DEP# network
+7	#DEP# client

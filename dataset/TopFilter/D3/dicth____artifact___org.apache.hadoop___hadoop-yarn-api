@@ -1,0 +1,6 @@
+1	/artifact/org.apache.hadoop/hadoop-yarn-api
+2	#DEP# api
+3	#DEP# cluster
+4	#DEP# yarn
+5	#DEP# hadoop
+6	#DEP# apach

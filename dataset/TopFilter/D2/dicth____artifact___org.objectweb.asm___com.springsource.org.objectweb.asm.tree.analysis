@@ -1,0 +1,5 @@
+1	/artifact/org.objectweb.asm/com.springsource.org.objectweb.asm.tree.analysis
+2	#DEP# spring
+3	#DEP# bytecod
+4	#DEP# tree
+5	#DEP# analysi

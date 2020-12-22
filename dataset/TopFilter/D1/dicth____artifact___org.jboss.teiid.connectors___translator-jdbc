@@ -1,0 +1,5 @@
+1	/artifact/org.jboss.teiid.connectors/translator-jdbc
+2	#DEP# sql
+3	#DEP# jdbc
+4	#DEP# jboss
+5	#DEP# connector

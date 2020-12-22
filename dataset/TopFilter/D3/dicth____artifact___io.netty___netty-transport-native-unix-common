@@ -1,0 +1,8 @@
+1	/artifact/io.netty/netty-transport-native-unix-common
+2	#DEP# transport
+3	#DEP# netti
+4	#DEP# io
+5	#DEP# socket
+6	#DEP# unix
+7	#DEP# network
+8	#DEP# nativ

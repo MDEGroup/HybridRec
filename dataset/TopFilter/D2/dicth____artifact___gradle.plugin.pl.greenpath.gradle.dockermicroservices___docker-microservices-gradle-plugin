@@ -1,0 +1,8 @@
+1	/artifact/gradle.plugin.pl.greenpath.gradle.dockermicroservices/docker-microservices-gradle-plugin
+2	#DEP# microservic
+3	#DEP# groovi
+4	#DEP# build
+5	#DEP# docker
+6	#DEP# build-system
+7	#DEP# gradl
+8	#DEP# plugin

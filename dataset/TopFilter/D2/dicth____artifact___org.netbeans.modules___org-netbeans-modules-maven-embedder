@@ -1,0 +1,7 @@
+1	/artifact/org.netbeans.modules/org-netbeans-modules-maven-embedder
+2	#DEP# build
+3	#DEP# modul
+4	#DEP# maven
+5	#DEP# ide
+6	#DEP# build-system
+7	#DEP# netbean

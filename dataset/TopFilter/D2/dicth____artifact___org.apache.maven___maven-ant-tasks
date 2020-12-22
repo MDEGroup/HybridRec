@@ -1,0 +1,6 @@
+1	/artifact/org.apache.maven/maven-ant-tasks
+2	#DEP# ant
+3	#DEP# build
+4	#DEP# maven
+5	#DEP# build-system
+6	#DEP# apach

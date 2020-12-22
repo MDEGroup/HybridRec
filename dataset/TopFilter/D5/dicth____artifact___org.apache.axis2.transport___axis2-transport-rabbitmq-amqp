@@ -1,0 +1,7 @@
+1	/artifact/org.apache.axis2.transport/axis2-transport-rabbitmq-amqp
+2	#DEP# apach
+3	#DEP# rabbitmq
+4	#DEP# transport
+5	#DEP# webservic
+6	#DEP# queue
+7	#DEP# amqp

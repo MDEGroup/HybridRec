@@ -1,0 +1,5 @@
+1	/artifact/org.apache.commons/commons-rdf-jsonld-java
+2	#DEP# rdf
+3	#DEP# json
+4	#DEP# apach
+5	#DEP# common

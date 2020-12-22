@@ -1,0 +1,6 @@
+1	/artifact/org.eclipse.jetty.orbit/org.apache.jasper.glassfish
+2	#DEP# apach
+3	#DEP# server
+4	#DEP# eclips
+5	#DEP# jetti
+6	#DEP# webserv

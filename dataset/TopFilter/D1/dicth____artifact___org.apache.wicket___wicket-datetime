@@ -1,0 +1,5 @@
+1	/artifact/org.apache.wicket/wicket-datetime
+2	#DEP# time
+3	#DEP# apach
+4	#DEP# wicket
+5	#DEP# date

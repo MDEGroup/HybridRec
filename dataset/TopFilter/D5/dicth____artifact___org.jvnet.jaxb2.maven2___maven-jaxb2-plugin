@@ -1,0 +1,7 @@
+1	/artifact/org.jvnet.jaxb2.maven2/maven-jaxb2-plugin
+2	#DEP# build
+3	#DEP# maven
+4	#DEP# plugin
+5	#DEP# xml
+6	#DEP# bind
+7	#DEP# build-system

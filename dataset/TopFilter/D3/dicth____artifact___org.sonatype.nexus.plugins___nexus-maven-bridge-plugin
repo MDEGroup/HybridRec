@@ -1,0 +1,6 @@
+1	/artifact/org.sonatype.nexus.plugins/nexus-maven-bridge-plugin
+2	#DEP# plugin
+3	#DEP# build
+4	#DEP# bridg
+5	#DEP# build-system
+6	#DEP# maven

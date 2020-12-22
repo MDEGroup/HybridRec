@@ -1,0 +1,6 @@
+1	/artifact/io.github.sullis/jms-testkit
+2	#DEP# queue
+3	#DEP# io
+4	#DEP# jm
+5	#DEP# github
+6	#DEP# test

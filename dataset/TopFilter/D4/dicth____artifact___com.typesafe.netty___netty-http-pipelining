@@ -1,0 +1,6 @@
+1	/artifact/com.typesafe.netty/netty-http-pipelining
+2	#DEP# http
+3	#DEP# netti
+4	#DEP# socket
+5	#DEP# typesaf
+6	#DEP# network

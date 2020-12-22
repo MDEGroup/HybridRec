@@ -1,0 +1,6 @@
+1	/artifact/io.quarkus/quarkus-smallrye-reactive-messaging-kafka
+2	#DEP# messag
+3	#DEP# reactiv
+4	#DEP# stream
+5	#DEP# io
+6	#DEP# kafka

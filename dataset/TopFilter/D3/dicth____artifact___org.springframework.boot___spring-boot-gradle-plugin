@@ -1,0 +1,7 @@
+1	/artifact/org.springframework.boot/spring-boot-gradle-plugin
+2	#DEP# gradl
+3	#DEP# plugin
+4	#DEP# groovi
+5	#DEP# build
+6	#DEP# build-system
+7	#DEP# spring

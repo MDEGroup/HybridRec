@@ -1,0 +1,8 @@
+1	/artifact/javax.xml.bind/jaxb-api-osgi
+2	#DEP# xml
+3	#DEP# standard
+4	#DEP# javax
+5	#DEP# api
+6	#DEP# spec
+7	#DEP# osgi
+8	#DEP# bind

@@ -1,0 +1,5 @@
+1	/artifact/com.vaadin/vaadin-spring-boot-starter
+2	#DEP# gwt
+3	#DEP# spring
+4	#DEP# web-framework
+5	#DEP# starter

@@ -1,0 +1,7 @@
+1	/artifact/com.lightbend.akka/akka-stream-alpakka-sse
+2	#DEP# concurr
+3	#DEP# distribut
+4	#DEP# akka
+5	#DEP# lightbend
+6	#DEP# stream
+7	#DEP# actor

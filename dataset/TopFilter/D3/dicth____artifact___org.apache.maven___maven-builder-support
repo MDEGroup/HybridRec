@@ -1,0 +1,7 @@
+1	/artifact/org.apache.maven/maven-builder-support
+2	#DEP# support
+3	#DEP# apach
+4	#DEP# build
+5	#DEP# build-system
+6	#DEP# builder
+7	#DEP# maven

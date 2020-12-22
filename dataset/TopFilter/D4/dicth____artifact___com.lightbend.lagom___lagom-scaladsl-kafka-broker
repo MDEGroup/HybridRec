@@ -1,0 +1,7 @@
+1	/artifact/com.lightbend.lagom/lagom-scaladsl-kafka-broker
+2	#DEP# kafka
+3	#DEP# lightbend
+4	#DEP# microservic
+5	#DEP# broker
+6	#DEP# stream
+7	#DEP# dsl

@@ -1,0 +1,5 @@
+1	/artifact/org.jenkins-ci.plugins/subversion
+2	#DEP# svn
+3	#DEP# plugin
+4	#DEP# scm
+5	#DEP# jenkin

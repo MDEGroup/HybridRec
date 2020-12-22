@@ -1,0 +1,5 @@
+1	/artifact/org.eclipse.ditto/ditto-signals-commands-amqp-bridge
+2	#DEP# bridg
+3	#DEP# amqp
+4	#DEP# eclips
+5	#DEP# queue

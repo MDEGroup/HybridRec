@@ -1,0 +1,6 @@
+1	/artifact/org.eclipse.jetty/jetty-xml
+2	#DEP# xml
+3	#DEP# webserv
+4	#DEP# jetti
+5	#DEP# server
+6	#DEP# eclips

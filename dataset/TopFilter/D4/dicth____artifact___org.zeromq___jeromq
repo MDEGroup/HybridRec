@@ -1,0 +1,5 @@
+1	/artifact/org.zeromq/jeromq
+2	#DEP# client
+3	#DEP# socket
+4	#DEP# messag
+5	#DEP# queue

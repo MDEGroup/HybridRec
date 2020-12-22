@@ -1,0 +1,6 @@
+1	/artifact/org.apache.tomcat/tomcat7-websocket
+2	#DEP# webserv
+3	#DEP# websocket
+4	#DEP# server
+5	#DEP# apach
+6	#DEP# tomcat

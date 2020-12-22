@@ -1,0 +1,7 @@
+1	/artifact/org.netbeans.api/org-netbeans-modules-html-lexer
+2	#DEP# lexer
+3	#DEP# api
+4	#DEP# html
+5	#DEP# ide
+6	#DEP# modul
+7	#DEP# netbean

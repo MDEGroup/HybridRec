@@ -1,0 +1,5 @@
+1	/artifact/org.scala-lang/scala-library
+2	#DEP# scala
+3	#DEP# jvm
+4	#DEP# languag
+5	#DEP# librari

@@ -1,0 +1,9 @@
+1	/artifact/com.typesafe.akka/akka-http-scala-experimental
+2	#DEP# experiment
+3	#DEP# actor
+4	#DEP# typesaf
+5	#DEP# scala
+6	#DEP# http
+7	#DEP# distribut
+8	#DEP# concurr
+9	#DEP# akka

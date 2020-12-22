@@ -1,0 +1,6 @@
+1	/artifact/com.cosium.spring.data/spring-data-jpa-entity-graph
+2	#DEP# data
+3	#DEP# graph
+4	#DEP# jpa
+5	#DEP# persist
+6	#DEP# spring

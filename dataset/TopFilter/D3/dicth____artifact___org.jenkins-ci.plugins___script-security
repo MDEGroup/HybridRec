@@ -1,0 +1,5 @@
+1	/artifact/org.jenkins-ci.plugins/script-security
+2	#DEP# jenkin
+3	#DEP# script
+4	#DEP# plugin
+5	#DEP# secur

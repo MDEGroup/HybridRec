@@ -1,0 +1,5 @@
+1	/artifact/org.apache.activemq/activemq-core-client
+2	#DEP# queue
+3	#DEP# jm
+4	#DEP# client
+5	#DEP# apach

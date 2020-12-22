@@ -1,0 +1,5 @@
+1	/artifact/org.jboss.eap/wildfly-messaging-activemq
+2	#DEP# jboss
+3	#DEP# messag
+4	#DEP# queue
+5	#DEP# jm

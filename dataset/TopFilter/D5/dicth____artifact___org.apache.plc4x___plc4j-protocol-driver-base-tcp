@@ -1,0 +1,6 @@
+1	/artifact/org.apache.plc4x/plc4j-protocol-driver-base-tcp
+2	#DEP# apach
+3	#DEP# network
+4	#DEP# protocol
+5	#DEP# tcp
+6	#DEP# driver

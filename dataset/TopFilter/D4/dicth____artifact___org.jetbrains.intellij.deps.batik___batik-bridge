@@ -1,0 +1,5 @@
+1	/artifact/org.jetbrains.intellij.deps.batik/batik-bridge
+2	#DEP# bridg
+3	#DEP# ide
+4	#DEP# svg
+5	#DEP# graphic

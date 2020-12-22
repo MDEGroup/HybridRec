@@ -1,0 +1,5 @@
+1	/artifact/io.ballerina.messaging/broker-metrics
+2	#DEP# messag
+3	#DEP# io
+4	#DEP# metric
+5	#DEP# broker

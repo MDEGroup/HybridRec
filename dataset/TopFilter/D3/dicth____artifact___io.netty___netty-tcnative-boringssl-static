@@ -1,0 +1,5 @@
+1	/artifact/io.netty/netty-tcnative-boringssl-static
+2	#DEP# network
+3	#DEP# netti
+4	#DEP# io
+5	#DEP# socket

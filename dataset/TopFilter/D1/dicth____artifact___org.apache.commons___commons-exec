@@ -1,0 +1,7 @@
+1	/artifact/org.apache.commons/commons-exec
+2	#DEP# apach
+3	#DEP# execut
+4	#DEP# common
+5	#DEP# extern
+6	#DEP# command
+7	#DEP# process

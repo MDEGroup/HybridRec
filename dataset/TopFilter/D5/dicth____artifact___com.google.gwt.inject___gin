@@ -1,0 +1,5 @@
+1	/artifact/com.google.gwt.inject/gin
+2	#DEP# dependency-inject
+3	#DEP# ui
+4	#DEP# gwt
+5	#DEP# googl

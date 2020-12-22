@@ -1,0 +1,5 @@
+1	/artifact/io.github.openfeign/feign-slf4j
+2	#DEP# log
+3	#DEP# slf4j
+4	#DEP# io
+5	#DEP# github

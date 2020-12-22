@@ -1,0 +1,6 @@
+1	/artifact/io.joynr.android/slf4j-android-bindings
+2	#DEP# android
+3	#DEP# bind
+4	#DEP# log
+5	#DEP# slf4j
+6	#DEP# io

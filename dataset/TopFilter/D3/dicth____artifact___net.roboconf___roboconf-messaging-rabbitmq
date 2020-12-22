@@ -1,0 +1,5 @@
+1	/artifact/net.roboconf/roboconf-messaging-rabbitmq
+2	#DEP# queue
+3	#DEP# amqp
+4	#DEP# messag
+5	#DEP# rabbitmq

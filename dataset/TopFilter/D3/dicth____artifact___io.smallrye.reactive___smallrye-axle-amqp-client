@@ -1,0 +1,6 @@
+1	/artifact/io.smallrye.reactive/smallrye-axle-amqp-client
+2	#DEP# queue
+3	#DEP# reactiv
+4	#DEP# io
+5	#DEP# amqp
+6	#DEP# client

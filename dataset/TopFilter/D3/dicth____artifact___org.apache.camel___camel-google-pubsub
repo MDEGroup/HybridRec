@@ -1,0 +1,5 @@
+1	/artifact/org.apache.camel/camel-google-pubsub
+2	#DEP# googl
+3	#DEP# camel
+4	#DEP# apach
+5	#DEP# messag

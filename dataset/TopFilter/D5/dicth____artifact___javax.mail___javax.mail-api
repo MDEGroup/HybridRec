@@ -1,0 +1,6 @@
+1	/artifact/javax.mail/javax.mail-api
+2	#DEP# standard
+3	#DEP# javax
+4	#DEP# mail
+5	#DEP# api
+6	#DEP# spec

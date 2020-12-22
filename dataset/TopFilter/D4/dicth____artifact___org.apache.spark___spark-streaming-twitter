@@ -1,0 +1,5 @@
+1	/artifact/org.apache.spark/spark-streaming-twitter
+2	#DEP# apach
+3	#DEP# spark
+4	#DEP# twitter
+5	#DEP# stream

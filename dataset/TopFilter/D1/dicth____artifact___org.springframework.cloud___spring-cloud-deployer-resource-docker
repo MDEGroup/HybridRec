@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.cloud/spring-cloud-deployer-resource-docker
+2	#DEP# docker
+3	#DEP# resourc
+4	#DEP# spring
+5	#DEP# cloud

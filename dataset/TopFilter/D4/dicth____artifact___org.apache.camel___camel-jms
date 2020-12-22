@@ -1,0 +1,7 @@
+1	/artifact/org.apache.camel/camel-jms
+2	#DEP# apach
+3	#DEP# queue
+4	#DEP# messag
+5	#DEP# jm
+6	#DEP# camel
+7	#DEP# client

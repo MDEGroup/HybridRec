@@ -1,0 +1,9 @@
+1	/artifact/com.lightbend.akka.management/akka-management-cluster-http
+2	#DEP# http
+3	#DEP# manag
+4	#DEP# lightbend
+5	#DEP# concurr
+6	#DEP# akka
+7	#DEP# distribut
+8	#DEP# cluster
+9	#DEP# actor

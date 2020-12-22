@@ -1,0 +1,9 @@
+1	/artifact/org.apache.maven.scm/maven-scm-provider-gitexe
+2	#DEP# version-control
+3	#DEP# apach
+4	#DEP# build
+5	#DEP# git
+6	#DEP# scm
+7	#DEP# maven
+8	#DEP# provid
+9	#DEP# build-system

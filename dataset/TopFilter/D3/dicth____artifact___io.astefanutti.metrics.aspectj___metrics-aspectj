@@ -1,0 +1,5 @@
+1	/artifact/io.astefanutti.metrics.aspectj/metrics-aspectj
+2	#DEP# io
+3	#DEP# aop
+4	#DEP# aspect
+5	#DEP# metric

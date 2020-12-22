@@ -1,0 +1,8 @@
+1	/artifact/jp.classmethod.aws/gradle-aws-plugin
+2	#DEP# groovi
+3	#DEP# build
+4	#DEP# amazon
+5	#DEP# build-system
+6	#DEP# aw
+7	#DEP# gradl
+8	#DEP# plugin

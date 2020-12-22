@@ -1,0 +1,5 @@
+1	/artifact/org.apache.mahout/mahout-collections
+2	#DEP# apach
+3	#DEP# collect
+4	#DEP# structur
+5	#DEP# machine-learn

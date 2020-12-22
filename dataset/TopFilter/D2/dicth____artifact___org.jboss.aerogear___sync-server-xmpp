@@ -1,0 +1,5 @@
+1	/artifact/org.jboss.aerogear/sync-server-xmpp
+2	#DEP# sync
+3	#DEP# xmpp
+4	#DEP# jboss
+5	#DEP# server

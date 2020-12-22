@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.cloud/spring-cloud-stream-binder-kafka
+2	#DEP# cloud
+3	#DEP# spring
+4	#DEP# kafka
+5	#DEP# stream

@@ -1,0 +1,7 @@
+1	/artifact/io.vertx/vertx-rabbitmq-client
+2	#DEP# client
+3	#DEP# rabbitmq
+4	#DEP# queue
+5	#DEP# amqp
+6	#DEP# vertx
+7	#DEP# io

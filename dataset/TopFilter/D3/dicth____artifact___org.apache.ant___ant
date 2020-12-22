@@ -1,0 +1,5 @@
+1	/artifact/org.apache.ant/ant
+2	#DEP# apach
+3	#DEP# ant
+4	#DEP# build
+5	#DEP# tool

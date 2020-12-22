@@ -1,0 +1,7 @@
+1	/artifact/org.osgi.enroute.examples.microservice/dao-api
+2	#DEP# osgi
+3	#DEP# exampl
+4	#DEP# microservic
+5	#DEP# api
+6	#DEP# dao
+7	#DEP# servic

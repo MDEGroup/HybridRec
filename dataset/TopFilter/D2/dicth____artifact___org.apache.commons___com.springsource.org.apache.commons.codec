@@ -1,0 +1,5 @@
+1	/artifact/org.apache.commons/com.springsource.org.apache.commons.codec
+2	#DEP# spring
+3	#DEP# codec
+4	#DEP# common
+5	#DEP# apach

@@ -1,0 +1,6 @@
+1	/artifact/com.twitter/chill-akka
+2	#DEP# actor
+3	#DEP# distribut
+4	#DEP# twitter
+5	#DEP# concurr
+6	#DEP# akka

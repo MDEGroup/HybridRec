@@ -1,0 +1,6 @@
+1	/artifact/com.github.traviscrawford/spark-dynamodb
+2	#DEP# github
+3	#DEP# dynamodb
+4	#DEP# spark
+5	#DEP# aw
+6	#DEP# databas

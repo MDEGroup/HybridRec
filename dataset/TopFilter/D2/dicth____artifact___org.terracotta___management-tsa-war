@@ -1,0 +1,5 @@
+1	/artifact/org.terracotta/management-tsa-war
+2	#DEP# web
+3	#DEP# webapp
+4	#DEP# manag
+5	#DEP# applic

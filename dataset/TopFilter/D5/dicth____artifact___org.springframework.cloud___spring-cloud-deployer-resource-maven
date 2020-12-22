@@ -1,0 +1,7 @@
+1	/artifact/org.springframework.cloud/spring-cloud-deployer-resource-maven
+2	#DEP# cloud
+3	#DEP# build
+4	#DEP# resourc
+5	#DEP# maven
+6	#DEP# spring
+7	#DEP# build-system

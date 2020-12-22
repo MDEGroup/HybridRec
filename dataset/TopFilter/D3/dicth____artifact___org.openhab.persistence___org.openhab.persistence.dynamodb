@@ -1,0 +1,7 @@
+1	/artifact/org.openhab.persistence/org.openhab.persistence.dynamodb
+2	#DEP# persist
+3	#DEP# aw
+4	#DEP# plugin
+5	#DEP# eclips
+6	#DEP# dynamodb
+7	#DEP# databas

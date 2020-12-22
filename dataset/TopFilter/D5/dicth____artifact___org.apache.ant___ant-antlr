@@ -1,0 +1,5 @@
+1	/artifact/org.apache.ant/ant-antlr
+2	#DEP# parser
+3	#DEP# compil
+4	#DEP# apach
+5	#DEP# ant

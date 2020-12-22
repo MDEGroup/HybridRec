@@ -1,0 +1,5 @@
+1	/artifact/org.scala-js/scalajs-test-bridge
+2	#DEP# scalaj
+3	#DEP# scala
+4	#DEP# bridg
+5	#DEP# test

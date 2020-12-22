@@ -1,0 +1,7 @@
+1	/artifact/org.jboss.gravia/gravia-container-tomcat-extension
+2	#DEP# tomcat
+3	#DEP# server
+4	#DEP# jboss
+5	#DEP# webserv
+6	#DEP# extens
+7	#DEP# contain

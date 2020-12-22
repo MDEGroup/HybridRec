@@ -1,0 +1,5 @@
+1	/artifact/com.lightstreamer/cloudwatch-logback-appender
+2	#DEP# log
+3	#DEP# monitor
+4	#DEP# aw
+5	#DEP# metric

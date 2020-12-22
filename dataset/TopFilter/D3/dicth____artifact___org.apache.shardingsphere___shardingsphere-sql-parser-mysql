@@ -1,0 +1,6 @@
+1	/artifact/org.apache.shardingsphere/shardingsphere-sql-parser-mysql
+2	#DEP# mysql
+3	#DEP# apach
+4	#DEP# sql
+5	#DEP# parser
+6	#DEP# databas

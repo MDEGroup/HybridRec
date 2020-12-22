@@ -1,0 +1,5 @@
+1	/artifact/io.zipkin.reporter2/zipkin-sender-okhttp3
+2	#DEP# http
+3	#DEP# trace
+4	#DEP# io
+5	#DEP# report

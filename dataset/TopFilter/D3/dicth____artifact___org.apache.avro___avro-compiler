@@ -1,0 +1,6 @@
+1	/artifact/org.apache.avro/avro-compiler
+2	#DEP# avro
+3	#DEP# protocol
+4	#DEP# compil
+5	#DEP# apach
+6	#DEP# serial

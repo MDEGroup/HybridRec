@@ -1,0 +1,5 @@
+1	/artifact/com.google.inject.extensions/guice-servlet
+2	#DEP# googl
+3	#DEP# dependency-inject
+4	#DEP# extens
+5	#DEP# servlet

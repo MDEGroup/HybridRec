@@ -1,0 +1,5 @@
+1	/artifact/org.apache.zookeeper/zookeeper
+2	#DEP# zookeep
+3	#DEP# apach
+4	#DEP# coordin
+5	#DEP# distribut

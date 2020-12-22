@@ -1,0 +1,6 @@
+1	/artifact/org.apache.qpid/qpid-broker-plugins-management-jmx
+2	#DEP# apach
+3	#DEP# plugin
+4	#DEP# jmx
+5	#DEP# broker
+6	#DEP# manag

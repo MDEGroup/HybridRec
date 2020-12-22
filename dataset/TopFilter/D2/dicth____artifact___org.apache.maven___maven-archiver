@@ -1,0 +1,5 @@
+1	/artifact/org.apache.maven/maven-archiver
+2	#DEP# maven
+3	#DEP# build-system
+4	#DEP# build
+5	#DEP# apach

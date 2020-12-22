@@ -1,0 +1,6 @@
+1	/artifact/javax.mail/com.springsource.javax.mail
+2	#DEP# spring
+3	#DEP# standard
+4	#DEP# spec
+5	#DEP# javax
+6	#DEP# mail

@@ -1,0 +1,7 @@
+1	/artifact/org.scala-sbt/test-interface
+2	#DEP# test
+3	#DEP# build-system
+4	#DEP# interfac
+5	#DEP# build
+6	#DEP# sbt
+7	#DEP# scala

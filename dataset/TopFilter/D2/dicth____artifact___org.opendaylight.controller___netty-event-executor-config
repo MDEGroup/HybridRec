@@ -1,0 +1,7 @@
+1	/artifact/org.opendaylight.controller/netty-event-executor-config
+2	#DEP# control
+3	#DEP# netti
+4	#DEP# socket
+5	#DEP# config
+6	#DEP# event
+7	#DEP# network

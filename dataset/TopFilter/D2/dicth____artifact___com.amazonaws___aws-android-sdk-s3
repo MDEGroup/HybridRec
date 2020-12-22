@@ -1,0 +1,8 @@
+1	/artifact/com.amazonaws/aws-android-sdk-s3
+2	#DEP# s3
+3	#DEP# amazon
+4	#DEP# storag
+5	#DEP# cloud
+6	#DEP# android
+7	#DEP# aw
+8	#DEP# sdk

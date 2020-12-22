@@ -1,0 +1,6 @@
+1	/artifact/org.codehaus.cargo/cargo-core-container-jetty
+2	#DEP# codehau
+3	#DEP# server
+4	#DEP# jetti
+5	#DEP# webserv
+6	#DEP# contain

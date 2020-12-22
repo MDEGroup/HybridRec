@@ -1,0 +1,5 @@
+1	/artifact/org.ow2.easywsdl/easywsdl-wsdl
+2	#DEP# servic
+3	#DEP# webservic
+4	#DEP# descript
+5	#DEP# metadata

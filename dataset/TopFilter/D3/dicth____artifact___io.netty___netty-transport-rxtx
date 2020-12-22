@@ -1,0 +1,6 @@
+1	/artifact/io.netty/netty-transport-rxtx
+2	#DEP# transport
+3	#DEP# netti
+4	#DEP# io
+5	#DEP# socket
+6	#DEP# network

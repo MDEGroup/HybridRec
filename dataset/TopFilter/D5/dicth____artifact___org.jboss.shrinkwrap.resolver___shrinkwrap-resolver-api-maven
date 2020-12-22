@@ -1,0 +1,6 @@
+1	/artifact/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-api-maven
+2	#DEP# build
+3	#DEP# build-system
+4	#DEP# maven
+5	#DEP# api
+6	#DEP# jboss

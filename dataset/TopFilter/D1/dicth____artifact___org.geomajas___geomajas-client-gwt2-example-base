@@ -1,0 +1,5 @@
+1	/artifact/org.geomajas/geomajas-client-gwt2-example-base
+2	#DEP# ui
+3	#DEP# client
+4	#DEP# gwt
+5	#DEP# exampl

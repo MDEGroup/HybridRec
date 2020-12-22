@@ -1,0 +1,5 @@
+1	/artifact/org.apache.qpid/qpid-broker-plugins-prometheus-exporter
+2	#DEP# plugin
+3	#DEP# broker
+4	#DEP# prometheu
+5	#DEP# apach

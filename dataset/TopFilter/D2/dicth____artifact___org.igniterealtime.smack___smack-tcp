@@ -1,0 +1,5 @@
+1	/artifact/org.igniterealtime.smack/smack-tcp
+2	#DEP# messag
+3	#DEP# tcp
+4	#DEP# xmpp
+5	#DEP# network

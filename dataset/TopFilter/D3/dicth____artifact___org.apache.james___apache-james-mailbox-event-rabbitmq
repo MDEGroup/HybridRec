@@ -1,0 +1,7 @@
+1	/artifact/org.apache.james/apache-james-mailbox-event-rabbitmq
+2	#DEP# queue
+3	#DEP# mail
+4	#DEP# rabbitmq
+5	#DEP# apach
+6	#DEP# amqp
+7	#DEP# event

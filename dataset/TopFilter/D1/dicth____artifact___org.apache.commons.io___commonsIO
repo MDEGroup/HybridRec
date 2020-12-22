@@ -1,0 +1,5 @@
+1	/artifact/org.apache.commons.io/commonsIO
+2	#DEP# apach
+3	#DEP# io
+4	#DEP# common
+5	#DEP# android

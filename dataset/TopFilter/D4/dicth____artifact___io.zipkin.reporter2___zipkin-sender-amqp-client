@@ -1,0 +1,7 @@
+1	/artifact/io.zipkin.reporter2/zipkin-sender-amqp-client
+2	#DEP# report
+3	#DEP# trace
+4	#DEP# queue
+5	#DEP# client
+6	#DEP# amqp
+7	#DEP# io

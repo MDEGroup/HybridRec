@@ -1,0 +1,7 @@
+1	/artifact/javax.xml.crypto/jsr105-api
+2	#DEP# standard
+3	#DEP# javax
+4	#DEP# api
+5	#DEP# xml
+6	#DEP# cryptographi
+7	#DEP# spec

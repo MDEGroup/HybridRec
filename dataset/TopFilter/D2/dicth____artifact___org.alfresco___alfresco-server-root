@@ -1,0 +1,6 @@
+1	/artifact/org.alfresco/alfresco-server-root
+2	#DEP# server
+3	#DEP# applic
+4	#DEP# cm
+5	#DEP# web
+6	#DEP# webapp

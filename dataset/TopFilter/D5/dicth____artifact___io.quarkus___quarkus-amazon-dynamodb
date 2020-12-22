@@ -1,0 +1,6 @@
+1	/artifact/io.quarkus/quarkus-amazon-dynamodb
+2	#DEP# aw
+3	#DEP# databas
+4	#DEP# amazon
+5	#DEP# dynamodb
+6	#DEP# io

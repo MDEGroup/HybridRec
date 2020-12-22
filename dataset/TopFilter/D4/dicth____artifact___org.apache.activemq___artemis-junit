@@ -1,0 +1,6 @@
+1	/artifact/org.apache.activemq/artemis-junit
+2	#DEP# apach
+3	#DEP# queue
+4	#DEP# junit
+5	#DEP# test
+6	#DEP# jm

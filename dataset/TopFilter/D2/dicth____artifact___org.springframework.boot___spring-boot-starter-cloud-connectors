@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.boot/spring-boot-starter-cloud-connectors
+2	#DEP# starter
+3	#DEP# spring
+4	#DEP# connector
+5	#DEP# cloud

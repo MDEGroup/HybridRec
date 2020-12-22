@@ -1,0 +1,8 @@
+1	/artifact/org.apache.avro/avro-ipc
+2	#DEP# commun
+3	#DEP# apach
+4	#DEP# distribut
+5	#DEP# remot
+6	#DEP# serial
+7	#DEP# protocol
+8	#DEP# avro

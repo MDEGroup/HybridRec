@@ -1,0 +1,5 @@
+1	/artifact/io.inversion.inversion-dynamodb/inversion-dynamodb
+2	#DEP# aw
+3	#DEP# io
+4	#DEP# databas
+5	#DEP# dynamodb

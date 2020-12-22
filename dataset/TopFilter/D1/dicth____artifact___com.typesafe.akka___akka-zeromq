@@ -1,0 +1,9 @@
+1	/artifact/com.typesafe.akka/akka-zeromq
+2	#DEP# distribut
+3	#DEP# queue
+4	#DEP# socket
+5	#DEP# concurr
+6	#DEP# actor
+7	#DEP# akka
+8	#DEP# zeromq
+9	#DEP# typesaf

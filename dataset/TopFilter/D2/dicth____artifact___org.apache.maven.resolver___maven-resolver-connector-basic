@@ -1,0 +1,6 @@
+1	/artifact/org.apache.maven.resolver/maven-resolver-connector-basic
+2	#DEP# build
+3	#DEP# connector
+4	#DEP# maven
+5	#DEP# apach
+6	#DEP# build-system

@@ -1,0 +1,7 @@
+1	/artifact/io.scalecube/scalecube-services-gateway-netty
+2	#DEP# gateway
+3	#DEP# netti
+4	#DEP# io
+5	#DEP# socket
+6	#DEP# servic
+7	#DEP# network

@@ -1,0 +1,6 @@
+1	/artifact/org.apache.shardingsphere/shardingsphere-sql-parser-postgresql
+2	#DEP# apach
+3	#DEP# parser
+4	#DEP# postgresql
+5	#DEP# sql
+6	#DEP# databas

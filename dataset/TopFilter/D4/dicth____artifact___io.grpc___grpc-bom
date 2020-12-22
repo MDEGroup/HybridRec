@@ -1,0 +1,6 @@
+1	/artifact/io.grpc/grpc-bom
+2	#DEP# bom
+3	#DEP# rpc
+4	#DEP# protocol
+5	#DEP# io
+6	#DEP# grpc

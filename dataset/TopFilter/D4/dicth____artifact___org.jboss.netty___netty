@@ -1,0 +1,5 @@
+1	/artifact/org.jboss.netty/netty
+2	#DEP# socket
+3	#DEP# jboss
+4	#DEP# network
+5	#DEP# netti

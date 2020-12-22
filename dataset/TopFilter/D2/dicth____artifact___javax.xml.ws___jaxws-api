@@ -1,0 +1,7 @@
+1	/artifact/javax.xml.ws/jaxws-api
+2	#DEP# standard
+3	#DEP# api
+4	#DEP# spec
+5	#DEP# webservic
+6	#DEP# javax
+7	#DEP# xml

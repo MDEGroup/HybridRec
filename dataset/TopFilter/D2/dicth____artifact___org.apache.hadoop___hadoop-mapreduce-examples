@@ -1,0 +1,6 @@
+1	/artifact/org.apache.hadoop/hadoop-mapreduce-examples
+2	#DEP# hadoop
+3	#DEP# exampl
+4	#DEP# apach
+5	#DEP# parallel
+6	#DEP# mapreduc

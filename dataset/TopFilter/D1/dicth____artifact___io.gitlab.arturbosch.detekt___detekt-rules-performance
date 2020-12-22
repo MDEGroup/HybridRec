@@ -1,0 +1,5 @@
+1	/artifact/io.gitlab.arturbosch.detekt/detekt-rules-performance
+2	#DEP# perform
+3	#DEP# io
+4	#DEP# git
+5	#DEP# rule

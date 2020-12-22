@@ -1,0 +1,6 @@
+1	/artifact/io.quarkus/quarkus-netty-deployment
+2	#DEP# deploy
+3	#DEP# netti
+4	#DEP# socket
+5	#DEP# network
+6	#DEP# io

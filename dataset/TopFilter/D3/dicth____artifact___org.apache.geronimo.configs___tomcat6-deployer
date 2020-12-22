@@ -1,0 +1,5 @@
+1	/artifact/org.apache.geronimo.configs/tomcat6-deployer
+2	#DEP# webserv
+3	#DEP# tomcat
+4	#DEP# apach
+5	#DEP# server

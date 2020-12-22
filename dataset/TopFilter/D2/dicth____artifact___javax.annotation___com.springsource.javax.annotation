@@ -1,0 +1,6 @@
+1	/artifact/javax.annotation/com.springsource.javax.annotation
+2	#DEP# spring
+3	#DEP# standard
+4	#DEP# spec
+5	#DEP# javax
+6	#DEP# annot

@@ -1,0 +1,7 @@
+1	/artifact/com.springsource.insight.plugins/insight-plugin-rabbitmq-client
+2	#DEP# client
+3	#DEP# rabbitmq
+4	#DEP# spring
+5	#DEP# queue
+6	#DEP# amqp
+7	#DEP# plugin

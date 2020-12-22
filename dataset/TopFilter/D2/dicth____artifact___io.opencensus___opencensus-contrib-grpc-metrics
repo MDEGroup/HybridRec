@@ -1,0 +1,6 @@
+1	/artifact/io.opencensus/opencensus-contrib-grpc-metrics
+2	#DEP# io
+3	#DEP# grpc
+4	#DEP# metric
+5	#DEP# protocol
+6	#DEP# rpc

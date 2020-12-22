@@ -1,0 +1,6 @@
+1	/artifact/org.apache.maven/maven-plugin-descriptor
+2	#DEP# apach
+3	#DEP# build
+4	#DEP# maven
+5	#DEP# plugin
+6	#DEP# build-system

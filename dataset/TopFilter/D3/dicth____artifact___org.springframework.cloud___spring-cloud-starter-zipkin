@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.cloud/spring-cloud-starter-zipkin
+2	#DEP# cloud
+3	#DEP# spring
+4	#DEP# trace
+5	#DEP# starter

@@ -1,0 +1,7 @@
+1	/artifact/org.apache.tomcat.embed/tomcat-embed-websocket
+2	#DEP# webserv
+3	#DEP# embed
+4	#DEP# websocket
+5	#DEP# server
+6	#DEP# apach
+7	#DEP# tomcat

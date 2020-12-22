@@ -1,0 +1,6 @@
+1	/artifact/org.apache.openjpa/openjpa-persistence-jdbc
+2	#DEP# apach
+3	#DEP# jpa
+4	#DEP# sql
+5	#DEP# persist
+6	#DEP# jdbc

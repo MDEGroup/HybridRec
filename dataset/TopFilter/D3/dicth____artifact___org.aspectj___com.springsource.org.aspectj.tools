@@ -1,0 +1,5 @@
+1	/artifact/org.aspectj/com.springsource.org.aspectj.tools
+2	#DEP# spring
+3	#DEP# aop
+4	#DEP# aspect
+5	#DEP# tool

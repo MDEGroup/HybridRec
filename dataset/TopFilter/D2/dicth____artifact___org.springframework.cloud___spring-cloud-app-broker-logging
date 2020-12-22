@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.cloud/spring-cloud-app-broker-logging
+2	#DEP# spring
+3	#DEP# log
+4	#DEP# broker
+5	#DEP# cloud

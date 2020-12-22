@@ -1,0 +1,5 @@
+1	/artifact/software.amazon.awssdk/url-connection-client
+2	#DEP# aw
+3	#DEP# connect
+4	#DEP# client
+5	#DEP# amazon

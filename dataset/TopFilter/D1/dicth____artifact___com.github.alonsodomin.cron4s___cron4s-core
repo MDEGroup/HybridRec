@@ -1,0 +1,5 @@
+1	/artifact/com.github.alonsodomin.cron4s/cron4s-core
+2	#DEP# github
+3	#DEP# express
+4	#DEP# parser
+5	#DEP# cron

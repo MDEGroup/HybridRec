@@ -1,0 +1,5 @@
+1	/artifact/org.tranql/tranql-connector-mysql-xa
+2	#DEP# languag
+3	#DEP# databas
+4	#DEP# connector
+5	#DEP# mysql

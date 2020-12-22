@@ -1,0 +1,5 @@
+1	/artifact/org.mongodb.morphia/morphia-logging-slf4j
+2	#DEP# slf4j
+3	#DEP# log
+4	#DEP# databas
+5	#DEP# mongodb

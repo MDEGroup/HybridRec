@@ -1,0 +1,6 @@
+1	/artifact/javax.script/jython-engine
+2	#DEP# standard
+3	#DEP# script
+4	#DEP# javax
+5	#DEP# engin
+6	#DEP# spec

@@ -1,0 +1,6 @@
+1	/artifact/org.apache.axis2.transport/axis2-transport-jms
+2	#DEP# transport
+3	#DEP# queue
+4	#DEP# webservic
+5	#DEP# jm
+6	#DEP# apach

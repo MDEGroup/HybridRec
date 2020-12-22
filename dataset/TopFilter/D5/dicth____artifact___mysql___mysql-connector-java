@@ -1,0 +1,5 @@
+1	/artifact/mysql/mysql-connector-java
+2	#DEP# connector
+3	#DEP# databas
+4	#DEP# mysql
+5	#DEP# driver

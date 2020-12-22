@@ -1,0 +1,10 @@
+1	/artifact/com.github.j5ik2o/reactive-dynamodb-akka
+2	#DEP# actor
+3	#DEP# reactiv
+4	#DEP# aw
+5	#DEP# distribut
+6	#DEP# concurr
+7	#DEP# akka
+8	#DEP# dynamodb
+9	#DEP# github
+10	#DEP# databas

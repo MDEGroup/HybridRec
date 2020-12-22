@@ -1,0 +1,5 @@
+1	/artifact/com.sun.jersey.contribs/jersey-apache-client
+2	#DEP# apach
+3	#DEP# webservic
+4	#DEP# http
+5	#DEP# client

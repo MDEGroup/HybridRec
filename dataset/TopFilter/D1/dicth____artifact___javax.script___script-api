@@ -1,0 +1,6 @@
+1	/artifact/javax.script/script-api
+2	#DEP# script
+3	#DEP# spec
+4	#DEP# javax
+5	#DEP# api
+6	#DEP# standard

@@ -1,0 +1,7 @@
+1	/artifact/com.github.ddphin/ddphin-rabbitmq-spring-boot-starter
+2	#DEP# starter
+3	#DEP# queue
+4	#DEP# amqp
+5	#DEP# spring
+6	#DEP# rabbitmq
+7	#DEP# github

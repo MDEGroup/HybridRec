@@ -1,0 +1,5 @@
+1	/artifact/javax.security/jaas
+2	#DEP# javax
+3	#DEP# secur
+4	#DEP# spec
+5	#DEP# standard

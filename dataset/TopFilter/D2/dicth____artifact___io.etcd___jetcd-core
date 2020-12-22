@@ -1,0 +1,6 @@
+1	/artifact/io.etcd/jetcd-core
+2	#DEP# distribut
+3	#DEP# io
+4	#DEP# etcd
+5	#DEP# config
+6	#DEP# client

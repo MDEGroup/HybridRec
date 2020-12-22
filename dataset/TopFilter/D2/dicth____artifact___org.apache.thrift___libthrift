@@ -1,0 +1,5 @@
+1	/artifact/org.apache.thrift/libthrift
+2	#DEP# thrift
+3	#DEP# protocol
+4	#DEP# apach
+5	#DEP# serial

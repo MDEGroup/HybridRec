@@ -1,0 +1,6 @@
+1	/artifact/org.springframework.amqp/spring-erlang
+2	#DEP# queue
+3	#DEP# messag
+4	#DEP# spring
+5	#DEP# amqp
+6	#DEP# client

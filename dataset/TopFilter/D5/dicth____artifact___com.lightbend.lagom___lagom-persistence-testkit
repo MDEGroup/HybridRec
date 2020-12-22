@@ -1,0 +1,5 @@
+1	/artifact/com.lightbend.lagom/lagom-persistence-testkit
+2	#DEP# lightbend
+3	#DEP# microservic
+4	#DEP# persist
+5	#DEP# test

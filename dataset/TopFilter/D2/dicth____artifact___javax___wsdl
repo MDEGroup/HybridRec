@@ -1,0 +1,5 @@
+1	/artifact/javax/wsdl
+2	#DEP# servic
+3	#DEP# javax
+4	#DEP# spec
+5	#DEP# standard

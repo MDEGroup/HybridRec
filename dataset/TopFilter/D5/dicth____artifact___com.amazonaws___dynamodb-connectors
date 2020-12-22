@@ -1,0 +1,5 @@
+1	/artifact/com.amazonaws/dynamodb-connectors
+2	#DEP# aw
+3	#DEP# connector
+4	#DEP# databas
+5	#DEP# dynamodb

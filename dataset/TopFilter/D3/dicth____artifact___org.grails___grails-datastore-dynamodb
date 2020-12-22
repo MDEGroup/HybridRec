@@ -1,0 +1,7 @@
+1	/artifact/org.grails/grails-datastore-dynamodb
+2	#DEP# persist
+3	#DEP# grail
+4	#DEP# aw
+5	#DEP# groovi
+6	#DEP# dynamodb
+7	#DEP# databas

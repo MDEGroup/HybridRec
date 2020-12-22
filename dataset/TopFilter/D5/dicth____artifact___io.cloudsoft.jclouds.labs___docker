@@ -1,0 +1,6 @@
+1	/artifact/io.cloudsoft.jclouds.labs/docker
+2	#DEP# docker
+3	#DEP# client
+4	#DEP# cloud
+5	#DEP# contain
+6	#DEP# io

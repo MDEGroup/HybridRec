@@ -1,0 +1,5 @@
+1	/artifact/com.loopj.android/android-async-http
+2	#DEP# client
+3	#DEP# android
+4	#DEP# asynchron
+5	#DEP# http

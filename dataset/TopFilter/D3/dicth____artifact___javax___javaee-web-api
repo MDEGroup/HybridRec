@@ -1,0 +1,7 @@
+1	/artifact/javax/javaee-web-api
+2	#DEP# standard
+3	#DEP# javax
+4	#DEP# api
+5	#DEP# web
+6	#DEP# spec
+7	#DEP# javae

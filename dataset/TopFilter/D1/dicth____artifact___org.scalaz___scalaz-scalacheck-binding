@@ -1,0 +1,5 @@
+1	/artifact/org.scalaz/scalaz-scalacheck-binding
+2	#DEP# bind
+3	#DEP# function
+4	#DEP# scala
+5	#DEP# scalaz

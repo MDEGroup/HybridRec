@@ -1,0 +1,5 @@
+1	/artifact/com.google.android/support-v4
+2	#DEP# android
+3	#DEP# platform
+4	#DEP# googl
+5	#DEP# support

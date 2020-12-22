@@ -1,0 +1,5 @@
+1	/artifact/org.apache.geronimo.specs/com.springsource.javax.management.j2ee
+2	#DEP# manag
+3	#DEP# apach
+4	#DEP# spec
+5	#DEP# spring

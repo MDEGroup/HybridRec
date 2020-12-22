@@ -1,0 +1,5 @@
+1	/artifact/org.apache.camel/camel-csv
+2	#DEP# csv
+3	#DEP# apach
+4	#DEP# tabular
+5	#DEP# camel

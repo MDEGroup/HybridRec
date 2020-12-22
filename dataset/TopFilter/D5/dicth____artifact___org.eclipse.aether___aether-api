@@ -1,0 +1,5 @@
+1	/artifact/org.eclipse.aether/aether-api
+2	#DEP# eclips
+3	#DEP# repositori
+4	#DEP# maven
+5	#DEP# api

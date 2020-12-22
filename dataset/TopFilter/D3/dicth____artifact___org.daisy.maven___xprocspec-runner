@@ -1,0 +1,5 @@
+1	/artifact/org.daisy.maven/xprocspec-runner
+2	#DEP# build-system
+3	#DEP# runner
+4	#DEP# maven
+5	#DEP# build

@@ -1,0 +1,6 @@
+1	/artifact/org.apache.geronimo.framework/server-security-config
+2	#DEP# framework
+3	#DEP# secur
+4	#DEP# server
+5	#DEP# apach
+6	#DEP# config

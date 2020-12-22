@@ -1,0 +1,9 @@
+1	/artifact/org.grails/grails-datastore-gorm-dynamodb
+2	#DEP# aw
+3	#DEP# groovi
+4	#DEP# client
+5	#DEP# persist
+6	#DEP# grail
+7	#DEP# databas
+8	#DEP# dynamodb
+9	#DEP# orm

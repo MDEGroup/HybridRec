@@ -1,0 +1,6 @@
+1	/artifact/org.apache.struts/struts2-config-browser-plugin
+2	#DEP# config
+3	#DEP# apach
+4	#DEP# browser
+5	#DEP# web-framework
+6	#DEP# plugin

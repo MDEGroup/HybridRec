@@ -1,0 +1,6 @@
+1	/artifact/com.amazonaws/aws-xray-recorder-sdk-aws-sdk-instrumentor
+2	#DEP# amazon
+3	#DEP# trace
+4	#DEP# record
+5	#DEP# aw
+6	#DEP# sdk

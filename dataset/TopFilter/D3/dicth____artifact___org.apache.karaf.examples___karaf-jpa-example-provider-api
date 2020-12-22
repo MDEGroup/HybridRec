@@ -1,0 +1,8 @@
+1	/artifact/org.apache.karaf.examples/karaf-jpa-example-provider-api
+2	#DEP# persist
+3	#DEP# api
+4	#DEP# provid
+5	#DEP# jpa
+6	#DEP# exampl
+7	#DEP# osgi
+8	#DEP# apach

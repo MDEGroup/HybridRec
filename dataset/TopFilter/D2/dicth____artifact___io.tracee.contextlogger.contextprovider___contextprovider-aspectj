@@ -1,0 +1,5 @@
+1	/artifact/io.tracee.contextlogger.contextprovider/contextprovider-aspectj
+2	#DEP# trace
+3	#DEP# aspect
+4	#DEP# io
+5	#DEP# aop

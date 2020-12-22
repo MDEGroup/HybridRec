@@ -1,0 +1,7 @@
+1	/artifact/org.apache.maven.resolver/maven-resolver-transport-http
+2	#DEP# transport
+3	#DEP# http
+4	#DEP# apach
+5	#DEP# build
+6	#DEP# build-system
+7	#DEP# maven

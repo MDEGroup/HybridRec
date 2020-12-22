@@ -1,0 +1,5 @@
+1	/artifact/com.vaadin/vaadin-compatibility-server
+2	#DEP# web-framework
+3	#DEP# gwt
+4	#DEP# server
+5	#DEP# compat

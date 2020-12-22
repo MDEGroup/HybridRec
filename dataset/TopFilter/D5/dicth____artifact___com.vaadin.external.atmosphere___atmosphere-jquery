@@ -1,0 +1,7 @@
+1	/artifact/com.vaadin.external.atmosphere/atmosphere-jquery
+2	#DEP# webapp
+3	#DEP# jqueri
+4	#DEP# web
+5	#DEP# applic
+6	#DEP# web-framework
+7	#DEP# gwt

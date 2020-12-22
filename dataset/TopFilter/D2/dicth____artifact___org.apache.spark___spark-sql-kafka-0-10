@@ -1,0 +1,6 @@
+1	/artifact/org.apache.spark/spark-sql-kafka-0-10
+2	#DEP# spark
+3	#DEP# kafka
+4	#DEP# apach
+5	#DEP# stream
+6	#DEP# sql

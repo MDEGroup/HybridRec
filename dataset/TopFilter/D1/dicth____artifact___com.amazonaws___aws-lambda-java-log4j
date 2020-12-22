@@ -1,0 +1,5 @@
+1	/artifact/com.amazonaws/aws-lambda-java-log4j
+2	#DEP# lambda
+3	#DEP# log
+4	#DEP# aw
+5	#DEP# amazon

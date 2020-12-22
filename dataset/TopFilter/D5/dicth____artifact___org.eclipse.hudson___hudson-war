@@ -1,0 +1,5 @@
+1	/artifact/org.eclipse.hudson/hudson-war
+2	#DEP# eclips
+3	#DEP# webapp
+4	#DEP# applic
+5	#DEP# web

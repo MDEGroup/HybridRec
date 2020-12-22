@@ -1,0 +1,5 @@
+1	/artifact/com.fasterxml.jackson.dataformat/jackson-dataformat-avro
+2	#DEP# json
+3	#DEP# protocol
+4	#DEP# serial
+5	#DEP# avro

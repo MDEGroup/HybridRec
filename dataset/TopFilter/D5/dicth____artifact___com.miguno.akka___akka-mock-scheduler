@@ -1,0 +1,7 @@
+1	/artifact/com.miguno.akka/akka-mock-scheduler
+2	#DEP# distribut
+3	#DEP# actor
+4	#DEP# concurr
+5	#DEP# akka
+6	#DEP# mock
+7	#DEP# schedul

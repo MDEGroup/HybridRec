@@ -1,0 +1,5 @@
+1	/artifact/au.net.causal.shoelaces/shoelaces-jdbc-integration-tests-common
+2	#DEP# test
+3	#DEP# integr
+4	#DEP# jdbc
+5	#DEP# sql

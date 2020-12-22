@@ -1,0 +1,5 @@
+1	/artifact/com.thinkaurelius.titan/titan-hbase
+2	#DEP# databas
+3	#DEP# hbase
+4	#DEP# graph
+5	#DEP# nosql

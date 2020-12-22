@@ -1,0 +1,5 @@
+1	/artifact/io.quarkus/quarkus-jdbc-h2-deployment
+2	#DEP# jdbc
+3	#DEP# deploy
+4	#DEP# sql
+5	#DEP# io

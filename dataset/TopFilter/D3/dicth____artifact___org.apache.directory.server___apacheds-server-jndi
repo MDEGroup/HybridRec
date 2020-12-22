@@ -1,0 +1,5 @@
+1	/artifact/org.apache.directory.server/apacheds-server-jndi
+2	#DEP# jndi
+3	#DEP# directori
+4	#DEP# apach
+5	#DEP# server

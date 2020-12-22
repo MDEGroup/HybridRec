@@ -1,0 +1,9 @@
+1	/artifact/io.freefair.gradle/aspectj-plugin
+2	#DEP# aspect
+3	#DEP# io
+4	#DEP# plugin
+5	#DEP# groovi
+6	#DEP# build
+7	#DEP# build-system
+8	#DEP# gradl
+9	#DEP# aop

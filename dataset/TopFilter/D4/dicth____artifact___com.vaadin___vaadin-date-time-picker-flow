@@ -1,0 +1,5 @@
+1	/artifact/com.vaadin/vaadin-date-time-picker-flow
+2	#DEP# time
+3	#DEP# date
+4	#DEP# gwt
+5	#DEP# web-framework

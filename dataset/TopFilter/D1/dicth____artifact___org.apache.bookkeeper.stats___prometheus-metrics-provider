@@ -1,0 +1,6 @@
+1	/artifact/org.apache.bookkeeper.stats/prometheus-metrics-provider
+2	#DEP# apach
+3	#DEP# metric
+4	#DEP# prometheu
+5	#DEP# stat
+6	#DEP# provid

@@ -1,0 +1,7 @@
+1	/artifact/org.glassfish.jersey.containers/jersey-container-jetty-http
+2	#DEP# http
+3	#DEP# contain
+4	#DEP# jetti
+5	#DEP# webservic
+6	#DEP# webserv
+7	#DEP# server

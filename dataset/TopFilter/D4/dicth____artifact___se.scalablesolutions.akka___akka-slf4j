@@ -1,0 +1,7 @@
+1	/artifact/se.scalablesolutions.akka/akka-slf4j
+2	#DEP# concurr
+3	#DEP# akka
+4	#DEP# distribut
+5	#DEP# log
+6	#DEP# actor
+7	#DEP# slf4j

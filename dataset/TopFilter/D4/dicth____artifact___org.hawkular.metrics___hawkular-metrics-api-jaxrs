@@ -1,0 +1,8 @@
+1	/artifact/org.hawkular.metrics/hawkular-metrics-api-jaxrs
+2	#DEP# web
+3	#DEP# metric
+4	#DEP# webapp
+5	#DEP# rest
+6	#DEP# api
+7	#DEP# applic
+8	#DEP# jaxr

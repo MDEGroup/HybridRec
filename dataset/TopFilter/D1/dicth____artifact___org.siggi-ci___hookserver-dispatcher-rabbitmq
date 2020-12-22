@@ -1,0 +1,5 @@
+1	/artifact/org.siggi-ci/hookserver-dispatcher-rabbitmq
+2	#DEP# amqp
+3	#DEP# rabbitmq
+4	#DEP# dispatch
+5	#DEP# queue

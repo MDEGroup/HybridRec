@@ -1,0 +1,10 @@
+1	/artifact/com.lightbend.akka.grpc/akka-grpc-runtime
+2	#DEP# lightbend
+3	#DEP# actor
+4	#DEP# concurr
+5	#DEP# akka
+6	#DEP# runtim
+7	#DEP# distribut
+8	#DEP# rpc
+9	#DEP# protocol
+10	#DEP# grpc

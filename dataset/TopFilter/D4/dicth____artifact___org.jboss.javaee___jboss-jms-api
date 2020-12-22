@@ -1,0 +1,6 @@
+1	/artifact/org.jboss.javaee/jboss-jms-api
+2	#DEP# queue
+3	#DEP# jboss
+4	#DEP# jm
+5	#DEP# api
+6	#DEP# javae

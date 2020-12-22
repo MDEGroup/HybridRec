@@ -1,0 +1,5 @@
+1	/artifact/org.junit.platform/junit-platform-launcher
+2	#DEP# junit
+3	#DEP# test
+4	#DEP# platform
+5	#DEP# launcher

@@ -1,0 +1,5 @@
+1	/artifact/org.xbib.elasticsearch/elasticsearch-analysis-common
+2	#DEP# elast
+3	#DEP# elasticsearch
+4	#DEP# search
+5	#DEP# analysi

@@ -1,0 +1,6 @@
+1	/artifact/io.confluent/kafka-protobuf-serializer
+2	#DEP# kafka
+3	#DEP# serial
+4	#DEP# stream
+5	#DEP# protocol
+6	#DEP# io

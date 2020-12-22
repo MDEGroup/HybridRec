@@ -1,0 +1,8 @@
+1	/artifact/io.inugami.maven.plugin.analysis/inugami-project-analysis-maven-plugin-api
+2	#DEP# build
+3	#DEP# analysi
+4	#DEP# maven
+5	#DEP# build-system
+6	#DEP# plugin
+7	#DEP# api
+8	#DEP# io

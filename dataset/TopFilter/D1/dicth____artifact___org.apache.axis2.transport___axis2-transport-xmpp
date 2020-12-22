@@ -1,0 +1,5 @@
+1	/artifact/org.apache.axis2.transport/axis2-transport-xmpp
+2	#DEP# apach
+3	#DEP# xmpp
+4	#DEP# webservic
+5	#DEP# transport

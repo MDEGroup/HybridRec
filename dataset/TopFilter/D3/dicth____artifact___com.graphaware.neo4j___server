@@ -1,0 +1,5 @@
+1	/artifact/com.graphaware.neo4j/server
+2	#DEP# neo4j
+3	#DEP# graph
+4	#DEP# databas
+5	#DEP# server

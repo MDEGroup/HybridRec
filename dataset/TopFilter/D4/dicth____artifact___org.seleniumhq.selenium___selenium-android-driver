@@ -1,0 +1,5 @@
+1	/artifact/org.seleniumhq.selenium/selenium-android-driver
+2	#DEP# test
+3	#DEP# android
+4	#DEP# selenium
+5	#DEP# driver

@@ -1,0 +1,6 @@
+1	/artifact/javax.servlet/javax.servlet.jsp
+2	#DEP# standard
+3	#DEP# javax
+4	#DEP# spec
+5	#DEP# servlet
+6	#DEP# jsp

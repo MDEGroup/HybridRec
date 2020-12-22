@@ -1,0 +1,5 @@
+1	/artifact/org.apache.cxf/cxf-rt-transports-jms
+2	#DEP# jm
+3	#DEP# transport
+4	#DEP# apach
+5	#DEP# queue

@@ -1,0 +1,6 @@
+1	/artifact/javax.annotation/javax.annotation-api
+2	#DEP# standard
+3	#DEP# api
+4	#DEP# spec
+5	#DEP# javax
+6	#DEP# annot

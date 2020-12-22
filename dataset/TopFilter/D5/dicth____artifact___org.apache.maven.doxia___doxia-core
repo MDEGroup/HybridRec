@@ -1,0 +1,5 @@
+1	/artifact/org.apache.maven.doxia/doxia-core
+2	#DEP# build
+3	#DEP# apach
+4	#DEP# maven
+5	#DEP# build-system

@@ -1,0 +1,7 @@
+1	/artifact/org.apache.maven.wagon/wagon-provider-test
+2	#DEP# provid
+3	#DEP# apach
+4	#DEP# build
+5	#DEP# test
+6	#DEP# build-system
+7	#DEP# maven

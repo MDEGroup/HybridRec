@@ -1,0 +1,5 @@
+1	/artifact/com.typesafe.scala-logging/scala-logging-slf4j
+2	#DEP# typesaf
+3	#DEP# scala
+4	#DEP# log
+5	#DEP# slf4j

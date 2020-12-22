@@ -1,0 +1,5 @@
+1	/artifact/net.liftweb/lift-xmpp
+2	#DEP# scala
+3	#DEP# xmpp
+4	#DEP# messag
+5	#DEP# web-framework

@@ -1,0 +1,6 @@
+1	/artifact/org.osgi.enroute.examples.microservice/rest-service
+2	#DEP# microservic
+3	#DEP# servic
+4	#DEP# rest
+5	#DEP# exampl
+6	#DEP# osgi

@@ -1,0 +1,7 @@
+1	/artifact/org.apache.hadoop/hadoop-yarn-server-web-proxy
+2	#DEP# apach
+3	#DEP# web
+4	#DEP# proxi
+5	#DEP# hadoop
+6	#DEP# server
+7	#DEP# yarn

@@ -1,0 +1,9 @@
+1	/artifact/gradle.plugin.com.github.smac89.aspectj/aspectj-gradle
+2	#DEP# aspect
+3	#DEP# plugin
+4	#DEP# groovi
+5	#DEP# build
+6	#DEP# github
+7	#DEP# build-system
+8	#DEP# gradl
+9	#DEP# aop

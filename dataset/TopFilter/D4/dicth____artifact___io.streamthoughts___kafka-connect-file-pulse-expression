@@ -1,0 +1,5 @@
+1	/artifact/io.streamthoughts/kafka-connect-file-pulse-expression
+2	#DEP# kafka
+3	#DEP# express
+4	#DEP# stream
+5	#DEP# io

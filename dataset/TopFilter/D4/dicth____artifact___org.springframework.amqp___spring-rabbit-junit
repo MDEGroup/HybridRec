@@ -1,0 +1,6 @@
+1	/artifact/org.springframework.amqp/spring-rabbit-junit
+2	#DEP# queue
+3	#DEP# junit
+4	#DEP# spring
+5	#DEP# test
+6	#DEP# amqp

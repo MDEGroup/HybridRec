@@ -1,0 +1,6 @@
+1	/artifact/org.scala-sbt/util-logging
+2	#DEP# build
+3	#DEP# sbt
+4	#DEP# scala
+5	#DEP# log
+6	#DEP# build-system

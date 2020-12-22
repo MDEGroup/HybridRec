@@ -1,0 +1,6 @@
+1	/artifact/io.dropwizard.metrics/metrics-jetty9
+2	#DEP# webserv
+3	#DEP# metric
+4	#DEP# jetti
+5	#DEP# io
+6	#DEP# server

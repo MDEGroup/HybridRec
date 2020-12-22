@@ -1,0 +1,5 @@
+1	/artifact/org.testinfected.hamcrest-matchers/jpa-matchers
+2	#DEP# test
+3	#DEP# persist
+4	#DEP# jpa
+5	#DEP# match

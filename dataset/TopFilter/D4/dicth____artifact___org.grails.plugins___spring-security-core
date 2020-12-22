@@ -1,0 +1,6 @@
+1	/artifact/org.grails.plugins/spring-security-core
+2	#DEP# secur
+3	#DEP# spring
+4	#DEP# groovi
+5	#DEP# grail
+6	#DEP# plugin

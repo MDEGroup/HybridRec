@@ -1,0 +1,10 @@
+1	/artifact/org.apache.maven.scm/maven-scm-provider-svn-commons
+2	#DEP# apach
+3	#DEP# provid
+4	#DEP# build-system
+5	#DEP# subvers
+6	#DEP# build
+7	#DEP# version-control
+8	#DEP# scm
+9	#DEP# maven
+10	#DEP# svn

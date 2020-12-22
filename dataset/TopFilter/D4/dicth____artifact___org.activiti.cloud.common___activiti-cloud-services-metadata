@@ -1,0 +1,5 @@
+1	/artifact/org.activiti.cloud.common/activiti-cloud-services-metadata
+2	#DEP# servic
+3	#DEP# bpm
+4	#DEP# cloud
+5	#DEP# metadata

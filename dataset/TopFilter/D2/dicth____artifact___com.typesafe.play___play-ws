@@ -1,0 +1,5 @@
+1	/artifact/com.typesafe.play/play-ws
+2	#DEP# http
+3	#DEP# play-framework
+4	#DEP# typesaf
+5	#DEP# client

@@ -1,0 +1,6 @@
+1	/artifact/org.neo4j/neo4j-ogm-http-driver
+2	#DEP# neo4j
+3	#DEP# databas
+4	#DEP# http
+5	#DEP# driver
+6	#DEP# graph

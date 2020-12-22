@@ -1,0 +1,6 @@
+1	/artifact/org.eclipse.jetty/apache-jstl
+2	#DEP# webserv
+3	#DEP# jetti
+4	#DEP# server
+5	#DEP# apach
+6	#DEP# eclips

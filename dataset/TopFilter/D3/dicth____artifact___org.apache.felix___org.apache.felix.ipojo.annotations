@@ -1,0 +1,5 @@
+1	/artifact/org.apache.felix/org.apache.felix.ipojo.annotations
+2	#DEP# apach
+3	#DEP# annot
+4	#DEP# osgi
+5	#DEP# pojo

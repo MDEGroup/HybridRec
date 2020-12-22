@@ -1,0 +1,5 @@
+1	/artifact/org.elasticsearch/elasticsearch-analysis-icu
+2	#DEP# search
+3	#DEP# elasticsearch
+4	#DEP# elast
+5	#DEP# analysi

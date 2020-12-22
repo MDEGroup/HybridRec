@@ -1,0 +1,7 @@
+1	/artifact/io.altoo/akka-kryo-serialization
+2	#DEP# actor
+3	#DEP# io
+4	#DEP# distribut
+5	#DEP# concurr
+6	#DEP# akka
+7	#DEP# serial

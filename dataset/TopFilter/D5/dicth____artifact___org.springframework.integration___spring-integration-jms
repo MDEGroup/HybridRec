@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.integration/spring-integration-jms
+2	#DEP# queue
+3	#DEP# integr
+4	#DEP# spring
+5	#DEP# jm

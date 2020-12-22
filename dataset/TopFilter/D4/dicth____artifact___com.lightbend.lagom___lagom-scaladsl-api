@@ -1,0 +1,5 @@
+1	/artifact/com.lightbend.lagom/lagom-scaladsl-api
+2	#DEP# api
+3	#DEP# microservic
+4	#DEP# lightbend
+5	#DEP# dsl

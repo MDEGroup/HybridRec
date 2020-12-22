@@ -1,0 +1,5 @@
+1	/artifact/com.amazonaws/aws-java-sdk-test-utils
+2	#DEP# sdk
+3	#DEP# amazon
+4	#DEP# test
+5	#DEP# aw

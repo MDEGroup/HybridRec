@@ -1,0 +1,8 @@
+1	/artifact/com.typesafe.akka/akka-persistence-experimental
+2	#DEP# concurr
+3	#DEP# distribut
+4	#DEP# akka
+5	#DEP# typesaf
+6	#DEP# persist
+7	#DEP# experiment
+8	#DEP# actor

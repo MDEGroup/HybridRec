@@ -1,0 +1,7 @@
+1	/artifact/org.apache.maven.scm/maven-scm-provider-starteam
+2	#DEP# apach
+3	#DEP# scm
+4	#DEP# build
+5	#DEP# maven
+6	#DEP# build-system
+7	#DEP# provid

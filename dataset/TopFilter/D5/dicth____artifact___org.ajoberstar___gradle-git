@@ -1,0 +1,8 @@
+1	/artifact/org.ajoberstar/gradle-git
+2	#DEP# version-control
+3	#DEP# groovi
+4	#DEP# build
+5	#DEP# gradl
+6	#DEP# git
+7	#DEP# scm
+8	#DEP# build-system

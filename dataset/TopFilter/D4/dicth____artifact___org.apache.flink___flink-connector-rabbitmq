@@ -1,0 +1,6 @@
+1	/artifact/org.apache.flink/flink-connector-rabbitmq
+2	#DEP# apach
+3	#DEP# queue
+4	#DEP# rabbitmq
+5	#DEP# connector
+6	#DEP# amqp

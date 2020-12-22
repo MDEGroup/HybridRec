@@ -1,0 +1,5 @@
+1	/artifact/org.grails.plugins/quartz
+2	#DEP# schedul
+3	#DEP# groovi
+4	#DEP# grail
+5	#DEP# plugin

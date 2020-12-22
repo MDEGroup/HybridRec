@@ -1,0 +1,6 @@
+1	/artifact/javax.validation/com.springsource.javax.validation
+2	#DEP# valid
+3	#DEP# javax
+4	#DEP# spec
+5	#DEP# spring
+6	#DEP# standard

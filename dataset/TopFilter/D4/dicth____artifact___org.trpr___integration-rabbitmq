@@ -1,0 +1,6 @@
+1	/artifact/org.trpr/integration-rabbitmq
+2	#DEP# queue
+3	#DEP# integr
+4	#DEP# rabbitmq
+5	#DEP# clojur
+6	#DEP# amqp

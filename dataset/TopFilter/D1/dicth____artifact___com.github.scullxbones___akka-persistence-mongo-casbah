@@ -1,0 +1,8 @@
+1	/artifact/com.github.scullxbones/akka-persistence-mongo-casbah
+2	#DEP# distribut
+3	#DEP# github
+4	#DEP# persist
+5	#DEP# concurr
+6	#DEP# actor
+7	#DEP# akka
+8	#DEP# mongodb

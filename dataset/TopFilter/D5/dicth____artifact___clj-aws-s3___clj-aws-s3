@@ -1,0 +1,5 @@
+1	/artifact/clj-aws-s3/clj-aws-s3
+2	#DEP# s3
+3	#DEP# clojur
+4	#DEP# amazon
+5	#DEP# aw

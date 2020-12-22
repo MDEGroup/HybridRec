@@ -1,0 +1,10 @@
+1	/artifact/com.lightbend.akka/akka-stream-alpakka-dynamodb
+2	#DEP# actor
+3	#DEP# stream
+4	#DEP# aw
+5	#DEP# distribut
+6	#DEP# concurr
+7	#DEP# lightbend
+8	#DEP# akka
+9	#DEP# dynamodb
+10	#DEP# databas

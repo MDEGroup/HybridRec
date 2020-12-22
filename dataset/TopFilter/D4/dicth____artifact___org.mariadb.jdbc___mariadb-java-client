@@ -1,0 +1,7 @@
+1	/artifact/org.mariadb.jdbc/mariadb-java-client
+2	#DEP# sql
+3	#DEP# mysql
+4	#DEP# databas
+5	#DEP# jdbc
+6	#DEP# driver
+7	#DEP# client

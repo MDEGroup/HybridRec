@@ -1,0 +1,7 @@
+1	/artifact/org.mule.apache.cxf/cxf-rt-transports-http-jetty
+2	#DEP# apach
+3	#DEP# http
+4	#DEP# server
+5	#DEP# jetti
+6	#DEP# transport
+7	#DEP# webserv

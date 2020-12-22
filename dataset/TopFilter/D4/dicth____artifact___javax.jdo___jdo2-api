@@ -1,0 +1,5 @@
+1	/artifact/javax.jdo/jdo2-api
+2	#DEP# api
+3	#DEP# spec
+4	#DEP# standard
+5	#DEP# javax

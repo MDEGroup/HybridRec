@@ -1,0 +1,5 @@
+1	/artifact/org.grails.plugins/platform-core
+2	#DEP# plugin
+3	#DEP# platform
+4	#DEP# grail
+5	#DEP# groovi

@@ -1,0 +1,5 @@
+1	/artifact/com.netflix.astyanax/astyanax-thrift
+2	#DEP# protocol
+3	#DEP# thrift
+4	#DEP# cassandra
+5	#DEP# serial

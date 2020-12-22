@@ -1,0 +1,6 @@
+1	/artifact/org.apache.qpid/qpid-broker-plugins-jdbc-store
+2	#DEP# apach
+3	#DEP# broker
+4	#DEP# sql
+5	#DEP# jdbc
+6	#DEP# plugin

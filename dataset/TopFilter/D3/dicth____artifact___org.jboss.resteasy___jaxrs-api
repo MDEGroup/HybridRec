@@ -1,0 +1,5 @@
+1	/artifact/org.jboss.resteasy/jaxrs-api
+2	#DEP# jaxr
+3	#DEP# jboss
+4	#DEP# api
+5	#DEP# rest

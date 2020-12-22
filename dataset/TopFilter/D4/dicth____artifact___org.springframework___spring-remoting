@@ -1,0 +1,5 @@
+1	/artifact/org.springframework/spring-remoting
+2	#DEP# commun
+3	#DEP# distribut
+4	#DEP# remot
+5	#DEP# spring

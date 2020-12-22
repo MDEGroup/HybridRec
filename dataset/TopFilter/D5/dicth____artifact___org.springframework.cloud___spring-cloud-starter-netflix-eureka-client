@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.cloud/spring-cloud-starter-netflix-eureka-client
+2	#DEP# client
+3	#DEP# spring
+4	#DEP# cloud
+5	#DEP# starter

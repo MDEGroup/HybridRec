@@ -1,0 +1,7 @@
+1	/artifact/io.zipkin.brave.cassandra/brave-instrumentation-cassandra-driver
+2	#DEP# trace
+3	#DEP# io
+4	#DEP# cassandra
+5	#DEP# driver
+6	#DEP# instrument
+7	#DEP# databas

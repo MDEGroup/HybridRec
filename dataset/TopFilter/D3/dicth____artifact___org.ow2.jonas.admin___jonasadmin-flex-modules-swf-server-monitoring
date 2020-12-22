@@ -1,0 +1,5 @@
+1	/artifact/org.ow2.jonas.admin/jonasadmin-flex-modules-swf-server-monitoring
+2	#DEP# admin
+3	#DEP# monitor
+4	#DEP# server
+5	#DEP# modul

@@ -1,0 +1,6 @@
+1	/artifact/org.jboss.arquillian.container/arquillian-tomcat-ee8-deps
+2	#DEP# webserv
+3	#DEP# tomcat
+4	#DEP# contain
+5	#DEP# server
+6	#DEP# jboss

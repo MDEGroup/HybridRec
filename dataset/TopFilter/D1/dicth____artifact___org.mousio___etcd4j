@@ -1,0 +1,5 @@
+1	/artifact/org.mousio/etcd4j
+2	#DEP# client
+3	#DEP# etcd
+4	#DEP# config
+5	#DEP# distribut

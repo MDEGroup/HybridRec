@@ -1,0 +1,7 @@
+1	/artifact/org.apache.qpid/qpid-broker-plugins-amqp-0-8-protocol
+2	#DEP# queue
+3	#DEP# protocol
+4	#DEP# plugin
+5	#DEP# apach
+6	#DEP# broker
+7	#DEP# amqp

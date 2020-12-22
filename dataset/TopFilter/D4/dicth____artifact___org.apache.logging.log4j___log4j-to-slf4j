@@ -1,0 +1,5 @@
+1	/artifact/org.apache.logging.log4j/log4j-to-slf4j
+2	#DEP# log
+3	#DEP# apach
+4	#DEP# slf4j
+5	#DEP# bridg

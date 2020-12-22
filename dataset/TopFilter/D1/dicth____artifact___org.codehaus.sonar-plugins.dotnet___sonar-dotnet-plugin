@@ -1,0 +1,5 @@
+1	/artifact/org.codehaus.sonar-plugins.dotnet/sonar-dotnet-plugin
+2	#DEP# plugin
+3	#DEP# codehau
+4	#DEP# sonar
+5	#DEP# dotnet

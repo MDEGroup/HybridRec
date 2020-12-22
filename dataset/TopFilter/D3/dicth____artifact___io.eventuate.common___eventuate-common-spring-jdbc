@@ -1,0 +1,5 @@
+1	/artifact/io.eventuate.common/eventuate-common-spring-jdbc
+2	#DEP# sql
+3	#DEP# io
+4	#DEP# spring
+5	#DEP# jdbc

@@ -1,0 +1,5 @@
+1	/artifact/org.eclipse.jetty/jetty-continuation
+2	#DEP# eclips
+3	#DEP# server
+4	#DEP# webserv
+5	#DEP# jetti

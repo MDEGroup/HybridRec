@@ -1,0 +1,5 @@
+1	/artifact/org.typelevel/scalaz-specs2
+2	#DEP# scala
+3	#DEP# spec
+4	#DEP# scalaz
+5	#DEP# test

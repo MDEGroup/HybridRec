@@ -1,0 +1,7 @@
+1	/artifact/javax.json.bind/javax.json.bind-api
+2	#DEP# javax
+3	#DEP# spec
+4	#DEP# bind
+5	#DEP# json
+6	#DEP# api
+7	#DEP# standard

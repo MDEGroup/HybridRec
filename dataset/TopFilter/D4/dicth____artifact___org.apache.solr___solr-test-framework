@@ -1,0 +1,6 @@
+1	/artifact/org.apache.solr/solr-test-framework
+2	#DEP# apach
+3	#DEP# search
+4	#DEP# solr
+5	#DEP# test
+6	#DEP# framework

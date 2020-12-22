@@ -1,0 +1,5 @@
+1	/artifact/org.jboss.gwt.elemento/sample-common
+2	#DEP# ui
+3	#DEP# jboss
+4	#DEP# gwt
+5	#DEP# exampl

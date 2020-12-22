@@ -1,0 +1,6 @@
+1	/artifact/org.apache.spark/spark-sql
+2	#DEP# apach
+3	#DEP# spark
+4	#DEP# sql
+5	#DEP# queri
+6	#DEP# hadoop

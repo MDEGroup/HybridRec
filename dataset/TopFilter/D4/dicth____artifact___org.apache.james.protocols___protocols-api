@@ -1,0 +1,5 @@
+1	/artifact/org.apache.james.protocols/protocols-api
+2	#DEP# api
+3	#DEP# protocol
+4	#DEP# apach
+5	#DEP# mail

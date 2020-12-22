@@ -1,0 +1,8 @@
+1	/artifact/com.typesafe.akka/akka-http-xml
+2	#DEP# xml
+3	#DEP# actor
+4	#DEP# typesaf
+5	#DEP# http
+6	#DEP# distribut
+7	#DEP# concurr
+8	#DEP# akka

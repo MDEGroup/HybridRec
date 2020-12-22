@@ -1,0 +1,5 @@
+1	/artifact/com.wcinformatics.umls.server/term-server-jpa-services
+2	#DEP# servic
+3	#DEP# persist
+4	#DEP# jpa
+5	#DEP# server

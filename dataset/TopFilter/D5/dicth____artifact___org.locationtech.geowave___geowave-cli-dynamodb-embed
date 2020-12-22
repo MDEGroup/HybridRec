@@ -1,0 +1,6 @@
+1	/artifact/org.locationtech.geowave/geowave-cli-dynamodb-embed
+2	#DEP# aw
+3	#DEP# databas
+4	#DEP# dynamodb
+5	#DEP# embed
+6	#DEP# command-lin

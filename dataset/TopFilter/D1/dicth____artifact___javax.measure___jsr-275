@@ -1,0 +1,6 @@
+1	/artifact/javax.measure/jsr-275
+2	#DEP# measur
+3	#DEP# spec
+4	#DEP# unit
+5	#DEP# javax
+6	#DEP# standard

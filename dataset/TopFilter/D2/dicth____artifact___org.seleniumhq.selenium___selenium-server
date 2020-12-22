@@ -1,0 +1,5 @@
+1	/artifact/org.seleniumhq.selenium/selenium-server
+2	#DEP# web
+3	#DEP# selenium
+4	#DEP# server
+5	#DEP# test

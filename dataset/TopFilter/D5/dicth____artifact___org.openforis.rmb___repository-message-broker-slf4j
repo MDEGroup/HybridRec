@@ -1,0 +1,5 @@
+1	/artifact/org.openforis.rmb/repository-message-broker-slf4j
+2	#DEP# slf4j
+3	#DEP# repositori
+4	#DEP# log
+5	#DEP# broker

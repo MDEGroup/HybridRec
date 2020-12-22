@@ -1,0 +1,6 @@
+1	/artifact/com.github.fridujo/rabbitmq-mock
+2	#DEP# github
+3	#DEP# rabbitmq
+4	#DEP# mock
+5	#DEP# queue
+6	#DEP# amqp

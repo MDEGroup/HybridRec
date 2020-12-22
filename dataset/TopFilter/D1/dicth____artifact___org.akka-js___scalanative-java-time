@@ -1,0 +1,6 @@
+1	/artifact/org.akka-js/scalanative-java-time
+2	#DEP# distribut
+3	#DEP# time
+4	#DEP# concurr
+5	#DEP# actor
+6	#DEP# akka

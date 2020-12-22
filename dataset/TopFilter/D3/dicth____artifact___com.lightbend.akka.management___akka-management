@@ -1,0 +1,7 @@
+1	/artifact/com.lightbend.akka.management/akka-management
+2	#DEP# manag
+3	#DEP# actor
+4	#DEP# distribut
+5	#DEP# concurr
+6	#DEP# lightbend
+7	#DEP# akka

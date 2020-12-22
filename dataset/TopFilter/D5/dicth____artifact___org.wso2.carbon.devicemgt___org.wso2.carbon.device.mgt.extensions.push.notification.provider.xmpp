@@ -1,0 +1,7 @@
+1	/artifact/org.wso2.carbon.devicemgt/org.wso2.carbon.device.mgt.extensions.push.notification.provider.xmpp
+2	#DEP# xmpp
+3	#DEP# devic
+4	#DEP# notif
+5	#DEP# provid
+6	#DEP# extens
+7	#DEP# manag

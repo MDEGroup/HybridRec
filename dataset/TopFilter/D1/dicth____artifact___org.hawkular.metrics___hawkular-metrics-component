@@ -1,0 +1,5 @@
+1	/artifact/org.hawkular.metrics/hawkular-metrics-component
+2	#DEP# web
+3	#DEP# metric
+4	#DEP# applic
+5	#DEP# webapp

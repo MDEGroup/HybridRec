@@ -1,0 +1,6 @@
+1	/artifact/com.google.http-client/google-http-client-protobuf
+2	#DEP# client
+3	#DEP# http
+4	#DEP# protocol
+5	#DEP# serial
+6	#DEP# googl

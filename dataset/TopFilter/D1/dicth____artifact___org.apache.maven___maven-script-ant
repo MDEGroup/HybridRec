@@ -1,0 +1,7 @@
+1	/artifact/org.apache.maven/maven-script-ant
+2	#DEP# apach
+3	#DEP# build-system
+4	#DEP# script
+5	#DEP# ant
+6	#DEP# build
+7	#DEP# maven

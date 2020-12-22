@@ -1,0 +1,7 @@
+1	/artifact/org.apache.tomcat/jsp-api
+2	#DEP# webserv
+3	#DEP# api
+4	#DEP# server
+5	#DEP# jsp
+6	#DEP# apach
+7	#DEP# tomcat

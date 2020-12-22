@@ -1,0 +1,6 @@
+1	/artifact/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.claim.metadata.mgt.stub
+2	#DEP# manag
+3	#DEP# stub
+4	#DEP# metadata
+5	#DEP# ident
+6	#DEP# framework

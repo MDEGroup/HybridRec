@@ -1,0 +1,6 @@
+1	/artifact/com.vaadin.external.google/android-json
+2	#DEP# json
+3	#DEP# googl
+4	#DEP# android
+5	#DEP# gwt
+6	#DEP# web-framework

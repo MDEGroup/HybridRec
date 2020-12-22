@@ -1,0 +1,5 @@
+1	/artifact/io.github.tcdl.msb/msb-java-amqp
+2	#DEP# queue
+3	#DEP# amqp
+4	#DEP# io
+5	#DEP# github

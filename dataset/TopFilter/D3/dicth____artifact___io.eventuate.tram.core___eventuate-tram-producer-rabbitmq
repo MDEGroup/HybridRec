@@ -1,0 +1,6 @@
+1	/artifact/io.eventuate.tram.core/eventuate-tram-producer-rabbitmq
+2	#DEP# queue
+3	#DEP# io
+4	#DEP# rabbitmq
+5	#DEP# produc
+6	#DEP# amqp

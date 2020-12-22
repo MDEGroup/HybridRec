@@ -1,0 +1,5 @@
+1	/artifact/org.opennms/opennms-webapp-rest
+2	#DEP# applic
+3	#DEP# web
+4	#DEP# webapp
+5	#DEP# rest

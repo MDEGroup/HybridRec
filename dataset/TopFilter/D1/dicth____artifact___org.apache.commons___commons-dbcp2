@@ -1,0 +1,5 @@
+1	/artifact/org.apache.commons/commons-dbcp2
+2	#DEP# pool
+3	#DEP# apach
+4	#DEP# common
+5	#DEP# jdbc

@@ -1,0 +1,6 @@
+1	/artifact/io.github.davidgregory084/vertices-amqp-bridge
+2	#DEP# github
+3	#DEP# queue
+4	#DEP# amqp
+5	#DEP# io
+6	#DEP# bridg

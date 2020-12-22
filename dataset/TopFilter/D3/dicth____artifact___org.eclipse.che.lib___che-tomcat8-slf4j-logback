@@ -1,0 +1,8 @@
+1	/artifact/org.eclipse.che.lib/che-tomcat8-slf4j-logback
+2	#DEP# webserv
+3	#DEP# slf4j
+4	#DEP# log
+5	#DEP# server
+6	#DEP# librari
+7	#DEP# eclips
+8	#DEP# tomcat

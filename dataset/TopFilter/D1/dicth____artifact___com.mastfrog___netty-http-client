@@ -1,0 +1,6 @@
+1	/artifact/com.mastfrog/netty-http-client
+2	#DEP# http
+3	#DEP# socket
+4	#DEP# netti
+5	#DEP# network
+6	#DEP# client

@@ -1,0 +1,5 @@
+1	/artifact/com.rabbitmq.jms/rabbitmq-jms
+2	#DEP# amqp
+3	#DEP# queue
+4	#DEP# jm
+5	#DEP# rabbitmq

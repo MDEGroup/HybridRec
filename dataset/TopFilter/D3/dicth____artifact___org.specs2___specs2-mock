@@ -1,0 +1,4 @@
+1	/artifact/org.specs2/specs2-mock
+2	#DEP# spec
+3	#DEP# mock
+4	#DEP# test

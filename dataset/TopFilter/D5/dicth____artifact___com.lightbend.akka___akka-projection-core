@@ -1,0 +1,6 @@
+1	/artifact/com.lightbend.akka/akka-projection-core
+2	#DEP# distribut
+3	#DEP# actor
+4	#DEP# concurr
+5	#DEP# akka
+6	#DEP# lightbend

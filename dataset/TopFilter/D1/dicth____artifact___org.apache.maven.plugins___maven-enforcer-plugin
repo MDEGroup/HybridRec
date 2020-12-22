@@ -1,0 +1,6 @@
+1	/artifact/org.apache.maven.plugins/maven-enforcer-plugin
+2	#DEP# apach
+3	#DEP# build-system
+4	#DEP# build
+5	#DEP# maven
+6	#DEP# plugin

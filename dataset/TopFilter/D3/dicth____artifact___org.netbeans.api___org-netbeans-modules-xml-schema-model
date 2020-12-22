@@ -1,0 +1,8 @@
+1	/artifact/org.netbeans.api/org-netbeans-modules-xml-schema-model
+2	#DEP# xml
+3	#DEP# api
+4	#DEP# schema
+5	#DEP# ide
+6	#DEP# modul
+7	#DEP# netbean
+8	#DEP# model

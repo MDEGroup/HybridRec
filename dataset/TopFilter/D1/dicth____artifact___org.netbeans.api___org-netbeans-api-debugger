@@ -1,0 +1,5 @@
+1	/artifact/org.netbeans.api/org-netbeans-api-debugger
+2	#DEP# ide
+3	#DEP# debug
+4	#DEP# api
+5	#DEP# netbean

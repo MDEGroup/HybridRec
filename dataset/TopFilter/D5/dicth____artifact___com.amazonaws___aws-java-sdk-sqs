@@ -1,0 +1,7 @@
+1	/artifact/com.amazonaws/aws-java-sdk-sqs
+2	#DEP# aw
+3	#DEP# client
+4	#DEP# sdk
+5	#DEP# amazon
+6	#DEP# queue
+7	#DEP# messag

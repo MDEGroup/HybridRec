@@ -1,0 +1,5 @@
+1	/artifact/org.eclipse.jdt.core.compiler/ecj
+2	#DEP# java
+3	#DEP# compil
+4	#DEP# parser
+5	#DEP# eclips

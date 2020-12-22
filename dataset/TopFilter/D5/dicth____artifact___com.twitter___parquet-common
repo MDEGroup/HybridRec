@@ -1,0 +1,5 @@
+1	/artifact/com.twitter/parquet-common
+2	#DEP# twitter
+3	#DEP# column
+4	#DEP# parquet
+5	#DEP# serial

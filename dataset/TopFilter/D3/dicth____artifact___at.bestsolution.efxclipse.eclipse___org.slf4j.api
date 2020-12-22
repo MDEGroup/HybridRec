@@ -1,0 +1,5 @@
+1	/artifact/at.bestsolution.efxclipse.eclipse/org.slf4j.api
+2	#DEP# eclips
+3	#DEP# api
+4	#DEP# log
+5	#DEP# slf4j

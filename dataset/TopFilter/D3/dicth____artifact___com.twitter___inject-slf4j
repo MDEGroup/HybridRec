@@ -1,0 +1,5 @@
+1	/artifact/com.twitter/inject-slf4j
+2	#DEP# dependency-inject
+3	#DEP# twitter
+4	#DEP# log
+5	#DEP# slf4j

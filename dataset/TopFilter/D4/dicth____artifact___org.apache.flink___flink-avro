@@ -1,0 +1,5 @@
+1	/artifact/org.apache.flink/flink-avro
+2	#DEP# protocol
+3	#DEP# serial
+4	#DEP# apach
+5	#DEP# avro

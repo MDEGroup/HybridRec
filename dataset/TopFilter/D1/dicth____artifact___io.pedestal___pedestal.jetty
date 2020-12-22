@@ -1,0 +1,6 @@
+1	/artifact/io.pedestal/pedestal.jetty
+2	#DEP# server
+3	#DEP# jetti
+4	#DEP# webserv
+5	#DEP# clojur
+6	#DEP# io

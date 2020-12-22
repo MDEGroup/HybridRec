@@ -1,0 +1,7 @@
+1	/artifact/io.netty/netty-codec-dns
+2	#DEP# dn
+3	#DEP# netti
+4	#DEP# network
+5	#DEP# socket
+6	#DEP# codec
+7	#DEP# io

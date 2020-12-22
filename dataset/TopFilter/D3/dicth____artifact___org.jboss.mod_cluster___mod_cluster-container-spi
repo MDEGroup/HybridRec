@@ -1,0 +1,5 @@
+1	/artifact/org.jboss.mod_cluster/mod_cluster-container-spi
+2	#DEP# cluster
+3	#DEP# jboss
+4	#DEP# interfac
+5	#DEP# contain

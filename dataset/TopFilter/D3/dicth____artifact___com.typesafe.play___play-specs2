@@ -1,0 +1,5 @@
+1	/artifact/com.typesafe.play/play-specs2
+2	#DEP# typesaf
+3	#DEP# spec
+4	#DEP# test
+5	#DEP# play-framework

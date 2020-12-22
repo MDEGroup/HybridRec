@@ -1,0 +1,8 @@
+1	/artifact/com.typesafe.akka/akka-remote-tests
+2	#DEP# concurr
+3	#DEP# akka
+4	#DEP# distribut
+5	#DEP# remot
+6	#DEP# typesaf
+7	#DEP# test
+8	#DEP# actor

@@ -1,0 +1,6 @@
+1	/artifact/com.twitter/finagle-mysql
+2	#DEP# mysql
+3	#DEP# driver
+4	#DEP# finagl
+5	#DEP# twitter
+6	#DEP# databas

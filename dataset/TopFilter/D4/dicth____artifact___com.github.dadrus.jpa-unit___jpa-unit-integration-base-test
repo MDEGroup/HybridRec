@@ -1,0 +1,6 @@
+1	/artifact/com.github.dadrus.jpa-unit/jpa-unit-integration-base-test
+2	#DEP# integr
+3	#DEP# github
+4	#DEP# test
+5	#DEP# persist
+6	#DEP# jpa

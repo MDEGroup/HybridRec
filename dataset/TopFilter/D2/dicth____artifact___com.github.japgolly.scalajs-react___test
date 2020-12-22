@@ -1,0 +1,5 @@
+1	/artifact/com.github.japgolly.scalajs-react/test
+2	#DEP# github
+3	#DEP# scala
+4	#DEP# scalaj
+5	#DEP# test

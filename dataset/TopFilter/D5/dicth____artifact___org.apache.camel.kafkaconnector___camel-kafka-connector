@@ -1,0 +1,6 @@
+1	/artifact/org.apache.camel.kafkaconnector/camel-kafka-connector
+2	#DEP# connector
+3	#DEP# apach
+4	#DEP# stream
+5	#DEP# camel
+6	#DEP# kafka

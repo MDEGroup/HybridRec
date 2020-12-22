@@ -1,0 +1,6 @@
+1	/artifact/org.springframework.boot/spring-boot-starter-tomcat
+2	#DEP# starter
+3	#DEP# tomcat
+4	#DEP# server
+5	#DEP# spring
+6	#DEP# webserv

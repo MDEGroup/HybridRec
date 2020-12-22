@@ -1,0 +1,5 @@
+1	/artifact/software.amazon.awssdk/dynamodb-enhanced
+2	#DEP# databas
+3	#DEP# dynamodb
+4	#DEP# aw
+5	#DEP# amazon

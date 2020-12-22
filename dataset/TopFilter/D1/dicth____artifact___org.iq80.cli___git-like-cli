@@ -1,0 +1,6 @@
+1	/artifact/org.iq80.cli/git-like-cli
+2	#DEP# command-lin
+3	#DEP# cli
+4	#DEP# git
+5	#DEP# scm
+6	#DEP# parser

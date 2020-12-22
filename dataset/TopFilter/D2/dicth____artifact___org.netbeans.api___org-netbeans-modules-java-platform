@@ -1,0 +1,6 @@
+1	/artifact/org.netbeans.api/org-netbeans-modules-java-platform
+2	#DEP# modul
+3	#DEP# platform
+4	#DEP# api
+5	#DEP# ide
+6	#DEP# netbean

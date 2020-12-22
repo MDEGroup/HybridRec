@@ -1,0 +1,6 @@
+1	/artifact/org.apache.hadoop/hadoop-hdfs
+2	#DEP# distribut
+3	#DEP# file-system
+4	#DEP# hadoop
+5	#DEP# storag
+6	#DEP# apach

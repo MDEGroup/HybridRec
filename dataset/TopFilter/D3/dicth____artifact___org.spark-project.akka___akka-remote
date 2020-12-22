@@ -1,0 +1,7 @@
+1	/artifact/org.spark-project.akka/akka-remote
+2	#DEP# actor
+3	#DEP# remot
+4	#DEP# distribut
+5	#DEP# spark
+6	#DEP# concurr
+7	#DEP# akka

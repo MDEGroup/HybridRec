@@ -1,0 +1,5 @@
+1	/artifact/org.hawkular.accounts/hawkular-accounts-events-backend
+2	#DEP# event
+3	#DEP# applic
+4	#DEP# web
+5	#DEP# webapp

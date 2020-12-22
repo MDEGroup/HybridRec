@@ -1,0 +1,5 @@
+1	/artifact/com.google.monitoring-client/metrics
+2	#DEP# googl
+3	#DEP# metric
+4	#DEP# client
+5	#DEP# monitor

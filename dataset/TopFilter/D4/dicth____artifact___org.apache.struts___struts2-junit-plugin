@@ -1,0 +1,6 @@
+1	/artifact/org.apache.struts/struts2-junit-plugin
+2	#DEP# apach
+3	#DEP# web-framework
+4	#DEP# junit
+5	#DEP# test
+6	#DEP# plugin

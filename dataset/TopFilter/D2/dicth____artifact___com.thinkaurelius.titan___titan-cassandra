@@ -1,0 +1,5 @@
+1	/artifact/com.thinkaurelius.titan/titan-cassandra
+2	#DEP# graph
+3	#DEP# nosql
+4	#DEP# cassandra
+5	#DEP# databas

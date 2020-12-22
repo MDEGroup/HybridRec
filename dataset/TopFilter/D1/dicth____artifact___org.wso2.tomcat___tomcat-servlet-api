@@ -1,0 +1,6 @@
+1	/artifact/org.wso2.tomcat/tomcat-servlet-api
+2	#DEP# server
+3	#DEP# tomcat
+4	#DEP# api
+5	#DEP# webserv
+6	#DEP# servlet

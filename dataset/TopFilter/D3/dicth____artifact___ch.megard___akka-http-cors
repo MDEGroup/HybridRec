@@ -1,0 +1,6 @@
+1	/artifact/ch.megard/akka-http-cors
+2	#DEP# actor
+3	#DEP# http
+4	#DEP# distribut
+5	#DEP# concurr
+6	#DEP# akka

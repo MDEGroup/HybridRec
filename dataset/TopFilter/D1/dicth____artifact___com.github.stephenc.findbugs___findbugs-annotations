@@ -1,0 +1,6 @@
+1	/artifact/com.github.stephenc.findbugs/findbugs-annotations
+2	#DEP# analysi
+3	#DEP# github
+4	#DEP# annot
+5	#DEP# metadata
+6	#DEP# defect

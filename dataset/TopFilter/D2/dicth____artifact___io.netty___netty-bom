@@ -1,0 +1,6 @@
+1	/artifact/io.netty/netty-bom
+2	#DEP# io
+3	#DEP# netti
+4	#DEP# bom
+5	#DEP# socket
+6	#DEP# network

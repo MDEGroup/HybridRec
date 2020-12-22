@@ -1,0 +1,6 @@
+1	/artifact/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-expression
+2	#DEP# bundl
+3	#DEP# spring
+4	#DEP# esb
+5	#DEP# apach
+6	#DEP# express

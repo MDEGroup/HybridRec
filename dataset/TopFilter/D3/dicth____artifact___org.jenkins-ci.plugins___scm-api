@@ -1,0 +1,5 @@
+1	/artifact/org.jenkins-ci.plugins/scm-api
+2	#DEP# jenkin
+3	#DEP# scm
+4	#DEP# plugin
+5	#DEP# api

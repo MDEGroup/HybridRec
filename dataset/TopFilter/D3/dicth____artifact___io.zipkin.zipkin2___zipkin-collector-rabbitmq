@@ -1,0 +1,7 @@
+1	/artifact/io.zipkin.zipkin2/zipkin-collector-rabbitmq
+2	#DEP# trace
+3	#DEP# queue
+4	#DEP# io
+5	#DEP# rabbitmq
+6	#DEP# amqp
+7	#DEP# collector

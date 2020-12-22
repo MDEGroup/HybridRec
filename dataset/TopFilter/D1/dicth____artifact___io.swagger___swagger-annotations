@@ -1,0 +1,5 @@
+1	/artifact/io.swagger/swagger-annotations
+2	#DEP# io
+3	#DEP# annot
+4	#DEP# swagger
+5	#DEP# api

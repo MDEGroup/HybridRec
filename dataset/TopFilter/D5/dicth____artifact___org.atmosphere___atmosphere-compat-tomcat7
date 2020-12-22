@@ -1,0 +1,5 @@
+1	/artifact/org.atmosphere/atmosphere-compat-tomcat7
+2	#DEP# server
+3	#DEP# compat
+4	#DEP# webserv
+5	#DEP# tomcat

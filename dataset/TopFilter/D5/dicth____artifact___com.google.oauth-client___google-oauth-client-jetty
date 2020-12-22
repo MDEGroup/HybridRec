@@ -1,0 +1,8 @@
+1	/artifact/com.google.oauth-client/google-oauth-client-jetty
+2	#DEP# client
+3	#DEP# webserv
+4	#DEP# oauth
+5	#DEP# jetti
+6	#DEP# server
+7	#DEP# authent
+8	#DEP# googl

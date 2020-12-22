@@ -1,0 +1,9 @@
+1	/artifact/org.jboss.bpm/gwt-console
+2	#DEP# web
+3	#DEP# consol
+4	#DEP# gwt
+5	#DEP# webapp
+6	#DEP# jboss
+7	#DEP# bpm
+8	#DEP# ui
+9	#DEP# applic

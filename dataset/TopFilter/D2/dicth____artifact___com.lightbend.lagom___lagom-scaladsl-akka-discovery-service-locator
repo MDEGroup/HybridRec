@@ -1,0 +1,10 @@
+1	/artifact/com.lightbend.lagom/lagom-scaladsl-akka-discovery-service-locator
+2	#DEP# concurr
+3	#DEP# microservic
+4	#DEP# distribut
+5	#DEP# akka
+6	#DEP# lightbend
+7	#DEP# dsl
+8	#DEP# discoveri
+9	#DEP# servic
+10	#DEP# actor

@@ -1,0 +1,5 @@
+1	/artifact/io.zipkin.brave/brave-context-slf4j
+2	#DEP# trace
+3	#DEP# io
+4	#DEP# log
+5	#DEP# slf4j

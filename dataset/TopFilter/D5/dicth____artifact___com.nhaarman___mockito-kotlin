@@ -1,0 +1,4 @@
+1	/artifact/com.nhaarman/mockito-kotlin
+2	#DEP# kotlin
+3	#DEP# mock
+4	#DEP# test

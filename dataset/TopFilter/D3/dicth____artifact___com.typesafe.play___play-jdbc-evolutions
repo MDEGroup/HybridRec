@@ -1,0 +1,5 @@
+1	/artifact/com.typesafe.play/play-jdbc-evolutions
+2	#DEP# typesaf
+3	#DEP# sql
+4	#DEP# jdbc
+5	#DEP# play-framework

@@ -1,0 +1,7 @@
+1	/artifact/org.eclipse.jetty.websocket/javax-websocket-client-impl
+2	#DEP# jetti
+3	#DEP# websocket
+4	#DEP# eclips
+5	#DEP# webserv
+6	#DEP# server
+7	#DEP# client

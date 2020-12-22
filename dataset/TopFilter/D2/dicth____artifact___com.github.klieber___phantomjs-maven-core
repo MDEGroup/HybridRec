@@ -1,0 +1,7 @@
+1	/artifact/com.github.klieber/phantomjs-maven-core
+2	#DEP# browser
+3	#DEP# build
+4	#DEP# maven
+5	#DEP# autom
+6	#DEP# build-system
+7	#DEP# github

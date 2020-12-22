@@ -1,0 +1,5 @@
+1	/artifact/io.projectreactor.netty/reactor-netty
+2	#DEP# network
+3	#DEP# netti
+4	#DEP# io
+5	#DEP# socket

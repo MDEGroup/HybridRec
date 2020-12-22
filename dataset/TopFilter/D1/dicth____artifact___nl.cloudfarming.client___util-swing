@@ -1,0 +1,6 @@
+1	/artifact/nl.cloudfarming.client/util-swing
+2	#DEP# ui
+3	#DEP# swing
+4	#DEP# modul
+5	#DEP# netbean
+6	#DEP# client

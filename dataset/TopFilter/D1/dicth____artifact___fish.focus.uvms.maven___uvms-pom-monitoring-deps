@@ -1,0 +1,5 @@
+1	/artifact/fish.focus.uvms.maven/uvms-pom-monitoring-deps
+2	#DEP# build
+3	#DEP# maven
+4	#DEP# build-system
+5	#DEP# monitor

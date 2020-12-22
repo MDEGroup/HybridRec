@@ -1,0 +1,6 @@
+1	/artifact/org.apache.solr/solr-commons-csv
+2	#DEP# apach
+3	#DEP# tabular
+4	#DEP# search
+5	#DEP# csv
+6	#DEP# solr

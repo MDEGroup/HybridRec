@@ -1,0 +1,5 @@
+1	/artifact/com.atlassian.oai/swagger-request-validator-core
+2	#DEP# api
+3	#DEP# swagger
+4	#DEP# valid
+5	#DEP# request

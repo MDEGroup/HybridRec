@@ -1,0 +1,6 @@
+1	/artifact/io.ballerina.messaging/broker-cli-client
+2	#DEP# messag
+3	#DEP# broker
+4	#DEP# command-lin
+5	#DEP# client
+6	#DEP# io

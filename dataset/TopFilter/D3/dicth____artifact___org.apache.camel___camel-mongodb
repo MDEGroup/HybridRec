@@ -1,0 +1,7 @@
+1	/artifact/org.apache.camel/camel-mongodb
+2	#DEP# nosql
+3	#DEP# camel
+4	#DEP# apach
+5	#DEP# mongodb
+6	#DEP# client
+7	#DEP# databas

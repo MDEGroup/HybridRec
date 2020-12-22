@@ -1,0 +1,6 @@
+1	/artifact/org.jenkins-ci.plugins/aws-java-sdk
+2	#DEP# jenkin
+3	#DEP# sdk
+4	#DEP# aw
+5	#DEP# plugin
+6	#DEP# amazon

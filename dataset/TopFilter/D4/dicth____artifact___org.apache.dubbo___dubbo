@@ -1,0 +1,5 @@
+1	/artifact/org.apache.dubbo/dubbo
+2	#DEP# apach
+3	#DEP# commun
+4	#DEP# remot
+5	#DEP# distribut

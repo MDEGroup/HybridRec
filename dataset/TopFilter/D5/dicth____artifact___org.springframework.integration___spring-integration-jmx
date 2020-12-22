@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.integration/spring-integration-jmx
+2	#DEP# jmx
+3	#DEP# integr
+4	#DEP# manag
+5	#DEP# spring

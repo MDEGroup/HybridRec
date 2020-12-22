@@ -1,0 +1,5 @@
+1	/artifact/javax.ws.rs/jsr311-api
+2	#DEP# javax
+3	#DEP# standard
+4	#DEP# spec
+5	#DEP# api

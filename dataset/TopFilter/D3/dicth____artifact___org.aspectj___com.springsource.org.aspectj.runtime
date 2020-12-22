@@ -1,0 +1,5 @@
+1	/artifact/org.aspectj/com.springsource.org.aspectj.runtime
+2	#DEP# runtim
+3	#DEP# spring
+4	#DEP# aop
+5	#DEP# aspect

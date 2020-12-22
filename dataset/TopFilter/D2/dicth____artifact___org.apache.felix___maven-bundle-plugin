@@ -1,0 +1,8 @@
+1	/artifact/org.apache.felix/maven-bundle-plugin
+2	#DEP# osgi
+3	#DEP# build
+4	#DEP# maven
+5	#DEP# bundl
+6	#DEP# build-system
+7	#DEP# apach
+8	#DEP# plugin

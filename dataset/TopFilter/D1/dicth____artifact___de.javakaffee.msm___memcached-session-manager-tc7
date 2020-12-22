@@ -1,0 +1,5 @@
+1	/artifact/de.javakaffee.msm/memcached-session-manager-tc7
+2	#DEP# memcach
+3	#DEP# session
+4	#DEP# manag
+5	#DEP# tomcat

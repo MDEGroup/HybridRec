@@ -1,0 +1,5 @@
+1	/artifact/org.apache.openejb.patch/openjpa-kernel
+2	#DEP# ejb
+3	#DEP# persist
+4	#DEP# apach
+5	#DEP# jpa

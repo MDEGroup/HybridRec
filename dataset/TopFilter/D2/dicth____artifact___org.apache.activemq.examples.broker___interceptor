@@ -1,0 +1,6 @@
+1	/artifact/org.apache.activemq.examples.broker/interceptor
+2	#DEP# queue
+3	#DEP# jm
+4	#DEP# exampl
+5	#DEP# apach
+6	#DEP# broker

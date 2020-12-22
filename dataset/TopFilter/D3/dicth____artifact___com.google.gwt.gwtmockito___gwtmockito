@@ -1,0 +1,6 @@
+1	/artifact/com.google.gwt.gwtmockito/gwtmockito
+2	#DEP# googl
+3	#DEP# mock
+4	#DEP# gwt
+5	#DEP# ui
+6	#DEP# test

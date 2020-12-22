@@ -1,0 +1,6 @@
+1	/artifact/com.facebook.drift/drift-transport-netty
+2	#DEP# facebook
+3	#DEP# socket
+4	#DEP# netti
+5	#DEP# network
+6	#DEP# transport

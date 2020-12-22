@@ -1,0 +1,5 @@
+1	/artifact/http.async.client/http.async.client
+2	#DEP# clojur
+3	#DEP# asynchron
+4	#DEP# client
+5	#DEP# http

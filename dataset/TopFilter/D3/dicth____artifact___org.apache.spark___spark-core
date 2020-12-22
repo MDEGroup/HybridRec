@@ -1,0 +1,5 @@
+1	/artifact/org.apache.spark/spark-core
+2	#DEP# spark
+3	#DEP# distribut
+4	#DEP# comput
+5	#DEP# apach

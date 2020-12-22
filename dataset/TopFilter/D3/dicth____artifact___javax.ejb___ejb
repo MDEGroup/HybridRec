@@ -1,0 +1,5 @@
+1	/artifact/javax.ejb/ejb
+2	#DEP# ejb
+3	#DEP# javax
+4	#DEP# spec
+5	#DEP# standard

@@ -1,0 +1,7 @@
+1	/artifact/org.appspy.perf/org.appspy.perf.sample.struts-showcase
+2	#DEP# web
+3	#DEP# web-framework
+4	#DEP# webapp
+5	#DEP# perform
+6	#DEP# applic
+7	#DEP# exampl

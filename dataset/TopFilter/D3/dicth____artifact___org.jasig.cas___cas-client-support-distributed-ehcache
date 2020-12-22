@@ -1,0 +1,5 @@
+1	/artifact/org.jasig.cas/cas-client-support-distributed-ehcache
+2	#DEP# cach
+3	#DEP# distribut
+4	#DEP# client
+5	#DEP# support

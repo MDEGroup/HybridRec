@@ -1,0 +1,5 @@
+1	/artifact/org.hibernate/hibernate-validator-test-utils
+2	#DEP# test
+3	#DEP# persist
+4	#DEP# valid
+5	#DEP# hibern

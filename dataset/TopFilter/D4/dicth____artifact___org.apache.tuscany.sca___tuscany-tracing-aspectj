@@ -1,0 +1,5 @@
+1	/artifact/org.apache.tuscany.sca/tuscany-tracing-aspectj
+2	#DEP# aspect
+3	#DEP# apach
+4	#DEP# trace
+5	#DEP# aop

@@ -1,0 +1,5 @@
+1	/artifact/org.artificer/artificer-server
+2	#DEP# webapp
+3	#DEP# server
+4	#DEP# applic
+5	#DEP# web

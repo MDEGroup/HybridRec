@@ -1,0 +1,5 @@
+1	/artifact/org.apache.streampipes/streampipes-messaging-kafka
+2	#DEP# kafka
+3	#DEP# stream
+4	#DEP# apach
+5	#DEP# messag

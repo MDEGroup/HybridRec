@@ -1,0 +1,8 @@
+1	/artifact/org.spark-project.akka/akka-slf4j
+2	#DEP# concurr
+3	#DEP# slf4j
+4	#DEP# distribut
+5	#DEP# akka
+6	#DEP# spark
+7	#DEP# log
+8	#DEP# actor

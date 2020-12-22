@@ -1,0 +1,5 @@
+1	/artifact/com.microsoft.azure/spring-cloud-azure-autoconfigure
+2	#DEP# config
+3	#DEP# cloud
+4	#DEP# spring
+5	#DEP# azur

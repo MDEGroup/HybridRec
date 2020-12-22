@@ -1,0 +1,5 @@
+1	/artifact/org.netbeans.api/org-netbeans-api-debugger-jpda
+2	#DEP# netbean
+3	#DEP# ide
+4	#DEP# debug
+5	#DEP# api

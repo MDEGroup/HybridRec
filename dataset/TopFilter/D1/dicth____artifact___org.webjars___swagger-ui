@@ -1,0 +1,6 @@
+1	/artifact/org.webjars/swagger-ui
+2	#DEP# web
+3	#DEP# ui
+4	#DEP# swagger
+5	#DEP# api
+6	#DEP# asset

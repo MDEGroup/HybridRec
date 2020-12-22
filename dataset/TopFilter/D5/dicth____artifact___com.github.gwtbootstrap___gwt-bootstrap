@@ -1,0 +1,5 @@
+1	/artifact/com.github.gwtbootstrap/gwt-bootstrap
+2	#DEP# bootstrap
+3	#DEP# ui
+4	#DEP# gwt
+5	#DEP# github

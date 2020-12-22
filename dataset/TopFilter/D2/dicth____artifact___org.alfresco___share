@@ -1,0 +1,5 @@
+1	/artifact/org.alfresco/share
+2	#DEP# web
+3	#DEP# cm
+4	#DEP# webapp
+5	#DEP# applic

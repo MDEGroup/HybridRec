@@ -1,0 +1,5 @@
+1	/artifact/com.atlassian.plugin/atlassian-spring-scanner-runtime
+2	#DEP# runtim
+3	#DEP# scan
+4	#DEP# plugin
+5	#DEP# spring

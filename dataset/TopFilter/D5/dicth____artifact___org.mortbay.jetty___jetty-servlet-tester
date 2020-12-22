@@ -1,0 +1,5 @@
+1	/artifact/org.mortbay.jetty/jetty-servlet-tester
+2	#DEP# servlet
+3	#DEP# server
+4	#DEP# webserv
+5	#DEP# jetti

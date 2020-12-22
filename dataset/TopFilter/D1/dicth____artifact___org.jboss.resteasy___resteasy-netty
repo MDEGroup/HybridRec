@@ -1,0 +1,5 @@
+1	/artifact/org.jboss.resteasy/resteasy-netty
+2	#DEP# jboss
+3	#DEP# network
+4	#DEP# socket
+5	#DEP# netti

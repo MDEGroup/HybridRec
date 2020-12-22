@@ -1,0 +1,5 @@
+1	/artifact/org.apache.myfaces.buildtools/myfaces-builder-annotations
+2	#DEP# annot
+3	#DEP# jsf
+4	#DEP# apach
+5	#DEP# builder

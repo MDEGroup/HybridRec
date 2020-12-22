@@ -1,0 +1,5 @@
+1	/artifact/org.eclipse.dirigible/dirigible-engine-javascript-rhino
+2	#DEP# engin
+3	#DEP# javascript
+4	#DEP# eclips
+5	#DEP# script

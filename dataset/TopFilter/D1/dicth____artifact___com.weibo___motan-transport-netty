@@ -1,0 +1,5 @@
+1	/artifact/com.weibo/motan-transport-netty
+2	#DEP# network
+3	#DEP# socket
+4	#DEP# netti
+5	#DEP# transport

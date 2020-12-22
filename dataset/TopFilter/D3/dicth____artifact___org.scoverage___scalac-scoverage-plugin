@@ -1,0 +1,5 @@
+1	/artifact/org.scoverage/scalac-scoverage-plugin
+2	#DEP# plugin
+3	#DEP# coverag
+4	#DEP# code-coverag
+5	#DEP# analysi

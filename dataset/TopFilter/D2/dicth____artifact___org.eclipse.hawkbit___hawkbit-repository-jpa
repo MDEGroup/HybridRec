@@ -1,0 +1,5 @@
+1	/artifact/org.eclipse.hawkbit/hawkbit-repository-jpa
+2	#DEP# persist
+3	#DEP# eclips
+4	#DEP# jpa
+5	#DEP# repositori

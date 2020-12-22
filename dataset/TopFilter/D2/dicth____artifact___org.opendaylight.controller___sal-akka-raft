@@ -1,0 +1,6 @@
+1	/artifact/org.opendaylight.controller/sal-akka-raft
+2	#DEP# concurr
+3	#DEP# control
+4	#DEP# distribut
+5	#DEP# akka
+6	#DEP# actor

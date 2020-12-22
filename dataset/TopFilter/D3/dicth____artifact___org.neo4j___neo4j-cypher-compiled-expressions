@@ -1,0 +1,5 @@
+1	/artifact/org.neo4j/neo4j-cypher-compiled-expressions
+2	#DEP# express
+3	#DEP# graph
+4	#DEP# neo4j
+5	#DEP# databas

@@ -1,0 +1,5 @@
+1	/artifact/com.twitter/util-slf4j-api
+2	#DEP# twitter
+3	#DEP# api
+4	#DEP# log
+5	#DEP# slf4j

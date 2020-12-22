@@ -1,0 +1,5 @@
+1	/artifact/org.jboss.spec.javax.xml.bind/jboss-jaxb-api_2.2_spec
+2	#DEP# api
+3	#DEP# xml
+4	#DEP# jboss
+5	#DEP# bind

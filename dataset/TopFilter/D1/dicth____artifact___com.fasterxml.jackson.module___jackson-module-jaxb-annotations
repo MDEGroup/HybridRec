@@ -1,0 +1,6 @@
+1	/artifact/com.fasterxml.jackson.module/jackson-module-jaxb-annotations
+2	#DEP# xml
+3	#DEP# modul
+4	#DEP# bind
+5	#DEP# annot
+6	#DEP# json

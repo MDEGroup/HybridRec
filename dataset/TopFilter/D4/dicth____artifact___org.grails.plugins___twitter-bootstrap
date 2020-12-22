@@ -1,0 +1,6 @@
+1	/artifact/org.grails.plugins/twitter-bootstrap
+2	#DEP# twitter
+3	#DEP# groovi
+4	#DEP# grail
+5	#DEP# bootstrap
+6	#DEP# plugin

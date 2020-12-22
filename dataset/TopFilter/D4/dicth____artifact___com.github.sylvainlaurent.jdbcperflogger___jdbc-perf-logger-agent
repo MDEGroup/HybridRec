@@ -1,0 +1,7 @@
+1	/artifact/com.github.sylvainlaurent.jdbcperflogger/jdbc-perf-logger-agent
+2	#DEP# agent
+3	#DEP# github
+4	#DEP# log
+5	#DEP# sql
+6	#DEP# perform
+7	#DEP# jdbc

@@ -1,0 +1,6 @@
+1	/artifact/com.github.marcosemiao.log4jdbc.core/log4jdbc-api
+2	#DEP# api
+3	#DEP# log
+4	#DEP# jdbc
+5	#DEP# sql
+6	#DEP# github

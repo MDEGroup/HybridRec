@@ -1,0 +1,5 @@
+1	/artifact/io.fabric8/docker-client
+2	#DEP# io
+3	#DEP# contain
+4	#DEP# client
+5	#DEP# docker

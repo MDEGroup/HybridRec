@@ -1,0 +1,6 @@
+1	/artifact/org.apache.spark/spark-avro
+2	#DEP# apach
+3	#DEP# avro
+4	#DEP# serial
+5	#DEP# protocol
+6	#DEP# spark

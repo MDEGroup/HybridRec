@@ -1,0 +1,6 @@
+1	/artifact/org.apache.jclouds.driver/jclouds-slf4j
+2	#DEP# apach
+3	#DEP# slf4j
+4	#DEP# cloud
+5	#DEP# log
+6	#DEP# driver

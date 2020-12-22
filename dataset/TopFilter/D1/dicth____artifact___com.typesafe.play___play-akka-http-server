@@ -1,0 +1,9 @@
+1	/artifact/com.typesafe.play/play-akka-http-server
+2	#DEP# http
+3	#DEP# distribut
+4	#DEP# server
+5	#DEP# concurr
+6	#DEP# actor
+7	#DEP# akka
+8	#DEP# play-framework
+9	#DEP# typesaf

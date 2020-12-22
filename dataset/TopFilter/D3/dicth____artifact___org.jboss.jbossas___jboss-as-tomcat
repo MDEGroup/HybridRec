@@ -1,0 +1,5 @@
+1	/artifact/org.jboss.jbossas/jboss-as-tomcat
+2	#DEP# jboss
+3	#DEP# tomcat
+4	#DEP# webserv
+5	#DEP# server

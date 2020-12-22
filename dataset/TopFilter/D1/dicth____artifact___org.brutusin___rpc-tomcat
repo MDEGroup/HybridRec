@@ -1,0 +1,5 @@
+1	/artifact/org.brutusin/rpc-tomcat
+2	#DEP# tomcat
+3	#DEP# rpc
+4	#DEP# server
+5	#DEP# webserv

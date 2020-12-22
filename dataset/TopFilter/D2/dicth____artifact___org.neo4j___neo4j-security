@@ -1,0 +1,5 @@
+1	/artifact/org.neo4j/neo4j-security
+2	#DEP# graph
+3	#DEP# neo4j
+4	#DEP# secur
+5	#DEP# databas

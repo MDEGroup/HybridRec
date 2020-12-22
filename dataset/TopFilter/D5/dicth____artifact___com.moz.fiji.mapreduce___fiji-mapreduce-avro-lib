@@ -1,0 +1,7 @@
+1	/artifact/com.moz.fiji.mapreduce/fiji-mapreduce-avro-lib
+2	#DEP# avro
+3	#DEP# librari
+4	#DEP# protocol
+5	#DEP# serial
+6	#DEP# mapreduc
+7	#DEP# parallel

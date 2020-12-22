@@ -1,0 +1,7 @@
+1	/artifact/ru.smslv.akka/akka-dns
+2	#DEP# actor
+3	#DEP# distribut
+4	#DEP# concurr
+5	#DEP# akka
+6	#DEP# network
+7	#DEP# dn

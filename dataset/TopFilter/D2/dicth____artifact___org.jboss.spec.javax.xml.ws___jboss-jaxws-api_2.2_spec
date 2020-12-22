@@ -1,0 +1,5 @@
+1	/artifact/org.jboss.spec.javax.xml.ws/jboss-jaxws-api_2.2_spec
+2	#DEP# webservic
+3	#DEP# api
+4	#DEP# jboss
+5	#DEP# xml

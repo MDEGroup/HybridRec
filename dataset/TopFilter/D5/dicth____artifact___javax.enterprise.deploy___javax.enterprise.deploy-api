@@ -1,0 +1,6 @@
+1	/artifact/javax.enterprise.deploy/javax.enterprise.deploy-api
+2	#DEP# standard
+3	#DEP# javax
+4	#DEP# api
+5	#DEP# deploy
+6	#DEP# spec

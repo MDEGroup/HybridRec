@@ -1,0 +1,5 @@
+1	/artifact/org.owasp.appsensor/appsensor-amqp-rabbitmq-core
+2	#DEP# queue
+3	#DEP# amqp
+4	#DEP# sensor
+5	#DEP# rabbitmq

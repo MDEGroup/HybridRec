@@ -1,0 +1,5 @@
+1	/artifact/com.github.rest-driver/rest-client-driver
+2	#DEP# driver
+3	#DEP# client
+4	#DEP# github
+5	#DEP# rest

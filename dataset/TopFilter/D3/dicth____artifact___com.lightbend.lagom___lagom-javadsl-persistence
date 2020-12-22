@@ -1,0 +1,5 @@
+1	/artifact/com.lightbend.lagom/lagom-javadsl-persistence
+2	#DEP# persist
+3	#DEP# dsl
+4	#DEP# microservic
+5	#DEP# lightbend

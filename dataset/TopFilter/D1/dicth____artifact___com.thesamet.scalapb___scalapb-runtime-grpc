@@ -1,0 +1,5 @@
+1	/artifact/com.thesamet.scalapb/scalapb-runtime-grpc
+2	#DEP# runtim
+3	#DEP# protocol
+4	#DEP# rpc
+5	#DEP# grpc

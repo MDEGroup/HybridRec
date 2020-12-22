@@ -1,0 +1,5 @@
+1	/artifact/org.apache.tapestry/tapestry-jpa
+2	#DEP# apach
+3	#DEP# persist
+4	#DEP# jpa
+5	#DEP# web-framework

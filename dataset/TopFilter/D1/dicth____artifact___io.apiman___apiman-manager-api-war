@@ -1,0 +1,7 @@
+1	/artifact/io.apiman/apiman-manager-api-war
+2	#DEP# web
+3	#DEP# manag
+4	#DEP# webapp
+5	#DEP# applic
+6	#DEP# api
+7	#DEP# io

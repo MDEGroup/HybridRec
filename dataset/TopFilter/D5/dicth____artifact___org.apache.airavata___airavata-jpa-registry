@@ -1,0 +1,5 @@
+1	/artifact/org.apache.airavata/airavata-jpa-registry
+2	#DEP# persist
+3	#DEP# apach
+4	#DEP# registri
+5	#DEP# jpa

@@ -1,0 +1,7 @@
+1	/artifact/com.googlecode.slf4j-maven-plugin-log/slf4j-maven-plugin-log
+2	#DEP# slf4j
+3	#DEP# build-system
+4	#DEP# build
+5	#DEP# log
+6	#DEP# maven
+7	#DEP# plugin

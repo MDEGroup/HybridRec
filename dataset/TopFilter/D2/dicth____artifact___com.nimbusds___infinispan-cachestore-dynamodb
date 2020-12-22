@@ -1,0 +1,5 @@
+1	/artifact/com.nimbusds/infinispan-cachestore-dynamodb
+2	#DEP# dynamodb
+3	#DEP# cach
+4	#DEP# databas
+5	#DEP# aw

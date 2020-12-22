@@ -1,0 +1,6 @@
+1	/artifact/io.servicetalk/servicetalk-buffer-netty
+2	#DEP# socket
+3	#DEP# netti
+4	#DEP# network
+5	#DEP# io
+6	#DEP# buffer

@@ -1,0 +1,8 @@
+1	/artifact/org.jvnet.jaxb2.maven2/maven-jaxb2-plugin-testing
+2	#DEP# xml
+3	#DEP# build
+4	#DEP# bind
+5	#DEP# maven
+6	#DEP# test
+7	#DEP# build-system
+8	#DEP# plugin

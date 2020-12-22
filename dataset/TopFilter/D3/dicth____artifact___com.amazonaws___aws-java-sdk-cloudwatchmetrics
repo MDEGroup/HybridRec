@@ -1,0 +1,6 @@
+1	/artifact/com.amazonaws/aws-java-sdk-cloudwatchmetrics
+2	#DEP# cloud
+3	#DEP# monitor
+4	#DEP# sdk
+5	#DEP# aw
+6	#DEP# amazon

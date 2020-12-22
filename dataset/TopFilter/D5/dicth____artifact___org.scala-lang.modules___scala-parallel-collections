@@ -1,0 +1,5 @@
+1	/artifact/org.scala-lang.modules/scala-parallel-collections
+2	#DEP# scala
+3	#DEP# collect
+4	#DEP# modul
+5	#DEP# parallel

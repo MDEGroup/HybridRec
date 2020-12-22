@@ -1,0 +1,5 @@
+1	/artifact/com.kumuluz.ee/kumuluzee-servlet-jetty
+2	#DEP# servlet
+3	#DEP# webserv
+4	#DEP# jetti
+5	#DEP# server

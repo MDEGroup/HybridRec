@@ -1,0 +1,5 @@
+1	/artifact/org.apache.maven.surefire/maven-surefire-common
+2	#DEP# build
+3	#DEP# maven
+4	#DEP# apach
+5	#DEP# build-system

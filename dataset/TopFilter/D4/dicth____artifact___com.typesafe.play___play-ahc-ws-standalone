@@ -1,0 +1,5 @@
+1	/artifact/com.typesafe.play/play-ahc-ws-standalone
+2	#DEP# http
+3	#DEP# play-framework
+4	#DEP# client
+5	#DEP# typesaf

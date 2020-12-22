@@ -1,0 +1,8 @@
+1	/artifact/io.netty/netty-codec-redis
+2	#DEP# io
+3	#DEP# redi
+4	#DEP# netti
+5	#DEP# socket
+6	#DEP# codec
+7	#DEP# databas
+8	#DEP# network

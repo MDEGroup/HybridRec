@@ -1,0 +1,5 @@
+1	/artifact/com.google.android.gms/play-services-measurement-sdk
+2	#DEP# android
+3	#DEP# servic
+4	#DEP# googl
+5	#DEP# sdk

@@ -1,0 +1,5 @@
+1	/artifact/com.buschmais.xo/xo.neo4j.remote
+2	#DEP# databas
+3	#DEP# graph
+4	#DEP# remot
+5	#DEP# neo4j

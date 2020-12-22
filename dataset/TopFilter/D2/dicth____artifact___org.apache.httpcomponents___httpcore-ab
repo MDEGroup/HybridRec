@@ -1,0 +1,7 @@
+1	/artifact/org.apache.httpcomponents/httpcore-ab
+2	#DEP# load
+3	#DEP# http
+4	#DEP# apach
+5	#DEP# metric
+6	#DEP# perform
+7	#DEP# test

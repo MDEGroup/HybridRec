@@ -1,0 +1,7 @@
+1	/artifact/org.apache.tomee.patch/cxf-rt-transports-http-jetty
+2	#DEP# transport
+3	#DEP# server
+4	#DEP# http
+5	#DEP# jetti
+6	#DEP# apach
+7	#DEP# webserv

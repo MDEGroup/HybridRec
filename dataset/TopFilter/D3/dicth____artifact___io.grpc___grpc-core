@@ -1,0 +1,8 @@
+1	/artifact/io.grpc/grpc-core
+2	#DEP# io
+3	#DEP# protocol
+4	#DEP# rpc
+5	#DEP# remot
+6	#DEP# distribut
+7	#DEP# commun
+8	#DEP# grpc

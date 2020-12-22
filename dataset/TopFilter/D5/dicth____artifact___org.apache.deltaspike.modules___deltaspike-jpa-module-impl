@@ -1,0 +1,5 @@
+1	/artifact/org.apache.deltaspike.modules/deltaspike-jpa-module-impl
+2	#DEP# apach
+3	#DEP# persist
+4	#DEP# modul
+5	#DEP# jpa

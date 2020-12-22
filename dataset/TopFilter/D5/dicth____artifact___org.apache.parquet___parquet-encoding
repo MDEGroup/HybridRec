@@ -1,0 +1,6 @@
+1	/artifact/org.apache.parquet/parquet-encoding
+2	#DEP# apach
+3	#DEP# column
+4	#DEP# parquet
+5	#DEP# encod
+6	#DEP# serial

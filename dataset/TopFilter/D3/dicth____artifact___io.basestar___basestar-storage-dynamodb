@@ -1,0 +1,6 @@
+1	/artifact/io.basestar/basestar-storage-dynamodb
+2	#DEP# io
+3	#DEP# aw
+4	#DEP# storag
+5	#DEP# dynamodb
+6	#DEP# databas

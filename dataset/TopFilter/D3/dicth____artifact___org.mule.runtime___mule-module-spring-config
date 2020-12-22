@@ -1,0 +1,5 @@
+1	/artifact/org.mule.runtime/mule-module-spring-config
+2	#DEP# runtim
+3	#DEP# spring
+4	#DEP# config
+5	#DEP# modul

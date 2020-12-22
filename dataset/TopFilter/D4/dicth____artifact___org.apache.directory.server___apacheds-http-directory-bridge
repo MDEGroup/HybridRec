@@ -1,0 +1,6 @@
+1	/artifact/org.apache.directory.server/apacheds-http-directory-bridge
+2	#DEP# http
+3	#DEP# apach
+4	#DEP# directori
+5	#DEP# bridg
+6	#DEP# server

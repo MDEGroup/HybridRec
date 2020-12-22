@@ -1,0 +1,7 @@
+1	/artifact/io.bootique.jetty/bootique-jetty-junit5
+2	#DEP# test
+3	#DEP# server
+4	#DEP# jetti
+5	#DEP# webserv
+6	#DEP# io
+7	#DEP# junit

@@ -1,0 +1,8 @@
+1	/artifact/org.apache.hbase.thirdparty/hbase-shaded-netty
+2	#DEP# apach
+3	#DEP# hbase
+4	#DEP# socket
+5	#DEP# netti
+6	#DEP# hadoop
+7	#DEP# network
+8	#DEP# databas

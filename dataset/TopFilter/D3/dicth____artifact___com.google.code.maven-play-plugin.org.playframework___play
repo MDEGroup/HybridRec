@@ -1,0 +1,7 @@
+1	/artifact/com.google.code.maven-play-plugin.org.playframework/play
+2	#DEP# googl
+3	#DEP# play-framework
+4	#DEP# plugin
+5	#DEP# build
+6	#DEP# build-system
+7	#DEP# maven

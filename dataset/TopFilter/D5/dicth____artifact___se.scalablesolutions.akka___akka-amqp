@@ -1,0 +1,7 @@
+1	/artifact/se.scalablesolutions.akka/akka-amqp
+2	#DEP# distribut
+3	#DEP# actor
+4	#DEP# concurr
+5	#DEP# akka
+6	#DEP# queue
+7	#DEP# amqp

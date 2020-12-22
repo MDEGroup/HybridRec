@@ -1,0 +1,6 @@
+1	/artifact/org.gradle/gradle-tooling-api
+2	#DEP# api
+3	#DEP# groovi
+4	#DEP# build
+5	#DEP# build-system
+6	#DEP# gradl

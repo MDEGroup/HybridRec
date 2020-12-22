@@ -1,0 +1,6 @@
+1	/artifact/org.springframework.cloud/spring-cloud-starter-open-service-broker
+2	#DEP# cloud
+3	#DEP# spring
+4	#DEP# broker
+5	#DEP# servic
+6	#DEP# starter

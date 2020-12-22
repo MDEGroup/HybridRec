@@ -1,0 +1,5 @@
+1	/artifact/org.apache.camel/camel-stream-starter
+2	#DEP# stream
+3	#DEP# apach
+4	#DEP# camel
+5	#DEP# starter

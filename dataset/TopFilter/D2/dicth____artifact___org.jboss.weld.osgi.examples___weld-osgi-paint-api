@@ -1,0 +1,5 @@
+1	/artifact/org.jboss.weld.osgi.examples/weld-osgi-paint-api
+2	#DEP# exampl
+3	#DEP# osgi
+4	#DEP# jboss
+5	#DEP# api

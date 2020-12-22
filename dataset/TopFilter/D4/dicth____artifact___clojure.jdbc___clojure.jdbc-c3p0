@@ -1,0 +1,5 @@
+1	/artifact/clojure.jdbc/clojure.jdbc-c3p0
+2	#DEP# clojur
+3	#DEP# pool
+4	#DEP# jdbc
+5	#DEP# sql

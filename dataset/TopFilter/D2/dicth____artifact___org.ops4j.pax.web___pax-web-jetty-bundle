@@ -1,0 +1,6 @@
+1	/artifact/org.ops4j.pax.web/pax-web-jetty-bundle
+2	#DEP# server
+3	#DEP# web
+4	#DEP# jetti
+5	#DEP# bundl
+6	#DEP# webserv

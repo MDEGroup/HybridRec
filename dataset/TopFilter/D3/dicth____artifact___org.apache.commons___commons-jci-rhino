@@ -1,0 +1,5 @@
+1	/artifact/org.apache.commons/commons-jci-rhino
+2	#DEP# javascript
+3	#DEP# script
+4	#DEP# common
+5	#DEP# apach

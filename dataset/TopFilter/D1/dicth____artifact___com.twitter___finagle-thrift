@@ -1,0 +1,9 @@
+1	/artifact/com.twitter/finagle-thrift
+2	#DEP# thrift
+3	#DEP# remot
+4	#DEP# distribut
+5	#DEP# serial
+6	#DEP# commun
+7	#DEP# protocol
+8	#DEP# finagl
+9	#DEP# twitter

@@ -1,0 +1,7 @@
+1	/artifact/io.github.davidgregory084/vertices-rabbitmq-client
+2	#DEP# client
+3	#DEP# github
+4	#DEP# rabbitmq
+5	#DEP# queue
+6	#DEP# amqp
+7	#DEP# io

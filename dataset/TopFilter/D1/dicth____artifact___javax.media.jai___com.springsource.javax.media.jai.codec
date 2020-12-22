@@ -1,0 +1,6 @@
+1	/artifact/javax.media.jai/com.springsource.javax.media.jai.codec
+2	#DEP# codec
+3	#DEP# spec
+4	#DEP# spring
+5	#DEP# javax
+6	#DEP# standard

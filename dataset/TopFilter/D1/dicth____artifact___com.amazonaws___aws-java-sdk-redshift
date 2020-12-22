@@ -1,0 +1,5 @@
+1	/artifact/com.amazonaws/aws-java-sdk-redshift
+2	#DEP# redshift
+3	#DEP# amazon
+4	#DEP# aw
+5	#DEP# sdk

@@ -1,0 +1,7 @@
+1	/artifact/edu.uiuc.ncsa.myproxy/oa4mp-client-oauth1
+2	#DEP# web
+3	#DEP# authent
+4	#DEP# webapp
+5	#DEP# applic
+6	#DEP# oauth
+7	#DEP# client

@@ -1,0 +1,6 @@
+1	/artifact/org.hornetq/hornetq-jms-server
+2	#DEP# queue
+3	#DEP# server
+4	#DEP# broker
+5	#DEP# messag
+6	#DEP# jm

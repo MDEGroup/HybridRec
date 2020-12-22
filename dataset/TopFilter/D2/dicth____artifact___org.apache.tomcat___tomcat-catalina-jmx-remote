@@ -1,0 +1,7 @@
+1	/artifact/org.apache.tomcat/tomcat-catalina-jmx-remote
+2	#DEP# tomcat
+3	#DEP# jmx
+4	#DEP# server
+5	#DEP# apach
+6	#DEP# remot
+7	#DEP# webserv

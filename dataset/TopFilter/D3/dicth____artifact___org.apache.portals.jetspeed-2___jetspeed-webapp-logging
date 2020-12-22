@@ -1,0 +1,5 @@
+1	/artifact/org.apache.portals.jetspeed-2/jetspeed-webapp-logging
+2	#DEP# apach
+3	#DEP# webapp
+4	#DEP# portal
+5	#DEP# log

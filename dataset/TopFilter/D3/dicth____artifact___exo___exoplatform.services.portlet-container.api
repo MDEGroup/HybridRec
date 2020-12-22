@@ -1,0 +1,5 @@
+1	/artifact/exo/exoplatform.services.portlet-container.api
+2	#DEP# portlet
+3	#DEP# api
+4	#DEP# contain
+5	#DEP# servic

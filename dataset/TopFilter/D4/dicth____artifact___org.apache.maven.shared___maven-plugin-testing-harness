@@ -1,0 +1,7 @@
+1	/artifact/org.apache.maven.shared/maven-plugin-testing-harness
+2	#DEP# apach
+3	#DEP# build
+4	#DEP# maven
+5	#DEP# test
+6	#DEP# build-system
+7	#DEP# plugin

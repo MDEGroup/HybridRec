@@ -1,0 +1,9 @@
+1	/artifact/com.typesafe.akka/akka-stream-experimental
+2	#DEP# concurr
+3	#DEP# akka
+4	#DEP# distribut
+5	#DEP# experiment
+6	#DEP# typesaf
+7	#DEP# process
+8	#DEP# stream
+9	#DEP# actor

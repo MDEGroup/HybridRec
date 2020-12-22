@@ -1,0 +1,5 @@
+1	/artifact/com.google.gwt/gwt-servlet
+2	#DEP# ui
+3	#DEP# gwt
+4	#DEP# servlet
+5	#DEP# googl

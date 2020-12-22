@@ -1,0 +1,6 @@
+1	/artifact/org.lambdify/lambdify-aws-events-dynamodb
+2	#DEP# aw
+3	#DEP# amazon
+4	#DEP# event
+5	#DEP# databas
+6	#DEP# dynamodb

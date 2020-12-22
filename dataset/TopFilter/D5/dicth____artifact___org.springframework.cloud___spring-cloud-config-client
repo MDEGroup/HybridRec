@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.cloud/spring-cloud-config-client
+2	#DEP# client
+3	#DEP# config
+4	#DEP# cloud
+5	#DEP# spring

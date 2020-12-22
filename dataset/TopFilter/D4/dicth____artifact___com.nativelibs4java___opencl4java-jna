@@ -1,0 +1,5 @@
+1	/artifact/com.nativelibs4java/opencl4java-jna
+2	#DEP# nativ
+3	#DEP# parallel
+4	#DEP# comput
+5	#DEP# opencl

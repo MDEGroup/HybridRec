@@ -1,0 +1,5 @@
+1	/artifact/io.github.lukehutch/fast-classpath-scanner
+2	#DEP# classpath
+3	#DEP# io
+4	#DEP# scan
+5	#DEP# github

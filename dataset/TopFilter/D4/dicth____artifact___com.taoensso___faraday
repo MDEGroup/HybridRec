@@ -1,0 +1,5 @@
+1	/artifact/com.taoensso/faraday
+2	#DEP# clojur
+3	#DEP# databas
+4	#DEP# dynamodb
+5	#DEP# client

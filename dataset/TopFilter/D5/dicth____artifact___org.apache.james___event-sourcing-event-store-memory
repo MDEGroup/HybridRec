@@ -1,0 +1,5 @@
+1	/artifact/org.apache.james/event-sourcing-event-store-memory
+2	#DEP# memori
+3	#DEP# mail
+4	#DEP# apach
+5	#DEP# event

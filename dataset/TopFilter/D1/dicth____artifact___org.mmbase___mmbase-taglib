@@ -1,0 +1,5 @@
+1	/artifact/org.mmbase/mmbase-taglib
+2	#DEP# web
+3	#DEP# taglib
+4	#DEP# webapp
+5	#DEP# applic

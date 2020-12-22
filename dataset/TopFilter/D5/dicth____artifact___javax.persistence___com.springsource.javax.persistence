@@ -1,0 +1,6 @@
+1	/artifact/javax.persistence/com.springsource.javax.persistence
+2	#DEP# persist
+3	#DEP# standard
+4	#DEP# javax
+5	#DEP# spring
+6	#DEP# spec

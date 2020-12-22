@@ -1,0 +1,5 @@
+1	/artifact/org.springframework/spring-webmvc
+2	#DEP# mvc
+3	#DEP# spring
+4	#DEP# framework
+5	#DEP# web

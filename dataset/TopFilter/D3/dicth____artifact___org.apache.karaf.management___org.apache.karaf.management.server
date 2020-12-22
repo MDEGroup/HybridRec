@@ -1,0 +1,5 @@
+1	/artifact/org.apache.karaf.management/org.apache.karaf.management.server
+2	#DEP# apach
+3	#DEP# osgi
+4	#DEP# manag
+5	#DEP# server

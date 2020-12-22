@@ -1,0 +1,6 @@
+1	/artifact/rocks.xmpp/xmpp-nio-netty-common
+2	#DEP# socket
+3	#DEP# netti
+4	#DEP# io
+5	#DEP# network
+6	#DEP# xmpp

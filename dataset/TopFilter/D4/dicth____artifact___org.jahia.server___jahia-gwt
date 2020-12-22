@@ -1,0 +1,7 @@
+1	/artifact/org.jahia.server/jahia-gwt
+2	#DEP# web
+3	#DEP# gwt
+4	#DEP# webapp
+5	#DEP# ui
+6	#DEP# applic
+7	#DEP# server

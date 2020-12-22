@@ -1,0 +1,6 @@
+1	/artifact/com.google.monitoring-client/junit
+2	#DEP# monitor
+3	#DEP# googl
+4	#DEP# junit
+5	#DEP# client
+6	#DEP# test

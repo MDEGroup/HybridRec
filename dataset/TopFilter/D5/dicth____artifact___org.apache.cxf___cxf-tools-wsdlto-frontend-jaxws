@@ -1,0 +1,5 @@
+1	/artifact/org.apache.cxf/cxf-tools-wsdlto-frontend-jaxws
+2	#DEP# frontend
+3	#DEP# apach
+4	#DEP# tool
+5	#DEP# webservic

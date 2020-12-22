@@ -1,0 +1,5 @@
+1	/artifact/net.liftweb/lift-actor
+2	#DEP# scala
+3	#DEP# concurr
+4	#DEP# web-framework
+5	#DEP# actor

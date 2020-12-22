@@ -1,0 +1,5 @@
+1	/artifact/org.codehaus.fabric3.api/javax-jms
+2	#DEP# queue
+3	#DEP# codehau
+4	#DEP# api
+5	#DEP# jm

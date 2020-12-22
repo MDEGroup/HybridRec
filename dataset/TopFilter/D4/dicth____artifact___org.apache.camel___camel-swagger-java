@@ -1,0 +1,5 @@
+1	/artifact/org.apache.camel/camel-swagger-java
+2	#DEP# api
+3	#DEP# apach
+4	#DEP# swagger
+5	#DEP# camel

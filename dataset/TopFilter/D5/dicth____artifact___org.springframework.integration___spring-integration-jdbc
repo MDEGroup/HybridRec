@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.integration/spring-integration-jdbc
+2	#DEP# jdbc
+3	#DEP# sql
+4	#DEP# spring
+5	#DEP# integr

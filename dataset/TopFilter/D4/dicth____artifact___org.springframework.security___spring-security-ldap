@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.security/spring-security-ldap
+2	#DEP# secur
+3	#DEP# ldap
+4	#DEP# directori
+5	#DEP# spring

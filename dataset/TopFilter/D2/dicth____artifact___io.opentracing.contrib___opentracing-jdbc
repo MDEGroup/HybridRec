@@ -1,0 +1,5 @@
+1	/artifact/io.opentracing.contrib/opentracing-jdbc
+2	#DEP# sql
+3	#DEP# trace
+4	#DEP# io
+5	#DEP# jdbc

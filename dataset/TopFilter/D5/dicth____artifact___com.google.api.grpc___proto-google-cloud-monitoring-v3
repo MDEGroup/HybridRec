@@ -1,0 +1,8 @@
+1	/artifact/com.google.api.grpc/proto-google-cloud-monitoring-v3
+2	#DEP# rpc
+3	#DEP# cloud
+4	#DEP# monitor
+5	#DEP# protocol
+6	#DEP# api
+7	#DEP# grpc
+8	#DEP# googl

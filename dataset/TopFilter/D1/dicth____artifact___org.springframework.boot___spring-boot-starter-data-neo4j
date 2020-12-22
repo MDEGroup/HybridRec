@@ -1,0 +1,7 @@
+1	/artifact/org.springframework.boot/spring-boot-starter-data-neo4j
+2	#DEP# graph
+3	#DEP# data
+4	#DEP# neo4j
+5	#DEP# starter
+6	#DEP# spring
+7	#DEP# databas

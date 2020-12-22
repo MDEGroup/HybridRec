@@ -1,0 +1,8 @@
+1	/artifact/com.typesafe.akka/akka-zeromq
+2	#DEP# concurr
+3	#DEP# queue
+4	#DEP# akka
+5	#DEP# distribut
+6	#DEP# socket
+7	#DEP# typesaf
+8	#DEP# actor

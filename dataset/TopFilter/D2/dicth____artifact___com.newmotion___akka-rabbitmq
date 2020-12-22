@@ -1,0 +1,8 @@
+1	/artifact/com.newmotion/akka-rabbitmq
+2	#DEP# concurr
+3	#DEP# distribut
+4	#DEP# queue
+5	#DEP# akka
+6	#DEP# amqp
+7	#DEP# rabbitmq
+8	#DEP# actor

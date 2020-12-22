@@ -1,0 +1,6 @@
+1	/artifact/org.netbeans.api/org-netbeans-modules-parsing-indexing
+2	#DEP# api
+3	#DEP# parser
+4	#DEP# ide
+5	#DEP# modul
+6	#DEP# netbean

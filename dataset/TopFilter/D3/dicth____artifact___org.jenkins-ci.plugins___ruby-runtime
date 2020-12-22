@@ -1,0 +1,5 @@
+1	/artifact/org.jenkins-ci.plugins/ruby-runtime
+2	#DEP# runtim
+3	#DEP# plugin
+4	#DEP# rubi
+5	#DEP# jenkin

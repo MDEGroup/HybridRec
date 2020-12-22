@@ -1,0 +1,5 @@
+1	/artifact/org.scalaz.stream/scalaz-stream
+2	#DEP# stream
+3	#DEP# function
+4	#DEP# scala
+5	#DEP# scalaz

@@ -1,0 +1,5 @@
+1	/artifact/org.specs2/specs2-scalaz-core
+2	#DEP# scalaz
+3	#DEP# scala
+4	#DEP# spec
+5	#DEP# test

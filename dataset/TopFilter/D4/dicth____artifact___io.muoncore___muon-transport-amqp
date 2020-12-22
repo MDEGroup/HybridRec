@@ -1,0 +1,5 @@
+1	/artifact/io.muoncore/muon-transport-amqp
+2	#DEP# transport
+3	#DEP# amqp
+4	#DEP# io
+5	#DEP# queue

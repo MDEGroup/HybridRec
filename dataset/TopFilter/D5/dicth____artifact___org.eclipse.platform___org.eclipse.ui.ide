@@ -1,0 +1,5 @@
+1	/artifact/org.eclipse.platform/org.eclipse.ui.ide
+2	#DEP# ide
+3	#DEP# eclips
+4	#DEP# platform
+5	#DEP# ui

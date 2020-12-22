@@ -1,0 +1,5 @@
+1	/artifact/com.novemberain/monger
+2	#DEP# mongodb
+3	#DEP# nosql
+4	#DEP# clojur
+5	#DEP# client

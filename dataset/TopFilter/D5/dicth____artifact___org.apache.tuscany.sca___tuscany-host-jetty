@@ -1,0 +1,5 @@
+1	/artifact/org.apache.tuscany.sca/tuscany-host-jetty
+2	#DEP# server
+3	#DEP# apach
+4	#DEP# webserv
+5	#DEP# jetti

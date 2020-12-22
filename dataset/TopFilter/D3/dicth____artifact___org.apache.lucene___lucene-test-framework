@@ -1,0 +1,6 @@
+1	/artifact/org.apache.lucene/lucene-test-framework
+2	#DEP# index
+3	#DEP# framework
+4	#DEP# apach
+5	#DEP# test
+6	#DEP# lucen

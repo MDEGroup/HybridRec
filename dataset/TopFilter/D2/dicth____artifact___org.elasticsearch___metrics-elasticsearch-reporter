@@ -1,0 +1,6 @@
+1	/artifact/org.elasticsearch/metrics-elasticsearch-reporter
+2	#DEP# elasticsearch
+3	#DEP# elast
+4	#DEP# search
+5	#DEP# metric
+6	#DEP# report

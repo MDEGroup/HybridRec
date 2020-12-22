@@ -1,0 +1,7 @@
+1	/artifact/org.apache.servicemix/servicemix-jms
+2	#DEP# queue
+3	#DEP# esb
+4	#DEP# apach
+5	#DEP# messag
+6	#DEP# jm
+7	#DEP# client

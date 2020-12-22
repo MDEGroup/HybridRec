@@ -1,0 +1,5 @@
+1	/artifact/org.scalaz/scalaz-concurrent
+2	#DEP# scala
+3	#DEP# function
+4	#DEP# concurr
+5	#DEP# scalaz

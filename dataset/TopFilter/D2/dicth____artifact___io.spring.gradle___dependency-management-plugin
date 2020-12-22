@@ -1,0 +1,9 @@
+1	/artifact/io.spring.gradle/dependency-management-plugin
+2	#DEP# groovi
+3	#DEP# io
+4	#DEP# build
+5	#DEP# spring
+6	#DEP# build-system
+7	#DEP# gradl
+8	#DEP# manag
+9	#DEP# plugin

@@ -1,0 +1,5 @@
+1	/artifact/org.cometd.javascript/cometd-javascript-dojo
+2	#DEP# web
+3	#DEP# javascript
+4	#DEP# applic
+5	#DEP# webapp

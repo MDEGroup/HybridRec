@@ -1,0 +1,5 @@
+1	/artifact/org.apache.felix/org.apache.felix.http.proxy
+2	#DEP# http
+3	#DEP# proxi
+4	#DEP# osgi
+5	#DEP# apach

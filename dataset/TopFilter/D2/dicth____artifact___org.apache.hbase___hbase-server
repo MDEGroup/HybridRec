@@ -1,0 +1,6 @@
+1	/artifact/org.apache.hbase/hbase-server
+2	#DEP# server
+3	#DEP# hadoop
+4	#DEP# apach
+5	#DEP# databas
+6	#DEP# hbase

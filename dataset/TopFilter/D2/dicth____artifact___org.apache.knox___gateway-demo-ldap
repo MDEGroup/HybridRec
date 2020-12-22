@@ -1,0 +1,6 @@
+1	/artifact/org.apache.knox/gateway-demo-ldap
+2	#DEP# ldap
+3	#DEP# gateway
+4	#DEP# directori
+5	#DEP# exampl
+6	#DEP# apach

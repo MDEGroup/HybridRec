@@ -1,0 +1,7 @@
+1	/artifact/javax.xml.soap/javax.xml.soap-api
+2	#DEP# soap
+3	#DEP# xml
+4	#DEP# spec
+5	#DEP# javax
+6	#DEP# api
+7	#DEP# standard

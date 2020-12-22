@@ -1,0 +1,8 @@
+1	/artifact/io.atlassian.aws-scala/aws-scala-dynamodb
+2	#DEP# amazon
+3	#DEP# dynamodb
+4	#DEP# aw
+5	#DEP# io
+6	#DEP# client
+7	#DEP# scala
+8	#DEP# databas

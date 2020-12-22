@@ -1,0 +1,6 @@
+1	/artifact/org.wso2.extension.siddhi.io.rabbitmq/siddhi-io-rabbitmq
+2	#DEP# io
+3	#DEP# queue
+4	#DEP# amqp
+5	#DEP# rabbitmq
+6	#DEP# extens

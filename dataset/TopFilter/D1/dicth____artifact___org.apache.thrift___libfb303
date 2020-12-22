@@ -1,0 +1,5 @@
+1	/artifact/org.apache.thrift/libfb303
+2	#DEP# serial
+3	#DEP# apach
+4	#DEP# thrift
+5	#DEP# protocol

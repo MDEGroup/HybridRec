@@ -1,0 +1,5 @@
+1	/artifact/com.squareup.okhttp/okhttp-urlconnection
+2	#DEP# client
+3	#DEP# url
+4	#DEP# connect
+5	#DEP# http

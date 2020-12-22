@@ -1,0 +1,5 @@
+1	/artifact/org.apache.tomcat/tribes
+2	#DEP# webserv
+3	#DEP# apach
+4	#DEP# server
+5	#DEP# tomcat

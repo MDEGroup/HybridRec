@@ -1,0 +1,7 @@
+1	/artifact/org.apache.maven.plugins/maven-deploy-plugin
+2	#DEP# build
+3	#DEP# maven
+4	#DEP# deploy
+5	#DEP# build-system
+6	#DEP# apach
+7	#DEP# plugin

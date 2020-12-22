@@ -1,0 +1,5 @@
+1	/artifact/org.apache.axis2/axis2-transport-http
+2	#DEP# http
+3	#DEP# webservic
+4	#DEP# transport
+5	#DEP# apach

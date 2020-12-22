@@ -1,0 +1,5 @@
+1	/artifact/org.apache.commons/commons-rdf-api
+2	#DEP# api
+3	#DEP# rdf
+4	#DEP# common
+5	#DEP# apach

@@ -1,0 +1,6 @@
+1	/artifact/org.webjars.npm/math-expression-evaluator
+2	#DEP# evalu
+3	#DEP# math
+4	#DEP# asset
+5	#DEP# web
+6	#DEP# express

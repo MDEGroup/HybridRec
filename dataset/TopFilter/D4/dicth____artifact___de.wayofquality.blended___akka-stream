@@ -1,0 +1,6 @@
+1	/artifact/de.wayofquality.blended/akka-stream
+2	#DEP# concurr
+3	#DEP# akka
+4	#DEP# distribut
+5	#DEP# stream
+6	#DEP# actor

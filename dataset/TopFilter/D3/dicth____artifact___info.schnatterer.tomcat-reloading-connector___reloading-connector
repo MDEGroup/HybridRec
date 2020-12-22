@@ -1,0 +1,5 @@
+1	/artifact/info.schnatterer.tomcat-reloading-connector/reloading-connector
+2	#DEP# webserv
+3	#DEP# tomcat
+4	#DEP# connector
+5	#DEP# server

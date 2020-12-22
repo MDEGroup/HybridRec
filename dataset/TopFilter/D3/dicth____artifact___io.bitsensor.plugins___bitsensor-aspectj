@@ -1,0 +1,5 @@
+1	/artifact/io.bitsensor.plugins/bitsensor-aspectj
+2	#DEP# io
+3	#DEP# plugin
+4	#DEP# aop
+5	#DEP# aspect

@@ -1,0 +1,7 @@
+1	/artifact/com.twitter/parquet-avro
+2	#DEP# avro
+3	#DEP# column
+4	#DEP# twitter
+5	#DEP# protocol
+6	#DEP# parquet
+7	#DEP# serial

@@ -1,0 +1,5 @@
+1	/artifact/org.codehaus.plexus/plexus-cli
+2	#DEP# codehau
+3	#DEP# cli
+4	#DEP# parser
+5	#DEP# command-lin

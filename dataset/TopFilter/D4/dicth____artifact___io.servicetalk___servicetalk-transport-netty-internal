@@ -1,0 +1,6 @@
+1	/artifact/io.servicetalk/servicetalk-transport-netty-internal
+2	#DEP# netti
+3	#DEP# socket
+4	#DEP# network
+5	#DEP# transport
+6	#DEP# io

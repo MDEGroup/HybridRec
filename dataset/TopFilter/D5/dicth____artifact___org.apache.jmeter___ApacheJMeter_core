@@ -1,0 +1,6 @@
+1	/artifact/org.apache.jmeter/ApacheJMeter_core
+2	#DEP# apach
+3	#DEP# load
+4	#DEP# metric
+5	#DEP# test
+6	#DEP# perform

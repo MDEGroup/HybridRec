@@ -1,0 +1,5 @@
+1	/artifact/com.caucho/hessian
+2	#DEP# webservic
+3	#DEP# commun
+4	#DEP# distribut
+5	#DEP# remot

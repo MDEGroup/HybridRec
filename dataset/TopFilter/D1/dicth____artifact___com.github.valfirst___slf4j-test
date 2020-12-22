@@ -1,0 +1,5 @@
+1	/artifact/com.github.valfirst/slf4j-test
+2	#DEP# github
+3	#DEP# test
+4	#DEP# log
+5	#DEP# slf4j

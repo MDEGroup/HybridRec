@@ -1,0 +1,5 @@
+1	/artifact/com.bq.oss.lib/rabbitmq
+2	#DEP# rabbitmq
+3	#DEP# amqp
+4	#DEP# queue
+5	#DEP# librari

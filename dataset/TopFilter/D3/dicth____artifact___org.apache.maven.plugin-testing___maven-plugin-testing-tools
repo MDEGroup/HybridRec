@@ -1,0 +1,8 @@
+1	/artifact/org.apache.maven.plugin-testing/maven-plugin-testing-tools
+2	#DEP# tool
+3	#DEP# plugin
+4	#DEP# build
+5	#DEP# test
+6	#DEP# apach
+7	#DEP# build-system
+8	#DEP# maven

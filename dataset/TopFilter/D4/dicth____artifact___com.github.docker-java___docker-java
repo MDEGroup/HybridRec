@@ -1,0 +1,5 @@
+1	/artifact/com.github.docker-java/docker-java
+2	#DEP# github
+3	#DEP# client
+4	#DEP# contain
+5	#DEP# docker

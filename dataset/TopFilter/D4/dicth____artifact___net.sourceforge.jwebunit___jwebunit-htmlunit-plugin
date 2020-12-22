@@ -1,0 +1,5 @@
+1	/artifact/net.sourceforge.jwebunit/jwebunit-htmlunit-plugin
+2	#DEP# web
+3	#DEP# test
+4	#DEP# htmlunit
+5	#DEP# plugin

@@ -1,0 +1,5 @@
+1	/artifact/org.apache.myfaces.portlet-bridge/portlet-bridge-impl
+2	#DEP# apach
+3	#DEP# portlet
+4	#DEP# jsf
+5	#DEP# bridg

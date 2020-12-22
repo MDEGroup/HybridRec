@@ -1,0 +1,5 @@
+1	/artifact/com.liferay/com.liferay.osgi.service.tracker.collections
+2	#DEP# servic
+3	#DEP# track
+4	#DEP# collect
+5	#DEP# osgi

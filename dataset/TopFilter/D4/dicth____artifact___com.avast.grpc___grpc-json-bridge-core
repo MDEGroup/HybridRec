@@ -1,0 +1,6 @@
+1	/artifact/com.avast.grpc/grpc-json-bridge-core
+2	#DEP# json
+3	#DEP# rpc
+4	#DEP# protocol
+5	#DEP# bridg
+6	#DEP# grpc

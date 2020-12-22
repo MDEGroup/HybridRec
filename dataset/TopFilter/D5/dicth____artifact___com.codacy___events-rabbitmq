@@ -1,0 +1,5 @@
+1	/artifact/com.codacy/events-rabbitmq
+2	#DEP# queue
+3	#DEP# event
+4	#DEP# amqp
+5	#DEP# rabbitmq

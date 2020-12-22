@@ -1,0 +1,5 @@
+1	/artifact/org.linkedin/org.linkedin.zookeeper-impl
+2	#DEP# linkedin
+3	#DEP# distribut
+4	#DEP# zookeep
+5	#DEP# coordin

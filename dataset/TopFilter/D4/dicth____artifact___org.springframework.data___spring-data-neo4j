@@ -1,0 +1,6 @@
+1	/artifact/org.springframework.data/spring-data-neo4j
+2	#DEP# neo4j
+3	#DEP# spring
+4	#DEP# databas
+5	#DEP# graph
+6	#DEP# data

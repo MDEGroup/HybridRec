@@ -1,0 +1,5 @@
+1	/artifact/com.linkedin.pegasus/restli-netty-standalone
+2	#DEP# socket
+3	#DEP# network
+4	#DEP# netti
+5	#DEP# linkedin

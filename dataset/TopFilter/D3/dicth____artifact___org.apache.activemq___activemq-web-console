@@ -1,0 +1,8 @@
+1	/artifact/org.apache.activemq/activemq-web-console
+2	#DEP# queue
+3	#DEP# web
+4	#DEP# webapp
+5	#DEP# applic
+6	#DEP# apach
+7	#DEP# consol
+8	#DEP# jm

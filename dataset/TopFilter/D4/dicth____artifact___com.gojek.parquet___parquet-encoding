@@ -1,0 +1,5 @@
+1	/artifact/com.gojek.parquet/parquet-encoding
+2	#DEP# serial
+3	#DEP# encod
+4	#DEP# parquet
+5	#DEP# column

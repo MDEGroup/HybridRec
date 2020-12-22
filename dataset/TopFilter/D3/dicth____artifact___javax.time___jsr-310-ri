@@ -1,0 +1,5 @@
+1	/artifact/javax.time/jsr-310-ri
+2	#DEP# spec
+3	#DEP# javax
+4	#DEP# time
+5	#DEP# standard

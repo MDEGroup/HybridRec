@@ -1,0 +1,6 @@
+1	/artifact/javax.xml/jaxb-xjc
+2	#DEP# xml
+3	#DEP# spec
+4	#DEP# bind
+5	#DEP# javax
+6	#DEP# standard

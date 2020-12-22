@@ -1,0 +1,5 @@
+1	/artifact/com.aol.microservices/micro-tomcat
+2	#DEP# webserv
+3	#DEP# microservic
+4	#DEP# tomcat
+5	#DEP# server

@@ -1,0 +1,5 @@
+1	/artifact/org.hibernate.javax.persistence/hibernate-jpa-2.0-api
+2	#DEP# hibern
+3	#DEP# jpa
+4	#DEP# persist
+5	#DEP# api

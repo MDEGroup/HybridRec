@@ -1,0 +1,5 @@
+1	/artifact/com.twitter/finagle-memcached
+2	#DEP# cach
+3	#DEP# twitter
+4	#DEP# client
+5	#DEP# finagl

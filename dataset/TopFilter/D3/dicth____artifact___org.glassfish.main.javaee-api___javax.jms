@@ -1,0 +1,5 @@
+1	/artifact/org.glassfish.main.javaee-api/javax.jms
+2	#DEP# queue
+3	#DEP# jm
+4	#DEP# api
+5	#DEP# javae

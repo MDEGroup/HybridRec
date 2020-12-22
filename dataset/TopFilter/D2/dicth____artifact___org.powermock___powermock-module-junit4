@@ -1,0 +1,5 @@
+1	/artifact/org.powermock/powermock-module-junit4
+2	#DEP# test
+3	#DEP# mock
+4	#DEP# junit
+5	#DEP# modul

@@ -1,0 +1,6 @@
+1	/artifact/io.dropwizard.metrics/metrics-core
+2	#DEP# monitor
+3	#DEP# io
+4	#DEP# manag
+5	#DEP# metric
+6	#DEP# perform

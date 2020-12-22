@@ -1,0 +1,5 @@
+1	/artifact/org.overlord.dtgov/dtgov-ui-war
+2	#DEP# applic
+3	#DEP# ui
+4	#DEP# web
+5	#DEP# webapp

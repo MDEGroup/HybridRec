@@ -1,0 +1,5 @@
+1	/artifact/com.coreos/jetcd-core
+2	#DEP# coreo
+3	#DEP# client
+4	#DEP# etcd
+5	#DEP# distribut

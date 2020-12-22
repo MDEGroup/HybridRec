@@ -1,0 +1,5 @@
+1	/artifact/com.trueaccord.scalapb/scalapb-runtime-grpc
+2	#DEP# runtim
+3	#DEP# protocol
+4	#DEP# grpc
+5	#DEP# rpc

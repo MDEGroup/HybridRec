@@ -1,0 +1,5 @@
+1	/artifact/org.springframework/spring-messaging
+2	#DEP# messag
+3	#DEP# queue
+4	#DEP# client
+5	#DEP# spring

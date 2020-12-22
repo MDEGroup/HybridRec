@@ -1,0 +1,5 @@
+1	/artifact/com.audienceproject/spark-dynamodb
+2	#DEP# dynamodb
+3	#DEP# spark
+4	#DEP# aw
+5	#DEP# databas

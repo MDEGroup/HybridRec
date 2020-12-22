@@ -1,0 +1,6 @@
+1	/artifact/org.apache.tomcat/tomcat-jaspic-api
+2	#DEP# apach
+3	#DEP# tomcat
+4	#DEP# api
+5	#DEP# webserv
+6	#DEP# server

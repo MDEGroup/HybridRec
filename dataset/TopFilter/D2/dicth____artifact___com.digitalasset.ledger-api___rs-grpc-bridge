@@ -1,0 +1,6 @@
+1	/artifact/com.digitalasset.ledger-api/rs-grpc-bridge
+2	#DEP# rpc
+3	#DEP# grpc
+4	#DEP# api
+5	#DEP# protocol
+6	#DEP# bridg

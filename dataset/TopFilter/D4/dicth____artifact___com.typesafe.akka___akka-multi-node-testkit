@@ -1,0 +1,7 @@
+1	/artifact/com.typesafe.akka/akka-multi-node-testkit
+2	#DEP# concurr
+3	#DEP# akka
+4	#DEP# distribut
+5	#DEP# typesaf
+6	#DEP# test
+7	#DEP# actor

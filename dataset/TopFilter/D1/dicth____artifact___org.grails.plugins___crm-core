@@ -1,0 +1,5 @@
+1	/artifact/org.grails.plugins/crm-core
+2	#DEP# groovi
+3	#DEP# crm
+4	#DEP# plugin
+5	#DEP# grail

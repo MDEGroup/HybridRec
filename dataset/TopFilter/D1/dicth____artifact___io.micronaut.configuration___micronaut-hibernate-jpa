@@ -1,0 +1,6 @@
+1	/artifact/io.micronaut.configuration/micronaut-hibernate-jpa
+2	#DEP# jpa
+3	#DEP# persist
+4	#DEP# hibern
+5	#DEP# config
+6	#DEP# io

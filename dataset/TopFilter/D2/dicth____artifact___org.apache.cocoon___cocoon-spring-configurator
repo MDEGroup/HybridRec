@@ -1,0 +1,5 @@
+1	/artifact/org.apache.cocoon/cocoon-spring-configurator
+2	#DEP# web-framework
+3	#DEP# spring
+4	#DEP# apach
+5	#DEP# config

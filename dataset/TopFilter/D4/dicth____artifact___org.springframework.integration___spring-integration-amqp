@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.integration/spring-integration-amqp
+2	#DEP# queue
+3	#DEP# integr
+4	#DEP# amqp
+5	#DEP# spring

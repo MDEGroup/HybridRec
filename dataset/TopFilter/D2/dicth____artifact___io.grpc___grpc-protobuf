@@ -1,0 +1,6 @@
+1	/artifact/io.grpc/grpc-protobuf
+2	#DEP# io
+3	#DEP# grpc
+4	#DEP# protocol
+5	#DEP# rpc
+6	#DEP# serial

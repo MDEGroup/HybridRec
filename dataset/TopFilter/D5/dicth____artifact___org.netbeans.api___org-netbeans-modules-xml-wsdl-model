@@ -1,0 +1,8 @@
+1	/artifact/org.netbeans.api/org-netbeans-modules-xml-wsdl-model
+2	#DEP# netbean
+3	#DEP# api
+4	#DEP# xml
+5	#DEP# servic
+6	#DEP# modul
+7	#DEP# model
+8	#DEP# ide

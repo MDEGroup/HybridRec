@@ -1,0 +1,5 @@
+1	/artifact/org.mortbay.jetty/jsp-2.1-jetty
+2	#DEP# jsp
+3	#DEP# webserv
+4	#DEP# jetti
+5	#DEP# server

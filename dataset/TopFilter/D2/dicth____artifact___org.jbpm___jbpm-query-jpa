@@ -1,0 +1,5 @@
+1	/artifact/org.jbpm/jbpm-query-jpa
+2	#DEP# persist
+3	#DEP# queri
+4	#DEP# jpa
+5	#DEP# bpm

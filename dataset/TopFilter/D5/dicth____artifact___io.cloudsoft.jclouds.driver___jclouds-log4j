@@ -1,0 +1,5 @@
+1	/artifact/io.cloudsoft.jclouds.driver/jclouds-log4j
+2	#DEP# io
+3	#DEP# log
+4	#DEP# cloud
+5	#DEP# driver

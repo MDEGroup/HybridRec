@@ -1,0 +1,7 @@
+1	/artifact/org.apache.geronimo.plugins.monitoring/mconsole-war
+2	#DEP# web
+3	#DEP# apach
+4	#DEP# monitor
+5	#DEP# webapp
+6	#DEP# plugin
+7	#DEP# applic

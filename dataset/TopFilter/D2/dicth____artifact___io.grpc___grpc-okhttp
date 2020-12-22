@@ -1,0 +1,6 @@
+1	/artifact/io.grpc/grpc-okhttp
+2	#DEP# io
+3	#DEP# grpc
+4	#DEP# http
+5	#DEP# protocol
+6	#DEP# rpc

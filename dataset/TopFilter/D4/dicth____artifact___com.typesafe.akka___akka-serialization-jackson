@@ -1,0 +1,7 @@
+1	/artifact/com.typesafe.akka/akka-serialization-jackson
+2	#DEP# concurr
+3	#DEP# akka
+4	#DEP# distribut
+5	#DEP# typesaf
+6	#DEP# serial
+7	#DEP# actor

@@ -1,0 +1,6 @@
+1	/artifact/org.apache.servicemix.bundles/org.apache.servicemix.bundles.antlr
+2	#DEP# bundl
+3	#DEP# compil
+4	#DEP# esb
+5	#DEP# apach
+6	#DEP# parser

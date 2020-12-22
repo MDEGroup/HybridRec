@@ -1,0 +1,7 @@
+1	/artifact/org.hibernate/hibernate-search-serialization-avro
+2	#DEP# search
+3	#DEP# hibern
+4	#DEP# serial
+5	#DEP# persist
+6	#DEP# protocol
+7	#DEP# avro

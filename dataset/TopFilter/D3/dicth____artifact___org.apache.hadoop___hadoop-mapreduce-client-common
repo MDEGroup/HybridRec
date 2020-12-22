@@ -1,0 +1,6 @@
+1	/artifact/org.apache.hadoop/hadoop-mapreduce-client-common
+2	#DEP# parallel
+3	#DEP# hadoop
+4	#DEP# apach
+5	#DEP# client
+6	#DEP# mapreduc

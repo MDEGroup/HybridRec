@@ -1,0 +1,6 @@
+1	/artifact/org.apache.camel/camel-avro
+2	#DEP# avro
+3	#DEP# camel
+4	#DEP# apach
+5	#DEP# protocol
+6	#DEP# serial

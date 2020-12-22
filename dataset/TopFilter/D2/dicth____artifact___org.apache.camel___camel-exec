@@ -1,0 +1,7 @@
+1	/artifact/org.apache.camel/camel-exec
+2	#DEP# camel
+3	#DEP# execut
+4	#DEP# apach
+5	#DEP# command
+6	#DEP# process
+7	#DEP# extern

@@ -1,0 +1,6 @@
+1	/artifact/org.scala-sbt/collections
+2	#DEP# collect
+3	#DEP# build
+4	#DEP# scala
+5	#DEP# sbt
+6	#DEP# build-system

@@ -1,0 +1,5 @@
+1	/artifact/org.tranql/tranql-connector-derby-embed-local
+2	#DEP# languag
+3	#DEP# databas
+4	#DEP# embed
+5	#DEP# connector

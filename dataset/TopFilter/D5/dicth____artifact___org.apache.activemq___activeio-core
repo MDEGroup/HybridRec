@@ -1,0 +1,5 @@
+1	/artifact/org.apache.activemq/activeio-core
+2	#DEP# io
+3	#DEP# apach
+4	#DEP# queue
+5	#DEP# jm

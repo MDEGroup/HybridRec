@@ -1,0 +1,5 @@
+1	/artifact/javax.faces/javax.faces-api
+2	#DEP# javax
+3	#DEP# spec
+4	#DEP# standard
+5	#DEP# api

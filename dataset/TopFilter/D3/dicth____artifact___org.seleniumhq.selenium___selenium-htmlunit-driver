@@ -1,0 +1,6 @@
+1	/artifact/org.seleniumhq.selenium/selenium-htmlunit-driver
+2	#DEP# selenium
+3	#DEP# web
+4	#DEP# driver
+5	#DEP# test
+6	#DEP# htmlunit

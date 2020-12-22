@@ -1,0 +1,5 @@
+1	/artifact/com.twitter/bijection-avro
+2	#DEP# twitter
+3	#DEP# protocol
+4	#DEP# serial
+5	#DEP# avro

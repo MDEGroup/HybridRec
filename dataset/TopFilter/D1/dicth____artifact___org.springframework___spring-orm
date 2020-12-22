@@ -1,0 +1,6 @@
+1	/artifact/org.springframework/spring-orm
+2	#DEP# orm
+3	#DEP# relat
+4	#DEP# persist
+5	#DEP# spring
+6	#DEP# map

@@ -1,0 +1,5 @@
+1	/artifact/io.socket/engine.io-client
+2	#DEP# io
+3	#DEP# engin
+4	#DEP# socket
+5	#DEP# client

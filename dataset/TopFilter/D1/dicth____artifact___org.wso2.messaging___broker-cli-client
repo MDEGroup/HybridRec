@@ -1,0 +1,5 @@
+1	/artifact/org.wso2.messaging/broker-cli-client
+2	#DEP# command-lin
+3	#DEP# messag
+4	#DEP# client
+5	#DEP# broker

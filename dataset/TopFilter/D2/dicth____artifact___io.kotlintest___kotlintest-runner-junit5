@@ -1,0 +1,5 @@
+1	/artifact/io.kotlintest/kotlintest-runner-junit5
+2	#DEP# junit
+3	#DEP# runner
+4	#DEP# io
+5	#DEP# test

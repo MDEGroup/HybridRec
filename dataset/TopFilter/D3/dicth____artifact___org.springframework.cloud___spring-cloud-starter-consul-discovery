@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.cloud/spring-cloud-starter-consul-discovery
+2	#DEP# cloud
+3	#DEP# spring
+4	#DEP# discoveri
+5	#DEP# starter

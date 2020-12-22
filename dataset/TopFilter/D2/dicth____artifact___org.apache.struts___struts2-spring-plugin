@@ -1,0 +1,5 @@
+1	/artifact/org.apache.struts/struts2-spring-plugin
+2	#DEP# web-framework
+3	#DEP# spring
+4	#DEP# plugin
+5	#DEP# apach

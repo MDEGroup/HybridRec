@@ -1,0 +1,4 @@
+1	/artifact/org.powermock/powermock-api-mockito
+2	#DEP# api
+3	#DEP# test
+4	#DEP# mock

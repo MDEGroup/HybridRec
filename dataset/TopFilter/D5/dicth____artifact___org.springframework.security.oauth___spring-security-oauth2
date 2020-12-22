@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.security.oauth/spring-security-oauth2
+2	#DEP# secur
+3	#DEP# oauth
+4	#DEP# spring
+5	#DEP# authent

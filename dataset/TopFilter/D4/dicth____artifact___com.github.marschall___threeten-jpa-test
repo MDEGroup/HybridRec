@@ -1,0 +1,5 @@
+1	/artifact/com.github.marschall/threeten-jpa-test
+2	#DEP# test
+3	#DEP# persist
+4	#DEP# jpa
+5	#DEP# github

@@ -1,0 +1,6 @@
+1	/artifact/org.apache.camel.quarkus/camel-quarkus-support-aws
+2	#DEP# camel
+3	#DEP# amazon
+4	#DEP# aw
+5	#DEP# apach
+6	#DEP# support

@@ -1,0 +1,6 @@
+1	/artifact/io.swagger/swagger-compat-spec-parser
+2	#DEP# parser
+3	#DEP# compat
+4	#DEP# api
+5	#DEP# swagger
+6	#DEP# io

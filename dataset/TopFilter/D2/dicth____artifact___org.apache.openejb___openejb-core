@@ -1,0 +1,5 @@
+1	/artifact/org.apache.openejb/openejb-core
+2	#DEP# ejb
+3	#DEP# appserv
+4	#DEP# apach
+5	#DEP# server

@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.data/spring-data-jpa
+2	#DEP# persist
+3	#DEP# spring
+4	#DEP# data
+5	#DEP# jpa

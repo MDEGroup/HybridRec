@@ -1,0 +1,5 @@
+1	/artifact/org.jenkins-ci.plugins/git
+2	#DEP# plugin
+3	#DEP# git
+4	#DEP# scm
+5	#DEP# jenkin

@@ -1,0 +1,5 @@
+1	/artifact/org.scalamock/scalamock-scalatest-support
+2	#DEP# scala
+3	#DEP# support
+4	#DEP# mock
+5	#DEP# test

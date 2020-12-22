@@ -1,0 +1,6 @@
+1	/artifact/com.lightbend.lagom/lagom-kafka-server
+2	#DEP# stream
+3	#DEP# microservic
+4	#DEP# server
+5	#DEP# lightbend
+6	#DEP# kafka

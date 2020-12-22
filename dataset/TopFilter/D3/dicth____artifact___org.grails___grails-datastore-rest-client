@@ -1,0 +1,6 @@
+1	/artifact/org.grails/grails-datastore-rest-client
+2	#DEP# persist
+3	#DEP# rest
+4	#DEP# grail
+5	#DEP# groovi
+6	#DEP# client

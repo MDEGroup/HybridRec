@@ -1,0 +1,5 @@
+1	/artifact/org.nuxeo.ecm.distribution/nuxeo-distribution-tomcat
+2	#DEP# tomcat
+3	#DEP# webserv
+4	#DEP# distribut
+5	#DEP# server

@@ -1,0 +1,6 @@
+1	/artifact/org.apache.maven.shared/maven-doxia-tools
+2	#DEP# apach
+3	#DEP# build
+4	#DEP# tool
+5	#DEP# maven
+6	#DEP# build-system

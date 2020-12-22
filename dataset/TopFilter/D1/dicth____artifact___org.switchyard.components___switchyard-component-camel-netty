@@ -1,0 +1,5 @@
+1	/artifact/org.switchyard.components/switchyard-component-camel-netty
+2	#DEP# network
+3	#DEP# socket
+4	#DEP# camel
+5	#DEP# netti

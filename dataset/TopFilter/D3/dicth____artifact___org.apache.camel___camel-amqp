@@ -1,0 +1,5 @@
+1	/artifact/org.apache.camel/camel-amqp
+2	#DEP# queue
+3	#DEP# camel
+4	#DEP# apach
+5	#DEP# amqp

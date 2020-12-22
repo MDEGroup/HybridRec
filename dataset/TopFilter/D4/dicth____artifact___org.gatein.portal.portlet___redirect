@@ -1,0 +1,6 @@
+1	/artifact/org.gatein.portal.portlet/redirect
+2	#DEP# web
+3	#DEP# portlet
+4	#DEP# webapp
+5	#DEP# portal
+6	#DEP# applic

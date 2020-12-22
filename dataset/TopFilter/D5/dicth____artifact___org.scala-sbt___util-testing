@@ -1,0 +1,6 @@
+1	/artifact/org.scala-sbt/util-testing
+2	#DEP# build
+3	#DEP# test
+4	#DEP# scala
+5	#DEP# sbt
+6	#DEP# build-system

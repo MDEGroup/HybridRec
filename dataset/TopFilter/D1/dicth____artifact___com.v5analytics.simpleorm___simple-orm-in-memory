@@ -1,0 +1,5 @@
+1	/artifact/com.v5analytics.simpleorm/simple-orm-in-memory
+2	#DEP# orm
+3	#DEP# memori
+4	#DEP# persist
+5	#DEP# analyt

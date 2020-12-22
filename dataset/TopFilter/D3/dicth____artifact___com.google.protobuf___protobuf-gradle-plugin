@@ -1,0 +1,9 @@
+1	/artifact/com.google.protobuf/protobuf-gradle-plugin
+2	#DEP# googl
+3	#DEP# protocol
+4	#DEP# plugin
+5	#DEP# groovi
+6	#DEP# build
+7	#DEP# build-system
+8	#DEP# gradl
+9	#DEP# serial

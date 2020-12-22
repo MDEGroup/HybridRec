@@ -1,0 +1,5 @@
+1	/artifact/org.ops4j.pax.web.samples/war
+2	#DEP# webapp
+3	#DEP# exampl
+4	#DEP# applic
+5	#DEP# web

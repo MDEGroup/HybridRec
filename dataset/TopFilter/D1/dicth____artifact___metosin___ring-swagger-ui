@@ -1,0 +1,5 @@
+1	/artifact/metosin/ring-swagger-ui
+2	#DEP# ui
+3	#DEP# clojur
+4	#DEP# swagger
+5	#DEP# api

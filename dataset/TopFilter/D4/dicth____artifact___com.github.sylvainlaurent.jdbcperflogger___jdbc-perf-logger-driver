@@ -1,0 +1,7 @@
+1	/artifact/com.github.sylvainlaurent.jdbcperflogger/jdbc-perf-logger-driver
+2	#DEP# github
+3	#DEP# log
+4	#DEP# sql
+5	#DEP# perform
+6	#DEP# jdbc
+7	#DEP# driver

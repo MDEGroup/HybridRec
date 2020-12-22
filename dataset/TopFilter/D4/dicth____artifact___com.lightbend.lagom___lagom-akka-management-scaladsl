@@ -1,0 +1,9 @@
+1	/artifact/com.lightbend.lagom/lagom-akka-management-scaladsl
+2	#DEP# manag
+3	#DEP# lightbend
+4	#DEP# concurr
+5	#DEP# microservic
+6	#DEP# akka
+7	#DEP# distribut
+8	#DEP# actor
+9	#DEP# dsl

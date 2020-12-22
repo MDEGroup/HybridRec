@@ -1,0 +1,5 @@
+1	/artifact/javax.activation/javax.activation-api
+2	#DEP# spec
+3	#DEP# javax
+4	#DEP# api
+5	#DEP# standard

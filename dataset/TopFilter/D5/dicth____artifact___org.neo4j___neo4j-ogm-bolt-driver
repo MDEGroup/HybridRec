@@ -1,0 +1,5 @@
+1	/artifact/org.neo4j/neo4j-ogm-bolt-driver
+2	#DEP# neo4j
+3	#DEP# databas
+4	#DEP# graph
+5	#DEP# driver

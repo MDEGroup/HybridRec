@@ -1,0 +1,5 @@
+1	/artifact/org.eclipse.swt/org.eclipse.swt.win32.win32.x86
+2	#DEP# eclips
+3	#DEP# swt
+4	#DEP# x86
+5	#DEP# ui

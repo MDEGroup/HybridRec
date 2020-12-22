@@ -1,0 +1,8 @@
+1	/artifact/com.github.jruby-gradle/jruby-gradle-plugin
+2	#DEP# groovi
+3	#DEP# rubi
+4	#DEP# build-system
+5	#DEP# github
+6	#DEP# gradl
+7	#DEP# build
+8	#DEP# plugin

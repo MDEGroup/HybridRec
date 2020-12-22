@@ -1,0 +1,5 @@
+1	/artifact/org.jboss.forge.addon/maven
+2	#DEP# build-system
+3	#DEP# jboss
+4	#DEP# maven
+5	#DEP# build

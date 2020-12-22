@@ -1,0 +1,6 @@
+1	/artifact/org.opendaylight.controller/features-config-netty
+2	#DEP# config
+3	#DEP# netti
+4	#DEP# socket
+5	#DEP# control
+6	#DEP# network

@@ -1,0 +1,5 @@
+1	/artifact/io.vertx/vertx-bridge-common-scala
+2	#DEP# scala
+3	#DEP# bridg
+4	#DEP# vertx
+5	#DEP# io

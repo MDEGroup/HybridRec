@@ -1,0 +1,7 @@
+1	/artifact/org.eclipse.jetty/jetty-slf4j-impl
+2	#DEP# webserv
+3	#DEP# slf4j
+4	#DEP# jetti
+5	#DEP# log
+6	#DEP# server
+7	#DEP# eclips

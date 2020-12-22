@@ -1,0 +1,6 @@
+1	/artifact/org.apache.geronimo.framework/jmx-security
+2	#DEP# manag
+3	#DEP# secur
+4	#DEP# framework
+5	#DEP# jmx
+6	#DEP# apach

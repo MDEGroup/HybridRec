@@ -1,0 +1,5 @@
+1	/artifact/org.openqa.selenium.client-drivers/selenium-java-client-driver
+2	#DEP# selenium
+3	#DEP# client
+4	#DEP# test
+5	#DEP# driver

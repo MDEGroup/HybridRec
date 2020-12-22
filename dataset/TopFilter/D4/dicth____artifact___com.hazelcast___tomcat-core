@@ -1,0 +1,5 @@
+1	/artifact/com.hazelcast/tomcat-core
+2	#DEP# hazelcast
+3	#DEP# server
+4	#DEP# webserv
+5	#DEP# tomcat

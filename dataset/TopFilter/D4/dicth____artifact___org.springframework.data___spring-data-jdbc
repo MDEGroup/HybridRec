@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.data/spring-data-jdbc
+2	#DEP# sql
+3	#DEP# jdbc
+4	#DEP# data
+5	#DEP# spring

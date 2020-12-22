@@ -1,0 +1,6 @@
+1	/artifact/org.jumpmind.symmetric.jdbc/postgresql
+2	#DEP# postgresql
+3	#DEP# sql
+4	#DEP# driver
+5	#DEP# jdbc
+6	#DEP# databas

@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.cloud.stream.app/stream-applications-composite-function-support
+2	#DEP# spring
+3	#DEP# stream
+4	#DEP# support
+5	#DEP# cloud

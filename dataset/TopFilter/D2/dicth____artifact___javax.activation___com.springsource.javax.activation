@@ -1,0 +1,5 @@
+1	/artifact/javax.activation/com.springsource.javax.activation
+2	#DEP# spring
+3	#DEP# javax
+4	#DEP# spec
+5	#DEP# standard

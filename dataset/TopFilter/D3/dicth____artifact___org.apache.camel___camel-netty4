@@ -1,0 +1,6 @@
+1	/artifact/org.apache.camel/camel-netty4
+2	#DEP# netti
+3	#DEP# socket
+4	#DEP# camel
+5	#DEP# apach
+6	#DEP# network

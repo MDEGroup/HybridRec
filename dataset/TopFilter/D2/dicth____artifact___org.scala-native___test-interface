@@ -1,0 +1,5 @@
+1	/artifact/org.scala-native/test-interface
+2	#DEP# scala
+3	#DEP# interfac
+4	#DEP# nativ
+5	#DEP# test

@@ -1,0 +1,5 @@
+1	/artifact/org.jvnet.hudson.main/maven-plugin
+2	#DEP# build
+3	#DEP# maven
+4	#DEP# plugin
+5	#DEP# build-system

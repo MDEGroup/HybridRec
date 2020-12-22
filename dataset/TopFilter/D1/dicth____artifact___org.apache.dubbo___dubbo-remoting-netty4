@@ -1,0 +1,6 @@
+1	/artifact/org.apache.dubbo/dubbo-remoting-netty4
+2	#DEP# apach
+3	#DEP# remot
+4	#DEP# socket
+5	#DEP# netti
+6	#DEP# network

@@ -1,0 +1,6 @@
+1	/artifact/org.powermock/powermock-module-junit4-rule-agent
+2	#DEP# mock
+3	#DEP# junit
+4	#DEP# agent
+5	#DEP# test
+6	#DEP# modul

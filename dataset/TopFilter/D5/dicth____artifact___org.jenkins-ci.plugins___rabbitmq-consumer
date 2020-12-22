@@ -1,0 +1,7 @@
+1	/artifact/org.jenkins-ci.plugins/rabbitmq-consumer
+2	#DEP# rabbitmq
+3	#DEP# jenkin
+4	#DEP# queue
+5	#DEP# amqp
+6	#DEP# plugin
+7	#DEP# consum

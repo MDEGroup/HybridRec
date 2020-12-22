@@ -1,0 +1,5 @@
+1	/artifact/com.datastax.cassandra/cassandra-driver-core
+2	#DEP# driver
+3	#DEP# client
+4	#DEP# databas
+5	#DEP# cassandra

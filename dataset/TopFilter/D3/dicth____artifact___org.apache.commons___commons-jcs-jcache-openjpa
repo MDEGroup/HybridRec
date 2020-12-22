@@ -1,0 +1,5 @@
+1	/artifact/org.apache.commons/commons-jcs-jcache-openjpa
+2	#DEP# persist
+3	#DEP# jpa
+4	#DEP# common
+5	#DEP# apach

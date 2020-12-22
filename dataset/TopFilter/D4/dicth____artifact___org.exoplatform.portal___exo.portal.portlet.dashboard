@@ -1,0 +1,7 @@
+1	/artifact/org.exoplatform.portal/exo.portal.portlet.dashboard
+2	#DEP# web
+3	#DEP# portlet
+4	#DEP# dashboard
+5	#DEP# webapp
+6	#DEP# portal
+7	#DEP# applic

@@ -1,0 +1,5 @@
+1	/artifact/org.kermeta.language/org.kermeta.language.loader.kmt.scala.api
+2	#DEP# scala
+3	#DEP# loader
+4	#DEP# languag
+5	#DEP# api

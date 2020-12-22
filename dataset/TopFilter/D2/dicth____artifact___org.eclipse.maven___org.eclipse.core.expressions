@@ -1,0 +1,6 @@
+1	/artifact/org.eclipse.maven/org.eclipse.core.expressions
+2	#DEP# build
+3	#DEP# eclips
+4	#DEP# maven
+5	#DEP# build-system
+6	#DEP# express

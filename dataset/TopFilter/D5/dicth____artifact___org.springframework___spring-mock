@@ -1,0 +1,4 @@
+1	/artifact/org.springframework/spring-mock
+2	#DEP# spring
+3	#DEP# mock
+4	#DEP# test

@@ -1,0 +1,5 @@
+1	/artifact/org.mobicents.protocols.ss7.management/shell-server-impl
+2	#DEP# manag
+3	#DEP# protocol
+4	#DEP# shell
+5	#DEP# server

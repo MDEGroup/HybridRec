@@ -1,0 +1,6 @@
+1	/artifact/org.apache.qpid/qpid-amqp-1-0-client
+2	#DEP# messag
+3	#DEP# queue
+4	#DEP# amqp
+5	#DEP# apach
+6	#DEP# client

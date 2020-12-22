@@ -1,0 +1,5 @@
+1	/artifact/org.apache.servicemix.bundles/org.apache.servicemix.bundles.joda-time
+2	#DEP# bundl
+3	#DEP# time
+4	#DEP# apach
+5	#DEP# esb

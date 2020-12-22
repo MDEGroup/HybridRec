@@ -1,0 +1,6 @@
+1	/artifact/javax.cache/cache-tests
+2	#DEP# standard
+3	#DEP# spec
+4	#DEP# javax
+5	#DEP# cach
+6	#DEP# test

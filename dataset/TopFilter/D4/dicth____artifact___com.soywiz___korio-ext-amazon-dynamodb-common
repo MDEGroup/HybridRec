@@ -1,0 +1,5 @@
+1	/artifact/com.soywiz/korio-ext-amazon-dynamodb-common
+2	#DEP# databas
+3	#DEP# dynamodb
+4	#DEP# aw
+5	#DEP# amazon

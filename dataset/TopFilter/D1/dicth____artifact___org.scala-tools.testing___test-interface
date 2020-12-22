@@ -1,0 +1,5 @@
+1	/artifact/org.scala-tools.testing/test-interface
+2	#DEP# tool
+3	#DEP# interfac
+4	#DEP# test
+5	#DEP# scala

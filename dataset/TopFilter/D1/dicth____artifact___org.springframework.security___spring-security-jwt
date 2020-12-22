@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.security/spring-security-jwt
+2	#DEP# spring
+3	#DEP# secur
+4	#DEP# json
+5	#DEP# jwt

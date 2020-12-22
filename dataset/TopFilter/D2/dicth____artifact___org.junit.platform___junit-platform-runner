@@ -1,0 +1,5 @@
+1	/artifact/org.junit.platform/junit-platform-runner
+2	#DEP# junit
+3	#DEP# runner
+4	#DEP# test
+5	#DEP# platform

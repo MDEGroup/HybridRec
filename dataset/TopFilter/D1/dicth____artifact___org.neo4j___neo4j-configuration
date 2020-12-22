@@ -1,0 +1,5 @@
+1	/artifact/org.neo4j/neo4j-configuration
+2	#DEP# neo4j
+3	#DEP# graph
+4	#DEP# config
+5	#DEP# databas

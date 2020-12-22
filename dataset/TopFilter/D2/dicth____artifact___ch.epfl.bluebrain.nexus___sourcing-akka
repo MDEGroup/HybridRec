@@ -1,0 +1,5 @@
+1	/artifact/ch.epfl.bluebrain.nexus/sourcing-akka
+2	#DEP# akka
+3	#DEP# distribut
+4	#DEP# concurr
+5	#DEP# actor

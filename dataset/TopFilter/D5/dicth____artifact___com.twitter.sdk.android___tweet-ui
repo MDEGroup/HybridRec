@@ -1,0 +1,5 @@
+1	/artifact/com.twitter.sdk.android/tweet-ui
+2	#DEP# ui
+3	#DEP# android
+4	#DEP# twitter
+5	#DEP# sdk

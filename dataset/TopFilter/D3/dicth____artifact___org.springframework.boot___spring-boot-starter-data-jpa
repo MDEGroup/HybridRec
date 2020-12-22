@@ -1,0 +1,6 @@
+1	/artifact/org.springframework.boot/spring-boot-starter-data-jpa
+2	#DEP# persist
+3	#DEP# spring
+4	#DEP# jpa
+5	#DEP# starter
+6	#DEP# data

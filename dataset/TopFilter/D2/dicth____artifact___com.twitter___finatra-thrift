@@ -1,0 +1,5 @@
+1	/artifact/com.twitter/finatra-thrift
+2	#DEP# thrift
+3	#DEP# protocol
+4	#DEP# twitter
+5	#DEP# serial

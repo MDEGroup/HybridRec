@@ -1,0 +1,5 @@
+1	/artifact/com.codahale.metrics/metrics-jetty9
+2	#DEP# metric
+3	#DEP# server
+4	#DEP# webserv
+5	#DEP# jetti

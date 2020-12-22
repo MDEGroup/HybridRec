@@ -1,0 +1,5 @@
+1	/artifact/com.yammer.metrics/metrics-jetty
+2	#DEP# jetti
+3	#DEP# metric
+4	#DEP# server
+5	#DEP# webserv

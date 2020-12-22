@@ -1,0 +1,6 @@
+1	/artifact/io.netty/netty-handler-proxy
+2	#DEP# io
+3	#DEP# netti
+4	#DEP# proxi
+5	#DEP# socket
+6	#DEP# network

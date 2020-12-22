@@ -1,0 +1,5 @@
+1	/artifact/org.apache.hbase/hbase-common
+2	#DEP# hadoop
+3	#DEP# databas
+4	#DEP# apach
+5	#DEP# hbase

@@ -1,0 +1,5 @@
+1	/artifact/org.netbeans.api/org-openide-loaders
+2	#DEP# api
+3	#DEP# loader
+4	#DEP# ide
+5	#DEP# netbean

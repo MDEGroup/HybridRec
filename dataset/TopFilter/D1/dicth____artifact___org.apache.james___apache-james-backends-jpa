@@ -1,0 +1,5 @@
+1	/artifact/org.apache.james/apache-james-backends-jpa
+2	#DEP# mail
+3	#DEP# apach
+4	#DEP# persist
+5	#DEP# jpa

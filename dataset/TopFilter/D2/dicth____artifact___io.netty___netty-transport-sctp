@@ -1,0 +1,6 @@
+1	/artifact/io.netty/netty-transport-sctp
+2	#DEP# transport
+3	#DEP# io
+4	#DEP# netti
+5	#DEP# socket
+6	#DEP# network

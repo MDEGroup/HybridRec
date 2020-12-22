@@ -1,0 +1,5 @@
+1	/artifact/org.apache.jclouds.api/openstack-keystone
+2	#DEP# openstack
+3	#DEP# apach
+4	#DEP# api
+5	#DEP# cloud

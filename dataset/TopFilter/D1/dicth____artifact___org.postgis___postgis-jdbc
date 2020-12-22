@@ -1,0 +1,5 @@
+1	/artifact/org.postgis/postgis-jdbc
+2	#DEP# sql
+3	#DEP# jdbc
+4	#DEP# geo
+5	#DEP# spatial

@@ -1,0 +1,5 @@
+1	/artifact/io.netty.wso2/netty-all
+2	#DEP# netti
+3	#DEP# network
+4	#DEP# socket
+5	#DEP# io

@@ -1,0 +1,6 @@
+1	/artifact/com.lightbend.lagom/lagom-persistence-jdbc-core
+2	#DEP# lightbend
+3	#DEP# microservic
+4	#DEP# persist
+5	#DEP# sql
+6	#DEP# jdbc

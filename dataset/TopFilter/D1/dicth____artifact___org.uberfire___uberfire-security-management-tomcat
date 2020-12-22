@@ -1,0 +1,6 @@
+1	/artifact/org.uberfire/uberfire-security-management-tomcat
+2	#DEP# manag
+3	#DEP# server
+4	#DEP# tomcat
+5	#DEP# webserv
+6	#DEP# secur

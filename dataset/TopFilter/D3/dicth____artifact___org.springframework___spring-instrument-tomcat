@@ -1,0 +1,6 @@
+1	/artifact/org.springframework/spring-instrument-tomcat
+2	#DEP# webserv
+3	#DEP# server
+4	#DEP# spring
+5	#DEP# instrument
+6	#DEP# tomcat

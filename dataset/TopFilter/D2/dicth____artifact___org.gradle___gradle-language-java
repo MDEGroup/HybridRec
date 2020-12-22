@@ -1,0 +1,6 @@
+1	/artifact/org.gradle/gradle-language-java
+2	#DEP# groovi
+3	#DEP# languag
+4	#DEP# build
+5	#DEP# gradl
+6	#DEP# build-system

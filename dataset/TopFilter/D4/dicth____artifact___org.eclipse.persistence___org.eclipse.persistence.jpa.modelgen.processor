@@ -1,0 +1,5 @@
+1	/artifact/org.eclipse.persistence/org.eclipse.persistence.jpa.modelgen.processor
+2	#DEP# processor
+3	#DEP# persist
+4	#DEP# jpa
+5	#DEP# eclips

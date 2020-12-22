@@ -1,0 +1,6 @@
+1	/artifact/org.apache.maven/maven-core
+2	#DEP# apach
+3	#DEP# build-system
+4	#DEP# tool
+5	#DEP# build
+6	#DEP# maven

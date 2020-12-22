@@ -1,0 +1,5 @@
+1	/artifact/com.zhaofujun.nest/nest-plus-spring-rabbitmq
+2	#DEP# spring
+3	#DEP# amqp
+4	#DEP# rabbitmq
+5	#DEP# queue

@@ -1,0 +1,5 @@
+1	/artifact/io.tracee.backend/tracee-slf4j
+2	#DEP# slf4j
+3	#DEP# log
+4	#DEP# io
+5	#DEP# trace

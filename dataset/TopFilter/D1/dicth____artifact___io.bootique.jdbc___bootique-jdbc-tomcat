@@ -1,0 +1,7 @@
+1	/artifact/io.bootique.jdbc/bootique-jdbc-tomcat
+2	#DEP# sql
+3	#DEP# server
+4	#DEP# tomcat
+5	#DEP# webserv
+6	#DEP# jdbc
+7	#DEP# io

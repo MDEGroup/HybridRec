@@ -1,0 +1,6 @@
+1	/artifact/org.apache.hbase/hbase-client
+2	#DEP# hbase
+3	#DEP# hadoop
+4	#DEP# apach
+5	#DEP# client
+6	#DEP# databas

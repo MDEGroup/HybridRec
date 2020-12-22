@@ -1,0 +1,6 @@
+1	/artifact/org.apache.openejb/openejb-tomcat-common
+2	#DEP# ejb
+3	#DEP# apach
+4	#DEP# tomcat
+5	#DEP# webserv
+6	#DEP# server

@@ -1,0 +1,5 @@
+1	/artifact/org.apache.solr/solr-solrj
+2	#DEP# solr
+3	#DEP# engin
+4	#DEP# apach
+5	#DEP# search

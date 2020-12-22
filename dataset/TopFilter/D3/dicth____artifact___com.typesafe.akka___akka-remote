@@ -1,0 +1,8 @@
+1	/artifact/com.typesafe.akka/akka-remote
+2	#DEP# actor
+3	#DEP# typesaf
+4	#DEP# remot
+5	#DEP# distribut
+6	#DEP# commun
+7	#DEP# concurr
+8	#DEP# akka

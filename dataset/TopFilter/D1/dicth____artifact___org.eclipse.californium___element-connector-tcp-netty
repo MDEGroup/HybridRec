@@ -1,0 +1,7 @@
+1	/artifact/org.eclipse.californium/element-connector-tcp-netty
+2	#DEP# tcp
+3	#DEP# connector
+4	#DEP# eclips
+5	#DEP# socket
+6	#DEP# netti
+7	#DEP# network

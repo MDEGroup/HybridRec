@@ -1,0 +1,6 @@
+1	/artifact/javax.management/jmxremote
+2	#DEP# standard
+3	#DEP# javax
+4	#DEP# manag
+5	#DEP# spec
+6	#DEP# jmx

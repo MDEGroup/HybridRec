@@ -1,0 +1,6 @@
+1	/artifact/org.onap.aai.event-client/event-client-rabbitmq
+2	#DEP# client
+3	#DEP# event
+4	#DEP# rabbitmq
+5	#DEP# queue
+6	#DEP# amqp

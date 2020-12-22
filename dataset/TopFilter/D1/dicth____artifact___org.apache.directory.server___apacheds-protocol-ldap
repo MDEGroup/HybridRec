@@ -1,0 +1,6 @@
+1	/artifact/org.apache.directory.server/apacheds-protocol-ldap
+2	#DEP# apach
+3	#DEP# server
+4	#DEP# ldap
+5	#DEP# protocol
+6	#DEP# directori

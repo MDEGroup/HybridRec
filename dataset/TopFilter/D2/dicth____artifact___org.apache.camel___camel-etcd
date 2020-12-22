@@ -1,0 +1,7 @@
+1	/artifact/org.apache.camel/camel-etcd
+2	#DEP# distribut
+3	#DEP# camel
+4	#DEP# etcd
+5	#DEP# apach
+6	#DEP# config
+7	#DEP# client

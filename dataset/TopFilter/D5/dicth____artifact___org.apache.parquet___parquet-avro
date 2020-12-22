@@ -1,0 +1,7 @@
+1	/artifact/org.apache.parquet/parquet-avro
+2	#DEP# avro
+3	#DEP# apach
+4	#DEP# column
+5	#DEP# protocol
+6	#DEP# parquet
+7	#DEP# serial

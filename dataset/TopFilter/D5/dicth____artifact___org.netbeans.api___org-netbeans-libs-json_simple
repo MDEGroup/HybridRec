@@ -1,0 +1,5 @@
+1	/artifact/org.netbeans.api/org-netbeans-libs-json_simple
+2	#DEP# ide
+3	#DEP# netbean
+4	#DEP# api
+5	#DEP# json

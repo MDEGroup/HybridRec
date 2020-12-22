@@ -1,0 +1,5 @@
+1	/artifact/org.wisdom-framework/abstract-jdbc-driver
+2	#DEP# driver
+3	#DEP# sql
+4	#DEP# framework
+5	#DEP# jdbc

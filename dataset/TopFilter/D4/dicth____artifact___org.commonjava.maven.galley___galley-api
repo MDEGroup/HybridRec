@@ -1,0 +1,5 @@
+1	/artifact/org.commonjava.maven.galley/galley-api
+2	#DEP# api
+3	#DEP# build
+4	#DEP# build-system
+5	#DEP# maven

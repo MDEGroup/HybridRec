@@ -1,0 +1,7 @@
+1	/artifact/org.apache.geronimo.plugins/console-tomcat
+2	#DEP# tomcat
+3	#DEP# server
+4	#DEP# consol
+5	#DEP# apach
+6	#DEP# webserv
+7	#DEP# plugin

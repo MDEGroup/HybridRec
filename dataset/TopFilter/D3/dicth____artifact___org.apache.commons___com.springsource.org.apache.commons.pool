@@ -1,0 +1,5 @@
+1	/artifact/org.apache.commons/com.springsource.org.apache.commons.pool
+2	#DEP# spring
+3	#DEP# pool
+4	#DEP# common
+5	#DEP# apach

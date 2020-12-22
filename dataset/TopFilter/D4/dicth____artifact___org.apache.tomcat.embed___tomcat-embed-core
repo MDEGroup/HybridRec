@@ -1,0 +1,7 @@
+1	/artifact/org.apache.tomcat.embed/tomcat-embed-core
+2	#DEP# web
+3	#DEP# apach
+4	#DEP# embed
+5	#DEP# tomcat
+6	#DEP# webserv
+7	#DEP# server

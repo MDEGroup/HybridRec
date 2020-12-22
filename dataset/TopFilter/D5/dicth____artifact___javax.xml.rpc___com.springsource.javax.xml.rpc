@@ -1,0 +1,7 @@
+1	/artifact/javax.xml.rpc/com.springsource.javax.xml.rpc
+2	#DEP# rpc
+3	#DEP# standard
+4	#DEP# javax
+5	#DEP# spring
+6	#DEP# xml
+7	#DEP# spec

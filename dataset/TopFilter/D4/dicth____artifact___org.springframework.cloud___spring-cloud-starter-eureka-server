@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.cloud/spring-cloud-starter-eureka-server
+2	#DEP# starter
+3	#DEP# server
+4	#DEP# cloud
+5	#DEP# spring

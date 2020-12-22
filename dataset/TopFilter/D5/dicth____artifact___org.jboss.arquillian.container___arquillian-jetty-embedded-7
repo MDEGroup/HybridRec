@@ -1,0 +1,7 @@
+1	/artifact/org.jboss.arquillian.container/arquillian-jetty-embedded-7
+2	#DEP# webserv
+3	#DEP# contain
+4	#DEP# jetti
+5	#DEP# embed
+6	#DEP# server
+7	#DEP# jboss

@@ -1,0 +1,6 @@
+1	/artifact/org.apache.avro/avro-tools
+2	#DEP# tool
+3	#DEP# avro
+4	#DEP# protocol
+5	#DEP# apach
+6	#DEP# serial

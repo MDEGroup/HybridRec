@@ -1,0 +1,5 @@
+1	/artifact/org.apache.xmlgraphics/batik-bridge
+2	#DEP# svg
+3	#DEP# bridg
+4	#DEP# apach
+5	#DEP# graphic

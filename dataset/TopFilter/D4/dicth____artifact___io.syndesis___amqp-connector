@@ -1,0 +1,5 @@
+1	/artifact/io.syndesis/amqp-connector
+2	#DEP# queue
+3	#DEP# amqp
+4	#DEP# io
+5	#DEP# connector

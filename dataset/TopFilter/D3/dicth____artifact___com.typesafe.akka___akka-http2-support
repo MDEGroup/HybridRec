@@ -1,0 +1,8 @@
+1	/artifact/com.typesafe.akka/akka-http2-support
+2	#DEP# actor
+3	#DEP# typesaf
+4	#DEP# support
+5	#DEP# http
+6	#DEP# distribut
+7	#DEP# concurr
+8	#DEP# akka

@@ -1,0 +1,9 @@
+1	/artifact/org.junit.platform/junit-platform-gradle-plugin
+2	#DEP# gradl
+3	#DEP# junit
+4	#DEP# build
+5	#DEP# test
+6	#DEP# groovi
+7	#DEP# build-system
+8	#DEP# platform
+9	#DEP# plugin

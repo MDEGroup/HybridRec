@@ -1,0 +1,5 @@
+1	/artifact/com.amazonaws/dynamodb-streams-kinesis-adapter
+2	#DEP# aw
+3	#DEP# databas
+4	#DEP# stream
+5	#DEP# dynamodb

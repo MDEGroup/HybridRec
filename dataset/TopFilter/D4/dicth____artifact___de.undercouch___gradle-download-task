@@ -1,0 +1,5 @@
+1	/artifact/de.undercouch/gradle-download-task
+2	#DEP# gradl
+3	#DEP# build
+4	#DEP# build-system
+5	#DEP# groovi

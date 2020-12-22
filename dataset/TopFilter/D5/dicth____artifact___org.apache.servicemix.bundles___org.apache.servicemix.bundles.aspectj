@@ -1,0 +1,6 @@
+1	/artifact/org.apache.servicemix.bundles/org.apache.servicemix.bundles.aspectj
+2	#DEP# bundl
+3	#DEP# apach
+4	#DEP# aop
+5	#DEP# aspect
+6	#DEP# esb

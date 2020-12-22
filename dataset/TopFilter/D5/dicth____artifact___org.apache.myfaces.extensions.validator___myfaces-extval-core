@@ -1,0 +1,5 @@
+1	/artifact/org.apache.myfaces.extensions.validator/myfaces-extval-core
+2	#DEP# jsf
+3	#DEP# valid
+4	#DEP# extens
+5	#DEP# apach

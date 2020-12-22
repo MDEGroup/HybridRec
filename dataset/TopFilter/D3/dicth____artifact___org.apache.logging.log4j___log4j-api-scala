@@ -1,0 +1,5 @@
+1	/artifact/org.apache.logging.log4j/log4j-api-scala
+2	#DEP# apach
+3	#DEP# scala
+4	#DEP# api
+5	#DEP# log

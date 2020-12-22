@@ -1,0 +1,5 @@
+1	/artifact/io.opentracing/opentracing-api
+2	#DEP# api
+3	#DEP# distribut
+4	#DEP# trace
+5	#DEP# io

@@ -1,0 +1,5 @@
+1	/artifact/software.amazon.awssdk/aws-json-protocol
+2	#DEP# json
+3	#DEP# protocol
+4	#DEP# aw
+5	#DEP# amazon

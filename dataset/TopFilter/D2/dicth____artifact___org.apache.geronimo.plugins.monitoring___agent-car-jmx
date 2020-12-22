@@ -1,0 +1,6 @@
+1	/artifact/org.apache.geronimo.plugins.monitoring/agent-car-jmx
+2	#DEP# jmx
+3	#DEP# monitor
+4	#DEP# apach
+5	#DEP# plugin
+6	#DEP# agent

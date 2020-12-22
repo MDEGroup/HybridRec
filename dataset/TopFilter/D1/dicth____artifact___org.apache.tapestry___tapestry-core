@@ -1,0 +1,5 @@
+1	/artifact/org.apache.tapestry/tapestry-core
+2	#DEP# web
+3	#DEP# apach
+4	#DEP# web-framework
+5	#DEP# framework

@@ -1,0 +1,5 @@
+1	/artifact/org.apache.kafka/connect-api
+2	#DEP# apach
+3	#DEP# kafka
+4	#DEP# stream
+5	#DEP# api

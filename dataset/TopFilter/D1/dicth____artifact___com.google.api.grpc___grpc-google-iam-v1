@@ -1,0 +1,6 @@
+1	/artifact/com.google.api.grpc/grpc-google-iam-v1
+2	#DEP# rpc
+3	#DEP# protocol
+4	#DEP# api
+5	#DEP# grpc
+6	#DEP# googl

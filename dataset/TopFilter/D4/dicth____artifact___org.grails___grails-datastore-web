@@ -1,0 +1,5 @@
+1	/artifact/org.grails/grails-datastore-web
+2	#DEP# web
+3	#DEP# groovi
+4	#DEP# grail
+5	#DEP# persist

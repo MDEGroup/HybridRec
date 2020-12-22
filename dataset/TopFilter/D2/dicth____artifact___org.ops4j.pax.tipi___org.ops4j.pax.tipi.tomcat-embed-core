@@ -1,0 +1,5 @@
+1	/artifact/org.ops4j.pax.tipi/org.ops4j.pax.tipi.tomcat-embed-core
+2	#DEP# tomcat
+3	#DEP# webserv
+4	#DEP# embed
+5	#DEP# server

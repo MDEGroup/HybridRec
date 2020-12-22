@@ -1,0 +1,5 @@
+1	/artifact/com.github.bordertech.lde/lde-tomcat
+2	#DEP# tomcat
+3	#DEP# webserv
+4	#DEP# server
+5	#DEP# github

@@ -1,0 +1,6 @@
+1	/artifact/org.apache.camel/camel-elasticsearch
+2	#DEP# apach
+3	#DEP# elast
+4	#DEP# search
+5	#DEP# camel
+6	#DEP# elasticsearch

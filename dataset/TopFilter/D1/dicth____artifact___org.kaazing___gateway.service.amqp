@@ -1,0 +1,5 @@
+1	/artifact/org.kaazing/gateway.service.amqp
+2	#DEP# servic
+3	#DEP# amqp
+4	#DEP# queue
+5	#DEP# gateway

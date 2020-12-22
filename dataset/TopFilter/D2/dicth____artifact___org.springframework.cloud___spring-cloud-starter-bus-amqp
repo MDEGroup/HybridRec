@@ -1,0 +1,6 @@
+1	/artifact/org.springframework.cloud/spring-cloud-starter-bus-amqp
+2	#DEP# starter
+3	#DEP# queue
+4	#DEP# amqp
+5	#DEP# spring
+6	#DEP# cloud

@@ -1,0 +1,5 @@
+1	/artifact/org.wso2.carbon.identity.framework/org.wso2.carbon.user.mgt.stub
+2	#DEP# stub
+3	#DEP# ident
+4	#DEP# framework
+5	#DEP# manag

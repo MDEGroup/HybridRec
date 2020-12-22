@@ -1,0 +1,5 @@
+1	/artifact/org.apache.xmlrpc/xmlrpc-server
+2	#DEP# apach
+3	#DEP# server
+4	#DEP# rpc
+5	#DEP# xml

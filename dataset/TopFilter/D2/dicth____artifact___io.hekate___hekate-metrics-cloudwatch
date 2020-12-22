@@ -1,0 +1,5 @@
+1	/artifact/io.hekate/hekate-metrics-cloudwatch
+2	#DEP# monitor
+3	#DEP# aw
+4	#DEP# io
+5	#DEP# metric

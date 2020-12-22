@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.cloud/spring-cloud-starter-security
+2	#DEP# secur
+3	#DEP# cloud
+4	#DEP# starter
+5	#DEP# spring

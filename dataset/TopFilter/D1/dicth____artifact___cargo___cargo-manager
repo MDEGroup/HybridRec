@@ -1,0 +1,5 @@
+1	/artifact/cargo/cargo-manager
+2	#DEP# web
+3	#DEP# applic
+4	#DEP# manag
+5	#DEP# webapp

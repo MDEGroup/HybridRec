@@ -1,0 +1,5 @@
+1	/artifact/org.apache.flink/flink-table-api-scala-bridge
+2	#DEP# apach
+3	#DEP# bridg
+4	#DEP# scala
+5	#DEP# api

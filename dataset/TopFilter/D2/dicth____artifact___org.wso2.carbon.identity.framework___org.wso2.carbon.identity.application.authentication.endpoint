@@ -1,0 +1,7 @@
+1	/artifact/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.application.authentication.endpoint
+2	#DEP# ident
+3	#DEP# framework
+4	#DEP# applic
+5	#DEP# authent
+6	#DEP# web
+7	#DEP# webapp

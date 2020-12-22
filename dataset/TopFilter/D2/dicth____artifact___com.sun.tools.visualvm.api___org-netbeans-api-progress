@@ -1,0 +1,5 @@
+1	/artifact/com.sun.tools.visualvm.api/org-netbeans-api-progress
+2	#DEP# ide
+3	#DEP# tool
+4	#DEP# netbean
+5	#DEP# api

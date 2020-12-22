@@ -1,0 +1,7 @@
+1	/artifact/org.apache.camel.quarkus/camel-quarkus-rabbitmq-deployment
+2	#DEP# queue
+3	#DEP# camel
+4	#DEP# amqp
+5	#DEP# deploy
+6	#DEP# rabbitmq
+7	#DEP# apach

@@ -1,0 +1,5 @@
+1	/artifact/org.jenkins-ci.plugins.workflow/workflow-scm-step
+2	#DEP# jenkin
+3	#DEP# scm
+4	#DEP# workflow
+5	#DEP# plugin

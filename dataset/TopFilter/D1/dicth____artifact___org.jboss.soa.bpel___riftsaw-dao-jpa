@@ -1,0 +1,7 @@
+1	/artifact/org.jboss.soa.bpel/riftsaw-dao-jpa
+2	#DEP# jboss
+3	#DEP# jpa
+4	#DEP# persist
+5	#DEP# servic
+6	#DEP# soa
+7	#DEP# dao

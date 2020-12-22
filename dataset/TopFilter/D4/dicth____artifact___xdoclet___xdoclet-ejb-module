@@ -1,0 +1,5 @@
+1	/artifact/xdoclet/xdoclet-ejb-module
+2	#DEP# doc
+3	#DEP# modul
+4	#DEP# ejb
+5	#DEP# metadata

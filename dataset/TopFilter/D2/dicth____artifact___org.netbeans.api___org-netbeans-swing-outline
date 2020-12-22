@@ -1,0 +1,6 @@
+1	/artifact/org.netbeans.api/org-netbeans-swing-outline
+2	#DEP# ui
+3	#DEP# swing
+4	#DEP# api
+5	#DEP# ide
+6	#DEP# netbean

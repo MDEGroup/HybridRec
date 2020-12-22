@@ -1,0 +1,5 @@
+1	/artifact/org.codehaus.xfire/xfire-xmpp
+2	#DEP# xmpp
+3	#DEP# codehau
+4	#DEP# webservic
+5	#DEP# messag

@@ -1,0 +1,5 @@
+1	/artifact/org.jboss.arquillian.container/arquillian-container-test-api
+2	#DEP# jboss
+3	#DEP# api
+4	#DEP# test
+5	#DEP# contain

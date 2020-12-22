@@ -1,0 +1,5 @@
+1	/artifact/com.amazonaws/aws-lambda-java-events
+2	#DEP# aw
+3	#DEP# amazon
+4	#DEP# lambda
+5	#DEP# event

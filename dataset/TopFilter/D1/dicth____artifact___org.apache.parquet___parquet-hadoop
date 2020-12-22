@@ -1,0 +1,6 @@
+1	/artifact/org.apache.parquet/parquet-hadoop
+2	#DEP# parquet
+3	#DEP# apach
+4	#DEP# column
+5	#DEP# serial
+6	#DEP# hadoop

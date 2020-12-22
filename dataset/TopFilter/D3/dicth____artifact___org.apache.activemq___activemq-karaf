@@ -1,0 +1,5 @@
+1	/artifact/org.apache.activemq/activemq-karaf
+2	#DEP# queue
+3	#DEP# jm
+4	#DEP# osgi
+5	#DEP# apach

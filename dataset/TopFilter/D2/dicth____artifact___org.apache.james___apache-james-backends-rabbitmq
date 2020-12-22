@@ -1,0 +1,6 @@
+1	/artifact/org.apache.james/apache-james-backends-rabbitmq
+2	#DEP# queue
+3	#DEP# amqp
+4	#DEP# rabbitmq
+5	#DEP# apach
+6	#DEP# mail

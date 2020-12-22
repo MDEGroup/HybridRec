@@ -1,0 +1,7 @@
+1	/artifact/org.apache.parquet/parquet-thrift
+2	#DEP# column
+3	#DEP# apach
+4	#DEP# parquet
+5	#DEP# thrift
+6	#DEP# protocol
+7	#DEP# serial

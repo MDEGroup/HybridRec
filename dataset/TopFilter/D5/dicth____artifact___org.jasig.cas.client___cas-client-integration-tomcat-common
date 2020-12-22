@@ -1,0 +1,6 @@
+1	/artifact/org.jasig.cas.client/cas-client-integration-tomcat-common
+2	#DEP# client
+3	#DEP# webserv
+4	#DEP# tomcat
+5	#DEP# integr
+6	#DEP# server

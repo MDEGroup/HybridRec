@@ -1,0 +1,6 @@
+1	/artifact/org.apache.maven.indexer/indexer-core
+2	#DEP# apach
+3	#DEP# build
+4	#DEP# maven
+5	#DEP# index
+6	#DEP# build-system

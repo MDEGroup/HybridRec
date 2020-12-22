@@ -1,0 +1,5 @@
+1	/artifact/org.apache.hadoop/hadoop-client-runtime
+2	#DEP# runtim
+3	#DEP# apach
+4	#DEP# client
+5	#DEP# hadoop

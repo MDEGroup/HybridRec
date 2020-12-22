@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.boot/spring-boot-starter-aop
+2	#DEP# spring
+3	#DEP# aop
+4	#DEP# aspect
+5	#DEP# starter

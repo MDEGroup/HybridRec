@@ -1,0 +1,5 @@
+1	/artifact/org.openidentityplatform.commons.i18n-framework/slf4j
+2	#DEP# log
+3	#DEP# slf4j
+4	#DEP# i18n
+5	#DEP# framework

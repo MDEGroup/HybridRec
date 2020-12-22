@@ -1,0 +1,5 @@
+1	/artifact/io.eventuate.tram.core/eventuate-tram-consumer-jdbc
+2	#DEP# sql
+3	#DEP# io
+4	#DEP# consum
+5	#DEP# jdbc

@@ -1,0 +1,7 @@
+1	/artifact/org.eclipse.jetty/jetty-reactive-httpclient
+2	#DEP# http
+3	#DEP# reactiv
+4	#DEP# jetti
+5	#DEP# eclips
+6	#DEP# webserv
+7	#DEP# server

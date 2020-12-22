@@ -1,0 +1,6 @@
+1	/artifact/org.apache.camel.quarkus/camel-quarkus-integration-test-support
+2	#DEP# test
+3	#DEP# camel
+4	#DEP# integr
+5	#DEP# apach
+6	#DEP# support

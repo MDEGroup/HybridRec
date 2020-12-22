@@ -1,0 +1,6 @@
+1	/artifact/org.apache.chemistry.opencmis/chemistry-opencmis-server-inmemory
+2	#DEP# webapp
+3	#DEP# apach
+4	#DEP# web
+5	#DEP# applic
+6	#DEP# server

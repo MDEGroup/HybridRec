@@ -1,0 +1,5 @@
+1	/artifact/org.josso/josso-tomcat55-agent
+2	#DEP# agent
+3	#DEP# webserv
+4	#DEP# server
+5	#DEP# tomcat

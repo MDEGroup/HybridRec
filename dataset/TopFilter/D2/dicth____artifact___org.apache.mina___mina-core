@@ -1,0 +1,6 @@
+1	/artifact/org.apache.mina/mina-core
+2	#DEP# framework
+3	#DEP# io
+4	#DEP# socket
+5	#DEP# apach
+6	#DEP# network

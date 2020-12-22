@@ -1,0 +1,10 @@
+1	/artifact/com.github.j5ik2o/akka-persistence-dynamodb-snapshot
+2	#DEP# aw
+3	#DEP# distribut
+4	#DEP# actor
+5	#DEP# persist
+6	#DEP# concurr
+7	#DEP# github
+8	#DEP# akka
+9	#DEP# databas
+10	#DEP# dynamodb

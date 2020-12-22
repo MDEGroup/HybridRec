@@ -1,0 +1,5 @@
+1	/artifact/org.eclipse.core/org.eclipse.core.databinding.beans
+2	#DEP# runtim
+3	#DEP# bean
+4	#DEP# bind
+5	#DEP# eclips

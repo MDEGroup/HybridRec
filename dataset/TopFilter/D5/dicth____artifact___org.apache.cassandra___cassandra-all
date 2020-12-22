@@ -1,0 +1,6 @@
+1	/artifact/org.apache.cassandra/cassandra-all
+2	#DEP# cassandra
+3	#DEP# apach
+4	#DEP# databas
+5	#DEP# nosql
+6	#DEP# hadoop

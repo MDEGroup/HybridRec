@@ -1,0 +1,6 @@
+1	/artifact/org.apache.hadoop/hadoop-yarn-server-tests
+2	#DEP# yarn
+3	#DEP# apach
+4	#DEP# hadoop
+5	#DEP# test
+6	#DEP# server

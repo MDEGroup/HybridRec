@@ -1,0 +1,5 @@
+1	/artifact/org.apache.rocketmq/rocketmq-spring-boot-starter
+2	#DEP# spring
+3	#DEP# queue
+4	#DEP# apach
+5	#DEP# starter

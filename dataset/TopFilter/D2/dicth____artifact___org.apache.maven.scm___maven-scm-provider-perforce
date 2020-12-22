@@ -1,0 +1,7 @@
+1	/artifact/org.apache.maven.scm/maven-scm-provider-perforce
+2	#DEP# build
+3	#DEP# provid
+4	#DEP# maven
+5	#DEP# scm
+6	#DEP# build-system
+7	#DEP# apach

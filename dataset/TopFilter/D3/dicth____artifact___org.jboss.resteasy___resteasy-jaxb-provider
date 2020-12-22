@@ -1,0 +1,5 @@
+1	/artifact/org.jboss.resteasy/resteasy-jaxb-provider
+2	#DEP# xml
+3	#DEP# bind
+4	#DEP# provid
+5	#DEP# jboss

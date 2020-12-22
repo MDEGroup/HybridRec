@@ -1,0 +1,6 @@
+1	/artifact/org.elasticsearch/elasticsearch
+2	#DEP# elast
+3	#DEP# server
+4	#DEP# elasticsearch
+5	#DEP# search
+6	#DEP# client

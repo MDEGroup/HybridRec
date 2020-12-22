@@ -1,0 +1,6 @@
+1	/artifact/org.mortbay.jetty/jsp-api-2.1-glassfish
+2	#DEP# server
+3	#DEP# api
+4	#DEP# jsp
+5	#DEP# jetti
+6	#DEP# webserv

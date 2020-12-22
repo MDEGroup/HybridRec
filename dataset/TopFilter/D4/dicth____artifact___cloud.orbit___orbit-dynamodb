@@ -1,0 +1,5 @@
+1	/artifact/cloud.orbit/orbit-dynamodb
+2	#DEP# databas
+3	#DEP# dynamodb
+4	#DEP# cloud
+5	#DEP# aw

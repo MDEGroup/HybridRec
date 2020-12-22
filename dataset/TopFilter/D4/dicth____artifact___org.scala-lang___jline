@@ -1,0 +1,6 @@
+1	/artifact/org.scala-lang/jline
+2	#DEP# consol
+3	#DEP# termin
+4	#DEP# scala
+5	#DEP# cli
+6	#DEP# command-lin

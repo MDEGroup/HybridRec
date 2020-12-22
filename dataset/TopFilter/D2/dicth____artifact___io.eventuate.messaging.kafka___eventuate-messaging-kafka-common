@@ -1,0 +1,5 @@
+1	/artifact/io.eventuate.messaging.kafka/eventuate-messaging-kafka-common
+2	#DEP# kafka
+3	#DEP# messag
+4	#DEP# io
+5	#DEP# stream

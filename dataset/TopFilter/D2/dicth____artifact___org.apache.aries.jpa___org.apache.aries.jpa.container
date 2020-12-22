@@ -1,0 +1,5 @@
+1	/artifact/org.apache.aries.jpa/org.apache.aries.jpa.container
+2	#DEP# persist
+3	#DEP# apach
+4	#DEP# jpa
+5	#DEP# contain

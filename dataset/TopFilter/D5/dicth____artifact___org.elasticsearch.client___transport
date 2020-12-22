@@ -1,0 +1,6 @@
+1	/artifact/org.elasticsearch.client/transport
+2	#DEP# elasticsearch
+3	#DEP# client
+4	#DEP# search
+5	#DEP# transport
+6	#DEP# elast

@@ -1,0 +1,5 @@
+1	/artifact/org.apache.camel/camel-xmpp-starter
+2	#DEP# apach
+3	#DEP# xmpp
+4	#DEP# starter
+5	#DEP# camel

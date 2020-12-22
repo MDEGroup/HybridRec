@@ -1,0 +1,7 @@
+1	/artifact/com.isuwang/isuwang-soa-remoting-netty
+2	#DEP# remot
+3	#DEP# socket
+4	#DEP# netti
+5	#DEP# servic
+6	#DEP# soa
+7	#DEP# network

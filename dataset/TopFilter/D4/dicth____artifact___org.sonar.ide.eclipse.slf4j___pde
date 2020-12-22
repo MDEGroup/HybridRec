@@ -1,0 +1,6 @@
+1	/artifact/org.sonar.ide.eclipse.slf4j/pde
+2	#DEP# ide
+3	#DEP# log
+4	#DEP# eclips
+5	#DEP# sonar
+6	#DEP# slf4j

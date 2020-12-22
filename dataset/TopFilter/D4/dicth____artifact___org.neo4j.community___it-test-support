@@ -1,0 +1,6 @@
+1	/artifact/org.neo4j.community/it-test-support
+2	#DEP# support
+3	#DEP# neo4j
+4	#DEP# test
+5	#DEP# databas
+6	#DEP# graph

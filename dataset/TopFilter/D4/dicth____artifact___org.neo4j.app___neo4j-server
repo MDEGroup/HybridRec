@@ -1,0 +1,5 @@
+1	/artifact/org.neo4j.app/neo4j-server
+2	#DEP# databas
+3	#DEP# graph
+4	#DEP# server
+5	#DEP# neo4j

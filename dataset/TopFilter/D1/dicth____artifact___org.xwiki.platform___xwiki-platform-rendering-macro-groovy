@@ -1,0 +1,5 @@
+1	/artifact/org.xwiki.platform/xwiki-platform-rendering-macro-groovy
+2	#DEP# groovi
+3	#DEP# render
+4	#DEP# macro
+5	#DEP# platform

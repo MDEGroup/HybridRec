@@ -1,0 +1,6 @@
+1	/artifact/org.apereo.cas/cas-server-support-jdbc-drivers
+2	#DEP# support
+3	#DEP# server
+4	#DEP# jdbc
+5	#DEP# driver
+6	#DEP# sql

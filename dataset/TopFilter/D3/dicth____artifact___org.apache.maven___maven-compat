@@ -1,0 +1,6 @@
+1	/artifact/org.apache.maven/maven-compat
+2	#DEP# compat
+3	#DEP# build
+4	#DEP# apach
+5	#DEP# build-system
+6	#DEP# maven

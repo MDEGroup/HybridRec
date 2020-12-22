@@ -1,0 +1,5 @@
+1	/artifact/org.keycloak/keycloak-tomcat-adapter-spi
+2	#DEP# server
+3	#DEP# webserv
+4	#DEP# tomcat
+5	#DEP# interfac

@@ -1,0 +1,5 @@
+1	/artifact/org.apache.geronimo.plugins.monitoring/agent-jar
+2	#DEP# plugin
+3	#DEP# monitor
+4	#DEP# apach
+5	#DEP# agent

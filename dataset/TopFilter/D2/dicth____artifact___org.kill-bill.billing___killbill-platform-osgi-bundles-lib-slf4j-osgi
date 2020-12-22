@@ -1,0 +1,7 @@
+1	/artifact/org.kill-bill.billing/killbill-platform-osgi-bundles-lib-slf4j-osgi
+2	#DEP# slf4j
+3	#DEP# osgi
+4	#DEP# platform
+5	#DEP# log
+6	#DEP# librari
+7	#DEP# bundl

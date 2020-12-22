@@ -1,0 +1,5 @@
+1	/artifact/org.jetbrains.kotlin/kotlin-android-extensions-runtime
+2	#DEP# runtim
+3	#DEP# android
+4	#DEP# kotlin
+5	#DEP# extens

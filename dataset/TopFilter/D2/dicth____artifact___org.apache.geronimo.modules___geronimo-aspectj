@@ -1,0 +1,5 @@
+1	/artifact/org.apache.geronimo.modules/geronimo-aspectj
+2	#DEP# aspect
+3	#DEP# apach
+4	#DEP# aop
+5	#DEP# modul

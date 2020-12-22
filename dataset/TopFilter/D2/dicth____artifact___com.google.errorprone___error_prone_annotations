@@ -1,0 +1,6 @@
+1	/artifact/com.google.errorprone/error_prone_annotations
+2	#DEP# googl
+3	#DEP# metadata
+4	#DEP# defect
+5	#DEP# annot
+6	#DEP# analysi

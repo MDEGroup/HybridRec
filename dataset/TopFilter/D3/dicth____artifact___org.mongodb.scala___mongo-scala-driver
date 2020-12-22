@@ -1,0 +1,7 @@
+1	/artifact/org.mongodb.scala/mongo-scala-driver
+2	#DEP# scala
+3	#DEP# nosql
+4	#DEP# driver
+5	#DEP# mongodb
+6	#DEP# client
+7	#DEP# databas

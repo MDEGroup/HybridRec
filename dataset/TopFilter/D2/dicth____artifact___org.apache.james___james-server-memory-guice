@@ -1,0 +1,6 @@
+1	/artifact/org.apache.james/james-server-memory-guice
+2	#DEP# dependency-inject
+3	#DEP# server
+4	#DEP# apach
+5	#DEP# mail
+6	#DEP# memori

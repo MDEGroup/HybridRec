@@ -1,0 +1,5 @@
+1	/artifact/org.apache.camel/camel-kafka
+2	#DEP# stream
+3	#DEP# kafka
+4	#DEP# apach
+5	#DEP# camel

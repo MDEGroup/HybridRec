@@ -1,0 +1,6 @@
+1	/artifact/io.helidon.webserver/helidon-webserver-netty
+2	#DEP# io
+3	#DEP# netti
+4	#DEP# socket
+5	#DEP# webserv
+6	#DEP# network

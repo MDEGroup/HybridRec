@@ -1,0 +1,5 @@
+1	/artifact/com.twitter/finagle-httpx-compat
+2	#DEP# finagl
+3	#DEP# twitter
+4	#DEP# compat
+5	#DEP# http

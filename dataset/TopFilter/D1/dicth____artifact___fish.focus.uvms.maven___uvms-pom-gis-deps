@@ -1,0 +1,5 @@
+1	/artifact/fish.focus.uvms.maven/uvms-pom-gis-deps
+2	#DEP# build
+3	#DEP# geo
+4	#DEP# maven
+5	#DEP# build-system

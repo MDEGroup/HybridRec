@@ -1,0 +1,5 @@
+1	/artifact/com.sdl.delivery/udp-cil-api-broker
+2	#DEP# udp
+3	#DEP# broker
+4	#DEP# network
+5	#DEP# api

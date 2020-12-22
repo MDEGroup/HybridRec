@@ -1,0 +1,5 @@
+1	/artifact/org.wso2.carbon.deployment/org.wso2.carbon.webapp.mgt.stub
+2	#DEP# deploy
+3	#DEP# stub
+4	#DEP# webapp
+5	#DEP# manag

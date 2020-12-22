@@ -1,0 +1,6 @@
+1	/artifact/org.entando.entando.bundles.misc/entando-misc-bootstrap
+2	#DEP# bootstrap
+3	#DEP# applic
+4	#DEP# web
+5	#DEP# bundl
+6	#DEP# webapp

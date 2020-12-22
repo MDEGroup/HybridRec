@@ -1,0 +1,5 @@
+1	/artifact/org.apache.camel/camel-cassandraql
+2	#DEP# cassandra
+3	#DEP# apach
+4	#DEP# client
+5	#DEP# camel

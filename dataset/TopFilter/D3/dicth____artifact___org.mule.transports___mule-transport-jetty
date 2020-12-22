@@ -1,0 +1,5 @@
+1	/artifact/org.mule.transports/mule-transport-jetty
+2	#DEP# webserv
+3	#DEP# transport
+4	#DEP# jetti
+5	#DEP# server

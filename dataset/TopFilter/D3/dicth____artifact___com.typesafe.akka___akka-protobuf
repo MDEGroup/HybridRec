@@ -1,0 +1,8 @@
+1	/artifact/com.typesafe.akka/akka-protobuf
+2	#DEP# actor
+3	#DEP# typesaf
+4	#DEP# protocol
+5	#DEP# distribut
+6	#DEP# concurr
+7	#DEP# akka
+8	#DEP# serial

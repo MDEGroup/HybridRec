@@ -1,0 +1,8 @@
+1	/artifact/org.eclipse.jetty.http2/http2-http-client-transport
+2	#DEP# client
+3	#DEP# webserv
+4	#DEP# transport
+5	#DEP# http
+6	#DEP# jetti
+7	#DEP# eclips
+8	#DEP# server

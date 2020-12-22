@@ -1,0 +1,6 @@
+1	/artifact/org.eclipse.jetty.spdy/spdy-http-server
+2	#DEP# server
+3	#DEP# eclips
+4	#DEP# http
+5	#DEP# jetti
+6	#DEP# webserv

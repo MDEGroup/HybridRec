@@ -1,0 +1,5 @@
+1	/artifact/org.mule.runtime/mule-metadata-model-persistence
+2	#DEP# model
+3	#DEP# persist
+4	#DEP# runtim
+5	#DEP# metadata

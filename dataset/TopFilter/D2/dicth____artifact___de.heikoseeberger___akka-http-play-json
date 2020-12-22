@@ -1,0 +1,7 @@
+1	/artifact/de.heikoseeberger/akka-http-play-json
+2	#DEP# concurr
+3	#DEP# distribut
+4	#DEP# akka
+5	#DEP# http
+6	#DEP# json
+7	#DEP# actor

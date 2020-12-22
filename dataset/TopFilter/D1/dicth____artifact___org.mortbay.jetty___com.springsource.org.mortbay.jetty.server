@@ -1,0 +1,5 @@
+1	/artifact/org.mortbay.jetty/com.springsource.org.mortbay.jetty.server
+2	#DEP# jetti
+3	#DEP# server
+4	#DEP# spring
+5	#DEP# webserv

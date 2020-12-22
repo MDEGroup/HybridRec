@@ -1,0 +1,8 @@
+1	/artifact/org.apache.james/james-server-guice-rabbitmq
+2	#DEP# queue
+3	#DEP# mail
+4	#DEP# server
+5	#DEP# rabbitmq
+6	#DEP# dependency-inject
+7	#DEP# apach
+8	#DEP# amqp

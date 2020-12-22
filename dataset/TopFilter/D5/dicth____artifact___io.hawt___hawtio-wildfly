@@ -1,0 +1,5 @@
+1	/artifact/io.hawt/hawtio-wildfly
+2	#DEP# io
+3	#DEP# webapp
+4	#DEP# applic
+5	#DEP# web

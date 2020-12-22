@@ -1,0 +1,5 @@
+1	/artifact/org.apache.axis2/axis2-transport-mail
+2	#DEP# webservic
+3	#DEP# transport
+4	#DEP# apach
+5	#DEP# mail

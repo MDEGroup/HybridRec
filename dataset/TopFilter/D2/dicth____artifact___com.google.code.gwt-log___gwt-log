@@ -1,0 +1,5 @@
+1	/artifact/com.google.code.gwt-log/gwt-log
+2	#DEP# log
+3	#DEP# gwt
+4	#DEP# ui
+5	#DEP# googl

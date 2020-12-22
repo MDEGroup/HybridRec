@@ -1,0 +1,6 @@
+1	/artifact/org.apache.activemq.tooling/activemq-junit
+2	#DEP# queue
+3	#DEP# test
+4	#DEP# jm
+5	#DEP# apach
+6	#DEP# junit

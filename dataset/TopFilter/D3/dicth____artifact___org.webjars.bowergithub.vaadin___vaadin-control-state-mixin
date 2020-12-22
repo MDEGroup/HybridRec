@@ -1,0 +1,5 @@
+1	/artifact/org.webjars.bowergithub.vaadin/vaadin-control-state-mixin
+2	#DEP# gwt
+3	#DEP# web-framework
+4	#DEP# web
+5	#DEP# asset

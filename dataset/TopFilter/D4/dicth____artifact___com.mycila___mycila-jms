@@ -1,0 +1,5 @@
+1	/artifact/com.mycila/mycila-jms
+2	#DEP# messag
+3	#DEP# jm
+4	#DEP# client
+5	#DEP# queue

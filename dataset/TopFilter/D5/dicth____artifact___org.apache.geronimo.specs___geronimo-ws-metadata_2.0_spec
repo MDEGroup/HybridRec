@@ -1,0 +1,5 @@
+1	/artifact/org.apache.geronimo.specs/geronimo-ws-metadata_2.0_spec
+2	#DEP# metadata
+3	#DEP# apach
+4	#DEP# webservic
+5	#DEP# spec

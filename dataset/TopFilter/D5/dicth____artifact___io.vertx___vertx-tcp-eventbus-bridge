@@ -1,0 +1,8 @@
+1	/artifact/io.vertx/vertx-tcp-eventbus-bridge
+2	#DEP# eventbu
+3	#DEP# bridg
+4	#DEP# network
+5	#DEP# vertx
+6	#DEP# tcp
+7	#DEP# messag
+8	#DEP# io

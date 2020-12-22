@@ -1,0 +1,6 @@
+1	/artifact/org.apache.avro/avro-mapred
+2	#DEP# avro
+3	#DEP# apach
+4	#DEP# mapreduc
+5	#DEP# protocol
+6	#DEP# serial

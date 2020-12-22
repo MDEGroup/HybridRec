@@ -1,0 +1,5 @@
+1	/artifact/org.apache.cxf/cxf-spring-boot-starter-jaxws
+2	#DEP# starter
+3	#DEP# spring
+4	#DEP# apach
+5	#DEP# webservic

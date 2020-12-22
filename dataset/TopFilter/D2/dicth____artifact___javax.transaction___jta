@@ -1,0 +1,5 @@
+1	/artifact/javax.transaction/jta
+2	#DEP# transact
+3	#DEP# javax
+4	#DEP# spec
+5	#DEP# standard

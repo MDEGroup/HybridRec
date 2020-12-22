@@ -1,0 +1,9 @@
+1	/artifact/org.apache.cassandra/cassandra-thrift
+2	#DEP# client
+3	#DEP# cassandra
+4	#DEP# driver
+5	#DEP# apach
+6	#DEP# thrift
+7	#DEP# protocol
+8	#DEP# databas
+9	#DEP# serial

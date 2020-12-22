@@ -1,0 +1,5 @@
+1	/artifact/org.eclipse.jetty.aggregate/jetty-all
+2	#DEP# eclips
+3	#DEP# jetti
+4	#DEP# webserv
+5	#DEP# server

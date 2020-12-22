@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.boot/spring-boot-starter-amqp
+2	#DEP# amqp
+3	#DEP# queue
+4	#DEP# starter
+5	#DEP# spring

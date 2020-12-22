@@ -1,0 +1,5 @@
+1	/artifact/org.jboss.as/jboss-as-jpa-spi
+2	#DEP# interfac
+3	#DEP# jpa
+4	#DEP# jboss
+5	#DEP# persist

@@ -1,0 +1,6 @@
+1	/artifact/org.hibernate/hibernate-validator-annotation-processor
+2	#DEP# annot
+3	#DEP# persist
+4	#DEP# hibern
+5	#DEP# processor
+6	#DEP# valid

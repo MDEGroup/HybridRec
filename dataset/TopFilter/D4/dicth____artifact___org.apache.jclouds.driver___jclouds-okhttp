@@ -1,0 +1,5 @@
+1	/artifact/org.apache.jclouds.driver/jclouds-okhttp
+2	#DEP# http
+3	#DEP# cloud
+4	#DEP# apach
+5	#DEP# driver

@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.cloud/spring-cloud-cloudfoundry-service-broker
+2	#DEP# servic
+3	#DEP# spring
+4	#DEP# broker
+5	#DEP# cloud

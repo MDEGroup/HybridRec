@@ -1,0 +1,12 @@
+1	/artifact/org.apache.camel/camel-example-servlet-rest-tomcat
+2	#DEP# web
+3	#DEP# apach
+4	#DEP# rest
+5	#DEP# server
+6	#DEP# camel
+7	#DEP# webapp
+8	#DEP# tomcat
+9	#DEP# exampl
+10	#DEP# applic
+11	#DEP# webserv
+12	#DEP# servlet

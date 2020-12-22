@@ -1,0 +1,5 @@
+1	/artifact/org.apache.commons/commons-rng-core
+2	#DEP# secur
+3	#DEP# gener
+4	#DEP# common
+5	#DEP# apach

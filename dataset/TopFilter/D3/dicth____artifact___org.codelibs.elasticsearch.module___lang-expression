@@ -1,0 +1,6 @@
+1	/artifact/org.codelibs.elasticsearch.module/lang-expression
+2	#DEP# elast
+3	#DEP# elasticsearch
+4	#DEP# modul
+5	#DEP# search
+6	#DEP# express

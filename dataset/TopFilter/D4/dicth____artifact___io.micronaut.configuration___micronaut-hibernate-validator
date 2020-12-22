@@ -1,0 +1,6 @@
+1	/artifact/io.micronaut.configuration/micronaut-hibernate-validator
+2	#DEP# config
+3	#DEP# hibern
+4	#DEP# valid
+5	#DEP# persist
+6	#DEP# io

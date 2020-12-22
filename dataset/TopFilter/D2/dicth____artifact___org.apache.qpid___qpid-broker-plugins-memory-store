@@ -1,0 +1,5 @@
+1	/artifact/org.apache.qpid/qpid-broker-plugins-memory-store
+2	#DEP# plugin
+3	#DEP# broker
+4	#DEP# apach
+5	#DEP# memori

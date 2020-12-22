@@ -1,0 +1,5 @@
+1	/artifact/org.apache.commons/com.springsource.org.apache.commons.beanutils
+2	#DEP# common
+3	#DEP# bean
+4	#DEP# apach
+5	#DEP# spring

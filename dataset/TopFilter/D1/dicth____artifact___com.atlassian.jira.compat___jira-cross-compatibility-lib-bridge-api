@@ -1,0 +1,5 @@
+1	/artifact/com.atlassian.jira.compat/jira-cross-compatibility-lib-bridge-api
+2	#DEP# bridg
+3	#DEP# librari
+4	#DEP# compat
+5	#DEP# api

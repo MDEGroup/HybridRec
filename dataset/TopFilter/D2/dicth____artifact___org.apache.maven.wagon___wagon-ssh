@@ -1,0 +1,7 @@
+1	/artifact/org.apache.maven.wagon/wagon-ssh
+2	#DEP# build
+3	#DEP# maven
+4	#DEP# build-system
+5	#DEP# apach
+6	#DEP# ssh
+7	#DEP# network

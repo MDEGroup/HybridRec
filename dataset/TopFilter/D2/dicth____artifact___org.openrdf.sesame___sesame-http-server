@@ -1,0 +1,6 @@
+1	/artifact/org.openrdf.sesame/sesame-http-server
+2	#DEP# server
+3	#DEP# applic
+4	#DEP# http
+5	#DEP# web
+6	#DEP# webapp

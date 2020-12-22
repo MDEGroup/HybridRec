@@ -1,0 +1,5 @@
+1	/artifact/com.sun.jersey.jersey-test-framework/jersey-test-framework-http
+2	#DEP# webservic
+3	#DEP# framework
+4	#DEP# http
+5	#DEP# test

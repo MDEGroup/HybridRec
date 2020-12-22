@@ -1,0 +1,7 @@
+1	/artifact/com.github.romix.akka/akka-kryo-serialization
+2	#DEP# concurr
+3	#DEP# distribut
+4	#DEP# akka
+5	#DEP# github
+6	#DEP# actor
+7	#DEP# serial

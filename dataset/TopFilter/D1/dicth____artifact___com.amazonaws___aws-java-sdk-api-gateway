@@ -1,0 +1,6 @@
+1	/artifact/com.amazonaws/aws-java-sdk-api-gateway
+2	#DEP# amazon
+3	#DEP# gateway
+4	#DEP# aw
+5	#DEP# api
+6	#DEP# sdk

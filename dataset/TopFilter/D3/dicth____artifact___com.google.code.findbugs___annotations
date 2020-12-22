@@ -1,0 +1,6 @@
+1	/artifact/com.google.code.findbugs/annotations
+2	#DEP# googl
+3	#DEP# defect
+4	#DEP# analysi
+5	#DEP# metadata
+6	#DEP# annot

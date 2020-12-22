@@ -1,0 +1,6 @@
+1	/artifact/org.mongodb/mongo-java-driver
+2	#DEP# client
+3	#DEP# mongodb
+4	#DEP# databas
+5	#DEP# nosql
+6	#DEP# driver

@@ -1,0 +1,5 @@
+1	/artifact/org.apache.servicemix/servicemix-xmpp
+2	#DEP# messag
+3	#DEP# xmpp
+4	#DEP# apach
+5	#DEP# esb

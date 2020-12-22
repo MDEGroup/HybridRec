@@ -1,0 +1,7 @@
+1	/artifact/javax.xml.bind/com.springsource.javax.xml.bind
+2	#DEP# xml
+3	#DEP# standard
+4	#DEP# javax
+5	#DEP# spec
+6	#DEP# spring
+7	#DEP# bind

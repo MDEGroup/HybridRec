@@ -1,0 +1,5 @@
+1	/artifact/org.grails.plugins/time-series
+2	#DEP# groovi
+3	#DEP# time
+4	#DEP# plugin
+5	#DEP# grail

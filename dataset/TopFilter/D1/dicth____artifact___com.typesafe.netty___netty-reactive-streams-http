@@ -1,0 +1,8 @@
+1	/artifact/com.typesafe.netty/netty-reactive-streams-http
+2	#DEP# http
+3	#DEP# socket
+4	#DEP# netti
+5	#DEP# reactiv
+6	#DEP# network
+7	#DEP# stream
+8	#DEP# typesaf

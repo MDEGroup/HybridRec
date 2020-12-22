@@ -1,0 +1,6 @@
+1	/artifact/software.amazon.awssdk/http-client-spi
+2	#DEP# aw
+3	#DEP# client
+4	#DEP# interfac
+5	#DEP# http
+6	#DEP# amazon

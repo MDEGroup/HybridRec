@@ -1,0 +1,6 @@
+1	/artifact/pl.newicom.dddd/akka-ddd-messaging
+2	#DEP# actor
+3	#DEP# distribut
+4	#DEP# concurr
+5	#DEP# messag
+6	#DEP# akka

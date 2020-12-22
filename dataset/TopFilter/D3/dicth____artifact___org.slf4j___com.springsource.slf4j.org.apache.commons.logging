@@ -1,0 +1,5 @@
+1	/artifact/org.slf4j/com.springsource.slf4j.org.apache.commons.logging
+2	#DEP# apach
+3	#DEP# spring
+4	#DEP# log
+5	#DEP# slf4j

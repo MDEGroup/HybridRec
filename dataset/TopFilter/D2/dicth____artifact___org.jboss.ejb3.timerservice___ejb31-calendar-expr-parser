@@ -1,0 +1,6 @@
+1	/artifact/org.jboss.ejb3.timerservice/ejb31-calendar-expr-parser
+2	#DEP# ejb
+3	#DEP# express
+4	#DEP# jboss
+5	#DEP# parser
+6	#DEP# calendar

@@ -1,0 +1,6 @@
+1	/artifact/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-csv
+2	#DEP# tabular
+3	#DEP# apach
+4	#DEP# esb
+5	#DEP# bundl
+6	#DEP# csv

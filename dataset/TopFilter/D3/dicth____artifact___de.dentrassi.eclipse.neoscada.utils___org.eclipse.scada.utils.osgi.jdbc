@@ -1,0 +1,5 @@
+1	/artifact/de.dentrassi.eclipse.neoscada.utils/org.eclipse.scada.utils.osgi.jdbc
+2	#DEP# sql
+3	#DEP# eclips
+4	#DEP# osgi
+5	#DEP# jdbc

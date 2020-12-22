@@ -1,0 +1,5 @@
+1	/artifact/org.jasig.cas/cas-server-webapp
+2	#DEP# applic
+3	#DEP# server
+4	#DEP# web
+5	#DEP# webapp

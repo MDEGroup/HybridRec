@@ -1,0 +1,5 @@
+1	/artifact/tomcat/tomcat-http
+2	#DEP# tomcat
+3	#DEP# server
+4	#DEP# http
+5	#DEP# webserv

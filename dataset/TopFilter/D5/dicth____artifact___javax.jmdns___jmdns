@@ -1,0 +1,6 @@
+1	/artifact/javax.jmdns/jmdns
+2	#DEP# dn
+3	#DEP# standard
+4	#DEP# javax
+5	#DEP# network
+6	#DEP# spec

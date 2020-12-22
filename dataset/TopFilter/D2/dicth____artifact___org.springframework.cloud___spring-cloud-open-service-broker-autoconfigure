@@ -1,0 +1,6 @@
+1	/artifact/org.springframework.cloud/spring-cloud-open-service-broker-autoconfigure
+2	#DEP# spring
+3	#DEP# cloud
+4	#DEP# config
+5	#DEP# broker
+6	#DEP# servic

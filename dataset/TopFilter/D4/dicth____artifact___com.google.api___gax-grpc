@@ -1,0 +1,6 @@
+1	/artifact/com.google.api/gax-grpc
+2	#DEP# protocol
+3	#DEP# rpc
+4	#DEP# googl
+5	#DEP# api
+6	#DEP# grpc

@@ -1,0 +1,5 @@
+1	/artifact/org.jbundle.util.osgi.wrapped/org.jbundle.util.osgi.wrapped.org.apache.http.client
+2	#DEP# http
+3	#DEP# apach
+4	#DEP# client
+5	#DEP# osgi

@@ -1,0 +1,5 @@
+1	/artifact/org.apache.qpid/qpid-broker-plugins-derby-store
+2	#DEP# plugin
+3	#DEP# databas
+4	#DEP# apach
+5	#DEP# broker

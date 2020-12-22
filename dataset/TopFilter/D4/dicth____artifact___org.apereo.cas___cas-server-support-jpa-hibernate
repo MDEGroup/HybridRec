@@ -1,0 +1,6 @@
+1	/artifact/org.apereo.cas/cas-server-support-jpa-hibernate
+2	#DEP# hibern
+3	#DEP# support
+4	#DEP# persist
+5	#DEP# jpa
+6	#DEP# server

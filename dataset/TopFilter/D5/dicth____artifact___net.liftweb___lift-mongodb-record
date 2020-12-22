@@ -1,0 +1,7 @@
+1	/artifact/net.liftweb/lift-mongodb-record
+2	#DEP# client
+3	#DEP# mongodb
+4	#DEP# databas
+5	#DEP# web-framework
+6	#DEP# nosql
+7	#DEP# scala

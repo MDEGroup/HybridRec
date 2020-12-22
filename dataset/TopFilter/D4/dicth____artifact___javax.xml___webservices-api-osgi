@@ -1,0 +1,8 @@
+1	/artifact/javax.xml/webservices-api-osgi
+2	#DEP# javax
+3	#DEP# spec
+4	#DEP# xml
+5	#DEP# webservic
+6	#DEP# api
+7	#DEP# standard
+8	#DEP# osgi

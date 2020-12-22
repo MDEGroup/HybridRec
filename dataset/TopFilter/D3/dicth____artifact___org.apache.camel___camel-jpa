@@ -1,0 +1,5 @@
+1	/artifact/org.apache.camel/camel-jpa
+2	#DEP# persist
+3	#DEP# jpa
+4	#DEP# camel
+5	#DEP# apach

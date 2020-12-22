@@ -1,0 +1,6 @@
+1	/artifact/org.springframework.cloud/spring-cloud-starter-stream-kafka
+2	#DEP# kafka
+3	#DEP# starter
+4	#DEP# cloud
+5	#DEP# spring
+6	#DEP# stream

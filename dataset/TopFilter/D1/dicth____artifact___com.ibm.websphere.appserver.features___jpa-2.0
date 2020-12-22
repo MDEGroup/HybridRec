@@ -1,0 +1,5 @@
+1	/artifact/com.ibm.websphere.appserver.features/jpa-2.0
+2	#DEP# server
+3	#DEP# persist
+4	#DEP# jpa
+5	#DEP# ibm

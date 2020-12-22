@@ -1,0 +1,8 @@
+1	/artifact/org.codehaus.mojo/aspectj-maven-plugin
+2	#DEP# codehau
+3	#DEP# aspect
+4	#DEP# plugin
+5	#DEP# build
+6	#DEP# build-system
+7	#DEP# aop
+8	#DEP# maven

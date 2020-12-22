@@ -1,0 +1,5 @@
+1	/artifact/com.dell.cpsd.common.messaging/common-rabbitmq
+2	#DEP# amqp
+3	#DEP# rabbitmq
+4	#DEP# messag
+5	#DEP# queue

@@ -1,0 +1,7 @@
+1	/artifact/javax.cache/cache-api
+2	#DEP# javax
+3	#DEP# spec
+4	#DEP# api
+5	#DEP# standard
+6	#DEP# cach
+7	#DEP# client

@@ -1,0 +1,6 @@
+1	/artifact/io.github.howardjohn/scanamo-json-tests
+2	#DEP# json
+3	#DEP# io
+4	#DEP# test
+5	#DEP# dynamodb
+6	#DEP# github

@@ -1,0 +1,7 @@
+1	/artifact/javax.jms/com.springsource.javax.jms
+2	#DEP# queue
+3	#DEP# spring
+4	#DEP# standard
+5	#DEP# spec
+6	#DEP# jm
+7	#DEP# javax

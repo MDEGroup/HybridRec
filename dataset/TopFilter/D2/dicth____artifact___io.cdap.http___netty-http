@@ -1,0 +1,6 @@
+1	/artifact/io.cdap.http/netty-http
+2	#DEP# io
+3	#DEP# netti
+4	#DEP# http
+5	#DEP# socket
+6	#DEP# network

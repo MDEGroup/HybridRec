@@ -1,0 +1,5 @@
+1	/artifact/org.wildfly.clustering/wildfly-clustering-tomcat-common
+2	#DEP# tomcat
+3	#DEP# server
+4	#DEP# webserv
+5	#DEP# cluster

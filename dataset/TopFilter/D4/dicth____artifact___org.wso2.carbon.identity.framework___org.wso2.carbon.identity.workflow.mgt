@@ -1,0 +1,5 @@
+1	/artifact/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.workflow.mgt
+2	#DEP# ident
+3	#DEP# manag
+4	#DEP# framework
+5	#DEP# workflow

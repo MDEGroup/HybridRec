@@ -1,0 +1,5 @@
+1	/artifact/org.tranql/tranql-connector-postgresql-xa
+2	#DEP# postgresql
+3	#DEP# databas
+4	#DEP# connector
+5	#DEP# languag

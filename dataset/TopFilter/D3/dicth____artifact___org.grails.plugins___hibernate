@@ -1,0 +1,6 @@
+1	/artifact/org.grails.plugins/hibernate
+2	#DEP# persist
+3	#DEP# grail
+4	#DEP# hibern
+5	#DEP# plugin
+6	#DEP# groovi

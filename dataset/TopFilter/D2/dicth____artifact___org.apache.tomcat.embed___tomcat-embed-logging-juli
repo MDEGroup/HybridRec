@@ -1,0 +1,7 @@
+1	/artifact/org.apache.tomcat.embed/tomcat-embed-logging-juli
+2	#DEP# tomcat
+3	#DEP# server
+4	#DEP# embed
+5	#DEP# log
+6	#DEP# apach
+7	#DEP# webserv

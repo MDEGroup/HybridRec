@@ -1,0 +1,6 @@
+1	/artifact/io.vertx/vertx-amqp-client
+2	#DEP# queue
+3	#DEP# io
+4	#DEP# vertx
+5	#DEP# amqp
+6	#DEP# client

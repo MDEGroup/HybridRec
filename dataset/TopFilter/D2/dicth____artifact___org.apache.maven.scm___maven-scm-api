@@ -1,0 +1,7 @@
+1	/artifact/org.apache.maven.scm/maven-scm-api
+2	#DEP# build
+3	#DEP# maven
+4	#DEP# api
+5	#DEP# scm
+6	#DEP# build-system
+7	#DEP# apach

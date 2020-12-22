@@ -1,0 +1,6 @@
+1	/artifact/org.gradle/gradle-plugins
+2	#DEP# groovi
+3	#DEP# build-system
+4	#DEP# gradl
+5	#DEP# build
+6	#DEP# plugin

@@ -1,0 +1,5 @@
+1	/artifact/org.ow2.jasmine.monitoring/jasmine-eos-rules-manager-client
+2	#DEP# monitor
+3	#DEP# rule
+4	#DEP# client
+5	#DEP# manag

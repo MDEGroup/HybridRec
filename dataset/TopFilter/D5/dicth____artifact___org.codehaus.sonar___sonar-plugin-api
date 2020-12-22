@@ -1,0 +1,5 @@
+1	/artifact/org.codehaus.sonar/sonar-plugin-api
+2	#DEP# plugin
+3	#DEP# sonar
+4	#DEP# api
+5	#DEP# codehau

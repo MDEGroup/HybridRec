@@ -1,0 +1,6 @@
+1	/artifact/org.scala-sbt/io
+2	#DEP# sbt
+3	#DEP# io
+4	#DEP# scala
+5	#DEP# build
+6	#DEP# build-system

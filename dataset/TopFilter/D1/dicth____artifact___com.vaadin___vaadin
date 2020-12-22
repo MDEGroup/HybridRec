@@ -1,0 +1,5 @@
+1	/artifact/com.vaadin/vaadin
+2	#DEP# web
+3	#DEP# gwt
+4	#DEP# web-framework
+5	#DEP# framework

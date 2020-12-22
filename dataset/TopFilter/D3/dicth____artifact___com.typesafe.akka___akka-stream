@@ -1,0 +1,8 @@
+1	/artifact/com.typesafe.akka/akka-stream
+2	#DEP# actor
+3	#DEP# typesaf
+4	#DEP# stream
+5	#DEP# distribut
+6	#DEP# concurr
+7	#DEP# process
+8	#DEP# akka

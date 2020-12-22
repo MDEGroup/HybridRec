@@ -1,0 +1,8 @@
+1	/artifact/io.eventuate.messaging.rabbitmq/eventuate-messaging-rabbitmq-spring-consumer
+2	#DEP# messag
+3	#DEP# queue
+4	#DEP# spring
+5	#DEP# amqp
+6	#DEP# rabbitmq
+7	#DEP# consum
+8	#DEP# io

@@ -1,0 +1,5 @@
+1	/artifact/org.apache.geronimo.specs/geronimo-jpa_2.2_spec
+2	#DEP# apach
+3	#DEP# persist
+4	#DEP# jpa
+5	#DEP# spec

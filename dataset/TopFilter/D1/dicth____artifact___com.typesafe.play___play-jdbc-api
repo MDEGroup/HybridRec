@@ -1,0 +1,6 @@
+1	/artifact/com.typesafe.play/play-jdbc-api
+2	#DEP# sql
+3	#DEP# play-framework
+4	#DEP# api
+5	#DEP# jdbc
+6	#DEP# typesaf

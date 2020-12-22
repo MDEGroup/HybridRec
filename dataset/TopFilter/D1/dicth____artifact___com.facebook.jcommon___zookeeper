@@ -1,0 +1,5 @@
+1	/artifact/com.facebook.jcommon/zookeeper
+2	#DEP# zookeep
+3	#DEP# facebook
+4	#DEP# coordin
+5	#DEP# distribut

@@ -1,0 +1,8 @@
+1	/artifact/com.github.dapeng-soa/dapeng-client-netty
+2	#DEP# soa
+3	#DEP# netti
+4	#DEP# client
+5	#DEP# github
+6	#DEP# network
+7	#DEP# socket
+8	#DEP# servic

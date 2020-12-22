@@ -1,0 +1,6 @@
+1	/artifact/org.apache.kafka/kafka
+2	#DEP# kafka
+3	#DEP# stream
+4	#DEP# apach
+5	#DEP# broker
+6	#DEP# messag

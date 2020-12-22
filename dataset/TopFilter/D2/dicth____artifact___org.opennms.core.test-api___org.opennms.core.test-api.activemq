@@ -1,0 +1,5 @@
+1	/artifact/org.opennms.core.test-api/org.opennms.core.test-api.activemq
+2	#DEP# jm
+3	#DEP# queue
+4	#DEP# api
+5	#DEP# test

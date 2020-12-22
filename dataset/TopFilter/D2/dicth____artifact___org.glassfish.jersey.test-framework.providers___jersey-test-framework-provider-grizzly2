@@ -1,0 +1,5 @@
+1	/artifact/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-grizzly2
+2	#DEP# webservic
+3	#DEP# framework
+4	#DEP# provid
+5	#DEP# test

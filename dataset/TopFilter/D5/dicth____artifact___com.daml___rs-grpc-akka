@@ -1,0 +1,8 @@
+1	/artifact/com.daml/rs-grpc-akka
+2	#DEP# distribut
+3	#DEP# actor
+4	#DEP# rpc
+5	#DEP# concurr
+6	#DEP# akka
+7	#DEP# protocol
+8	#DEP# grpc

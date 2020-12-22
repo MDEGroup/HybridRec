@@ -1,0 +1,6 @@
+1	/artifact/net.spals.appbuilder.plugins/spals-appbuilder-mapstore-dynamodb-test
+2	#DEP# dynamodb
+3	#DEP# test
+4	#DEP# aw
+5	#DEP# plugin
+6	#DEP# databas

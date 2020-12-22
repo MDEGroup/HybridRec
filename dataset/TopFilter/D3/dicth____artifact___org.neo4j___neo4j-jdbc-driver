@@ -1,0 +1,7 @@
+1	/artifact/org.neo4j/neo4j-jdbc-driver
+2	#DEP# neo4j
+3	#DEP# graph
+4	#DEP# jdbc
+5	#DEP# driver
+6	#DEP# sql
+7	#DEP# databas

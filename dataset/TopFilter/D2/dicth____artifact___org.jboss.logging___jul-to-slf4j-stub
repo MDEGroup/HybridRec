@@ -1,0 +1,6 @@
+1	/artifact/org.jboss.logging/jul-to-slf4j-stub
+2	#DEP# slf4j
+3	#DEP# log
+4	#DEP# jboss
+5	#DEP# stub
+6	#DEP# bridg

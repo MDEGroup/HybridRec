@@ -1,0 +1,5 @@
+1	/artifact/org.codehaus.sonar.plugins/sonar-findbugs-plugin
+2	#DEP# sonar
+3	#DEP# analysi
+4	#DEP# codehau
+5	#DEP# plugin

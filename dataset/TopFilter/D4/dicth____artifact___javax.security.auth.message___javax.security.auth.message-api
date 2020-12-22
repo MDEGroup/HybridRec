@@ -1,0 +1,7 @@
+1	/artifact/javax.security.auth.message/javax.security.auth.message-api
+2	#DEP# secur
+3	#DEP# javax
+4	#DEP# spec
+5	#DEP# authent
+6	#DEP# api
+7	#DEP# standard

@@ -1,0 +1,5 @@
+1	/artifact/com.buschmais.xo/xo.neo4j.embedded
+2	#DEP# databas
+3	#DEP# graph
+4	#DEP# embed
+5	#DEP# neo4j

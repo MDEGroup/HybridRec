@@ -1,0 +1,6 @@
+1	/artifact/org.codelibs.elasticsearch.module/analysis-common
+2	#DEP# elast
+3	#DEP# analysi
+4	#DEP# elasticsearch
+5	#DEP# modul
+6	#DEP# search

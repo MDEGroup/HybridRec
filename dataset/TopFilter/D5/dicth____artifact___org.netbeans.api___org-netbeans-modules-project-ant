@@ -1,0 +1,6 @@
+1	/artifact/org.netbeans.api/org-netbeans-modules-project-ant
+2	#DEP# ant
+3	#DEP# netbean
+4	#DEP# api
+5	#DEP# modul
+6	#DEP# ide

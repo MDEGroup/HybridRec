@@ -1,0 +1,7 @@
+1	/artifact/org.mock-server/mockserver-netty
+2	#DEP# test
+3	#DEP# server
+4	#DEP# socket
+5	#DEP# netti
+6	#DEP# network
+7	#DEP# mock

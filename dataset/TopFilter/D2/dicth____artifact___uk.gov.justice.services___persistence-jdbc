@@ -1,0 +1,5 @@
+1	/artifact/uk.gov.justice.services/persistence-jdbc
+2	#DEP# servic
+3	#DEP# sql
+4	#DEP# persist
+5	#DEP# jdbc

@@ -1,0 +1,6 @@
+1	/artifact/org.netbeans.external/slf4j-api
+2	#DEP# netbean
+3	#DEP# api
+4	#DEP# slf4j
+5	#DEP# ide
+6	#DEP# log

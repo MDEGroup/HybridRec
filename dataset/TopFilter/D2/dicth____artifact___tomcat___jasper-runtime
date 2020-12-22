@@ -1,0 +1,5 @@
+1	/artifact/tomcat/jasper-runtime
+2	#DEP# tomcat
+3	#DEP# webserv
+4	#DEP# runtim
+5	#DEP# server

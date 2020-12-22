@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.cloud/spring-cloud-stream-binder-rocketmq
+2	#DEP# cloud
+3	#DEP# spring
+4	#DEP# queue
+5	#DEP# stream

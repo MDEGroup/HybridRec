@@ -1,0 +1,6 @@
+1	/artifact/io.kamon/kamon-akka
+2	#DEP# concurr
+3	#DEP# akka
+4	#DEP# distribut
+5	#DEP# actor
+6	#DEP# io

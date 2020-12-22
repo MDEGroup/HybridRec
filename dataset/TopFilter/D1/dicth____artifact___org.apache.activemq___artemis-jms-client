@@ -1,0 +1,5 @@
+1	/artifact/org.apache.activemq/artemis-jms-client
+2	#DEP# queue
+3	#DEP# apach
+4	#DEP# client
+5	#DEP# jm

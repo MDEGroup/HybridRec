@@ -1,0 +1,5 @@
+1	/artifact/net.osgiliath.framework/net.osgiliath.features.karaf-features-jpa
+2	#DEP# osgi
+3	#DEP# framework
+4	#DEP# persist
+5	#DEP# jpa

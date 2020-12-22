@@ -1,0 +1,7 @@
+1	/artifact/org.apache.james/james-server-data-jpa
+2	#DEP# persist
+3	#DEP# mail
+4	#DEP# server
+5	#DEP# jpa
+6	#DEP# apach
+7	#DEP# data

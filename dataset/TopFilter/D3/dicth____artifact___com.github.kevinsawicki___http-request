@@ -1,0 +1,5 @@
+1	/artifact/com.github.kevinsawicki/http-request
+2	#DEP# client
+3	#DEP# github
+4	#DEP# http
+5	#DEP# request

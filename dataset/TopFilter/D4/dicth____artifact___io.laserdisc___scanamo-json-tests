@@ -1,0 +1,5 @@
+1	/artifact/io.laserdisc/scanamo-json-tests
+2	#DEP# test
+3	#DEP# dynamodb
+4	#DEP# json
+5	#DEP# io

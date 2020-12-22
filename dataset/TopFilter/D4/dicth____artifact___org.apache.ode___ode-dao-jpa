@@ -1,0 +1,5 @@
+1	/artifact/org.apache.ode/ode-dao-jpa
+2	#DEP# dao
+3	#DEP# persist
+4	#DEP# apach
+5	#DEP# jpa

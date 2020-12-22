@@ -1,0 +1,5 @@
+1	/artifact/com.alibaba.cloud/spring-cloud-starter-alibaba-nacos-config
+2	#DEP# starter
+3	#DEP# config
+4	#DEP# cloud
+5	#DEP# spring

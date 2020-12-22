@@ -1,0 +1,5 @@
+1	/artifact/io.vertx/vertx-camel-bridge
+2	#DEP# io
+3	#DEP# camel
+4	#DEP# bridg
+5	#DEP# vertx

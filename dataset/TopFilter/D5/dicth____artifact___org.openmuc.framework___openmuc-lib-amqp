@@ -1,0 +1,5 @@
+1	/artifact/org.openmuc.framework/openmuc-lib-amqp
+2	#DEP# librari
+3	#DEP# framework
+4	#DEP# queue
+5	#DEP# amqp

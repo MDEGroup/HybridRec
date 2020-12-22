@@ -1,0 +1,6 @@
+1	/artifact/org.apache.spark/spark-streaming
+2	#DEP# distribut
+3	#DEP# apach
+4	#DEP# stream
+5	#DEP# spark
+6	#DEP# process

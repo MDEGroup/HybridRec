@@ -1,0 +1,6 @@
+1	/artifact/org.apache.servicemix.bundles/org.apache.servicemix.bundles.dom4j
+2	#DEP# bundl
+3	#DEP# apach
+4	#DEP# xml
+5	#DEP# dom
+6	#DEP# esb

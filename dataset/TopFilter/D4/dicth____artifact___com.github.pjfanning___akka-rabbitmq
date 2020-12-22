@@ -1,0 +1,9 @@
+1	/artifact/com.github.pjfanning/akka-rabbitmq
+2	#DEP# concurr
+3	#DEP# queue
+4	#DEP# akka
+5	#DEP# distribut
+6	#DEP# github
+7	#DEP# rabbitmq
+8	#DEP# actor
+9	#DEP# amqp

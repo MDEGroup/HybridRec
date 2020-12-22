@@ -1,0 +1,6 @@
+1	/artifact/javax.management/jmxri
+2	#DEP# manag
+3	#DEP# jmx
+4	#DEP# spec
+5	#DEP# javax
+6	#DEP# standard

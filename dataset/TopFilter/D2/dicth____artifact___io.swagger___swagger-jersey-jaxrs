@@ -1,0 +1,7 @@
+1	/artifact/io.swagger/swagger-jersey-jaxrs
+2	#DEP# io
+3	#DEP# rest
+4	#DEP# jaxr
+5	#DEP# api
+6	#DEP# webservic
+7	#DEP# swagger

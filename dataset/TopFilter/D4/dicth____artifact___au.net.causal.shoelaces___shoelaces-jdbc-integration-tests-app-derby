@@ -1,0 +1,9 @@
+1	/artifact/au.net.causal.shoelaces/shoelaces-jdbc-integration-tests-app-derby
+2	#DEP# web
+3	#DEP# integr
+4	#DEP# webapp
+5	#DEP# test
+6	#DEP# sql
+7	#DEP# applic
+8	#DEP# databas
+9	#DEP# jdbc

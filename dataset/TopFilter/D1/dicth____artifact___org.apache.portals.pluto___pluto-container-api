@@ -1,0 +1,5 @@
+1	/artifact/org.apache.portals.pluto/pluto-container-api
+2	#DEP# apach
+3	#DEP# portal
+4	#DEP# contain
+5	#DEP# api

@@ -1,0 +1,5 @@
+1	/artifact/org.apache.camel/camel-json-validator
+2	#DEP# json
+3	#DEP# valid
+4	#DEP# camel
+5	#DEP# apach

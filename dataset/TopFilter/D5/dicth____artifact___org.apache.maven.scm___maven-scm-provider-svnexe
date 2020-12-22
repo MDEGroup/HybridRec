@@ -1,0 +1,8 @@
+1	/artifact/org.apache.maven.scm/maven-scm-provider-svnexe
+2	#DEP# version-control
+3	#DEP# apach
+4	#DEP# build
+5	#DEP# scm
+6	#DEP# maven
+7	#DEP# provid
+8	#DEP# build-system

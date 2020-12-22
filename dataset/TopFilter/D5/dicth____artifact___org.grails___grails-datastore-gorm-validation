@@ -1,0 +1,6 @@
+1	/artifact/org.grails/grails-datastore-gorm-validation
+2	#DEP# groovi
+3	#DEP# persist
+4	#DEP# grail
+5	#DEP# valid
+6	#DEP# orm

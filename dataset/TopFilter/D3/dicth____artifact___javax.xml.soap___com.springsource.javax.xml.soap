@@ -1,0 +1,7 @@
+1	/artifact/javax.xml.soap/com.springsource.javax.xml.soap
+2	#DEP# xml
+3	#DEP# standard
+4	#DEP# javax
+5	#DEP# spec
+6	#DEP# soap
+7	#DEP# spring

@@ -1,0 +1,6 @@
+1	/artifact/org.apache.clerezza.ext/slf4j-scala-api
+2	#DEP# apach
+3	#DEP# slf4j
+4	#DEP# log
+5	#DEP# api
+6	#DEP# scala

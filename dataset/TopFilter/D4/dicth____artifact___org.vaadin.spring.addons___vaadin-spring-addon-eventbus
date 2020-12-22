@@ -1,0 +1,6 @@
+1	/artifact/org.vaadin.spring.addons/vaadin-spring-addon-eventbus
+2	#DEP# web-framework
+3	#DEP# gwt
+4	#DEP# messag
+5	#DEP# spring
+6	#DEP# eventbu

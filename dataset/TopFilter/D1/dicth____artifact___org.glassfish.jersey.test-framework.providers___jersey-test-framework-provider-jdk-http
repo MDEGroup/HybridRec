@@ -1,0 +1,6 @@
+1	/artifact/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-jdk-http
+2	#DEP# test
+3	#DEP# http
+4	#DEP# framework
+5	#DEP# provid
+6	#DEP# webservic

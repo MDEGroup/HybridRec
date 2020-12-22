@@ -1,0 +1,5 @@
+1	/artifact/org.jboss.remotingjmx/remoting-jmx
+2	#DEP# jboss
+3	#DEP# jmx
+4	#DEP# manag
+5	#DEP# remot

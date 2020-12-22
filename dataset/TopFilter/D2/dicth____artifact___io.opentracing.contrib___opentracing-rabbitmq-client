@@ -1,0 +1,7 @@
+1	/artifact/io.opentracing.contrib/opentracing-rabbitmq-client
+2	#DEP# io
+3	#DEP# queue
+4	#DEP# amqp
+5	#DEP# rabbitmq
+6	#DEP# trace
+7	#DEP# client

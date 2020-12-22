@@ -1,0 +1,6 @@
+1	/artifact/io.confluent/kafka-json-serializer
+2	#DEP# serial
+3	#DEP# json
+4	#DEP# stream
+5	#DEP# io
+6	#DEP# kafka

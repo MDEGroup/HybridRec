@@ -1,0 +1,7 @@
+1	/artifact/org.wisdom-framework/akka-system
+2	#DEP# concurr
+3	#DEP# framework
+4	#DEP# distribut
+5	#DEP# akka
+6	#DEP# system
+7	#DEP# actor

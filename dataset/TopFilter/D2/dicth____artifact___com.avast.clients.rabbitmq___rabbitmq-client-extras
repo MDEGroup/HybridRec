@@ -1,0 +1,5 @@
+1	/artifact/com.avast.clients.rabbitmq/rabbitmq-client-extras
+2	#DEP# amqp
+3	#DEP# rabbitmq
+4	#DEP# queue
+5	#DEP# client

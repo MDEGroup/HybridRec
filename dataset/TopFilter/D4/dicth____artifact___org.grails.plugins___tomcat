@@ -1,0 +1,7 @@
+1	/artifact/org.grails.plugins/tomcat
+2	#DEP# groovi
+3	#DEP# grail
+4	#DEP# plugin
+5	#DEP# tomcat
+6	#DEP# webserv
+7	#DEP# server

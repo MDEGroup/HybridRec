@@ -1,0 +1,5 @@
+1	/artifact/org.opendaylight.controller/sal-dom-broker-config
+2	#DEP# dom
+3	#DEP# broker
+4	#DEP# config
+5	#DEP# control

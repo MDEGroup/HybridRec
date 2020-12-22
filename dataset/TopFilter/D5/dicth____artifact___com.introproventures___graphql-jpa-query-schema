@@ -1,0 +1,6 @@
+1	/artifact/com.introproventures/graphql-jpa-query-schema
+2	#DEP# persist
+3	#DEP# jpa
+4	#DEP# graphql
+5	#DEP# queri
+6	#DEP# schema

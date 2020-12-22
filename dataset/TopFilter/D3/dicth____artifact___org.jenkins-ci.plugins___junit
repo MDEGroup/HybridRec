@@ -1,0 +1,5 @@
+1	/artifact/org.jenkins-ci.plugins/junit
+2	#DEP# jenkin
+3	#DEP# plugin
+4	#DEP# test
+5	#DEP# junit

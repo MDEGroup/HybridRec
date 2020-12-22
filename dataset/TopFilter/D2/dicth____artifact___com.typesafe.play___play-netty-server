@@ -1,0 +1,7 @@
+1	/artifact/com.typesafe.play/play-netty-server
+2	#DEP# play-framework
+3	#DEP# server
+4	#DEP# netti
+5	#DEP# typesaf
+6	#DEP# socket
+7	#DEP# network

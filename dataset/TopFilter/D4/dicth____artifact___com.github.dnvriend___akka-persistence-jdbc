@@ -1,0 +1,9 @@
+1	/artifact/com.github.dnvriend/akka-persistence-jdbc
+2	#DEP# concurr
+3	#DEP# akka
+4	#DEP# distribut
+5	#DEP# github
+6	#DEP# persist
+7	#DEP# sql
+8	#DEP# actor
+9	#DEP# jdbc

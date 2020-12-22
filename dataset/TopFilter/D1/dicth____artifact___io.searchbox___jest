@@ -1,0 +1,5 @@
+1	/artifact/io.searchbox/jest
+2	#DEP# search
+3	#DEP# io
+4	#DEP# client
+5	#DEP# elasticsearch

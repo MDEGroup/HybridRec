@@ -1,0 +1,6 @@
+1	/artifact/net.virtual-void/sbt-dependency-graph
+2	#DEP# build
+3	#DEP# sbt
+4	#DEP# scala
+5	#DEP# graph
+6	#DEP# build-system

@@ -1,0 +1,5 @@
+1	/artifact/org.eclipse.uml2/org.eclipse.uml2.uml.resources
+2	#DEP# eclips
+3	#DEP# uml
+4	#DEP# resourc
+5	#DEP# diagram

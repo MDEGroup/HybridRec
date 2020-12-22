@@ -1,0 +1,5 @@
+1	/artifact/com.sandinh/akka-actor_0.24
+2	#DEP# akka
+3	#DEP# concurr
+4	#DEP# actor
+5	#DEP# distribut

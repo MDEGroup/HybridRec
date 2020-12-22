@@ -1,0 +1,5 @@
+1	/artifact/com.databricks/spark-avro
+2	#DEP# spark
+3	#DEP# avro
+4	#DEP# protocol
+5	#DEP# serial

@@ -1,0 +1,6 @@
+1	/artifact/org.springframework.cloud/spring-cloud-stream-test-support
+2	#DEP# test
+3	#DEP# support
+4	#DEP# spring
+5	#DEP# cloud
+6	#DEP# stream

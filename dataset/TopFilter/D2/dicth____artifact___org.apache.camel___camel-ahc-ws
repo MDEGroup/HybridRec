@@ -1,0 +1,5 @@
+1	/artifact/org.apache.camel/camel-ahc-ws
+2	#DEP# messag
+3	#DEP# websocket
+4	#DEP# apach
+5	#DEP# camel

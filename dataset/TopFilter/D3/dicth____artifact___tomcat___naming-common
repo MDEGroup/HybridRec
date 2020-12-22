@@ -1,0 +1,5 @@
+1	/artifact/tomcat/naming-common
+2	#DEP# webserv
+3	#DEP# tomcat
+4	#DEP# name
+5	#DEP# server

@@ -1,0 +1,5 @@
+1	/artifact/org.apache.activemq/com.springsource.org.apache.activemq
+2	#DEP# spring
+3	#DEP# apach
+4	#DEP# queue
+5	#DEP# jm

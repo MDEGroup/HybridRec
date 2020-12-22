@@ -1,0 +1,7 @@
+1	/artifact/com.twitter/parquet-hadoop-bundle
+2	#DEP# parquet
+3	#DEP# bundl
+4	#DEP# twitter
+5	#DEP# hadoop
+6	#DEP# column
+7	#DEP# serial

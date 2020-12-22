@@ -1,0 +1,5 @@
+1	/artifact/com.twitter/parquet-cascading
+2	#DEP# twitter
+3	#DEP# serial
+4	#DEP# parquet
+5	#DEP# column

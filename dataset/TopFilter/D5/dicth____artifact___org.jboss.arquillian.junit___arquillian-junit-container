@@ -1,0 +1,5 @@
+1	/artifact/org.jboss.arquillian.junit/arquillian-junit-container
+2	#DEP# junit
+3	#DEP# test
+4	#DEP# contain
+5	#DEP# jboss

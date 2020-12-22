@@ -1,0 +1,5 @@
+1	/artifact/org.apache.activemq/activemq-http
+2	#DEP# http
+3	#DEP# apach
+4	#DEP# queue
+5	#DEP# jm

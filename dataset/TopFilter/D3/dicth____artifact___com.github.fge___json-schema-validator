@@ -1,0 +1,5 @@
+1	/artifact/com.github.fge/json-schema-validator
+2	#DEP# json
+3	#DEP# schema
+4	#DEP# github
+5	#DEP# valid

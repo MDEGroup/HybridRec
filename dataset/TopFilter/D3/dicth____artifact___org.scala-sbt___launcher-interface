@@ -1,0 +1,7 @@
+1	/artifact/org.scala-sbt/launcher-interface
+2	#DEP# sbt
+3	#DEP# interfac
+4	#DEP# scala
+5	#DEP# launcher
+6	#DEP# build
+7	#DEP# build-system

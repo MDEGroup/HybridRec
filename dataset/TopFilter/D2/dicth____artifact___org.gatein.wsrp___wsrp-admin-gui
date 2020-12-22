@@ -1,0 +1,5 @@
+1	/artifact/org.gatein.wsrp/wsrp-admin-gui
+2	#DEP# web
+3	#DEP# webapp
+4	#DEP# admin
+5	#DEP# applic

@@ -1,0 +1,5 @@
+1	/artifact/org.codelibs/elasticsearch-analysis-kuromoji-neologd
+2	#DEP# elast
+3	#DEP# elasticsearch
+4	#DEP# analysi
+5	#DEP# search

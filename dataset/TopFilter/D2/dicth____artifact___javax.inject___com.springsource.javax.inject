@@ -1,0 +1,6 @@
+1	/artifact/javax.inject/com.springsource.javax.inject
+2	#DEP# dependency-inject
+3	#DEP# spring
+4	#DEP# standard
+5	#DEP# spec
+6	#DEP# javax

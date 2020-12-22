@@ -1,0 +1,5 @@
+1	/artifact/com.android.support.test.espresso/espresso-idling-resource
+2	#DEP# support
+3	#DEP# android
+4	#DEP# resourc
+5	#DEP# test

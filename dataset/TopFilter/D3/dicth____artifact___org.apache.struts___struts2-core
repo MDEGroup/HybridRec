@@ -1,0 +1,5 @@
+1	/artifact/org.apache.struts/struts2-core
+2	#DEP# apach
+3	#DEP# web-framework
+4	#DEP# web
+5	#DEP# framework

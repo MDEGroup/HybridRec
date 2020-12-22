@@ -1,0 +1,6 @@
+1	/artifact/org.apache.maven.doxia/doxia-site-renderer
+2	#DEP# render
+3	#DEP# apach
+4	#DEP# build
+5	#DEP# maven
+6	#DEP# build-system

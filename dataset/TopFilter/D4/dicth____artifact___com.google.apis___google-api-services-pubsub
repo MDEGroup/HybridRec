@@ -1,0 +1,5 @@
+1	/artifact/com.google.apis/google-api-services-pubsub
+2	#DEP# api
+3	#DEP# servic
+4	#DEP# messag
+5	#DEP# googl

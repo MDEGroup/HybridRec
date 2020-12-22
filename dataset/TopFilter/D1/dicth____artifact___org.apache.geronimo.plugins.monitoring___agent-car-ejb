@@ -1,0 +1,6 @@
+1	/artifact/org.apache.geronimo.plugins.monitoring/agent-car-ejb
+2	#DEP# apach
+3	#DEP# ejb
+4	#DEP# monitor
+5	#DEP# agent
+6	#DEP# plugin

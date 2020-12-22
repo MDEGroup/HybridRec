@@ -1,0 +1,5 @@
+1	/artifact/io.quarkus/quarkus-hibernate-validator
+2	#DEP# valid
+3	#DEP# persist
+4	#DEP# hibern
+5	#DEP# io

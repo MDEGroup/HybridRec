@@ -1,0 +1,5 @@
+1	/artifact/net.liftweb/lift-mongodb
+2	#DEP# web-framework
+3	#DEP# scala
+4	#DEP# databas
+5	#DEP# mongodb

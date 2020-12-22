@@ -1,0 +1,7 @@
+1	/artifact/org.apache.maven.plugins/maven-compiler-plugin
+2	#DEP# compil
+3	#DEP# apach
+4	#DEP# build-system
+5	#DEP# build
+6	#DEP# maven
+7	#DEP# plugin

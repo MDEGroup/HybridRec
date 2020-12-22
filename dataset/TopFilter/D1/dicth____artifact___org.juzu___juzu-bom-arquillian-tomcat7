@@ -1,0 +1,5 @@
+1	/artifact/org.juzu/juzu-bom-arquillian-tomcat7
+2	#DEP# tomcat
+3	#DEP# bom
+4	#DEP# server
+5	#DEP# webserv

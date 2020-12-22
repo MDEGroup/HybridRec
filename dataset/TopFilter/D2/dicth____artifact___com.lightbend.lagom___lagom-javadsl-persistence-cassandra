@@ -1,0 +1,7 @@
+1	/artifact/com.lightbend.lagom/lagom-javadsl-persistence-cassandra
+2	#DEP# microservic
+3	#DEP# cassandra
+4	#DEP# persist
+5	#DEP# lightbend
+6	#DEP# dsl
+7	#DEP# databas

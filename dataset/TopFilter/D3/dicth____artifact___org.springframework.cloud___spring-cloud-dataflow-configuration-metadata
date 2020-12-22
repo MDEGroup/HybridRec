@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.cloud/spring-cloud-dataflow-configuration-metadata
+2	#DEP# cloud
+3	#DEP# spring
+4	#DEP# metadata
+5	#DEP# config

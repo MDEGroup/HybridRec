@@ -1,0 +1,5 @@
+1	/artifact/org.apache.wicket/wicket-core
+2	#DEP# framework
+3	#DEP# web
+4	#DEP# apach
+5	#DEP# wicket

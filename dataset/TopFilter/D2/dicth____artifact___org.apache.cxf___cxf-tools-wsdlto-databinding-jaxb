@@ -1,0 +1,5 @@
+1	/artifact/org.apache.cxf/cxf-tools-wsdlto-databinding-jaxb
+2	#DEP# bind
+3	#DEP# tool
+4	#DEP# apach
+5	#DEP# xml

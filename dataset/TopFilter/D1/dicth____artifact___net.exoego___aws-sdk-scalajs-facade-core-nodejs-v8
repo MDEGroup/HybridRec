@@ -1,0 +1,6 @@
+1	/artifact/net.exoego/aws-sdk-scalajs-facade-core-nodejs-v8
+2	#DEP# scalaj
+3	#DEP# amazon
+4	#DEP# aw
+5	#DEP# scala
+6	#DEP# sdk

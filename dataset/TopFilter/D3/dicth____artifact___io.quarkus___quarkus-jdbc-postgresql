@@ -1,0 +1,6 @@
+1	/artifact/io.quarkus/quarkus-jdbc-postgresql
+2	#DEP# io
+3	#DEP# postgresql
+4	#DEP# jdbc
+5	#DEP# sql
+6	#DEP# databas

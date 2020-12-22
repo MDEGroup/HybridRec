@@ -1,0 +1,6 @@
+1	/artifact/org.apache.camel/camel-jetty9
+2	#DEP# apach
+3	#DEP# webserv
+4	#DEP# jetti
+5	#DEP# camel
+6	#DEP# server

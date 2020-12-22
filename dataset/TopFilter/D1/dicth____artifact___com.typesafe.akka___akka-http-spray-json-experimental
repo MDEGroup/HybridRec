@@ -1,0 +1,9 @@
+1	/artifact/com.typesafe.akka/akka-http-spray-json-experimental
+2	#DEP# http
+3	#DEP# distribut
+4	#DEP# concurr
+5	#DEP# actor
+6	#DEP# akka
+7	#DEP# json
+8	#DEP# experiment
+9	#DEP# typesaf

@@ -1,0 +1,6 @@
+1	/artifact/org.camunda.bpm.example/camunda-example-invoice
+2	#DEP# web
+3	#DEP# webapp
+4	#DEP# bpm
+5	#DEP# applic
+6	#DEP# exampl

@@ -1,0 +1,5 @@
+1	/artifact/io.gravitee.rest.api.idp/gravitee-rest-api-idp-memory
+2	#DEP# memori
+3	#DEP# io
+4	#DEP# api
+5	#DEP# rest

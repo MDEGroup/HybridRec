@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.integration/spring-integration-jpa
+2	#DEP# spring
+3	#DEP# jpa
+4	#DEP# integr
+5	#DEP# persist

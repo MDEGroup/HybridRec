@@ -1,0 +1,5 @@
+1	/artifact/org.apache.shiro/shiro-aspectj
+2	#DEP# aspect
+3	#DEP# secur
+4	#DEP# aop
+5	#DEP# apach

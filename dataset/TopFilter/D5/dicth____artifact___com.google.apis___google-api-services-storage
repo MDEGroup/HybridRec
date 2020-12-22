@@ -1,0 +1,6 @@
+1	/artifact/com.google.apis/google-api-services-storage
+2	#DEP# cloud
+3	#DEP# api
+4	#DEP# storag
+5	#DEP# servic
+6	#DEP# googl

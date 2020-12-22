@@ -1,0 +1,5 @@
+1	/artifact/com.netflix.servo/servo-core
+2	#DEP# manag
+3	#DEP# monitor
+4	#DEP# perform
+5	#DEP# metric

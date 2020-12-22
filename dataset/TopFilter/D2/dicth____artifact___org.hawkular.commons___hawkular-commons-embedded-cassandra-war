@@ -1,0 +1,7 @@
+1	/artifact/org.hawkular.commons/hawkular-commons-embedded-cassandra-war
+2	#DEP# applic
+3	#DEP# cassandra
+4	#DEP# databas
+5	#DEP# embed
+6	#DEP# web
+7	#DEP# webapp

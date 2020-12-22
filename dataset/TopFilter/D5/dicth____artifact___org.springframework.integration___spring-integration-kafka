@@ -1,0 +1,5 @@
+1	/artifact/org.springframework.integration/spring-integration-kafka
+2	#DEP# integr
+3	#DEP# spring
+4	#DEP# stream
+5	#DEP# kafka

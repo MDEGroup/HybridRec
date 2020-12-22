@@ -1,0 +1,6 @@
+1	/artifact/com.liferay/org.gradle.gradle-base-services-groovy
+2	#DEP# groovi
+3	#DEP# build-system
+4	#DEP# gradl
+5	#DEP# servic
+6	#DEP# build

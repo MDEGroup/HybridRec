@@ -1,0 +1,5 @@
+1	/artifact/org.apache.camel/camel-aws
+2	#DEP# apach
+3	#DEP# amazon
+4	#DEP# aw
+5	#DEP# camel

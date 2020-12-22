@@ -1,0 +1,5 @@
+1	/artifact/org.apache.flink/flink-shaded-netty
+2	#DEP# apach
+3	#DEP# network
+4	#DEP# socket
+5	#DEP# netti

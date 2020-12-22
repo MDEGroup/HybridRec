@@ -1,0 +1,6 @@
+1	/artifact/org.apache.hadoop/avro
+2	#DEP# avro
+3	#DEP# hadoop
+4	#DEP# apach
+5	#DEP# protocol
+6	#DEP# serial

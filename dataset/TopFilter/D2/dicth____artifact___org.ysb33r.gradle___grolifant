@@ -1,0 +1,5 @@
+1	/artifact/org.ysb33r.gradle/grolifant
+2	#DEP# build-system
+3	#DEP# groovi
+4	#DEP# gradl
+5	#DEP# build

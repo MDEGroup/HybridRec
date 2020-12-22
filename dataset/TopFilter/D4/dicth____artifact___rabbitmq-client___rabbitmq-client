@@ -1,0 +1,6 @@
+1	/artifact/rabbitmq-client/rabbitmq-client
+2	#DEP# queue
+3	#DEP# rabbitmq
+4	#DEP# clojur
+5	#DEP# amqp
+6	#DEP# client

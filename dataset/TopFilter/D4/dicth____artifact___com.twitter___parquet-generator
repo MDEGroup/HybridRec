@@ -1,0 +1,6 @@
+1	/artifact/com.twitter/parquet-generator
+2	#DEP# parquet
+3	#DEP# twitter
+4	#DEP# serial
+5	#DEP# gener
+6	#DEP# column

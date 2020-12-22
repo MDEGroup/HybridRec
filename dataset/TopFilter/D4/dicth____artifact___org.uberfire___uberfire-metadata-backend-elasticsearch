@@ -1,0 +1,5 @@
+1	/artifact/org.uberfire/uberfire-metadata-backend-elasticsearch
+2	#DEP# elasticsearch
+3	#DEP# metadata
+4	#DEP# search
+5	#DEP# elast

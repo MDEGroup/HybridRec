@@ -1,0 +1,5 @@
+1	/artifact/org.jfrog.maven.annomojo/maven-plugin-anno
+2	#DEP# build-system
+3	#DEP# plugin
+4	#DEP# maven
+5	#DEP# build

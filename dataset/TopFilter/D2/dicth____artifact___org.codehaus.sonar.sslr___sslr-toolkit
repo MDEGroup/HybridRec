@@ -1,0 +1,5 @@
+1	/artifact/org.codehaus.sonar.sslr/sslr-toolkit
+2	#DEP# codehau
+3	#DEP# tool
+4	#DEP# sonar
+5	#DEP# toolkit

@@ -1,0 +1,7 @@
+1	/artifact/org.eclipse.jetty/test-jetty-servlet
+2	#DEP# webserv
+3	#DEP# servlet
+4	#DEP# test
+5	#DEP# jetti
+6	#DEP# eclips
+7	#DEP# server

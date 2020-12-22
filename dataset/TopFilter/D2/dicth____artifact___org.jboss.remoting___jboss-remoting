@@ -1,0 +1,5 @@
+1	/artifact/org.jboss.remoting/jboss-remoting
+2	#DEP# remot
+3	#DEP# commun
+4	#DEP# distribut
+5	#DEP# jboss

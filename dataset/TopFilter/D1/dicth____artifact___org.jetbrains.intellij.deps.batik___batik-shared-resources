@@ -1,0 +1,5 @@
+1	/artifact/org.jetbrains.intellij.deps.batik/batik-shared-resources
+2	#DEP# ide
+3	#DEP# graphic
+4	#DEP# svg
+5	#DEP# resourc

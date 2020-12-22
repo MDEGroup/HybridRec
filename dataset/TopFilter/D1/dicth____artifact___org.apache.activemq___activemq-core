@@ -1,0 +1,6 @@
+1	/artifact/org.apache.activemq/activemq-core
+2	#DEP# apach
+3	#DEP# broker
+4	#DEP# messag
+5	#DEP# queue
+6	#DEP# jm

@@ -1,0 +1,8 @@
+1	/artifact/gradle.plugin.aspectj/plugin
+2	#DEP# groovi
+3	#DEP# build
+4	#DEP# aspect
+5	#DEP# aop
+6	#DEP# build-system
+7	#DEP# gradl
+8	#DEP# plugin

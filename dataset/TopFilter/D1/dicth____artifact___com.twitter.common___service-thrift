@@ -1,0 +1,6 @@
+1	/artifact/com.twitter.common/service-thrift
+2	#DEP# thrift
+3	#DEP# serial
+4	#DEP# servic
+5	#DEP# protocol
+6	#DEP# twitter

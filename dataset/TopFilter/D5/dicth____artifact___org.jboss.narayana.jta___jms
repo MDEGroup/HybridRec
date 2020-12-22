@@ -1,0 +1,5 @@
+1	/artifact/org.jboss.narayana.jta/jms
+2	#DEP# transact
+3	#DEP# queue
+4	#DEP# jm
+5	#DEP# jboss

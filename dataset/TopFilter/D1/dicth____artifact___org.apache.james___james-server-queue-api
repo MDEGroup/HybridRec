@@ -1,0 +1,6 @@
+1	/artifact/org.apache.james/james-server-queue-api
+2	#DEP# apach
+3	#DEP# queue
+4	#DEP# server
+5	#DEP# mail
+6	#DEP# api

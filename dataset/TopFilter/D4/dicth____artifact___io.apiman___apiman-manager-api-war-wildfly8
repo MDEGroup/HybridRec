@@ -1,0 +1,7 @@
+1	/artifact/io.apiman/apiman-manager-api-war-wildfly8
+2	#DEP# manag
+3	#DEP# web
+4	#DEP# webapp
+5	#DEP# api
+6	#DEP# applic
+7	#DEP# io

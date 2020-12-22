@@ -1,0 +1,5 @@
+1	/artifact/org.hibernate/hibernate-search-engine
+2	#DEP# hibern
+3	#DEP# search
+4	#DEP# engin
+5	#DEP# persist

@@ -1,0 +1,6 @@
+1	/artifact/org.apache.qpid/qpid-broker-plugins-management-http
+2	#DEP# manag
+3	#DEP# http
+4	#DEP# plugin
+5	#DEP# apach
+6	#DEP# broker

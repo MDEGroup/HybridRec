@@ -1,0 +1,7 @@
+1	/artifact/org.camunda.bpm/camunda-engine-rest
+2	#DEP# web
+3	#DEP# engin
+4	#DEP# webapp
+5	#DEP# bpm
+6	#DEP# rest
+7	#DEP# applic

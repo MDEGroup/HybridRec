@@ -1,0 +1,5 @@
+1	/artifact/javax.faces/jsf-impl
+2	#DEP# jsf
+3	#DEP# spec
+4	#DEP# standard
+5	#DEP# javax

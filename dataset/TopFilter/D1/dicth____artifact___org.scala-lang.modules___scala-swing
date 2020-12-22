@@ -1,0 +1,5 @@
+1	/artifact/org.scala-lang.modules/scala-swing
+2	#DEP# ui
+3	#DEP# modul
+4	#DEP# swing
+5	#DEP# scala

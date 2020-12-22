@@ -1,0 +1,5 @@
+1	/artifact/colorize/colorize
+2	#DEP# termin
+3	#DEP# consol
+4	#DEP# cli
+5	#DEP# clojur

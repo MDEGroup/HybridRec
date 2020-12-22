@@ -1,0 +1,6 @@
+1	/artifact/org.apache.james/james-server-data-memory
+2	#DEP# apach
+3	#DEP# memori
+4	#DEP# mail
+5	#DEP# server
+6	#DEP# data

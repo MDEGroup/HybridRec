@@ -1,0 +1,5 @@
+1	/artifact/org.hornetq/hornetq-server
+2	#DEP# server
+3	#DEP# broker
+4	#DEP# messag
+5	#DEP# queue

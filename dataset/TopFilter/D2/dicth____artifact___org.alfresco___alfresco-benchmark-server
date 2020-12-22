@@ -1,0 +1,7 @@
+1	/artifact/org.alfresco/alfresco-benchmark-server
+2	#DEP# server
+3	#DEP# applic
+4	#DEP# cm
+5	#DEP# web
+6	#DEP# benchmark
+7	#DEP# webapp

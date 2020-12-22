@@ -1,0 +1,4 @@
+1	/artifact/org.jvnet.mock-javamail/mock-javamail
+2	#DEP# test
+3	#DEP# mail
+4	#DEP# mock

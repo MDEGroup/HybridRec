@@ -1,0 +1,6 @@
+1	/artifact/org.apache.maven.resolver/maven-resolver-api
+2	#DEP# apach
+3	#DEP# build
+4	#DEP# maven
+5	#DEP# api
+6	#DEP# build-system

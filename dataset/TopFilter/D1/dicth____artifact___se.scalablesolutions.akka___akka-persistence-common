@@ -1,0 +1,6 @@
+1	/artifact/se.scalablesolutions.akka/akka-persistence-common
+2	#DEP# distribut
+3	#DEP# persist
+4	#DEP# concurr
+5	#DEP# actor
+6	#DEP# akka

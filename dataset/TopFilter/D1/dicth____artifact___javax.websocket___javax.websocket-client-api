@@ -1,0 +1,7 @@
+1	/artifact/javax.websocket/javax.websocket-client-api
+2	#DEP# websocket
+3	#DEP# spec
+4	#DEP# api
+5	#DEP# javax
+6	#DEP# standard
+7	#DEP# client

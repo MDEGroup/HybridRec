@@ -1,0 +1,8 @@
+1	/artifact/io.grpc/grpc-netty-shaded
+2	#DEP# netti
+3	#DEP# io
+4	#DEP# protocol
+5	#DEP# rpc
+6	#DEP# socket
+7	#DEP# grpc
+8	#DEP# network

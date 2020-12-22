@@ -1,0 +1,5 @@
+1	/artifact/org.apache.felix/org.apache.felix.http.bridge
+2	#DEP# apach
+3	#DEP# osgi
+4	#DEP# bridg
+5	#DEP# http

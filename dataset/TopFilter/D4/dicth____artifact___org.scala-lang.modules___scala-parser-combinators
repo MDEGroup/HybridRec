@@ -1,0 +1,5 @@
+1	/artifact/org.scala-lang.modules/scala-parser-combinators
+2	#DEP# scala
+3	#DEP# gener
+4	#DEP# modul
+5	#DEP# parser

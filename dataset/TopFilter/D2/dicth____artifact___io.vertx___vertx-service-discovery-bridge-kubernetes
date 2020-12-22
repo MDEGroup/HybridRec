@@ -1,0 +1,7 @@
+1	/artifact/io.vertx/vertx-service-discovery-bridge-kubernetes
+2	#DEP# io
+3	#DEP# vertx
+4	#DEP# discoveri
+5	#DEP# servic
+6	#DEP# bridg
+7	#DEP# kubernet

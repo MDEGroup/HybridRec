@@ -1,0 +1,8 @@
+1	/artifact/org.glassfish.jersey.test-framework.providers/jersey-test-framework-provider-jetty
+2	#DEP# framework
+3	#DEP# server
+4	#DEP# provid
+5	#DEP# webservic
+6	#DEP# jetti
+7	#DEP# webserv
+8	#DEP# test

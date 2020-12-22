@@ -1,0 +1,5 @@
+1	/artifact/io.vertx/vertx-web-validation
+2	#DEP# web
+3	#DEP# io
+4	#DEP# vertx
+5	#DEP# valid

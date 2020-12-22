@@ -1,0 +1,7 @@
+1	/artifact/com.github.jengelman.gradle.plugins/shadow
+2	#DEP# groovi
+3	#DEP# github
+4	#DEP# build
+5	#DEP# gradl
+6	#DEP# plugin
+7	#DEP# build-system

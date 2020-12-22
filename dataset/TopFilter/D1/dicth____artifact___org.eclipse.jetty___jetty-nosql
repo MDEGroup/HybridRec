@@ -1,0 +1,7 @@
+1	/artifact/org.eclipse.jetty/jetty-nosql
+2	#DEP# server
+3	#DEP# eclips
+4	#DEP# jetti
+5	#DEP# webserv
+6	#DEP# session
+7	#DEP# nosql

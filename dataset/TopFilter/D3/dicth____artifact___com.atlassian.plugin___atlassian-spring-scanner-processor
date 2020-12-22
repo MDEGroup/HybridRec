@@ -1,0 +1,5 @@
+1	/artifact/com.atlassian.plugin/atlassian-spring-scanner-processor
+2	#DEP# processor
+3	#DEP# spring
+4	#DEP# plugin
+5	#DEP# scan

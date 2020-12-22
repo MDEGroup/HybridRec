@@ -1,0 +1,5 @@
+1	/artifact/com.github.spullara.cli-parser/cli-parser
+2	#DEP# github
+3	#DEP# command-lin
+4	#DEP# parser
+5	#DEP# cli

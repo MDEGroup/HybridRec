@@ -1,0 +1,5 @@
+1	/artifact/org.junit.platform/junit-platform-engine
+2	#DEP# engin
+3	#DEP# test
+4	#DEP# junit
+5	#DEP# platform

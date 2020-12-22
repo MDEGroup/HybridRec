@@ -1,0 +1,5 @@
+1	/artifact/io.swagger.parser.v3/swagger-parser-core
+2	#DEP# parser
+3	#DEP# io
+4	#DEP# swagger
+5	#DEP# api

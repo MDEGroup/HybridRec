@@ -1,0 +1,5 @@
+1	/artifact/be.looorent/jflu-producer-rabbitmq
+2	#DEP# rabbitmq
+3	#DEP# produc
+4	#DEP# amqp
+5	#DEP# queue

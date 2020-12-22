@@ -1,0 +1,7 @@
+1	/artifact/javax.measure/unit-api
+2	#DEP# measur
+3	#DEP# javax
+4	#DEP# spec
+5	#DEP# unit
+6	#DEP# api
+7	#DEP# standard

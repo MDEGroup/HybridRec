@@ -1,0 +1,5 @@
+1	/artifact/com.liferay/com.liferay.gradle.util
+2	#DEP# build-system
+3	#DEP# groovi
+4	#DEP# gradl
+5	#DEP# build

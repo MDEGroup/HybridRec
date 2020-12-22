@@ -1,0 +1,6 @@
+1	/artifact/org.springframework.cloud.stream.app/spring-cloud-starter-stream-source-time
+2	#DEP# stream
+3	#DEP# cloud
+4	#DEP# time
+5	#DEP# spring
+6	#DEP# starter

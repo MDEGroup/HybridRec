@@ -1,0 +1,5 @@
+1	/artifact/org.apache.maven/maven-toolchain
+2	#DEP# build-system
+3	#DEP# apach
+4	#DEP# maven
+5	#DEP# build

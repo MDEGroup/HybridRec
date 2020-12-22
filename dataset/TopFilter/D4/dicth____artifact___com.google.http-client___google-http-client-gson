@@ -1,0 +1,5 @@
+1	/artifact/com.google.http-client/google-http-client-gson
+2	#DEP# http
+3	#DEP# json
+4	#DEP# client
+5	#DEP# googl

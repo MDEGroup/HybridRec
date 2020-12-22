@@ -1,0 +1,7 @@
+1	/artifact/org.apache.openejb.patch/openjpa-persistence-jdbc
+2	#DEP# persist
+3	#DEP# ejb
+4	#DEP# jdbc
+5	#DEP# jpa
+6	#DEP# apach
+7	#DEP# sql

@@ -1,0 +1,5 @@
+1	/artifact/org.jboss.errai/errai-cdi-jetty
+2	#DEP# jetti
+3	#DEP# webserv
+4	#DEP# jboss
+5	#DEP# server

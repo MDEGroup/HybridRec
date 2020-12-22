@@ -1,0 +1,6 @@
+1	/artifact/com.twitter/finagle-redis
+2	#DEP# client
+3	#DEP# twitter
+4	#DEP# databas
+5	#DEP# finagl
+6	#DEP# redi

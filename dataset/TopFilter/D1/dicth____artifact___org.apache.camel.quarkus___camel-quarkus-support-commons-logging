@@ -1,0 +1,5 @@
+1	/artifact/org.apache.camel.quarkus/camel-quarkus-support-commons-logging
+2	#DEP# support
+3	#DEP# apach
+4	#DEP# log
+5	#DEP# camel

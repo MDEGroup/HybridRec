@@ -1,0 +1,6 @@
+1	/artifact/javax.json/javax.json-api
+2	#DEP# spec
+3	#DEP# json
+4	#DEP# javax
+5	#DEP# api
+6	#DEP# standard

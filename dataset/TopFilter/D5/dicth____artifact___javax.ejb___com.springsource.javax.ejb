@@ -1,0 +1,6 @@
+1	/artifact/javax.ejb/com.springsource.javax.ejb
+2	#DEP# standard
+3	#DEP# javax
+4	#DEP# spring
+5	#DEP# ejb
+6	#DEP# spec

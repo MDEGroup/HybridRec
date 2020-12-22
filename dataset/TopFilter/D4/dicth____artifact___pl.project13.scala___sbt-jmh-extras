@@ -1,0 +1,5 @@
+1	/artifact/pl.project13.scala/sbt-jmh-extras
+2	#DEP# scala
+3	#DEP# build
+4	#DEP# sbt
+5	#DEP# build-system

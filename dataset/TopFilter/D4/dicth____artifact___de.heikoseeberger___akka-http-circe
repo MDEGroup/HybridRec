@@ -1,0 +1,6 @@
+1	/artifact/de.heikoseeberger/akka-http-circe
+2	#DEP# http
+3	#DEP# concurr
+4	#DEP# akka
+5	#DEP# distribut
+6	#DEP# actor

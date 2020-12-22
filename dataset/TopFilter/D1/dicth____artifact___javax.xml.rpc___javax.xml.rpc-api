@@ -1,0 +1,7 @@
+1	/artifact/javax.xml.rpc/javax.xml.rpc-api
+2	#DEP# xml
+3	#DEP# rpc
+4	#DEP# spec
+5	#DEP# api
+6	#DEP# javax
+7	#DEP# standard

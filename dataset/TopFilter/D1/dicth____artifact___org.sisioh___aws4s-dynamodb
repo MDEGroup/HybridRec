@@ -1,0 +1,6 @@
+1	/artifact/org.sisioh/aws4s-dynamodb
+2	#DEP# amazon
+3	#DEP# dynamodb
+4	#DEP# aw
+5	#DEP# client
+6	#DEP# databas

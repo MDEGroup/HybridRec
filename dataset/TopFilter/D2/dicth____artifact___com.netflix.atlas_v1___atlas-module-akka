@@ -1,0 +1,6 @@
+1	/artifact/com.netflix.atlas_v1/atlas-module-akka
+2	#DEP# concurr
+3	#DEP# distribut
+4	#DEP# modul
+5	#DEP# akka
+6	#DEP# actor

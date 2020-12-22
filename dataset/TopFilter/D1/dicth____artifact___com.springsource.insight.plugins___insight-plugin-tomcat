@@ -1,0 +1,6 @@
+1	/artifact/com.springsource.insight.plugins/insight-plugin-tomcat
+2	#DEP# server
+3	#DEP# spring
+4	#DEP# tomcat
+5	#DEP# webserv
+6	#DEP# plugin

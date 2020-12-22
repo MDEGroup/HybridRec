@@ -1,0 +1,5 @@
+1	/artifact/org.mortbay.jetty/jetty-embedded
+2	#DEP# jetti
+3	#DEP# webserv
+4	#DEP# embed
+5	#DEP# server

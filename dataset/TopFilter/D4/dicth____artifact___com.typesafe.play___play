@@ -1,0 +1,5 @@
+1	/artifact/com.typesafe.play/play
+2	#DEP# web
+3	#DEP# play-framework
+4	#DEP# framework
+5	#DEP# typesaf

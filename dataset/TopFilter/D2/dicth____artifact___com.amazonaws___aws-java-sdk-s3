@@ -1,0 +1,5 @@
+1	/artifact/com.amazonaws/aws-java-sdk-s3
+2	#DEP# sdk
+3	#DEP# amazon
+4	#DEP# aw
+5	#DEP# s3

@@ -1,0 +1,5 @@
+1	/artifact/org.apache.logging.log4j.adapters/log4j12-api
+2	#DEP# api
+3	#DEP# log
+4	#DEP# apach
+5	#DEP# bridg

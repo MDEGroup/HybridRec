@@ -1,0 +1,7 @@
+1	/artifact/org.apache.chemistry.opencmis/chemistry-opencmis-server-bindings-war
+2	#DEP# server
+3	#DEP# applic
+4	#DEP# bind
+5	#DEP# web
+6	#DEP# apach
+7	#DEP# webapp

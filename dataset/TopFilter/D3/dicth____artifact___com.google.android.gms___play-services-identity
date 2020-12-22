@@ -1,0 +1,5 @@
+1	/artifact/com.google.android.gms/play-services-identity
+2	#DEP# ident
+3	#DEP# android
+4	#DEP# googl
+5	#DEP# servic

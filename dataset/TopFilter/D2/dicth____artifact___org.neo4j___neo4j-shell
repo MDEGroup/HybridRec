@@ -1,0 +1,5 @@
+1	/artifact/org.neo4j/neo4j-shell
+2	#DEP# shell
+3	#DEP# neo4j
+4	#DEP# databas
+5	#DEP# graph

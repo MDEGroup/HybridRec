@@ -1,0 +1,7 @@
+1	/artifact/org.codehaus.mojo/findbugs-maven-plugin
+2	#DEP# build
+3	#DEP# maven
+4	#DEP# build-system
+5	#DEP# plugin
+6	#DEP# codehau
+7	#DEP# analysi

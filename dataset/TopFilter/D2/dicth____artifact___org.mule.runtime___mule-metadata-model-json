@@ -1,0 +1,5 @@
+1	/artifact/org.mule.runtime/mule-metadata-model-json
+2	#DEP# runtim
+3	#DEP# json
+4	#DEP# model
+5	#DEP# metadata

@@ -1,0 +1,6 @@
+1	/artifact/org.elasticsearch.plugin/analysis-kuromoji
+2	#DEP# elasticsearch
+3	#DEP# elast
+4	#DEP# search
+5	#DEP# plugin
+6	#DEP# analysi

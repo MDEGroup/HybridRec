@@ -1,0 +1,5 @@
+1	/artifact/org.netbeans.api/org-openide-text
+2	#DEP# ide
+3	#DEP# text
+4	#DEP# netbean
+5	#DEP# api

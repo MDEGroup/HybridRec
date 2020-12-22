@@ -1,0 +1,5 @@
+1	/artifact/com.facebook.android/audience-network-sdk
+2	#DEP# sdk
+3	#DEP# facebook
+4	#DEP# android
+5	#DEP# network

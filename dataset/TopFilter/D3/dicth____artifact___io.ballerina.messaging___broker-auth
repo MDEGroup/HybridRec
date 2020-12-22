@@ -1,0 +1,5 @@
+1	/artifact/io.ballerina.messaging/broker-auth
+2	#DEP# io
+3	#DEP# authent
+4	#DEP# broker
+5	#DEP# messag

@@ -1,0 +1,6 @@
+1	/artifact/at.ac.ait.hbs.homer/at.ac.ait.hbs.homer.core.features.event.connector.rabbitmq
+2	#DEP# queue
+3	#DEP# amqp
+4	#DEP# connector
+5	#DEP# rabbitmq
+6	#DEP# event

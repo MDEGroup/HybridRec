@@ -1,0 +1,5 @@
+1	/artifact/org.apache.commons/com.springsource.org.apache.commons.validator
+2	#DEP# apach
+3	#DEP# common
+4	#DEP# valid
+5	#DEP# spring

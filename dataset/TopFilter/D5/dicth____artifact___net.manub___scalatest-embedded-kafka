@@ -1,0 +1,5 @@
+1	/artifact/net.manub/scalatest-embedded-kafka
+2	#DEP# embed
+3	#DEP# scala
+4	#DEP# stream
+5	#DEP# kafka

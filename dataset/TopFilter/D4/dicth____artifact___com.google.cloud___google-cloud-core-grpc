@@ -1,0 +1,6 @@
+1	/artifact/com.google.cloud/google-cloud-core-grpc
+2	#DEP# cloud
+3	#DEP# rpc
+4	#DEP# googl
+5	#DEP# protocol
+6	#DEP# grpc

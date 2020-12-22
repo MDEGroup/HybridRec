@@ -1,0 +1,7 @@
+1	/artifact/org.apache.camel/camel-rabbitmq-starter
+2	#DEP# starter
+3	#DEP# queue
+4	#DEP# camel
+5	#DEP# amqp
+6	#DEP# rabbitmq
+7	#DEP# apach

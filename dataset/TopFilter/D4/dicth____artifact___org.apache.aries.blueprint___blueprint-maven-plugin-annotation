@@ -1,0 +1,7 @@
+1	/artifact/org.apache.aries.blueprint/blueprint-maven-plugin-annotation
+2	#DEP# apach
+3	#DEP# build
+4	#DEP# maven
+5	#DEP# annot
+6	#DEP# build-system
+7	#DEP# plugin

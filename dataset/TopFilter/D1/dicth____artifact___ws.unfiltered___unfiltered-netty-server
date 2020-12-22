@@ -1,0 +1,5 @@
+1	/artifact/ws.unfiltered/unfiltered-netty-server
+2	#DEP# network
+3	#DEP# server
+4	#DEP# socket
+5	#DEP# netti

@@ -1,0 +1,6 @@
+1	/artifact/org.amqphub.spring/amqp-10-jms-spring-boot-starter
+2	#DEP# queue
+3	#DEP# spring
+4	#DEP# starter
+5	#DEP# amqp
+6	#DEP# jm

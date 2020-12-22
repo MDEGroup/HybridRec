@@ -1,0 +1,5 @@
+1	/artifact/io.vertx/vertx-web-client
+2	#DEP# vertx
+3	#DEP# io
+4	#DEP# client
+5	#DEP# web

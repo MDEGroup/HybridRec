@@ -1,0 +1,5 @@
+1	/artifact/com.bq.corbel.lib/rabbitmq
+2	#DEP# amqp
+3	#DEP# rabbitmq
+4	#DEP# librari
+5	#DEP# queue

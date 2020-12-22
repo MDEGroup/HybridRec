@@ -1,0 +1,6 @@
+1	/artifact/io.netty/netty
+2	#DEP# framework
+3	#DEP# io
+4	#DEP# netti
+5	#DEP# socket
+6	#DEP# network

@@ -1,0 +1,5 @@
+1	/artifact/org.gradle/gradle-core
+2	#DEP# groovi
+3	#DEP# build
+4	#DEP# build-system
+5	#DEP# gradl

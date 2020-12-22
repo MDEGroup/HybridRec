@@ -1,0 +1,8 @@
+1	/artifact/io.freefair.gradle/android-gradle-plugins
+2	#DEP# groovi
+3	#DEP# build-system
+4	#DEP# gradl
+5	#DEP# build
+6	#DEP# android
+7	#DEP# io
+8	#DEP# plugin

@@ -1,0 +1,8 @@
+1	/artifact/io.beekeeper.gradle/beekeeper-code-analysis-plugin
+2	#DEP# groovi
+3	#DEP# io
+4	#DEP# build
+5	#DEP# build-system
+6	#DEP# gradl
+7	#DEP# plugin
+8	#DEP# analysi

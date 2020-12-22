@@ -1,0 +1,6 @@
+1	/artifact/io.swagger/swagger-jaxrs
+2	#DEP# jaxr
+3	#DEP# api
+4	#DEP# rest
+5	#DEP# io
+6	#DEP# swagger

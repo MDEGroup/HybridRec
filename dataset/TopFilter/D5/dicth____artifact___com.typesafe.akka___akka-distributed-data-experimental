@@ -1,0 +1,8 @@
+1	/artifact/com.typesafe.akka/akka-distributed-data-experimental
+2	#DEP# data
+3	#DEP# distribut
+4	#DEP# actor
+5	#DEP# concurr
+6	#DEP# typesaf
+7	#DEP# akka
+8	#DEP# experiment

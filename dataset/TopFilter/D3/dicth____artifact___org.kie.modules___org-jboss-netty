@@ -1,0 +1,6 @@
+1	/artifact/org.kie.modules/org-jboss-netty
+2	#DEP# jboss
+3	#DEP# netti
+4	#DEP# socket
+5	#DEP# modul
+6	#DEP# network

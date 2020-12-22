@@ -1,0 +1,7 @@
+1	/artifact/org.apache.servicemix.specs/org.apache.servicemix.specs.stax-api-1.0
+2	#DEP# esb
+3	#DEP# api
+4	#DEP# spec
+5	#DEP# apach
+6	#DEP# stream
+7	#DEP# xml

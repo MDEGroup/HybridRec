@@ -1,0 +1,6 @@
+1	/artifact/com.amazonaws/dynamodb-lock-client
+2	#DEP# dynamodb
+3	#DEP# lock
+4	#DEP# aw
+5	#DEP# client
+6	#DEP# databas

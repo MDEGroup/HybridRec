@@ -1,0 +1,5 @@
+1	/artifact/org.apache.camel/camel-spring-boot-starter
+2	#DEP# apach
+3	#DEP# camel
+4	#DEP# starter
+5	#DEP# spring

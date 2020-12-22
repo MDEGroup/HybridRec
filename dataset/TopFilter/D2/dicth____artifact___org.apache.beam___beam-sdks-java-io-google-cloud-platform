@@ -1,0 +1,6 @@
+1	/artifact/org.apache.beam/beam-sdks-java-io-google-cloud-platform
+2	#DEP# io
+3	#DEP# googl
+4	#DEP# platform
+5	#DEP# cloud
+6	#DEP# apach

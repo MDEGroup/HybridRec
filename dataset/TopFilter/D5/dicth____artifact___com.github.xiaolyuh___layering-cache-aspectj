@@ -1,0 +1,5 @@
+1	/artifact/com.github.xiaolyuh/layering-cache-aspectj
+2	#DEP# aop
+3	#DEP# aspect
+4	#DEP# cach
+5	#DEP# github

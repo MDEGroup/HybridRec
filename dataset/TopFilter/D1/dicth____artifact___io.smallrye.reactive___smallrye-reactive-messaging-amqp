@@ -1,0 +1,6 @@
+1	/artifact/io.smallrye.reactive/smallrye-reactive-messaging-amqp
+2	#DEP# messag
+3	#DEP# queue
+4	#DEP# amqp
+5	#DEP# reactiv
+6	#DEP# io

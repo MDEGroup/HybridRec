@@ -1,0 +1,7 @@
+1	/artifact/org.ow2.jonas/jonas-web-container-tomcat-base-ant
+2	#DEP# tomcat
+3	#DEP# ant
+4	#DEP# server
+5	#DEP# web
+6	#DEP# webserv
+7	#DEP# contain

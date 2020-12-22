@@ -1,0 +1,5 @@
+1	/artifact/org.opendaylight.controller.samples/clustering-it-model
+2	#DEP# exampl
+3	#DEP# control
+4	#DEP# cluster
+5	#DEP# model

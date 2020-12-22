@@ -1,0 +1,5 @@
+1	/artifact/io.joynr.performance.performance-test-jee/performance-test-jee-api
+2	#DEP# perform
+3	#DEP# io
+4	#DEP# api
+5	#DEP# test

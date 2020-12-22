@@ -1,0 +1,7 @@
+1	/artifact/io.wonwoo.dynamodb/dynamodb-spring-boot-autoconfigure
+2	#DEP# spring
+3	#DEP# dynamodb
+4	#DEP# config
+5	#DEP# aw
+6	#DEP# io
+7	#DEP# databas

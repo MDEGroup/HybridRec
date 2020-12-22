@@ -1,0 +1,6 @@
+1	/artifact/org.springframework.data/spring-data-redis
+2	#DEP# spring
+3	#DEP# redi
+4	#DEP# databas
+5	#DEP# client
+6	#DEP# data

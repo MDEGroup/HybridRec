@@ -1,0 +1,7 @@
+1	/artifact/io.confluent/kafka-schema-registry-client
+2	#DEP# client
+3	#DEP# stream
+4	#DEP# registri
+5	#DEP# io
+6	#DEP# kafka
+7	#DEP# schema

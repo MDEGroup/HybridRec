@@ -1,0 +1,5 @@
+1	/artifact/com.github.mcpat.slf4j/slf4cldc-api
+2	#DEP# api
+3	#DEP# log
+4	#DEP# slf4j
+5	#DEP# github

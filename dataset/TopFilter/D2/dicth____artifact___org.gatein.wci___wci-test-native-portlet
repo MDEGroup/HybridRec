@@ -1,0 +1,7 @@
+1	/artifact/org.gatein.wci/wci-test-native-portlet
+2	#DEP# applic
+3	#DEP# web
+4	#DEP# portlet
+5	#DEP# webapp
+6	#DEP# nativ
+7	#DEP# test

@@ -1,0 +1,5 @@
+1	/artifact/org.jboss.byteman/byteman
+2	#DEP# jboss
+3	#DEP# aop
+4	#DEP# bytecod
+5	#DEP# aspect

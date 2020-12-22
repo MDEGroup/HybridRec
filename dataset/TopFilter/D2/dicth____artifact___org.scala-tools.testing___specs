@@ -1,0 +1,5 @@
+1	/artifact/org.scala-tools.testing/specs
+2	#DEP# scala
+3	#DEP# spec
+4	#DEP# tool
+5	#DEP# test

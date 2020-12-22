@@ -1,0 +1,5 @@
+1	/artifact/org.camunda.bpm.springboot/camunda-bpm-spring-boot-starter-webapp
+2	#DEP# webapp
+3	#DEP# spring
+4	#DEP# starter
+5	#DEP# bpm

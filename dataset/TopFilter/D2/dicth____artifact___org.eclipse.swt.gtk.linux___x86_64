@@ -1,0 +1,7 @@
+1	/artifact/org.eclipse.swt.gtk.linux/x86_64
+2	#DEP# linux
+3	#DEP# unix
+4	#DEP# ui
+5	#DEP# eclips
+6	#DEP# swt
+7	#DEP# x86

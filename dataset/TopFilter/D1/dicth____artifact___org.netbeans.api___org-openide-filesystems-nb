@@ -1,0 +1,5 @@
+1	/artifact/org.netbeans.api/org-openide-filesystems-nb
+2	#DEP# ide
+3	#DEP# file-system
+4	#DEP# api
+5	#DEP# netbean

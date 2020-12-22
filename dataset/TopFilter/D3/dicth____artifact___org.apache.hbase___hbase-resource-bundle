@@ -1,0 +1,7 @@
+1	/artifact/org.apache.hbase/hbase-resource-bundle
+2	#DEP# hbase
+3	#DEP# bundl
+4	#DEP# hadoop
+5	#DEP# apach
+6	#DEP# resourc
+7	#DEP# databas

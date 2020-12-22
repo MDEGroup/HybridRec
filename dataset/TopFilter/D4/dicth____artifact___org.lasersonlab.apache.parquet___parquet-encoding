@@ -1,0 +1,6 @@
+1	/artifact/org.lasersonlab.apache.parquet/parquet-encoding
+2	#DEP# apach
+3	#DEP# parquet
+4	#DEP# serial
+5	#DEP# column
+6	#DEP# encod

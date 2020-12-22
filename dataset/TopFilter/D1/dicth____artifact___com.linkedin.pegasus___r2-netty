@@ -1,0 +1,5 @@
+1	/artifact/com.linkedin.pegasus/r2-netty
+2	#DEP# linkedin
+3	#DEP# network
+4	#DEP# socket
+5	#DEP# netti

@@ -1,0 +1,5 @@
+1	/artifact/org.scala-js/scalajs-test-interface
+2	#DEP# scala
+3	#DEP# interfac
+4	#DEP# scalaj
+5	#DEP# test

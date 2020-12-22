@@ -1,0 +1,5 @@
+1	/artifact/com.carrotsearch/junit-benchmarks
+2	#DEP# junit
+3	#DEP# benchmark
+4	#DEP# test
+5	#DEP# perform

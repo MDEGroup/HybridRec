@@ -1,0 +1,6 @@
+1	/artifact/javax.batch/javax.batch-api
+2	#DEP# standard
+3	#DEP# api
+4	#DEP# spec
+5	#DEP# batch
+6	#DEP# javax

@@ -1,0 +1,5 @@
+1	/artifact/org.grails.plugins/pretty-time
+2	#DEP# plugin
+3	#DEP# grail
+4	#DEP# groovi
+5	#DEP# time

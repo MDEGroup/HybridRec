@@ -1,0 +1,8 @@
+1	/artifact/com.archinamon/android-gradle-aspectj
+2	#DEP# groovi
+3	#DEP# build
+4	#DEP# gradl
+5	#DEP# aspect
+6	#DEP# aop
+7	#DEP# android
+8	#DEP# build-system

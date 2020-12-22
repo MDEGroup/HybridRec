@@ -1,0 +1,5 @@
+1	/artifact/io.envoyproxy.protoc-gen-validate/pgv-java-stub
+2	#DEP# stub
+3	#DEP# io
+4	#DEP# proxi
+5	#DEP# valid

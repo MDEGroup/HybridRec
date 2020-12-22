@@ -1,0 +1,6 @@
+1	/artifact/org.hibernate/hibernate-search-backend-jms
+2	#DEP# search
+3	#DEP# queue
+4	#DEP# persist
+5	#DEP# jm
+6	#DEP# hibern

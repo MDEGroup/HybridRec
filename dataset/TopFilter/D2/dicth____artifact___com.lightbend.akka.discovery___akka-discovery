@@ -1,0 +1,7 @@
+1	/artifact/com.lightbend.akka.discovery/akka-discovery
+2	#DEP# concurr
+3	#DEP# distribut
+4	#DEP# akka
+5	#DEP# lightbend
+6	#DEP# discoveri
+7	#DEP# actor

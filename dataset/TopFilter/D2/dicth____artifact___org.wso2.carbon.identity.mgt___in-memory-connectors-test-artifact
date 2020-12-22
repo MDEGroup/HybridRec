@@ -1,0 +1,6 @@
+1	/artifact/org.wso2.carbon.identity.mgt/in-memory-connectors-test-artifact
+2	#DEP# ident
+3	#DEP# connector
+4	#DEP# manag
+5	#DEP# test
+6	#DEP# memori

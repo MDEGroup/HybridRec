@@ -1,0 +1,5 @@
+1	/artifact/com.intel.qat/parquet-column
+2	#DEP# intel
+3	#DEP# column
+4	#DEP# serial
+5	#DEP# parquet

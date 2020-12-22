@@ -1,0 +1,5 @@
+1	/artifact/org.grails/grails-plugin-validation
+2	#DEP# groovi
+3	#DEP# grail
+4	#DEP# valid
+5	#DEP# plugin

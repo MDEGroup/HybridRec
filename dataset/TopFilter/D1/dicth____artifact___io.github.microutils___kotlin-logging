@@ -1,0 +1,5 @@
+1	/artifact/io.github.microutils/kotlin-logging
+2	#DEP# kotlin
+3	#DEP# github
+4	#DEP# log
+5	#DEP# io

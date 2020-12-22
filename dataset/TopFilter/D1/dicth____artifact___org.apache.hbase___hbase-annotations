@@ -1,0 +1,6 @@
+1	/artifact/org.apache.hbase/hbase-annotations
+2	#DEP# hbase
+3	#DEP# apach
+4	#DEP# hadoop
+5	#DEP# annot
+6	#DEP# databas

@@ -1,0 +1,6 @@
+1	/artifact/org.zeromq/jzmq
+2	#DEP# queue
+3	#DEP# socket
+4	#DEP# zeromq
+5	#DEP# messag
+6	#DEP# client

@@ -1,0 +1,5 @@
+1	/artifact/com.squareup.okhttp/mockwebserver
+2	#DEP# client
+3	#DEP# mock
+4	#DEP# http
+5	#DEP# test

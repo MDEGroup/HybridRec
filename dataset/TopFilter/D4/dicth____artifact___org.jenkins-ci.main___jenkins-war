@@ -1,0 +1,5 @@
+1	/artifact/org.jenkins-ci.main/jenkins-war
+2	#DEP# jenkin
+3	#DEP# web
+4	#DEP# applic
+5	#DEP# webapp

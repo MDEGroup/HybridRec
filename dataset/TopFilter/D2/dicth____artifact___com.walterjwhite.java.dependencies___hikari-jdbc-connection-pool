@@ -1,0 +1,5 @@
+1	/artifact/com.walterjwhite.java.dependencies/hikari-jdbc-connection-pool
+2	#DEP# connect
+3	#DEP# sql
+4	#DEP# pool
+5	#DEP# jdbc

@@ -1,0 +1,5 @@
+1	/artifact/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.output.adapter.xmpp
+2	#DEP# devic
+3	#DEP# manag
+4	#DEP# xmpp
+5	#DEP# plugin

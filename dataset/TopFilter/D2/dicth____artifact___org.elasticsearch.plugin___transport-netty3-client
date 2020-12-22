@@ -1,0 +1,10 @@
+1	/artifact/org.elasticsearch.plugin/transport-netty3-client
+2	#DEP# network
+3	#DEP# transport
+4	#DEP# elasticsearch
+5	#DEP# netti
+6	#DEP# elast
+7	#DEP# socket
+8	#DEP# search
+9	#DEP# plugin
+10	#DEP# client

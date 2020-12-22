@@ -1,0 +1,5 @@
+1	/artifact/org.apache.camel/camel-influxdb
+2	#DEP# apach
+3	#DEP# metric
+4	#DEP# influxdb
+5	#DEP# camel

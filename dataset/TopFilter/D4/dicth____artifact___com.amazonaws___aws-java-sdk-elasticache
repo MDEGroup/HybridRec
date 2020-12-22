@@ -1,0 +1,6 @@
+1	/artifact/com.amazonaws/aws-java-sdk-elasticache
+2	#DEP# amazon
+3	#DEP# aw
+4	#DEP# sdk
+5	#DEP# cach
+6	#DEP# client

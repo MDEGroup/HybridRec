@@ -1,0 +1,6 @@
+1	/artifact/io.vertx/vertx-auth-jdbc
+2	#DEP# authent
+3	#DEP# sql
+4	#DEP# vertx
+5	#DEP# jdbc
+6	#DEP# io

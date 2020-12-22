@@ -1,0 +1,5 @@
+1	/artifact/org.apache.tomcat.wso2/tomcat
+2	#DEP# webserv
+3	#DEP# server
+4	#DEP# apach
+5	#DEP# tomcat

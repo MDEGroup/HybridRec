@@ -1,0 +1,8 @@
+1	/artifact/org.apache.maven/maven-slf4j-provider
+2	#DEP# apach
+3	#DEP# build
+4	#DEP# maven
+5	#DEP# provid
+6	#DEP# slf4j
+7	#DEP# log
+8	#DEP# build-system

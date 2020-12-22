@@ -1,0 +1,8 @@
+1	/artifact/software.amazon.awssdk/netty-nio-client
+2	#DEP# aw
+3	#DEP# netti
+4	#DEP# client
+5	#DEP# network
+6	#DEP# amazon
+7	#DEP# socket
+8	#DEP# io

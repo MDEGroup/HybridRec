@@ -1,0 +1,7 @@
+1	/artifact/io.bootique.jdbc/bootique-jdbc-junit5-derby
+2	#DEP# junit
+3	#DEP# test
+4	#DEP# sql
+5	#DEP# databas
+6	#DEP# jdbc
+7	#DEP# io

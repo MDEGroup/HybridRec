@@ -1,0 +1,6 @@
+1	/artifact/org.springframework.cloud/spring-cloud-aws-autoconfigure
+2	#DEP# amazon
+3	#DEP# spring
+4	#DEP# cloud
+5	#DEP# config
+6	#DEP# aw

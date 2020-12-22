@@ -1,0 +1,9 @@
+1	/artifact/com.lightbend.akka.management/akka-management-cluster-bootstrap
+2	#DEP# manag
+3	#DEP# actor
+4	#DEP# bootstrap
+5	#DEP# cluster
+6	#DEP# distribut
+7	#DEP# concurr
+8	#DEP# lightbend
+9	#DEP# akka

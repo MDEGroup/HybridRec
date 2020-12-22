@@ -1,0 +1,5 @@
+1	/artifact/org.apache.camel/camel-spring-security
+2	#DEP# spring
+3	#DEP# secur
+4	#DEP# apach
+5	#DEP# camel

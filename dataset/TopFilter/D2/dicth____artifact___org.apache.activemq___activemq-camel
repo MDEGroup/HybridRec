@@ -1,0 +1,5 @@
+1	/artifact/org.apache.activemq/activemq-camel
+2	#DEP# apach
+3	#DEP# jm
+4	#DEP# queue
+5	#DEP# camel

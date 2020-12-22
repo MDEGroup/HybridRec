@@ -1,0 +1,5 @@
+1	/artifact/org.jboss.spec.javax.ws.rs/jboss-jaxrs-api_2.0_spec
+2	#DEP# jaxr
+3	#DEP# jboss
+4	#DEP# api
+5	#DEP# rest

@@ -1,0 +1,5 @@
+1	/artifact/org.apache.felix/org.apache.felix.ipojo.metadata
+2	#DEP# metadata
+3	#DEP# osgi
+4	#DEP# apach
+5	#DEP# pojo

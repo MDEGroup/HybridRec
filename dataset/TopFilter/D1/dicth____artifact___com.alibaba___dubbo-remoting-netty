@@ -1,0 +1,5 @@
+1	/artifact/com.alibaba/dubbo-remoting-netty
+2	#DEP# remot
+3	#DEP# network
+4	#DEP# socket
+5	#DEP# netti

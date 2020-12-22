@@ -1,0 +1,6 @@
+1	/artifact/org.neo4j/neo4j-cypher-expression-evaluator
+2	#DEP# graph
+3	#DEP# express
+4	#DEP# neo4j
+5	#DEP# evalu
+6	#DEP# databas

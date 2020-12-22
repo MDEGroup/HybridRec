@@ -1,0 +1,5 @@
+1	/artifact/org.mule.runtime/mule-service-http-api
+2	#DEP# runtim
+3	#DEP# api
+4	#DEP# http
+5	#DEP# servic

@@ -1,0 +1,6 @@
+1	/artifact/com.github.sstone/amqp-client
+2	#DEP# client
+3	#DEP# github
+4	#DEP# queue
+5	#DEP# amqp
+6	#DEP# messag

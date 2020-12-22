@@ -1,0 +1,5 @@
+1	/artifact/org.apache.openjpa/openjpa-lib
+2	#DEP# apach
+3	#DEP# librari
+4	#DEP# persist
+5	#DEP# jpa

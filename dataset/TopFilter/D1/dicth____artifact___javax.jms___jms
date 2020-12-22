@@ -1,0 +1,8 @@
+1	/artifact/javax.jms/jms
+2	#DEP# messag
+3	#DEP# queue
+4	#DEP# jm
+5	#DEP# spec
+6	#DEP# javax
+7	#DEP# standard
+8	#DEP# client

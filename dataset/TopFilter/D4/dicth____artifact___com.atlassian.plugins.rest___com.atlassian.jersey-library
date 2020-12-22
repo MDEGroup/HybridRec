@@ -1,0 +1,5 @@
+1	/artifact/com.atlassian.plugins.rest/com.atlassian.jersey-library
+2	#DEP# librari
+3	#DEP# webservic
+4	#DEP# plugin
+5	#DEP# rest

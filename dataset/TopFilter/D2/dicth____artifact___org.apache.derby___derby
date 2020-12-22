@@ -1,0 +1,5 @@
+1	/artifact/org.apache.derby/derby
+2	#DEP# sql
+3	#DEP# databas
+4	#DEP# apach
+5	#DEP# embed

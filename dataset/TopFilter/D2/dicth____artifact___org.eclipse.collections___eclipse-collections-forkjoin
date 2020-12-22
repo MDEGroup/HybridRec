@@ -1,0 +1,5 @@
+1	/artifact/org.eclipse.collections/eclipse-collections-forkjoin
+2	#DEP# eclips
+3	#DEP# parallel
+4	#DEP# forkjoin
+5	#DEP# collect

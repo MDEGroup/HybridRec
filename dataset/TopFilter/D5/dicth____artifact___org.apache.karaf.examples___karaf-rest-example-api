@@ -1,0 +1,6 @@
+1	/artifact/org.apache.karaf.examples/karaf-rest-example-api
+2	#DEP# osgi
+3	#DEP# apach
+4	#DEP# exampl
+5	#DEP# api
+6	#DEP# rest

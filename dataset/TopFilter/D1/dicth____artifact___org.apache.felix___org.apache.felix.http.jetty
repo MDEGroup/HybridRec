@@ -1,0 +1,7 @@
+1	/artifact/org.apache.felix/org.apache.felix.http.jetty
+2	#DEP# apach
+3	#DEP# http
+4	#DEP# osgi
+5	#DEP# server
+6	#DEP# jetti
+7	#DEP# webserv
