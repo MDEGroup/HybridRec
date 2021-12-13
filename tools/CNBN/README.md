@@ -22,6 +22,7 @@ To run the Python scripts, you need the following libraries:
 - scikit-learn 0.23.2
 - nltk 3.5
 - pandas 1.1.4
+- guessLang 2.2.1
 
 
 
@@ -31,15 +32,19 @@ To run the Python scripts, you need the following libraries:
 
 This folder contains the source code of the tool structured as follows:
 ```
-MNBN
+CNBN
     .
-    |--- MavenMain.py   It is used to run the tools      
+    |--- main.py         It is used to run the ten folder evaluation      
     |
-    |--- model.py     This file performs the training and testing phases. It also produces the needed files to compute the metrics presented in the paper
+    |--- model.py        It contains the implementation of the MNBN/CNBN models  
     |
-    |--- utilites.py   	It contains all functions that have been used to run the tool
+    |--- metrics.py      It contains all utilites that have been used to compute the metrics
     |
-    |--- lib_tags.csv   This file is used for evaluation purposes
+    |--- guessLang.py    This is the external module to predict the programming language of a repository
+    |
+    |--- lang_file.txt   This file contains the language for each repository computed by guessLang module
+    |
+    |--- topics_134.txt  This file contains the featured topics considered in the evaluation   
 
 ```
 
@@ -48,18 +53,16 @@ MNBN
 
 # Running the MNBN
 
-To replicate the experiments shown in the paper, you have to edit the following paths **MavenMain.py**:
+To replicate the experiments shown in the paper, you have to edit the following paths **main.py**:
 
 - train_dir = path for a single round of training 
 - test_dir = path for a single round of testing
 - out_file = name for the average metrics values computed 
 - num_tags = interger that represents the number N of recommended items 
+- model = string for choosing the model to run ('MNB' or 'CNB')
 
 
-After the train data is loaded, youcan run the **evaluation** function to compute the following metrics: 
-- success rate (1..N)
-- precision
-- recall
+
 
 
 
