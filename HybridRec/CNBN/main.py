@@ -1,4 +1,4 @@
-from github_crawling.MNB import load_data, predict_topics
+from model import load_data, predict_topics
 import time
 import os
 

@@ -4,8 +4,8 @@ from sklearn.feature_extraction.text import TfidfTransformer
 import glob,os
 import operator
 from sklearn.feature_extraction.text import TfidfVectorizer
-from github_crawling.metrics import calculate_metrics
-from github_crawling.crawler import map_repos2topics
+from metrics import calculate_metrics
+from crawler import map_repos2topics
 import time
 
 def load_data(path_topic):
@@ -20,7 +20,6 @@ def load_data(path_topic):
         for file_path in file_list:
             f=open(file_path,'r', encoding="utf-8", errors="ignore")
             data=f.read()
-
             X.append(data)
             y.append(topic)
     print(len(X))
@@ -113,7 +112,6 @@ def predict_topics(dirs, test_dir, train_data, labels, num_topics, list_test, mo
         print(time_training)
         time_stamp.write(str(time_training)+ ",")
         start_testing = time.time()
-
 
         actual = map_repos2topics(lista)
 
