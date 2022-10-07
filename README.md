@@ -24,10 +24,18 @@ The repository is structured as follows:
   
 ```
 |--- Datasets This folder contains all the datasets used in the evaluation
-|--- HybridRec This folder contains the source code of the two modules presented in the paper, i.e., CNBN and TopFilter.
+	|--- D1	  It is composed of GitHub repositories and their corresponding topics   
+	|--- D2	  To obtain this, we remove unfrequent topics (and the corresponding repositories) from D1
+	|--- D3   To obtain this, we apply the preprocessing module to D2 
+	|--- Dm	  It is composed of Maven repositories and their corresponding tags downloaded from the Maven Central Repository
+	 	 
+|--- Tool This folder contains the source code of the two modules presented in the paper plus the preprocessing rules 
+	|--- Preprocessing    This folder contains the preprocessing rules applied to the initial set of topics and how to run them
+	|--- CNBN 			  This folder contains the stochastic module and the instruction to run it
+	|--- TopFilter		  This folder contains the collaborative filtering module and the instruction to run it 
 ```
 
-It is worth noting that each tool has a dedicated README file that explains how to replicate the results reported in the paper.
+Each submodule has a dedicated README file that explains how to replicate the results reported in the paper.
 
   
     
