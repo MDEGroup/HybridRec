@@ -1,0 +1,8 @@
+1	sequelize___sequelize
+2	#DEP#postgresql
+3	#DEP#mariadb
+4	#DEP#javascript
+5	#DEP#sqlite
+6	#DEP#sql
+7	#DEP#orm
+8	#DEP#mysql

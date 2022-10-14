@@ -1,0 +1,7 @@
+2	#DEP#git
+3	#DEP#conventcommit
+4	#DEP#specif
+5	#DEP#convent
+6	#DEP#conventchangelog
+7	#DEP#commit
+8	#DEP#standard

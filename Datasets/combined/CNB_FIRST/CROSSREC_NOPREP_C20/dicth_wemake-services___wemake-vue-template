@@ -1,0 +1,7 @@
+1	wemake-services___wemake-vue-template
+2	#DEP#eslint
+3	#DEP#vue
+4	#DEP#ssr
+5	#DEP#jest
+6	#DEP#docker
+7	#DEP#typescript

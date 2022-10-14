@@ -1,0 +1,10 @@
+2	#DEP#linearsvm
+3	#DEP#bagword
+4	#DEP#scikitlearn
+5	#DEP#sklearn
+6	#DEP#offenslanguag
+7	#DEP#profanfilt
+8	#DEP#profanlibrari
+9	#DEP#profandetect
+10	#DEP#profan
+11	#DEP#python3

@@ -1,0 +1,8 @@
+1	bytedeco___javacv
+2	#DEP#javacv
+3	#DEP#computvis
+4	#DEP#opencv
+5	#DEP#multimedia
+6	#DEP#java
+7	#DEP#ffmpeg
+8	#DEP#maven

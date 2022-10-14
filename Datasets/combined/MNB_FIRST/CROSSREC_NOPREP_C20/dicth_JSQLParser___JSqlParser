@@ -1,0 +1,8 @@
+1	JSQLParser___JSqlParser
+2	#DEP#java
+3	#DEP#postgresql
+4	#DEP#sqlserver
+5	#DEP#parser
+6	#DEP#sql
+7	#DEP#oracl
+8	#DEP#mysql

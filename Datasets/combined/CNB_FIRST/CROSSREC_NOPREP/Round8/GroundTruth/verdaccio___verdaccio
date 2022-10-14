@@ -1,0 +1,14 @@
+2	#DEP#registri
+3	#DEP#registriproxi
+4	#DEP#npmregistri
+5	#DEP#verdaccio
+6	#DEP#dockerimag
+7	#DEP#privatnpm
+8	#DEP#backer
+9	#DEP#sinopia
+10	#DEP#yarn
+11	#DEP#nodej
+12	#DEP#docker
+13	#DEP#npm
+14	#DEP#node
+15	#DEP#npmj

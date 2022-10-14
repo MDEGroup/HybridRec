@@ -1,0 +1,15 @@
+1	strapdata___elassandra
+2	#DEP#complet
+3	#DEP#search
+4	#DEP#lucen
+5	#DEP#masterless
+6	#DEP#nosql
+7	#DEP#missioncrit
+8	#DEP#restapi
+9	#DEP#logstash
+10	#DEP#kibana
+11	#DEP#cassandra
+12	#DEP#spark
+13	#DEP#elasticsearch
+14	#DEP#aggreg
+15	#DEP#fuzzisearch

@@ -1,0 +1,13 @@
+1	microsoft___MMdnn
+2	#DEP#keras
+3	#DEP#onnx
+4	#DEP#visual
+5	#DEP#oreml
+6	#DEP#tensorflow
+7	#DEP#ntk
+8	#DEP#pytorch
+9	#DEP#modelonvert
+10	#DEP#darknet
+11	#DEP#c
+12	#DEP#mxnet
+13	#DEP#aff

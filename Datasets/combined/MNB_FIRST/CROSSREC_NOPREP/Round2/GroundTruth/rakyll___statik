@@ -1,0 +1,6 @@
+2	#DEP#httpserver
+3	#DEP#static
+4	#DEP#http
+5	#DEP#go
+6	#DEP#golang
+7	#DEP#file

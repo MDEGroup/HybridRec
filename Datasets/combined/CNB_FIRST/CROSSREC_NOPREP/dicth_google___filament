@@ -1,0 +1,10 @@
+1	google___filament
+2	#DEP#graphic
+3	#DEP#vulkan
+4	#DEP#3dgraphic
+5	#DEP#pbr
+6	#DEP#webgl
+7	#DEP#realtim
+8	#DEP#wasm
+9	#DEP#android
+10	#DEP#opengl

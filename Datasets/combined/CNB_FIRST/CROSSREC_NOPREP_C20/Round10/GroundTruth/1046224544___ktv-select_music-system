@@ -1,0 +1,6 @@
+2	#DEP#mongodb
+3	#DEP#node
+4	#DEP#vue
+5	#DEP#axio
+6	#DEP#express
+7	#DEP#koa

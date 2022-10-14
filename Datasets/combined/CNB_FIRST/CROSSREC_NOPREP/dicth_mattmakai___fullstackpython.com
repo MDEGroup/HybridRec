@@ -1,0 +1,12 @@
+1	mattmakai___fullstackpython.com
+2	#DEP#fullstackpython
+3	#DEP#pelican
+4	#DEP#fullstack
+5	#DEP#twilio
+6	#DEP#markdown
+7	#DEP#html
+8	#DEP#python3
+9	#DEP#tutori
+10	#DEP#staticsit
+11	#DEP#python
+12	#DEP#document

@@ -1,0 +1,15 @@
+2	#DEP#nag
+3	#DEP#puppet
+4	#DEP#test
+5	#DEP#saltstak
+6	#DEP#hef
+7	#DEP#devop
+8	#DEP#python
+9	#DEP#docker
+10	#DEP#infrastruturod
+11	#DEP#io
+12	#DEP#tddutil
+13	#DEP#ansibl
+14	#DEP#c
+15	#DEP#kubernet
+16	#DEP#infrastructur

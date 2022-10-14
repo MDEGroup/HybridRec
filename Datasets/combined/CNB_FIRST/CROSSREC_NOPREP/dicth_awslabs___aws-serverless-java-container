@@ -1,0 +1,12 @@
+1	awslabs___aws-serverless-java-container
+2	#DEP#serverless
+3	#DEP#api
+4	#DEP#aw
+5	#DEP#sparkjavaframework
+6	#DEP#awlambda
+7	#DEP#sparkjava
+8	#DEP#spring
+9	#DEP#restapi
+10	#DEP#jersey
+11	#DEP#apigateway
+12	#DEP#apiserv

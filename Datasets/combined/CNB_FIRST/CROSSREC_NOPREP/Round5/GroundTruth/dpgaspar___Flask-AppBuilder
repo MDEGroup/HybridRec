@@ -1,0 +1,9 @@
+2	#DEP#sql
+3	#DEP#rest
+4	#DEP#web
+5	#DEP#crud
+6	#DEP#rbac
+7	#DEP#restapi
+8	#DEP#authent
+9	#DEP#flask
+10	#DEP#python

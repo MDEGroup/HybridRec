@@ -1,0 +1,11 @@
+1	txn2___kubefwd
+2	#DEP#network
+3	#DEP#cli
+4	#DEP#developtool
+5	#DEP#maco
+6	#DEP#linux
+7	#DEP#microservic
+8	#DEP#homebrew
+9	#DEP#kubernet
+10	#DEP#proxi
+11	#DEP#devop

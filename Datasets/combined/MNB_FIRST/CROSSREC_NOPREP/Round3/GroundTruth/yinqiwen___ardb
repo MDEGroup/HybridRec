@@ -1,0 +1,15 @@
+2	#DEP#leveldb
+3	#DEP#keyvalu
+4	#DEP#lua
+5	#DEP#rocksdb
+6	#DEP#persist
+7	#DEP#nosql
+8	#DEP#nosqldataba
+9	#DEP#lmdb
+10	#DEP#wiredtig
+11	#DEP#server
+12	#DEP#redi
+13	#DEP#percona
+14	#DEP#databas
+15	#DEP#cpluplu
+16	#DEP#forestdb

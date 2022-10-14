@@ -1,0 +1,6 @@
+2	#DEP#revealj
+3	#DEP#jupytnotebook
+4	#DEP#revealslidedeck
+5	#DEP#nbconvert
+6	#DEP#python3
+7	#DEP#cloudnativ

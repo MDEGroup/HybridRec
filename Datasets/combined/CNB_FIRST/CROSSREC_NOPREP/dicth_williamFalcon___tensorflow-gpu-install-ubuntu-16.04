@@ -1,0 +1,8 @@
+1	williamFalcon___tensorflow-gpu-install-ubuntu-16.04
+2	#DEP#nvidiadriv
+3	#DEP#ubuntu
+4	#DEP#deeplearn
+5	#DEP#tensorflow
+6	#DEP#machinlearn
+7	#DEP#tensorflowgpu
+8	#DEP#nouveau

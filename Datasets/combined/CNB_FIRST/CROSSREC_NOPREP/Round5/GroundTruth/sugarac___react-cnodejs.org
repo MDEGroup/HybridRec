@@ -1,0 +1,10 @@
+2	#DEP#react
+3	#DEP#axio
+4	#DEP#reactrout
+5	#DEP#expressj
+6	#DEP#pm2
+7	#DEP#awec2
+8	#DEP#eslint
+9	#DEP#nginx
+10	#DEP#mobx
+11	#DEP#materiui

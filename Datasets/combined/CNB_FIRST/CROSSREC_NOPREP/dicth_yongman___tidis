@@ -1,0 +1,11 @@
+1	yongman___tidis
+2	#DEP#tikv
+3	#DEP#rocksdb
+4	#DEP#transact
+5	#DEP#nosql
+6	#DEP#distributnosqldataba
+7	#DEP#transactstorag
+8	#DEP#redi
+9	#DEP#databas
+10	#DEP#raft
+11	#DEP#2pc

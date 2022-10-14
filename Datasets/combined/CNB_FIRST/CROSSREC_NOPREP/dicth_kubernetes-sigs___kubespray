@@ -1,0 +1,10 @@
+1	kubernetes-sigs___kubespray
+2	#DEP#aw
+3	#DEP#baremet
+4	#DEP#highavail
+5	#DEP#gce
+6	#DEP#kubespray
+7	#DEP#k8sigclusterlifecycl
+8	#DEP#kubernetclust
+9	#DEP#ansibl
+10	#DEP#kubernet

@@ -1,0 +1,8 @@
+2	#DEP#vcc
+3	#DEP#buildtool
+4	#DEP#nodegyp
+5	#DEP#nodej
+6	#DEP#microsoft
+7	#DEP#npm
+8	#DEP#window
+9	#DEP#python

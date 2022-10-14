@@ -1,0 +1,8 @@
+1	greymd___tmux-xpanes
+2	#DEP#tmuxplugin
+3	#DEP#bash
+4	#DEP#bashscript
+5	#DEP#cli
+6	#DEP#command
+7	#DEP#zshcomplet
+8	#DEP#tmux

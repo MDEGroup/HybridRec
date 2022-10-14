@@ -1,0 +1,16 @@
+1	openebs___openebs
+2	#DEP#devop
+3	#DEP#storagcontain
+4	#DEP#persiststorag
+5	#DEP#eb
+6	#DEP#pod
+7	#DEP#k8
+8	#DEP#cloudnativ
+9	#DEP#persistworkload
+10	#DEP#docker
+11	#DEP#openeb
+12	#DEP#blockstorag
+13	#DEP#storag
+14	#DEP#container
+15	#DEP#kubernet
+16	#DEP#ebvolum

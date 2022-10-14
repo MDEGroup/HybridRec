@@ -1,0 +1,9 @@
+1	xqemu___xqemu
+2	#DEP#emul
+3	#DEP#lle
+4	#DEP#game
+5	#DEP#maco
+6	#DEP#qemu
+7	#DEP#xbox
+8	#DEP#linux
+9	#DEP#window

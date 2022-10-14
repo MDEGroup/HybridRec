@@ -1,0 +1,6 @@
+1	finagle___finch
+2	#DEP#rest
+3	#DEP#web
+4	#DEP#http
+5	#DEP#json
+6	#DEP#scala

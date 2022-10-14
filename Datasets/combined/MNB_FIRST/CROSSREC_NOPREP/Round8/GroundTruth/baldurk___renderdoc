@@ -1,0 +1,10 @@
+2	#DEP#graphic
+3	#DEP#vulkan
+4	#DEP#graphicprogram
+5	#DEP#vulkanapi
+6	#DEP#d3d11
+7	#DEP#debugg
+8	#DEP#directx
+9	#DEP#direct3d
+10	#DEP#opengl
+11	#DEP#d3d12

@@ -1,0 +1,6 @@
+2	#DEP#addon
+3	#DEP#actioncabl
+4	#DEP#ember
+5	#DEP#socketio
+6	#DEP#phoenixchannel
+7	#DEP#pusher

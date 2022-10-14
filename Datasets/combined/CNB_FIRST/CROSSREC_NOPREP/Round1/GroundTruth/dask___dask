@@ -1,0 +1,7 @@
+2	#DEP#pydata
+3	#DEP#dask
+4	#DEP#scikitlearn
+5	#DEP#panda
+6	#DEP#numpi
+7	#DEP#scipi
+8	#DEP#python

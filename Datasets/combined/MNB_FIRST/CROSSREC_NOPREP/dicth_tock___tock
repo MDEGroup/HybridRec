@@ -1,0 +1,12 @@
+1	tock___tock
+2	#DEP#rust
+3	#DEP#microcontrol
+4	#DEP#arm
+5	#DEP#tock
+6	#DEP#cortex
+7	#DEP#embed
+8	#DEP#opersystem
+9	#DEP#securopersystem
+10	#DEP#iot
+11	#DEP#mcu
+12	#DEP#kernel

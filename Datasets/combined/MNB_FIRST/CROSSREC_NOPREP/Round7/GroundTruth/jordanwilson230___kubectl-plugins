@@ -1,0 +1,16 @@
+2	#DEP#ssh
+3	#DEP#devop
+4	#DEP#contextswitch
+5	#DEP#ek
+6	#DEP#googlcloud
+7	#DEP#plugin
+8	#DEP#cicd
+9	#DEP#kubectl
+10	#DEP#kubectlplugin
+11	#DEP#exec
+12	#DEP#pod
+13	#DEP#automdeploy
+14	#DEP#gke
+15	#DEP#namespac
+16	#DEP#deploy
+17	#DEP#kubernet

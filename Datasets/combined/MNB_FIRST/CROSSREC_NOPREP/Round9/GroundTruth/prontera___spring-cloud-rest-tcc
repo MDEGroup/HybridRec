@@ -1,0 +1,17 @@
+2	#DEP#springcloudnetflix
+3	#DEP#mybati
+4	#DEP#eureka
+5	#DEP#triconfirmcancel
+6	#DEP#springcloud
+7	#DEP#springcloudsleuth
+8	#DEP#hystrix
+9	#DEP#transact
+10	#DEP#tcc
+11	#DEP#eventdriven
+12	#DEP#turbin
+13	#DEP#distributtransact
+14	#DEP#zipkin
+15	#DEP#microservic
+16	#DEP#springbootadmin
+17	#DEP#docker
+18	#DEP#springboot

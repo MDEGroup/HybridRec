@@ -1,0 +1,10 @@
+1	techlayer___espresso.js
+2	#DEP#react
+3	#DEP#mvc
+4	#DEP#j
+5	#DEP#reactj
+6	#DEP#javascript
+7	#DEP#vue
+8	#DEP#es6
+9	#DEP#vuej
+10	#DEP#backbon

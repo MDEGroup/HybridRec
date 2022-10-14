@@ -1,0 +1,9 @@
+2	#DEP#arm
+3	#DEP#amd
+4	#DEP#vulkan
+5	#DEP#vulkanapi
+6	#DEP#vulkanlibrari
+7	#DEP#khrono
+8	#DEP#qualcomm
+9	#DEP#nvidia
+10	#DEP#opengl

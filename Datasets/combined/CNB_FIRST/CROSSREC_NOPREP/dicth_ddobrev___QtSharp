@@ -1,0 +1,11 @@
+1	ddobrev___QtSharp
+2	#DEP#bind
+3	#DEP#gui
+4	#DEP#glue
+5	#DEP#wrapper
+6	#DEP#qt
+7	#DEP#csharp
+8	#DEP#crossplatform
+9	#DEP#bridg
+10	#DEP#dotnet
+11	#DEP#mono

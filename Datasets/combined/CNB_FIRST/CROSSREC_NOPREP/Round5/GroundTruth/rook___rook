@@ -1,0 +1,8 @@
+2	#DEP#etcd
+3	#DEP#storagclust
+4	#DEP#cncf
+5	#DEP#docker
+6	#DEP#ceph
+7	#DEP#storag
+8	#DEP#kubernet
+9	#DEP#cloudnativ

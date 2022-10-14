@@ -1,0 +1,13 @@
+2	#DEP#vuecli
+3	#DEP#websocket
+4	#DEP#sc
+5	#DEP#koa2
+6	#DEP#gulp
+7	#DEP#vuerout
+8	#DEP#pm2
+9	#DEP#vuex
+10	#DEP#socketio
+11	#DEP#robot
+12	#DEP#vue
+13	#DEP#msyql
+14	#DEP#jwttoken

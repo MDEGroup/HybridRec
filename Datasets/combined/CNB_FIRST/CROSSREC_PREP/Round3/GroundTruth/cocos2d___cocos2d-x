@@ -1,0 +1,9 @@
+2	#DEP#cpluplu
+3	#DEP#window
+4	#DEP#lua
+5	#DEP#gameengin
+6	#DEP#cocosd
+7	#DEP#android
+8	#DEP#metal
+9	#DEP#io
+10	#DEP#cocosdx

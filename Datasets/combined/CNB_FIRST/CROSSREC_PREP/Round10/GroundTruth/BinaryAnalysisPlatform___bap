@@ -1,0 +1,16 @@
+2	#DEP#programanalysi
+3	#DEP#dynamanalysi
+4	#DEP#ontrolflowanalysi
+5	#DEP#taintanalysi
+6	#DEP#powerp
+7	#DEP#c
+8	#DEP#programverif
+9	#DEP#oaml
+10	#DEP#arm
+11	#DEP#reversengin
+12	#DEP#forens
+13	#DEP#emul
+14	#DEP#disembl
+15	#DEP#binarianalysi
+16	#DEP#statianalysi
+17	#DEP#instrutsem

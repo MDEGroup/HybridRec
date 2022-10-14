@@ -1,0 +1,7 @@
+2	#DEP#sql
+3	#DEP#kafkaconnect
+4	#DEP#interact
+5	#DEP#kafka
+6	#DEP#streamprocess
+7	#DEP#realtim
+8	#DEP#materiview

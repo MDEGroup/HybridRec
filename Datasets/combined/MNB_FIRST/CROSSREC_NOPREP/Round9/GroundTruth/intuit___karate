@@ -1,0 +1,8 @@
+2	#DEP#testtool
+3	#DEP#browserautom
+4	#DEP#assert
+5	#DEP#uitest
+6	#DEP#webapi
+7	#DEP#testautom
+8	#DEP#test
+9	#DEP#mockserv

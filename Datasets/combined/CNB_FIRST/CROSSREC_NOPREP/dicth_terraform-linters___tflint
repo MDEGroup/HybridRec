@@ -1,0 +1,7 @@
+1	terraform-linters___tflint
+2	#DEP#hcl
+3	#DEP#aw
+4	#DEP#linter
+5	#DEP#golang
+6	#DEP#terraform
+7	#DEP#lint

@@ -1,0 +1,7 @@
+2	#DEP#minikub
+3	#DEP#localdevelop
+4	#DEP#vpn
+5	#DEP#tunnel
+6	#DEP#proxi
+7	#DEP#docker
+8	#DEP#kubernet

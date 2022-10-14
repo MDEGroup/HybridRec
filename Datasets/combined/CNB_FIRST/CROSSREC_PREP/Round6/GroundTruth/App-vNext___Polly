@@ -1,0 +1,9 @@
+2	#DEP#resili
+3	#DEP#dotnet
+4	#DEP#faulthandl
+5	#DEP#design
+6	#DEP#transientfaulthandl
+7	#DEP#retristrategi
+8	#DEP#circtbreakerpattern
+9	#DEP#circtbreak
+10	#DEP#resilipattern

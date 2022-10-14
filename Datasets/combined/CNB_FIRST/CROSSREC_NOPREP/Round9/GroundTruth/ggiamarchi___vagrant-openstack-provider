@@ -1,0 +1,9 @@
+2	#DEP#devoptool
+3	#DEP#virtualmachin
+4	#DEP#cloud
+5	#DEP#iaa
+6	#DEP#devop
+7	#DEP#vagrantplugin
+8	#DEP#openstack
+9	#DEP#vagrant
+10	#DEP#vagrantprovid

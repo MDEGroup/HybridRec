@@ -1,0 +1,16 @@
+2	#DEP#mail
+3	#DEP#letsencrypt
+4	#DEP#smtp
+5	#DEP#amavi
+6	#DEP#ldap
+7	#DEP#dovecot
+8	#DEP#postfix
+9	#DEP#postgrey
+10	#DEP#opendmarc
+11	#DEP#ssl
+12	#DEP#opendkim
+13	#DEP#mailserv
+14	#DEP#docker
+15	#DEP#imap
+16	#DEP#spamassassin
+17	#DEP#fail2ban

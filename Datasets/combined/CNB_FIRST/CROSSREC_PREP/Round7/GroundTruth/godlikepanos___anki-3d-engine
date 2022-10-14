@@ -1,0 +1,6 @@
+2	#DEP#opengl
+3	#DEP#cpluplu
+4	#DEP#window
+5	#DEP#gameengin
+6	#DEP#unix-based
+7	#DEP#vulkan

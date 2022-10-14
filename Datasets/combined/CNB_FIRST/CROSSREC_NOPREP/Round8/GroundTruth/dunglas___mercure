@@ -1,0 +1,14 @@
+2	#DEP#api
+3	#DEP#realtimapi
+4	#DEP#streamapi
+5	#DEP#websocket
+6	#DEP#hypermedia
+7	#DEP#serversentev
+8	#DEP#asyncapi
+9	#DEP#graphql
+10	#DEP#push
+11	#DEP#golang
+12	#DEP#subscript
+13	#DEP#mercur
+14	#DEP#realtim
+15	#DEP#webapi

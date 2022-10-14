@@ -1,0 +1,14 @@
+2	#DEP#virtualmachin
+3	#DEP#lua
+4	#DEP#liko12
+5	#DEP#love2dframework
+6	#DEP#love2d
+7	#DEP#osx
+8	#DEP#fantasicomput
+9	#DEP#fantasiconsol
+10	#DEP#love
+11	#DEP#luajit
+12	#DEP#linux
+13	#DEP#ide
+14	#DEP#android
+15	#DEP#window

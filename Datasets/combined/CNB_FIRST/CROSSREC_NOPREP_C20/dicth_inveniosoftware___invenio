@@ -1,0 +1,7 @@
+1	inveniosoftware___invenio
+2	#DEP#postgresql
+3	#DEP#python
+4	#DEP#flask
+5	#DEP#redi
+6	#DEP#angularj
+7	#DEP#elasticsearch

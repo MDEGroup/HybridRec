@@ -1,0 +1,10 @@
+2	#DEP#spring
+3	#DEP#eureka
+4	#DEP#thymeleaf
+5	#DEP#bootadmin
+6	#DEP#cloud
+7	#DEP#hystrix
+8	#DEP#spring-boot
+9	#DEP#microservic
+10	#DEP#c
+11	#DEP#sso

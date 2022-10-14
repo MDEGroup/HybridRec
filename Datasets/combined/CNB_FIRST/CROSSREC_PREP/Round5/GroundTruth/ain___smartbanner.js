@@ -1,0 +1,12 @@
+2	#DEP#javascript
+3	#DEP#bower
+4	#DEP#smartbann
+5	#DEP#sc
+6	#DEP#npm
+7	#DEP#nodej
+8	#DEP#android
+9	#DEP#vanilla
+10	#DEP#io
+11	#DEP#mobil
+12	#DEP#smartappbann
+13	#DEP#ecmaript

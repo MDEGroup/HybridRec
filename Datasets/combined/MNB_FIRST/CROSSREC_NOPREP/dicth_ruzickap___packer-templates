@@ -1,0 +1,14 @@
+1	ruzickap___packer-templates
+2	#DEP#vagrantplugin
+3	#DEP#virtualbox
+4	#DEP#packer
+5	#DEP#libvirt
+6	#DEP#templat
+7	#DEP#virtio
+8	#DEP#driver
+9	#DEP#qemu
+10	#DEP#vagrant
+11	#DEP#packertemplat
+12	#DEP#linux
+13	#DEP#ansibl
+14	#DEP#window

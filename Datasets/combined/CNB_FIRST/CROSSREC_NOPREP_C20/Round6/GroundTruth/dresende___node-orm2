@@ -1,0 +1,6 @@
+2	#DEP#postgresql
+3	#DEP#mongodb
+4	#DEP#sqlite
+5	#DEP#databas
+6	#DEP#orm
+7	#DEP#mysql

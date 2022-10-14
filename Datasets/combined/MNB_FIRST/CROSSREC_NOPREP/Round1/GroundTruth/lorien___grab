@@ -1,0 +1,7 @@
+2	#DEP#httpclient
+3	#DEP#asynchron
+4	#DEP#framework
+5	#DEP#pycurl
+6	#DEP#webscrap
+7	#DEP#network
+8	#DEP#python

@@ -1,0 +1,11 @@
+2	#DEP#overlay
+3	#DEP#sc
+4	#DEP#kernel
+5	#DEP#minim
+6	#DEP#shell
+7	#DEP#shellript
+8	#DEP#uefi
+9	#DEP#opersystem
+10	#DEP#unix-based
+11	#DEP#c
+12	#DEP#efi

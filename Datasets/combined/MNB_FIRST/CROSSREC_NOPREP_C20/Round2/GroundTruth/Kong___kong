@@ -1,0 +1,10 @@
+2	#DEP#nginx
+3	#DEP#serverless
+4	#DEP#microservic
+5	#DEP#docker
+6	#DEP#apigateway
+7	#DEP#devop
+8	#DEP#iot
+9	#DEP#api
+10	#DEP#lua
+11	#DEP#cloudnativ

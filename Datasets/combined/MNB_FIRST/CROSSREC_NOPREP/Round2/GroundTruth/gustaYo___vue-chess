@@ -1,0 +1,6 @@
+2	#DEP#chessgam
+3	#DEP#express
+4	#DEP#socketio
+5	#DEP#webpack
+6	#DEP#mongodb
+7	#DEP#vuej

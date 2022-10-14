@@ -1,0 +1,13 @@
+2	#DEP#deploy
+3	#DEP#gem
+4	#DEP#rubi
+5	#DEP#ftp
+6	#DEP#docker
+7	#DEP#autom
+8	#DEP#taskrunn
+9	#DEP#dokerimag
+10	#DEP#wpli
+11	#DEP#wordpress
+12	#DEP#c
+13	#DEP#multistag
+14	#DEP#ssh

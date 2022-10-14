@@ -1,0 +1,13 @@
+1	elasticluster___elasticluster
+2	#DEP#ec2
+3	#DEP#gcp
+4	#DEP#cloud
+5	#DEP#azur
+6	#DEP#slurm
+7	#DEP#hadoop
+8	#DEP#gridengin
+9	#DEP#hpc
+10	#DEP#python
+11	#DEP#spark
+12	#DEP#cluster
+13	#DEP#ansibl

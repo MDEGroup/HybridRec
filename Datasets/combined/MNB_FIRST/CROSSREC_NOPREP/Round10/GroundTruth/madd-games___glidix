@@ -1,0 +1,6 @@
+2	#DEP#gui
+3	#DEP#opersystem
+4	#DEP#posix
+5	#DEP#shell
+6	#DEP#c
+7	#DEP#kernel

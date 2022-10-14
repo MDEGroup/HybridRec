@@ -1,0 +1,9 @@
+2	#DEP#emul
+3	#DEP#cloud
+4	#DEP#aw
+5	#DEP#docker
+6	#DEP#kubernet
+7	#DEP#android
+8	#DEP#gcp
+9	#DEP#terraform
+10	#DEP#azur

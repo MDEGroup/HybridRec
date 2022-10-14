@@ -1,0 +1,10 @@
+2	#DEP#structurlog
+3	#DEP#express
+4	#DEP#12factor
+5	#DEP#openapi
+6	#DEP#swagger
+7	#DEP#expressj
+8	#DEP#openapi3
+9	#DEP#yeomangen
+10	#DEP#scaffold
+11	#DEP#babel

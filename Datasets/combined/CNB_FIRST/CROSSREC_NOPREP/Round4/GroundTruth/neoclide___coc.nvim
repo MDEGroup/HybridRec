@@ -1,0 +1,7 @@
+2	#DEP#languagserv
+3	#DEP#languagcli
+4	#DEP#lsp
+5	#DEP#autocomplet
+6	#DEP#neovim
+7	#DEP#intellisens
+8	#DEP#vim

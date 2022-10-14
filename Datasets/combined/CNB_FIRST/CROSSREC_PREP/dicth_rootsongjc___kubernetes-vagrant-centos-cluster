@@ -1,0 +1,14 @@
+1	rootsongjc___kubernetes-vagrant-centos-cluster
+2	#DEP#helm
+3	#DEP#kubernetlust
+4	#DEP#vagrant
+5	#DEP#virtualbox
+6	#DEP#cloud
+7	#DEP#docker
+8	#DEP#io
+9	#DEP#ist
+10	#DEP#fil
+11	#DEP#nativ
+12	#DEP#traefik
+13	#DEP#c
+14	#DEP#kubernet

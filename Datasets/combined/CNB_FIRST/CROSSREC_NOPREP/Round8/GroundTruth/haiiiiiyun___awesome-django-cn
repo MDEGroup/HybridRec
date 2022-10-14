@@ -1,0 +1,7 @@
+2	#DEP#djangoappl
+3	#DEP#djangoframework
+4	#DEP#djangomodel
+5	#DEP#djangoorm
+6	#DEP#djangoadmin
+7	#DEP#djangorest
+8	#DEP#django

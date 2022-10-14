@@ -1,0 +1,8 @@
+1	peer-base___peer-base
+2	#DEP#peer
+3	#DEP#ipf
+4	#DEP#crdt
+5	#DEP#deltacrdt
+6	#DEP#decentr
+7	#DEP#collabor
+8	#DEP#peerstar

@@ -1,0 +1,6 @@
+2	#DEP#proguard
+3	#DEP#mavenplugin
+4	#DEP#minif
+5	#DEP#java
+6	#DEP#obfusc
+7	#DEP#maven

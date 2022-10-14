@@ -1,0 +1,6 @@
+1	cobbler___cobbler
+2	#DEP#deploy
+3	#DEP#python
+4	#DEP#obbler
+5	#DEP#c
+6	#DEP#dhp

@@ -1,0 +1,7 @@
+2	#DEP#cocoapod
+3	#DEP#log
+4	#DEP#maco
+5	#DEP#carthag
+6	#DEP#debug
+7	#DEP#io
+8	#DEP#swift

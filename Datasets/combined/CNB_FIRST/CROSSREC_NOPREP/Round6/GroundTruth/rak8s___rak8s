@@ -1,0 +1,10 @@
+2	#DEP#ansiblrol
+3	#DEP#kubernetsetup
+4	#DEP#ansiblplaybook
+5	#DEP#kubectl
+6	#DEP#kubernetclust
+7	#DEP#raspberripi
+8	#DEP#ansibl
+9	#DEP#kubeadm
+10	#DEP#kubernet
+11	#DEP#raspberripi3

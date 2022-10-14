@@ -1,0 +1,8 @@
+1	opserver___Opserver
+2	#DEP#dotnet
+3	#DEP#elasticsearch
+4	#DEP#io
+5	#DEP#orn
+6	#DEP#sql
+7	#DEP#monitor
+8	#DEP#redi

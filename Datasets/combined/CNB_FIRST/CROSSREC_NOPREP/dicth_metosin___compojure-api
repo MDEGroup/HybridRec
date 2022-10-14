@@ -1,0 +1,11 @@
+1	metosin___compojure-api
+2	#DEP#clojurspec
+3	#DEP#api
+4	#DEP#schema
+5	#DEP#rest
+6	#DEP#openapi
+7	#DEP#clojur
+8	#DEP#async
+9	#DEP#http
+10	#DEP#ring
+11	#DEP#swagger

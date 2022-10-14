@@ -1,0 +1,9 @@
+2	#DEP#argo
+3	#DEP#workflow
+4	#DEP#airflow
+5	#DEP#knativ
+6	#DEP#dag
+7	#DEP#machinlearn
+8	#DEP#argoworkflow
+9	#DEP#workflowengin
+10	#DEP#kubernet

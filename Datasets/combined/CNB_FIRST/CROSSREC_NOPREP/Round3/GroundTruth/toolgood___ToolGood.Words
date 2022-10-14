@@ -1,0 +1,15 @@
+2	#DEP#filter
+3	#DEP#ahocorasick
+4	#DEP#wordfilt
+5	#DEP#stringsearch
+6	#DEP#textfilt
+7	#DEP#trietre
+8	#DEP#textmatch
+9	#DEP#golang
+10	#DEP#pinyin
+11	#DEP#sensitwordfilt
+12	#DEP#textsearch
+13	#DEP#stringmatch
+14	#DEP#java
+15	#DEP#dotnet
+16	#DEP#wordssearch

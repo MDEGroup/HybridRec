@@ -1,0 +1,13 @@
+1	ab77___netflix-proxy
+2	#DEP#netflix
+3	#DEP#dnserver
+4	#DEP#dnsmasq
+5	#DEP#ipv4
+6	#DEP#alpinlinux
+7	#DEP#sniproxi
+8	#DEP#docker
+9	#DEP#shell
+10	#DEP#caddyserv
+11	#DEP#python
+12	#DEP#dnproxi
+13	#DEP#supportipv6

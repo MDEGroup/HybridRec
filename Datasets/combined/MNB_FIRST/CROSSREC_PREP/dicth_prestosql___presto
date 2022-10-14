@@ -1,0 +1,8 @@
+1	prestosql___presto
+2	#DEP#java
+3	#DEP#hadoop
+4	#DEP#podb
+5	#DEP#bigdata
+6	#DEP#hive
+7	#DEP#sql
+8	#DEP#rest

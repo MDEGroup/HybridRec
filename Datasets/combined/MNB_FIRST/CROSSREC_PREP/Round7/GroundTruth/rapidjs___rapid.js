@@ -1,0 +1,11 @@
+2	#DEP#model
+3	#DEP#laravel
+4	#DEP#ajax
+5	#DEP#promis
+6	#DEP#fluent
+7	#DEP#orm
+8	#DEP#wrapp
+9	#DEP#c
+10	#DEP#router
+11	#DEP#api
+12	#DEP#interfa

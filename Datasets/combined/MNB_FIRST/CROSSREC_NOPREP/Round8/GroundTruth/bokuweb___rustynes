@@ -1,0 +1,12 @@
+2	#DEP#rust
+3	#DEP#famicomemul
+4	#DEP#ne
+5	#DEP#game
+6	#DEP#canva
+7	#DEP#emscripten
+8	#DEP#neemul
+9	#DEP#webassembl
+10	#DEP#emul
+11	#DEP#neemu
+12	#DEP#canvagam
+13	#DEP#wasm

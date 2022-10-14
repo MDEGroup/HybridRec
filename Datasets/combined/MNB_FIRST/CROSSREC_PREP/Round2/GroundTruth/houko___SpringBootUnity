@@ -1,0 +1,16 @@
+2	#DEP#java
+3	#DEP#nginx
+4	#DEP#hedul
+5	#DEP#thymeleaf
+6	#DEP#sc
+7	#DEP#mvc
+8	#DEP#lombok
+9	#DEP#redi
+10	#DEP#mysql
+11	#DEP#mybati
+12	#DEP#spring-boot
+13	#DEP#mongo
+14	#DEP#hibern
+15	#DEP#spring
+16	#DEP#swagger
+17	#DEP#freemark

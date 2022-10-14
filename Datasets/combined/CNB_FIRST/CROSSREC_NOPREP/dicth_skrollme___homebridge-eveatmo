@@ -1,0 +1,7 @@
+1	skrollme___homebridge-eveatmo
+2	#DEP#homebridgplugin
+3	#DEP#homebridg
+4	#DEP#netatmo
+5	#DEP#homebridgnetatmo
+6	#DEP#netatmoweatherst
+7	#DEP#homekit

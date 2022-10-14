@@ -1,0 +1,10 @@
+2	#DEP#koa
+3	#DEP#express
+4	#DEP#graphql
+5	#DEP#boilerpl
+6	#DEP#cli
+7	#DEP#nodej
+8	#DEP#relay
+9	#DEP#mongoos
+10	#DEP#yeoman
+11	#DEP#graphqlserv

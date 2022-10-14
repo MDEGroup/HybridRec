@@ -1,0 +1,6 @@
+2	#DEP#boltdb
+3	#DEP#quericriterion
+4	#DEP#nosql
+5	#DEP#go
+6	#DEP#golang
+7	#DEP#bucket

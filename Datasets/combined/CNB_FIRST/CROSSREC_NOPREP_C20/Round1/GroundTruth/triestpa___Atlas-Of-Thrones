@@ -1,0 +1,6 @@
+2	#DEP#postgresql
+3	#DEP#map
+4	#DEP#redi
+5	#DEP#javascript
+6	#DEP#koa
+7	#DEP#api

@@ -1,0 +1,8 @@
+2	#DEP#publish
+3	#DEP#haskel
+4	#DEP#markup
+5	#DEP#present
+6	#DEP#convert
+7	#DEP#markdown
+8	#DEP#pandoc
+9	#DEP#document

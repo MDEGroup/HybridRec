@@ -1,0 +1,8 @@
+1	almond-sh___almond
+2	#DEP#jupytnotebook
+3	#DEP#jupytkernel
+4	#DEP#jupyt
+5	#DEP#scala
+6	#DEP#sparksql
+7	#DEP#spark
+8	#DEP#repl

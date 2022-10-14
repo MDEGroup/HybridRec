@@ -1,0 +1,12 @@
+2	#DEP#pu
+3	#DEP#perform
+4	#DEP#disk
+5	#DEP#pidstat
+6	#DEP#mpstat
+7	#DEP#memori
+8	#DEP#tapestat
+9	#DEP#io
+10	#DEP#monitor
+11	#DEP#c
+12	#DEP#unix-based
+13	#DEP#sadf

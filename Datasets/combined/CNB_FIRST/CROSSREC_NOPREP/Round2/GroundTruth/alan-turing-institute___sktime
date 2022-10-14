@@ -1,0 +1,11 @@
+2	#DEP#scikitlearn
+3	#DEP#supervislearn
+4	#DEP#forecast
+5	#DEP#paneldata
+6	#DEP#longitudindata
+7	#DEP#timeserianalysi
+8	#DEP#timesericlassif
+9	#DEP#python
+10	#DEP#timeseripredict
+11	#DEP#timeseriforecast
+12	#DEP#timeseri

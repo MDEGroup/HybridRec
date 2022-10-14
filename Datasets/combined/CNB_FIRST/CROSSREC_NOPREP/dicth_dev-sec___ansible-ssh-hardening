@@ -1,0 +1,9 @@
+1	dev-sec___ansible-ssh-hardening
+2	#DEP#playbook
+3	#DEP#sshagent
+4	#DEP#sshserver
+5	#DEP#role
+6	#DEP#harden
+7	#DEP#protect
+8	#DEP#sshconfigur
+9	#DEP#ansibl

@@ -1,0 +1,11 @@
+1	keel-hq___keel
+2	#DEP#hook
+3	#DEP#deploy
+4	#DEP#helm
+5	#DEP#keel
+6	#DEP#go
+7	#DEP#docker
+8	#DEP#autom
+9	#DEP#semver
+10	#DEP#trigger
+11	#DEP#kubernet

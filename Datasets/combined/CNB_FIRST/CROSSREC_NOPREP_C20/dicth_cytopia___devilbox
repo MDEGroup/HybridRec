@@ -1,0 +1,10 @@
+1	cytopia___devilbox
+2	#DEP#nginx
+3	#DEP#postgresql
+4	#DEP#mariadb
+5	#DEP#redi
+6	#DEP#docker
+7	#DEP#php7
+8	#DEP#php
+9	#DEP#mysql
+10	#DEP#dockercompo

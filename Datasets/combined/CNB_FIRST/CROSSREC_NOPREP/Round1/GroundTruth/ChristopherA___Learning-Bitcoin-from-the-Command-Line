@@ -1,0 +1,12 @@
+2	#DEP#bitcoin
+3	#DEP#blockchain
+4	#DEP#rawtransact
+5	#DEP#transact
+6	#DEP#sendcoin
+7	#DEP#cli
+8	#DEP#multisig
+9	#DEP#bitcoinscript
+10	#DEP#controlbitcointransact
+11	#DEP#bitcoinsetup
+12	#DEP#sendbitcointransact
+13	#DEP#p2sh

@@ -1,0 +1,10 @@
+1	apache___incubator-apisix
+2	#DEP#apisix
+3	#DEP#lua
+4	#DEP#api
+5	#DEP#microservic
+6	#DEP#nginx
+7	#DEP#luajit
+8	#DEP#apimanag
+9	#DEP#apigateway
+10	#DEP#cloudnativ

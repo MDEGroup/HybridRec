@@ -1,0 +1,10 @@
+2	#DEP#sql
+3	#DEP#rust
+4	#DEP#queri
+5	#DEP#tool
+6	#DEP#find
+7	#DEP#sqllike
+8	#DEP#cli
+9	#DEP#filesystem
+10	#DEP#util
+11	#DEP#file

@@ -1,0 +1,6 @@
+2	#DEP#reactivstream
+3	#DEP#http
+4	#DEP#circ
+5	#DEP#restapi
+6	#DEP#scala
+7	#DEP#elasticsearch

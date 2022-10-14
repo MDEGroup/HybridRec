@@ -1,0 +1,10 @@
+1	luxas___kubeadm-workshop
+2	#DEP#rook
+3	#DEP#persiststorag
+4	#DEP#multiplatform
+5	#DEP#custommetr
+6	#DEP#monitor
+7	#DEP#workshop
+8	#DEP#raspberripi
+9	#DEP#kubeadm
+10	#DEP#kubernet

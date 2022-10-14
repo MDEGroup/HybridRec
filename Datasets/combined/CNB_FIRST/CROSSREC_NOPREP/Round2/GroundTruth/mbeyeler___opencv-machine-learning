@@ -1,0 +1,9 @@
+2	#DEP#bayesianlearn
+3	#DEP#jupytnotebook
+4	#DEP#decistre
+5	#DEP#condaenviron
+6	#DEP#supportvectormachin
+7	#DEP#classifihandwrittendigit
+8	#DEP#machinlearn
+9	#DEP#opencv
+10	#DEP#python

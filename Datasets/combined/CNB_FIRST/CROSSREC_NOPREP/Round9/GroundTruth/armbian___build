@@ -1,0 +1,10 @@
+2	#DEP#sdcard
+3	#DEP#arm
+4	#DEP#buildtool
+5	#DEP#ubuntu
+6	#DEP#debian
+7	#DEP#distribut
+8	#DEP#opersystem
+9	#DEP#kernelcompil
+10	#DEP#kernel
+11	#DEP#lightweight

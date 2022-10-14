@@ -1,0 +1,8 @@
+2	#DEP#sql
+3	#DEP#electron
+4	#DEP#postgresql
+5	#DEP#plotli
+6	#DEP#visual
+7	#DEP#redshift
+8	#DEP#falcon
+9	#DEP#mysqlclient

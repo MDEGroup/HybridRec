@@ -1,0 +1,14 @@
+1	alibaba___nacos
+2	#DEP#dubbo
+3	#DEP#springcloud
+4	#DEP#alibaba
+5	#DEP#configurmanag
+6	#DEP#servicdiscoveri
+7	#DEP#dn
+8	#DEP#distributconfigur
+9	#DEP#microservic
+10	#DEP#config
+11	#DEP#naco
+12	#DEP#servicmesh
+13	#DEP#kubernet
+14	#DEP#istio

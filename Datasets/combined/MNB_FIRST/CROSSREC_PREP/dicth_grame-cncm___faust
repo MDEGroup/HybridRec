@@ -1,0 +1,10 @@
+1	grame-cncm___faust
+2	#DEP#aud
+3	#DEP#llvm
+4	#DEP#cplusplus
+5	#DEP#io
+6	#DEP#dsp
+7	#DEP#compil
+8	#DEP#funtionprogram
+9	#DEP#c
+10	#DEP#wasm

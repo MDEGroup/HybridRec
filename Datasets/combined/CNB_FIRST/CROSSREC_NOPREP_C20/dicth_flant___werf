@@ -1,0 +1,11 @@
+1	flant___werf
+2	#DEP#cicd
+3	#DEP#docker
+4	#DEP#dockerimag
+5	#DEP#continudeliveri
+6	#DEP#kubernet
+7	#DEP#ansibl
+8	#DEP#golang
+9	#DEP#devop
+10	#DEP#go
+11	#DEP#continuintegr

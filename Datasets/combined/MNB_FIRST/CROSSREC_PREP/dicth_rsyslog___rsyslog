@@ -1,0 +1,6 @@
+1	rsyslog___rsyslog
+2	#DEP#elasticsearch
+3	#DEP#kafka
+4	#DEP#log
+5	#DEP#c
+6	#DEP#mongo

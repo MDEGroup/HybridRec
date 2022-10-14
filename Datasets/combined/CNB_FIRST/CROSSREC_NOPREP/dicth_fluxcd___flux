@@ -1,0 +1,7 @@
+1	fluxcd___flux
+2	#DEP#continudeploy
+3	#DEP#kubernet
+4	#DEP#kustom
+5	#DEP#gitop
+6	#DEP#continudeliveri
+7	#DEP#helm

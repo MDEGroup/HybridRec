@@ -1,0 +1,11 @@
+2	#DEP#facedetect
+3	#DEP#selfhost
+4	#DEP#facerecognit
+5	#DEP#googlphoto
+6	#DEP#docker
+7	#DEP#objectdetect
+8	#DEP#photo
+9	#DEP#django
+10	#DEP#djangorestframework
+11	#DEP#galleri
+12	#DEP#backend

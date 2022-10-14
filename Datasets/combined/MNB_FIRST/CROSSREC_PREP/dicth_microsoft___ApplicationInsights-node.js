@@ -1,0 +1,10 @@
+1	microsoft___ApplicationInsights-node.js
+2	#DEP#azur
+3	#DEP#distributtra
+4	#DEP#appliinsight
+5	#DEP#nodej
+6	#DEP#log
+7	#DEP#observ
+8	#DEP#sdk
+9	#DEP#monitor
+10	#DEP#c

@@ -1,0 +1,15 @@
+1	xeraa___vagrant-elastic-stack
+2	#DEP#nginx
+3	#DEP#ovumimag
+4	#DEP#elasticsearch
+5	#DEP#vagrant
+6	#DEP#logstash
+7	#DEP#docker
+8	#DEP#redi
+9	#DEP#kibana
+10	#DEP#ansibl
+11	#DEP#paketbeat
+12	#DEP#mongo
+13	#DEP#ovum
+14	#DEP#c
+15	#DEP#metribeat

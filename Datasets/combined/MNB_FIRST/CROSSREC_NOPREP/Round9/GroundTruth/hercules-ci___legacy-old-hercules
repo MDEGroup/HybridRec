@@ -1,0 +1,8 @@
+2	#DEP#elm
+3	#DEP#nix
+4	#DEP#haskel
+5	#DEP#declar
+6	#DEP#hydra
+7	#DEP#hercul
+8	#DEP#ci
+9	#DEP#continuintegr

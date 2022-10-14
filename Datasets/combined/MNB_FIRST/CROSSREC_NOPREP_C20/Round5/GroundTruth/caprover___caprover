@@ -1,0 +1,12 @@
+2	#DEP#webserv
+3	#DEP#nginx
+4	#DEP#python
+5	#DEP#nodej
+6	#DEP#node
+7	#DEP#aw
+8	#DEP#contain
+9	#DEP#heroku
+10	#DEP#docker
+11	#DEP#deploy
+12	#DEP#php
+13	#DEP#azur

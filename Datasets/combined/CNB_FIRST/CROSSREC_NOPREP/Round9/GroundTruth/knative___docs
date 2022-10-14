@@ -1,0 +1,6 @@
+2	#DEP#serverless
+3	#DEP#paa
+4	#DEP#faa
+5	#DEP#kubernet
+6	#DEP#istio
+7	#DEP#document

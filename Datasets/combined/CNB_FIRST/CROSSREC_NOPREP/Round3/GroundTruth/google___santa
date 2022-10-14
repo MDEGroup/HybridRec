@@ -1,0 +1,8 @@
+2	#DEP#kext
+3	#DEP#kernelexten
+4	#DEP#whitelist
+5	#DEP#objectc
+6	#DEP#maco
+7	#DEP#santa
+8	#DEP#blacklist
+9	#DEP#secur

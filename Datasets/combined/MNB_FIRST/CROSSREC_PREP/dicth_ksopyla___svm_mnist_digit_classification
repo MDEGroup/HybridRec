@@ -1,0 +1,9 @@
+1	ksopyla___svm_mnist_digit_classification
+2	#DEP#mnistlassif
+3	#DEP#svmmnist
+4	#DEP#sc
+5	#DEP#scikitlearn
+6	#DEP#ikitlearnmnist
+7	#DEP#supportvetormahin
+8	#DEP#c
+9	#DEP#svmmnistlassif

@@ -1,0 +1,9 @@
+2	#DEP#rust
+3	#DEP#linux
+4	#DEP#maco
+5	#DEP#crosstest
+6	#DEP#templat
+7	#DEP#crosscompil
+8	#DEP#bsd
+9	#DEP#window
+10	#DEP#continuintegr

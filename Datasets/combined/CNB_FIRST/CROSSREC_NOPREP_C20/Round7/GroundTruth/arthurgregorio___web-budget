@@ -1,0 +1,7 @@
+2	#DEP#maven
+3	#DEP#java
+4	#DEP#postgresql
+5	#DEP#web
+6	#DEP#mariadb
+7	#DEP#docker
+8	#DEP#html

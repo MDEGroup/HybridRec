@@ -1,0 +1,10 @@
+1	postlight___serverless-babel-starter
+2	#DEP#serverless
+3	#DEP#aw
+4	#DEP#jest
+5	#DEP#starterkit
+6	#DEP#prettier
+7	#DEP#eslint
+8	#DEP#lambdafunct
+9	#DEP#webpack
+10	#DEP#babel

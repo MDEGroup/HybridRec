@@ -1,0 +1,6 @@
+1	strapdata___elassandra
+2	#DEP#nosql
+3	#DEP#restapi
+4	#DEP#spark
+5	#DEP#search
+6	#DEP#elasticsearch

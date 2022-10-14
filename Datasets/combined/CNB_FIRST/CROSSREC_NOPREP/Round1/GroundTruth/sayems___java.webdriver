@@ -1,0 +1,8 @@
+2	#DEP#testng
+3	#DEP#pageobject
+4	#DEP#seleniumjava
+5	#DEP#java
+6	#DEP#webdriv
+7	#DEP#selenium
+8	#DEP#seleniumwebdriv
+9	#DEP#maven

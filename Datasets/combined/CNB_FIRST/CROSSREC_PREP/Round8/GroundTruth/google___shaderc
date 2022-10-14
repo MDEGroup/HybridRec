@@ -1,0 +1,6 @@
+2	#DEP#hlsl
+3	#DEP#spirvross
+4	#DEP#compil
+5	#DEP#shader
+6	#DEP#c
+7	#DEP#vulkan

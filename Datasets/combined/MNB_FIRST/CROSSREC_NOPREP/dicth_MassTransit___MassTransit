@@ -1,0 +1,12 @@
+1	MassTransit___MassTransit
+2	#DEP#rabbitmq
+3	#DEP#gitterchat
+4	#DEP#azurservicbu
+5	#DEP#masstransit
+6	#DEP#appveyor
+7	#DEP#dotnet
+8	#DEP#dotnetcore2
+9	#DEP#nuget
+10	#DEP#csharp
+11	#DEP#topshelf
+12	#DEP#messag

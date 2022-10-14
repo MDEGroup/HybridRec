@@ -1,0 +1,10 @@
+1	cube-js___cube.js
+2	#DEP#postgresql
+3	#DEP#analyt
+4	#DEP#serverless
+5	#DEP#nodej
+6	#DEP#chart
+7	#DEP#javascript
+8	#DEP#microservic
+9	#DEP#spark
+10	#DEP#mysql

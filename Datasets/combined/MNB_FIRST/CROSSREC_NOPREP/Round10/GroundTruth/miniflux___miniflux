@@ -1,0 +1,10 @@
+2	#DEP#atom
+3	#DEP#letsencrypt
+4	#DEP#postgresql
+5	#DEP#r
+6	#DEP#go
+7	#DEP#golang
+8	#DEP#opml
+9	#DEP#rdf
+10	#DEP#jsonfe
+11	#DEP#feed

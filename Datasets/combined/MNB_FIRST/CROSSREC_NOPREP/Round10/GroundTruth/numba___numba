@@ -1,0 +1,7 @@
+2	#DEP#rocm
+3	#DEP#llvm
+4	#DEP#cuda
+5	#DEP#numpi
+6	#DEP#compil
+7	#DEP#parallel
+8	#DEP#python

@@ -1,0 +1,9 @@
+1	wasmerio___wasmer
+2	#DEP#window
+3	#DEP#rust
+4	#DEP#sc
+5	#DEP#maco
+6	#DEP#emripten
+7	#DEP#unix-based
+8	#DEP#wasm
+9	#DEP#assembl

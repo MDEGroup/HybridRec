@@ -1,0 +1,8 @@
+2	#DEP#opengl
+3	#DEP#cpluplu
+4	#DEP#sc
+5	#DEP#reenshot
+6	#DEP#imagemagik
+7	#DEP#shader
+8	#DEP#c
+9	#DEP#command-line

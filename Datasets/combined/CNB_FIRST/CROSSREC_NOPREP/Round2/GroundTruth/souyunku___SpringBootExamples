@@ -1,0 +1,13 @@
+2	#DEP#dubbo
+3	#DEP#mybati
+4	#DEP#rocketmq
+5	#DEP#solr
+6	#DEP#rabbit
+7	#DEP#solrcloud
+8	#DEP#kafka
+9	#DEP#springboot
+10	#DEP#docker
+11	#DEP#redi
+12	#DEP#swagger
+13	#DEP#elasticsearch
+14	#DEP#mongodb

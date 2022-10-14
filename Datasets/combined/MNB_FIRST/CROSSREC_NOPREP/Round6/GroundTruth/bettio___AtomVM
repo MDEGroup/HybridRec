@@ -1,0 +1,6 @@
+2	#DEP#elixir
+3	#DEP#embed
+4	#DEP#stm32
+5	#DEP#erlang
+6	#DEP#c
+7	#DEP#esp32

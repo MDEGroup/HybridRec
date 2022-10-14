@@ -1,0 +1,10 @@
+2	#DEP#guic
+3	#DEP#framework
+4	#DEP#http
+5	#DEP#microservic
+6	#DEP#finagl
+7	#DEP#twitterserv
+8	#DEP#scala
+9	#DEP#thrift
+10	#DEP#test
+11	#DEP#slf4j

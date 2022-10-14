@@ -1,0 +1,11 @@
+2	#DEP#rust
+3	#DEP#aarch64
+4	#DEP#embedrust
+5	#DEP#rpi3
+6	#DEP#arm64
+7	#DEP#armv8
+8	#DEP#baremet
+9	#DEP#opersystem
+10	#DEP#kernel
+11	#DEP#raspberri
+12	#DEP#raspberripi3

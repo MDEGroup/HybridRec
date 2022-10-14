@@ -1,0 +1,6 @@
+1	jhass___crystal-gobject
+2	#DEP#libnotifi
+3	#DEP#c
+4	#DEP#rystal
+5	#DEP#gtk
+6	#DEP#gobectintrospect

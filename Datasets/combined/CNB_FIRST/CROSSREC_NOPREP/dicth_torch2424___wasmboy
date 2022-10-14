@@ -1,0 +1,9 @@
+1	torch2424___wasmboy
+2	#DEP#gameboy
+3	#DEP#preact
+4	#DEP#webassembl
+5	#DEP#emul
+6	#DEP#gameboycolor
+7	#DEP#gameboyemul
+8	#DEP#wasm
+9	#DEP#assemblyscript

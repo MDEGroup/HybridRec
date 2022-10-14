@@ -1,0 +1,7 @@
+1	instaclustr___cassandra-operator
+2	#DEP#cassandra
+3	#DEP#nosql
+4	#DEP#op
+5	#DEP#storag
+6	#DEP#kubernetop
+7	#DEP#kubernet

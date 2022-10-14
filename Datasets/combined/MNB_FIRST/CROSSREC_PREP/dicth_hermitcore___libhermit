@@ -1,0 +1,8 @@
+1	hermitcore___libhermit
+2	#DEP#perform
+3	#DEP#highcomput
+4	#DEP#kernel
+5	#DEP#cloud
+6	#DEP#opersystem
+7	#DEP#comput
+8	#DEP#osdev

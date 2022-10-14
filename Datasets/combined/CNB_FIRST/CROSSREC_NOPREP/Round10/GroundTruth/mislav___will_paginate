@@ -1,0 +1,6 @@
+2	#DEP#plugin
+3	#DEP#sinatra
+4	#DEP#datamapp
+5	#DEP#rail
+6	#DEP#paginlibrari
+7	#DEP#sequel

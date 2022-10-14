@@ -1,0 +1,9 @@
+1	dmlc___nnvm
+2	#DEP#deploy
+3	#DEP#omputgraph
+4	#DEP#openl
+5	#DEP#metal
+6	#DEP#ro
+7	#DEP#deeplearn
+8	#DEP#uda
+9	#DEP#c

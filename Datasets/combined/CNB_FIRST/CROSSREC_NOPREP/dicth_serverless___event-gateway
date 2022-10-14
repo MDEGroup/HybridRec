@@ -1,0 +1,8 @@
+1	serverless___event-gateway
+2	#DEP#serverless
+3	#DEP#pubsub
+4	#DEP#eventdriven
+5	#DEP#eventrout
+6	#DEP#golang
+7	#DEP#functionserv
+8	#DEP#dataflow

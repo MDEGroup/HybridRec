@@ -1,0 +1,10 @@
+2	#DEP#smtp
+3	#DEP#develop
+4	#DEP#smtpserver
+5	#DEP#developtool
+6	#DEP#docker
+7	#DEP#nodej
+8	#DEP#nodemail
+9	#DEP#mailcatch
+10	#DEP#test
+11	#DEP#maildev

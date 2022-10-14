@@ -1,0 +1,8 @@
+1	syndbg___goenv
+2	#DEP#go
+3	#DEP#io
+4	#DEP#homebrew
+5	#DEP#bash
+6	#DEP#shimenv
+7	#DEP#environment
+8	#DEP#versnmanag

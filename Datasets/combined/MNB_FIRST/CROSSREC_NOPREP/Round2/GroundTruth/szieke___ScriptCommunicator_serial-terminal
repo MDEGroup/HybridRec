@@ -1,0 +1,9 @@
+2	#DEP#script
+3	#DEP#spimast
+4	#DEP#serialport
+5	#DEP#tcp
+6	#DEP#qt
+7	#DEP#serial
+8	#DEP#bu
+9	#DEP#termin
+10	#DEP#udp

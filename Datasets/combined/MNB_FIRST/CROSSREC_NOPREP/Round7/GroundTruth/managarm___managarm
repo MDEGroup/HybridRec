@@ -1,0 +1,6 @@
+2	#DEP#x8664
+3	#DEP#moderncpp
+4	#DEP#asynchronio
+5	#DEP#posixcompat
+6	#DEP#microkernel
+7	#DEP#opersystem

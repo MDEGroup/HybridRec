@@ -1,0 +1,14 @@
+2	#DEP#postgresql
+3	#DEP#zenodo
+4	#DEP#researchdatarepositori
+5	#DEP#scientifpubl
+6	#DEP#librarimanag
+7	#DEP#researchdatamanag
+8	#DEP#openscienc
+9	#DEP#invenio
+10	#DEP#digitlibrari
+11	#DEP#openaccess
+12	#DEP#flask
+13	#DEP#inveniosoftwar
+14	#DEP#elasticsearch
+15	#DEP#python

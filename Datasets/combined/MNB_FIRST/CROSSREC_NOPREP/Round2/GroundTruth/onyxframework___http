@@ -1,0 +1,8 @@
+2	#DEP#web
+3	#DEP#framework
+4	#DEP#websocket
+5	#DEP#router
+6	#DEP#onyxframework
+7	#DEP#httphandler
+8	#DEP#crystal
+9	#DEP#modular

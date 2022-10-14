@@ -1,0 +1,9 @@
+2	#DEP#websocket
+3	#DEP#mongodb
+4	#DEP#redi
+5	#DEP#docker
+6	#DEP#springboot
+7	#DEP#secur
+8	#DEP#mybati
+9	#DEP#swagger
+10	#DEP#elasticsearch

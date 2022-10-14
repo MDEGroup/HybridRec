@@ -1,0 +1,16 @@
+2	#DEP#crossplatformid
+3	#DEP#gdb
+4	#DEP#llvm
+5	#DEP#clang
+6	#DEP#archlinux
+7	#DEP#ubuntu
+8	#DEP#gcc
+9	#DEP#cplusplu
+10	#DEP#maco
+11	#DEP#avalonia
+12	#DEP#stm32
+13	#DEP#csharp
+14	#DEP#dotnetcor
+15	#DEP#xaml
+16	#DEP#linux
+17	#DEP#mono

@@ -1,0 +1,9 @@
+1	geerlingguy___drupal-vm
+2	#DEP#virtual-machine
+3	#DEP#vagrant
+4	#DEP#virtualbox
+5	#DEP#docker
+6	#DEP#local
+7	#DEP#ansibl
+8	#DEP#environ
+9	#DEP#drupal

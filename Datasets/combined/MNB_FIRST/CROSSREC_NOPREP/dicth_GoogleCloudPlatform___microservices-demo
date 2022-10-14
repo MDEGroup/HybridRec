@@ -1,0 +1,10 @@
+1	GoogleCloudPlatform___microservices-demo
+2	#DEP#grpcexampl
+3	#DEP#kubernetdeploy
+4	#DEP#grpc
+5	#DEP#kubernetexampl
+6	#DEP#stackdriv
+7	#DEP#opencensu
+8	#DEP#skaffoldexampl
+9	#DEP#kubernet
+10	#DEP#istio

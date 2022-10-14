@@ -1,0 +1,8 @@
+1	jmeter-maven-plugin___jmeter-maven-plugin
+2	#DEP#jmeter
+3	#DEP#mavenplugin
+4	#DEP#java
+5	#DEP#performanalysi
+6	#DEP#loadtest
+7	#DEP#performtest
+8	#DEP#continuintegr

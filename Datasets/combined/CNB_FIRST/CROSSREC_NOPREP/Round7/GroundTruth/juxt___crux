@@ -1,0 +1,11 @@
+2	#DEP#rocksdb
+3	#DEP#graphdataba
+4	#DEP#clojur
+5	#DEP#documentdataba
+6	#DEP#databas
+7	#DEP#lmdb
+8	#DEP#kafka
+9	#DEP#immutstor
+10	#DEP#tempor
+11	#DEP#bitempor
+12	#DEP#datalog

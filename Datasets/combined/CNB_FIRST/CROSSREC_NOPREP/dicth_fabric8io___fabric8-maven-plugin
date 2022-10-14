@@ -1,0 +1,7 @@
+1	fabric8io___fabric8-maven-plugin
+2	#DEP#fabric8
+3	#DEP#openshift
+4	#DEP#java
+5	#DEP#docker
+6	#DEP#kubernet
+7	#DEP#maven

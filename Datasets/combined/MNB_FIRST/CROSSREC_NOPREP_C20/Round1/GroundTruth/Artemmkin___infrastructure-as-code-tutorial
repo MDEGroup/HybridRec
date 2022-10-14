@@ -1,0 +1,6 @@
+2	#DEP#vagrant
+3	#DEP#docker
+4	#DEP#kubernet
+5	#DEP#ansibl
+6	#DEP#terraform
+7	#DEP#dockercompo

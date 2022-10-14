@@ -1,0 +1,12 @@
+1	turanszkij___WickedEngine
+2	#DEP#lua
+3	#DEP#directx12
+4	#DEP#vulkan
+5	#DEP#bulletphys
+6	#DEP#directx11
+7	#DEP#gltf
+8	#DEP#entiticomponsystem
+9	#DEP#raytrac
+10	#DEP#input
+11	#DEP#audio
+12	#DEP#network

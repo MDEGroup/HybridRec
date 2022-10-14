@@ -1,0 +1,7 @@
+2	#DEP#testtool
+3	#DEP#stryker
+4	#DEP#javascript
+5	#DEP#testautom
+6	#DEP#test
+7	#DEP#typescript
+8	#DEP#mutattest

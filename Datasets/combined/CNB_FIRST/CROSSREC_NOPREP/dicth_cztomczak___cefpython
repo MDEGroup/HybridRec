@@ -1,0 +1,9 @@
+1	cztomczak___cefpython
+2	#DEP#cefpython
+3	#DEP#cef
+4	#DEP#crossplatformgui
+5	#DEP#chromium
+6	#DEP#chrome
+7	#DEP#guiframework
+8	#DEP#python
+9	#DEP#guitoolkit

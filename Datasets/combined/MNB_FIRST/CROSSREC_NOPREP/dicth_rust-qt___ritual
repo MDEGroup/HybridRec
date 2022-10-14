@@ -1,0 +1,12 @@
+1	rust-qt___ritual
+2	#DEP#rust
+3	#DEP#rustcrat
+4	#DEP#qtcrate
+5	#DEP#rustbind
+6	#DEP#cppbind
+7	#DEP#qtgener
+8	#DEP#rustgen
+9	#DEP#qt
+10	#DEP#crate
+11	#DEP#ritual
+12	#DEP#cpp

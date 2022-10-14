@@ -1,0 +1,6 @@
+2	#DEP#alertmanag
+3	#DEP#cadvisor
+4	#DEP#prometheu
+5	#DEP#monitor
+6	#DEP#docker
+7	#DEP#grafana

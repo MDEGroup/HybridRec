@@ -1,0 +1,16 @@
+2	#DEP#aarch64
+3	#DEP#arm6
+4	#DEP#arm
+5	#DEP#x8664
+6	#DEP#homebridg
+7	#DEP#dockerhomebridg
+8	#DEP#arm64
+9	#DEP#homebridgdock
+10	#DEP#alpinlinux
+11	#DEP#siri
+12	#DEP#docker
+13	#DEP#armhf
+14	#DEP#rpi
+15	#DEP#raspberripi
+16	#DEP#armv6
+17	#DEP#homekit

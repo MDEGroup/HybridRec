@@ -1,0 +1,7 @@
+1	GUI___lua-resty-auto-ssl
+2	#DEP#letsencrypt
+3	#DEP#lua
+4	#DEP#ssl
+5	#DEP#sslcertif
+6	#DEP#nginx
+7	#DEP#openresti

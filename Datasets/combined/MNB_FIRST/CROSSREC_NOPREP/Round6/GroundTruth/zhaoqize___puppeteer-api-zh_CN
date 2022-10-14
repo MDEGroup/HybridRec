@@ -1,0 +1,8 @@
+2	#DEP#autom
+3	#DEP#puppet
+4	#DEP#web
+5	#DEP#chrome
+6	#DEP#developtool
+7	#DEP#headless
+8	#DEP#node
+9	#DEP#test

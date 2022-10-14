@@ -1,0 +1,15 @@
+2	#DEP#coroutin
+3	#DEP#actor
+4	#DEP#tupl
+5	#DEP#objectc
+6	#DEP#gener
+7	#DEP#arm64
+8	#DEP#objc
+9	#DEP#coroutinlibrari
+10	#DEP#await
+11	#DEP#asm
+12	#DEP#actormodel
+13	#DEP#io
+14	#DEP#swift
+15	#DEP#c
+16	#DEP#awaitpromi

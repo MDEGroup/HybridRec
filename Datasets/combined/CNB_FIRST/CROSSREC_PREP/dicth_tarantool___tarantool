@@ -1,0 +1,10 @@
+1	tarantool___tarantool
+2	#DEP#lua
+3	#DEP#msgpak
+4	#DEP#databas
+5	#DEP#appserv
+6	#DEP#disk
+7	#DEP#memori
+8	#DEP#transat
+9	#DEP#taran
+10	#DEP#c

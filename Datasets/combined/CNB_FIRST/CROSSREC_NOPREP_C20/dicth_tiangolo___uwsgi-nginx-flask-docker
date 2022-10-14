@@ -1,0 +1,10 @@
+1	tiangolo___uwsgi-nginx-flask-docker
+2	#DEP#nginx
+3	#DEP#debian
+4	#DEP#web
+5	#DEP#python
+6	#DEP#flask
+7	#DEP#dockerimag
+8	#DEP#webapp
+9	#DEP#python3
+10	#DEP#python2

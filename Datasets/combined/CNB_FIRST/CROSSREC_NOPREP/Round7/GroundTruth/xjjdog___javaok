@@ -1,0 +1,16 @@
+2	#DEP#shardingspher
+3	#DEP#netti
+4	#DEP#jvm
+5	#DEP#raftprotocol
+6	#DEP#concurr
+7	#DEP#http
+8	#DEP#kafka
+9	#DEP#springboot
+10	#DEP#java
+11	#DEP#docker
+12	#DEP#shell
+13	#DEP#redi
+14	#DEP#jdk
+15	#DEP#linux
+16	#DEP#raft
+17	#DEP#mysql

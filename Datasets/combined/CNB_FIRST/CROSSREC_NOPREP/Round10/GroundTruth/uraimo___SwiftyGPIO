@@ -1,0 +1,15 @@
+2	#DEP#i2c
+3	#DEP#lcddisplay
+4	#DEP#ledstrip
+5	#DEP#led
+6	#DEP#serialport
+7	#DEP#spi
+8	#DEP#uart
+9	#DEP#neopixel
+10	#DEP#spiinterfac
+11	#DEP#1wire
+12	#DEP#gpio
+13	#DEP#swift
+14	#DEP#pwm
+15	#DEP#iot
+16	#DEP#raspberripi

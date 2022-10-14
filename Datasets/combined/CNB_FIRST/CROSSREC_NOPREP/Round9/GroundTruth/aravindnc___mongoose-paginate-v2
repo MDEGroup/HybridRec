@@ -1,0 +1,16 @@
+2	#DEP#page
+3	#DEP#customlabel
+4	#DEP#pagin
+5	#DEP#prevpag
+6	#DEP#nextpag
+7	#DEP#prev
+8	#DEP#mongodbpagin
+9	#DEP#total
+10	#DEP#plugin
+11	#DEP#next
+12	#DEP#callback
+13	#DEP#cursor
+14	#DEP#customizlabel
+15	#DEP#mongoos
+16	#DEP#mongoospagin
+17	#DEP#mongodb

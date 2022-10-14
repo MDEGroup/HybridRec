@@ -1,0 +1,16 @@
+2	#DEP#awesom
+3	#DEP#contexturepres
+4	#DEP#nlp
+5	#DEP#sentencrepres
+6	#DEP#embedmodel
+7	#DEP#bert
+8	#DEP#pretrainmodel
+9	#DEP#wordemb
+10	#DEP#crosslingu
+11	#DEP#wordembed
+12	#DEP#pretrainemb
+13	#DEP#link
+14	#DEP#vectormap
+15	#DEP#awesomlist
+16	#DEP#sentencemb
+17	#DEP#subwordmodel

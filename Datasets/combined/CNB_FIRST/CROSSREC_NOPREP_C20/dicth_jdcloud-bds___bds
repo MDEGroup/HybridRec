@@ -1,0 +1,6 @@
+1	jdcloud-bds___bds
+2	#DEP#sqlserver
+3	#DEP#ethereum
+4	#DEP#bitcoin
+5	#DEP#golang
+6	#DEP#kafka

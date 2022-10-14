@@ -1,0 +1,17 @@
+1	globocom___huskyCI
+2	#DEP#gosec
+3	#DEP#brakeman
+4	#DEP#securautom
+5	#DEP#rubirail
+6	#DEP#bandit
+7	#DEP#safeti
+8	#DEP#continuintegr
+9	#DEP#golang
+10	#DEP#vulner
+11	#DEP#javascript
+12	#DEP#securtool
+13	#DEP#npmaudit
+14	#DEP#yarnaudit
+15	#DEP#python
+16	#DEP#staticanalysi
+17	#DEP#gitlabci

@@ -1,0 +1,6 @@
+2	#DEP#pico8
+3	#DEP#translat
+4	#DEP#parser
+5	#DEP#lua
+6	#DEP#util
+7	#DEP#tool

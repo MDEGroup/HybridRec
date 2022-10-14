@@ -1,0 +1,6 @@
+2	#DEP#serverless
+3	#DEP#middlewar
+4	#DEP#aspnetcor
+5	#DEP#reversproxi
+6	#DEP#proxi
+7	#DEP#dotnet

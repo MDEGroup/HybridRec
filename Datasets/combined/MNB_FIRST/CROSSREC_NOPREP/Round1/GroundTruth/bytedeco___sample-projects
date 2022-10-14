@@ -1,0 +1,8 @@
+2	#DEP#sbt
+3	#DEP#javacv
+4	#DEP#gradl
+5	#DEP#javacpp
+6	#DEP#java
+7	#DEP#javacpppreset
+8	#DEP#android
+9	#DEP#maven

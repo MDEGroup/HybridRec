@@ -1,0 +1,11 @@
+2	#DEP#6502assembl
+3	#DEP#6502
+4	#DEP#nostalgia
+5	#DEP#homebrew
+6	#DEP#famitrack
+7	#DEP#neemul
+8	#DEP#track
+9	#DEP#emul
+10	#DEP#cc65
+11	#DEP#ide
+12	#DEP#8bit

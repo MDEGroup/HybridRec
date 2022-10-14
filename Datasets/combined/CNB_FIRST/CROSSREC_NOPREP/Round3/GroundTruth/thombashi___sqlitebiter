@@ -1,0 +1,14 @@
+2	#DEP#sqlite
+3	#DEP#jupytnotebook
+4	#DEP#ndjson
+5	#DEP#convert
+6	#DEP#cliapp
+7	#DEP#json
+8	#DEP#ltsv
+9	#DEP#csv
+10	#DEP#tsv
+11	#DEP#googlsheet
+12	#DEP#ldjson
+13	#DEP#html
+14	#DEP#jsonlin
+15	#DEP#excel

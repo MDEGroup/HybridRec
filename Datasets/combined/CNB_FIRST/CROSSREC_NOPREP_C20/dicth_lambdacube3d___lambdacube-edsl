@@ -1,0 +1,6 @@
+1	lambdacube3d___lambdacube-edsl
+2	#DEP#3d
+3	#DEP#haskel
+4	#DEP#gpu
+5	#DEP#font
+6	#DEP#graphic

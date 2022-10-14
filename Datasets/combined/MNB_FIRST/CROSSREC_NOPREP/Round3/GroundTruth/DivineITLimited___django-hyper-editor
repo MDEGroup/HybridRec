@@ -1,0 +1,7 @@
+2	#DEP#wagtail
+3	#DEP#wysiwygeditor
+4	#DEP#hypereditor
+5	#DEP#contenteditor
+6	#DEP#python
+7	#DEP#blockeditor
+8	#DEP#django

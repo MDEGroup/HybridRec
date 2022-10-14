@@ -1,0 +1,10 @@
+1	mher___chartkick.py
+2	#DEP#highchart
+3	#DEP#googlchart
+4	#DEP#visual
+5	#DEP#chartlibrari
+6	#DEP#chart
+7	#DEP#chartj
+8	#DEP#flask
+9	#DEP#django
+10	#DEP#python

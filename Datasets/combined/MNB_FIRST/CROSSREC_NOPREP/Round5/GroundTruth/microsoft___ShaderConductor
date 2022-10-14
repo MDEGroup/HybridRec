@@ -1,0 +1,14 @@
+2	#DEP#spirv
+3	#DEP#graphic
+4	#DEP#dxil
+5	#DEP#shader
+6	#DEP#vulkan
+7	#DEP#d3d11
+8	#DEP#compil
+9	#DEP#glsl
+10	#DEP#metal
+11	#DEP#d3d9
+12	#DEP#d3d10
+13	#DEP#opengl
+14	#DEP#d3d12
+15	#DEP#hlsl

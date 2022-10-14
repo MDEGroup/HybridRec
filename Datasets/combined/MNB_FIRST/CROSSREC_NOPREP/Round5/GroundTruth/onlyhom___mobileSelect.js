@@ -1,0 +1,15 @@
+2	#DEP#selector
+3	#DEP#mobil
+4	#DEP#numberselector
+5	#DEP#areapick
+6	#DEP#mobilpick
+7	#DEP#number
+8	#DEP#mobilselect
+9	#DEP#mobiltrigg
+10	#DEP#mobilselector
+11	#DEP#areaselector
+12	#DEP#cascad
+13	#DEP#numberpick
+14	#DEP#select
+15	#DEP#cascadselector
+16	#DEP#picker

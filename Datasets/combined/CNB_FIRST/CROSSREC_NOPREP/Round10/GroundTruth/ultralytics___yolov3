@@ -1,0 +1,12 @@
+2	#DEP#coreml
+3	#DEP#augment
+4	#DEP#deeplearn
+5	#DEP#infer
+6	#DEP#darknet
+7	#DEP#pytorch
+8	#DEP#io
+9	#DEP#train
+10	#DEP#onnx
+11	#DEP#yolov3
+12	#DEP#yolo
+13	#DEP#objectdetect

@@ -1,0 +1,7 @@
+2	#DEP#chromedevtool
+3	#DEP#golang
+4	#DEP#chrome
+5	#DEP#unittest
+6	#DEP#headless
+7	#DEP#test
+8	#DEP#chromedebugprotocol

@@ -1,0 +1,15 @@
+2	#DEP#faultinject
+3	#DEP#circuitbreak
+4	#DEP#enforcpolici
+5	#DEP#envoy
+6	#DEP#requestrout
+7	#DEP#microservic
+8	#DEP#resili
+9	#DEP#polyglotmicroserv
+10	#DEP#nomad
+11	#DEP#lyftenvoy
+12	#DEP#proxi
+13	#DEP#consul
+14	#DEP#servicmesh
+15	#DEP#apimanag
+16	#DEP#kubernet

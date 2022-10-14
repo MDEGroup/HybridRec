@@ -1,0 +1,8 @@
+2	#DEP#wsl
+3	#DEP#cygwin
+4	#DEP#clipboard
+5	#DEP#maco
+6	#DEP#tpm
+7	#DEP#shell
+8	#DEP#linux
+9	#DEP#tmux

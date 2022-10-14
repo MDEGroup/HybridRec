@@ -1,0 +1,14 @@
+2	#DEP#paker
+3	#DEP#window
+4	#DEP#qemu
+5	#DEP#libvirt
+6	#DEP#vagrant
+7	#DEP#virtualbox
+8	#DEP#io
+9	#DEP#plugin
+10	#DEP#packer
+11	#DEP#ansibl
+12	#DEP#c
+13	#DEP#unix-based
+14	#DEP#driver
+15	#DEP#templat

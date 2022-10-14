@@ -1,0 +1,14 @@
+2	#DEP#nodej
+3	#DEP#koa2
+4	#DEP#react
+5	#DEP#reactrout
+6	#DEP#axio
+7	#DEP#redux
+8	#DEP#pwa
+9	#DEP#webpack
+10	#DEP#sc
+11	#DEP#socketio
+12	#DEP#jwt
+13	#DEP#mysql
+14	#DEP#chat
+15	#DEP#typescript

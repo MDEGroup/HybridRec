@@ -1,0 +1,9 @@
+1	spf-tools___spf-tools
+2	#DEP#dn
+3	#DEP#spfreord
+4	#DEP#continuintegr
+5	#DEP#shell
+6	#DEP#posixsh
+7	#DEP#c
+8	#DEP#spf
+9	#DEP#senderpoliiframework

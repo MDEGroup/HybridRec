@@ -1,0 +1,6 @@
+1	sorintlab___stolon
+2	#DEP#postgresql
+3	#DEP#docker
+4	#DEP#kubernet
+5	#DEP#golang
+6	#DEP#cloudnativ

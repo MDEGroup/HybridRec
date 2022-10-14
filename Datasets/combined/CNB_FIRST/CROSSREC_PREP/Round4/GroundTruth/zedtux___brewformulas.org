@@ -1,0 +1,7 @@
+2	#DEP#sc
+3	#DEP#brewformula
+4	#DEP#maosx
+5	#DEP#homebrew
+6	#DEP#maco
+7	#DEP#c
+8	#DEP#diovformula

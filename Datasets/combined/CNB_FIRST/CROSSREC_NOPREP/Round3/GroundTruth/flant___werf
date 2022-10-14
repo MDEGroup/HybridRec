@@ -1,0 +1,15 @@
+2	#DEP#continudeliveri
+3	#DEP#devop
+4	#DEP#werf
+5	#DEP#iac
+6	#DEP#dapp
+7	#DEP#dockerimag
+8	#DEP#cicd
+9	#DEP#dockerfil
+10	#DEP#golang
+11	#DEP#go
+12	#DEP#docker
+13	#DEP#gitop
+14	#DEP#ansibl
+15	#DEP#kubernet
+16	#DEP#continuintegr

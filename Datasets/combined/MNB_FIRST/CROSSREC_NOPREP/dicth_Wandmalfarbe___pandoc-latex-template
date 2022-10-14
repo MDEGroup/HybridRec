@@ -1,0 +1,11 @@
+1	Wandmalfarbe___pandoc-latex-template
+2	#DEP#pandoctemplat
+3	#DEP#latextemplat
+4	#DEP#pdfgener
+5	#DEP#latex
+6	#DEP#markdown
+7	#DEP#pandoc
+8	#DEP#tex
+9	#DEP#pdf
+10	#DEP#markdownpdf
+11	#DEP#komascript

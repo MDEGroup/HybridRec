@@ -1,0 +1,6 @@
+2	#DEP#rabbitmq
+3	#DEP#ipf
+4	#DEP#ipfsearch
+5	#DEP#golang
+6	#DEP#searchengin
+7	#DEP#elasticsearch

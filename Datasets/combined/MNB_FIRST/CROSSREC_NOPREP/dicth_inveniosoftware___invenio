@@ -1,0 +1,16 @@
+1	inveniosoftware___invenio
+2	#DEP#institutrepositori
+3	#DEP#rabbitmq
+4	#DEP#postgresql
+5	#DEP#jsonschema
+6	#DEP#multimedialibrari
+7	#DEP#digitrepositori
+8	#DEP#multimediarepositori
+9	#DEP#invenio
+10	#DEP#digitlibrari
+11	#DEP#angularj
+12	#DEP#redi
+13	#DEP#flask
+14	#DEP#inveniosoftwar
+15	#DEP#elasticsearch
+16	#DEP#python

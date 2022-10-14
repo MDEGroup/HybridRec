@@ -1,0 +1,13 @@
+2	#DEP#glsleditor
+3	#DEP#shader
+4	#DEP#hlslshader
+5	#DEP#shadereditor
+6	#DEP#gpgpu
+7	#DEP#cplusplu
+8	#DEP#imgui
+9	#DEP#glsl
+10	#DEP#glslsandbox
+11	#DEP#c
+12	#DEP#editor
+13	#DEP#opengl
+14	#DEP#hlsl

@@ -1,0 +1,7 @@
+2	#DEP#postgresql
+3	#DEP#postgrdockerclust
+4	#DEP#failov
+5	#DEP#pgpool
+6	#DEP#docker
+7	#DEP#cluster
+8	#DEP#kubernet

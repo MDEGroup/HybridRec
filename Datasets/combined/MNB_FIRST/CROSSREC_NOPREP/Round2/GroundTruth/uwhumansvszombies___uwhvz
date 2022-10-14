@@ -1,0 +1,8 @@
+2	#DEP#humanvzombi
+3	#DEP#wagtail
+4	#DEP#jinja2
+5	#DEP#sc
+6	#DEP#bootstrap4
+7	#DEP#hvz
+8	#DEP#python3
+9	#DEP#django

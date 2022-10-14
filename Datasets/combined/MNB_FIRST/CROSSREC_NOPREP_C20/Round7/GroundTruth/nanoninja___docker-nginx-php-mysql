@@ -1,0 +1,5 @@
+2	#DEP#nginx
+3	#DEP#compos
+4	#DEP#docker
+5	#DEP#mysql
+6	#DEP#dockercompo

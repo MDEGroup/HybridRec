@@ -1,0 +1,10 @@
+2	#DEP#api
+3	#DEP#jsonschema
+4	#DEP#framework
+5	#DEP#graphql
+6	#DEP#schemafield
+7	#DEP#go
+8	#DEP#restapi
+9	#DEP#apidocu
+10	#DEP#storagbackend
+11	#DEP#apiserv

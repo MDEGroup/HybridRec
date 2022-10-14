@@ -1,0 +1,9 @@
+2	#DEP#typescript
+3	#DEP#javascript
+4	#DEP#aw
+5	#DEP#design
+6	#DEP#json
+7	#DEP#redator
+8	#DEP#editor
+9	#DEP#c
+10	#DEP#odexeditor

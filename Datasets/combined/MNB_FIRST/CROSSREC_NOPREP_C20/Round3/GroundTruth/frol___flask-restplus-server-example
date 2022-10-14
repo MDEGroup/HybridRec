@@ -1,0 +1,7 @@
+2	#DEP#python
+3	#DEP#flask
+4	#DEP#docker
+5	#DEP#restapi
+6	#DEP#openapi
+7	#DEP#oauth2
+8	#DEP#swagger

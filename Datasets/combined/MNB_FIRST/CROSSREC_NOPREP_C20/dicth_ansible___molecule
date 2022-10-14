@@ -1,0 +1,7 @@
+1	ansible___molecule
+2	#DEP#vagrant
+3	#DEP#python
+4	#DEP#docker
+5	#DEP#test
+6	#DEP#ansibl
+7	#DEP#azur

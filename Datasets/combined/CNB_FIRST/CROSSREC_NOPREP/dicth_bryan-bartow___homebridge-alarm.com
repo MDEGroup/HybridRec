@@ -1,0 +1,10 @@
+1	bryan-bartow___homebridge-alarm.com
+2	#DEP#alarmdotcom
+3	#DEP#homebridgalarm
+4	#DEP#homebridgplugin
+5	#DEP#homebridg
+6	#DEP#light
+7	#DEP#homeautom
+8	#DEP#lock
+9	#DEP#alarm
+10	#DEP#homekit

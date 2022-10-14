@@ -1,0 +1,7 @@
+2	#DEP#openwrt
+3	#DEP#lua
+4	#DEP#openwrtfe
+5	#DEP#openwrtpackag
+6	#DEP#openwrtshadowsocksrlibevful
+7	#DEP#lede
+8	#DEP#openwrtzhcn

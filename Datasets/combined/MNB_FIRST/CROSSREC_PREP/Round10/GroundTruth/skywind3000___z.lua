@@ -1,0 +1,12 @@
+2	#DEP#fzf
+3	#DEP#powershel
+4	#DEP#autoump
+5	#DEP#fuzzi
+6	#DEP#fish
+7	#DEP#shell
+8	#DEP#ump
+9	#DEP#plugin
+10	#DEP#zsh
+11	#DEP#bash
+12	#DEP#c
+13	#DEP#fishshel

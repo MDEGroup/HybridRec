@@ -1,0 +1,8 @@
+2	#DEP#nginx
+3	#DEP#lua
+4	#DEP#openi
+5	#DEP#luait
+6	#DEP#gateway
+7	#DEP#manag
+8	#DEP#api
+9	#DEP#rest

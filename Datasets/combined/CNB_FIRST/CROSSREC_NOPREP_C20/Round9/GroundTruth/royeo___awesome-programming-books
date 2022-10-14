@@ -1,0 +1,15 @@
+2	#DEP#nginx
+3	#DEP#nodej
+4	#DEP#linux
+5	#DEP#mongodb
+6	#DEP#redi
+7	#DEP#c
+8	#DEP#javascript
+9	#DEP#http
+10	#DEP#python
+11	#DEP#docker
+12	#DEP#cpp
+13	#DEP#algorithm
+14	#DEP#git
+15	#DEP#golang
+16	#DEP#mysql

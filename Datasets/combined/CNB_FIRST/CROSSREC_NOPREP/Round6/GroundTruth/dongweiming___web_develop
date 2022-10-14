@@ -1,0 +1,13 @@
+2	#DEP#asyncio
+3	#DEP#celeri
+4	#DEP#jupytnotebook
+5	#DEP#web
+6	#DEP#webdevelop
+7	#DEP#fabric
+8	#DEP#saltstack
+9	#DEP#mako
+10	#DEP#flask
+11	#DEP#ipython
+12	#DEP#ansibl
+13	#DEP#mq
+14	#DEP#python

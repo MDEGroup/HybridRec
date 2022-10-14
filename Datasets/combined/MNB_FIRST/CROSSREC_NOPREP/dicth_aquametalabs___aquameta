@@ -1,0 +1,9 @@
+1	aquametalabs___aquameta
+2	#DEP#versioncontrolsystem
+3	#DEP#postgresql
+4	#DEP#event
+5	#DEP#plpgsql
+6	#DEP#restapi
+7	#DEP#semant
+8	#DEP#systemcatalog
+9	#DEP#widget

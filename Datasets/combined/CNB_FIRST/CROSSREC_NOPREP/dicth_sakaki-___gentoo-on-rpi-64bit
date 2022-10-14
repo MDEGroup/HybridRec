@@ -1,0 +1,16 @@
+1	sakaki-___gentoo-on-rpi-64bit
+2	#DEP#kodi
+3	#DEP#camera
+4	#DEP#gentoo
+5	#DEP#rpi4
+6	#DEP#rpi3
+7	#DEP#rpi3b
+8	#DEP#v4l2m2m
+9	#DEP#rpi3bplu
+10	#DEP#hwcodec
+11	#DEP#64bit
+12	#DEP#v4l2
+13	#DEP#mmal
+14	#DEP#rpi
+15	#DEP#raspberripi
+16	#DEP#xfce4

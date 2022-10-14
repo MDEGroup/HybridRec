@@ -1,0 +1,8 @@
+1	git-ftp___git-ftp
+2	#DEP#git
+3	#DEP#sync
+4	#DEP#ftp
+5	#DEP#upload
+6	#DEP#shell
+7	#DEP#deploy
+8	#DEP#gitftp

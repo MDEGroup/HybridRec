@@ -1,0 +1,13 @@
+2	#DEP#netflixoss
+3	#DEP#springcloud
+4	#DEP#ribbon
+5	#DEP#springcloudcor
+6	#DEP#microservic
+7	#DEP#netflixeureka
+8	#DEP#java
+9	#DEP#spring
+10	#DEP#feign
+11	#DEP#springboot
+12	#DEP#netflixhystrix
+13	#DEP#netflixzuul
+14	#DEP#cloudnativ

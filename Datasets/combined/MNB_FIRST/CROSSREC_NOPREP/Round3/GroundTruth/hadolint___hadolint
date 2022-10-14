@@ -1,0 +1,6 @@
+2	#DEP#haskel
+3	#DEP#dockerfillint
+4	#DEP#linter
+5	#DEP#dockerfil
+6	#DEP#docker
+7	#DEP#shellcheck

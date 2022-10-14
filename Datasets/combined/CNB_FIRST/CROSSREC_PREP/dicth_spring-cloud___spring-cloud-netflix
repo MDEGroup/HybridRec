@@ -1,0 +1,12 @@
+1	spring-cloud___spring-cloud-netflix
+2	#DEP#java
+3	#DEP#netflixeureka
+4	#DEP#ribbon
+5	#DEP#microservic
+6	#DEP#netflixzuul
+7	#DEP#cloud
+8	#DEP#spring-boot
+9	#DEP#netflixhystrix
+10	#DEP#nativ
+11	#DEP#spring
+12	#DEP#springcor

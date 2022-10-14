@@ -1,0 +1,7 @@
+2	#DEP#arm
+3	#DEP#x8664
+4	#DEP#nextcloud
+5	#DEP#dockerimag
+6	#DEP#qemu
+7	#DEP#raspbian
+8	#DEP#raspberripi

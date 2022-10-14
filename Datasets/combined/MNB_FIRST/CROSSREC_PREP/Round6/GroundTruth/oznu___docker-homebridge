@@ -1,0 +1,11 @@
+2	#DEP#raspberripi
+3	#DEP#homebridg
+4	#DEP#aarch
+5	#DEP#rpi
+6	#DEP#armhf
+7	#DEP#alpin
+8	#DEP#docker
+9	#DEP#homekit
+10	#DEP#siri
+11	#DEP#unix-based
+12	#DEP#arm

@@ -1,0 +1,17 @@
+2	#DEP#keras
+3	#DEP#onnx
+4	#DEP#hainer
+5	#DEP#theano
+6	#DEP#upyt
+7	#DEP#torh
+8	#DEP#aff
+9	#DEP#lasagn
+10	#DEP#caffe
+11	#DEP#tensorflow
+12	#DEP#ntk
+13	#DEP#deeplearn
+14	#DEP#dokerimag
+15	#DEP#mxnet
+16	#DEP#pytorch
+17	#DEP#c
+18	#DEP#dokerfilgen

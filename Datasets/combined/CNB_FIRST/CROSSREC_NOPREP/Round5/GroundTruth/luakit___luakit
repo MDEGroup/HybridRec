@@ -1,0 +1,6 @@
+2	#DEP#webbrows
+3	#DEP#luakit
+4	#DEP#lua
+5	#DEP#luajit
+6	#DEP#c
+7	#DEP#vimlik

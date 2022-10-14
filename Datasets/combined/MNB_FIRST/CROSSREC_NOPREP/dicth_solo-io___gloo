@@ -1,0 +1,14 @@
+1	solo-io___gloo
+2	#DEP#envoyproxi
+3	#DEP#serverless
+4	#DEP#apigateway
+5	#DEP#envoy
+6	#DEP#grpc
+7	#DEP#microservic
+8	#DEP#hybridapp
+9	#DEP#gloo
+10	#DEP#kubernetingrescontrol
+11	#DEP#legaciapp
+12	#DEP#apimanag
+13	#DEP#kubernet
+14	#DEP#cloudnativ

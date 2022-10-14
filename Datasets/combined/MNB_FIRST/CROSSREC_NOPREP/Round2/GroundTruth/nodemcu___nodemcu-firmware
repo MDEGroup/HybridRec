@@ -1,0 +1,8 @@
+2	#DEP#firmwar
+3	#DEP#lua
+4	#DEP#spiff
+5	#DEP#esp8266
+6	#DEP#nodemcu
+7	#DEP#esp8285
+8	#DEP#espressif
+9	#DEP#esp32

@@ -1,0 +1,11 @@
+1	rom-rb___rom
+2	#DEP#nosql
+3	#DEP#databas
+4	#DEP#dataaesslay
+5	#DEP#rubi
+6	#DEP#ddd
+7	#DEP#sql
+8	#DEP#c
+9	#DEP#romrb
+10	#DEP#persistkit
+11	#DEP#datamap

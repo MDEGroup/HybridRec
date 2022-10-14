@@ -1,0 +1,6 @@
+2	#DEP#siem
+3	#DEP#elasticsearch
+4	#DEP#log
+5	#DEP#monitor
+6	#DEP#splunk
+7	#DEP#signatur

@@ -1,0 +1,8 @@
+1	testcontainers___testcontainers-java
+2	#DEP#jvm
+3	#DEP#junit
+4	#DEP#java
+5	#DEP#docker
+6	#DEP#dockercompo
+7	#DEP#testautom
+8	#DEP#test

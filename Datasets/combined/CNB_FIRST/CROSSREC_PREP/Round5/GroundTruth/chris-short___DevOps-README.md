@@ -1,0 +1,16 @@
+2	#DEP#continuintegr
+3	#DEP#deploy
+4	#DEP#devopourney
+5	#DEP#ultur
+6	#DEP#ontinudeliveri
+7	#DEP#systemengin
+8	#DEP#systemadministr
+9	#DEP#devop
+10	#DEP#continu
+11	#DEP#sitereliablengin
+12	#DEP#cloud
+13	#DEP#failur
+14	#DEP#releas
+15	#DEP#monitor
+16	#DEP#nativ
+17	#DEP#c

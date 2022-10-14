@@ -1,0 +1,8 @@
+1	DATA-DOG___go-sqlmock
+2	#DEP#test
+3	#DEP#databas
+4	#DEP#go
+5	#DEP#mok
+6	#DEP#sql
+7	#DEP#c
+8	#DEP#driver

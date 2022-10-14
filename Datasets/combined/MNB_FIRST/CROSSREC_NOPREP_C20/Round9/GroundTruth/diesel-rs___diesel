@@ -1,0 +1,6 @@
+2	#DEP#postgresql
+3	#DEP#blockchain
+4	#DEP#rust
+5	#DEP#sqlite
+6	#DEP#orm
+7	#DEP#mysql

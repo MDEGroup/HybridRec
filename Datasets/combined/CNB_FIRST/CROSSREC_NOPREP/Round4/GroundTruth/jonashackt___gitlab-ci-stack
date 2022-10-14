@@ -1,0 +1,13 @@
+2	#DEP#letsencrypt
+3	#DEP#gitlabpag
+4	#DEP#containregistri
+5	#DEP#encryptcertif
+6	#DEP#gitlabrunn
+7	#DEP#gitlabci
+8	#DEP#gitlab
+9	#DEP#gitlabserv
+10	#DEP#gitlabregistri
+11	#DEP#vagrant
+12	#DEP#docker
+13	#DEP#ansibl
+14	#DEP#cipipelin

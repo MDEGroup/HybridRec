@@ -1,0 +1,13 @@
+2	#DEP#prometheuexport
+3	#DEP#golangplugin
+4	#DEP#statuspag
+5	#DEP#statupag
+6	#DEP#applicmonitor
+7	#DEP#prometheu
+8	#DEP#statp
+9	#DEP#monitor
+10	#DEP#websitmonitor
+11	#DEP#docker
+12	#DEP#notifi
+13	#DEP#servermonitor
+14	#DEP#uptim

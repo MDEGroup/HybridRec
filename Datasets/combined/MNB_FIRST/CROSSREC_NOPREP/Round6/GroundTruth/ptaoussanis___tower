@@ -1,0 +1,8 @@
+2	#DEP#clojur
+3	#DEP#l10n
+4	#DEP#local
+5	#DEP#i18n
+6	#DEP#taoensso
+7	#DEP#translat
+8	#DEP#epl
+9	#DEP#clojurescript

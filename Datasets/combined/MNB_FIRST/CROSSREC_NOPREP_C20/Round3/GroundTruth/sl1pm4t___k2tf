@@ -1,0 +1,6 @@
+2	#DEP#terraform
+3	#DEP#kubernet
+4	#DEP#yaml
+5	#DEP#util
+6	#DEP#tool
+7	#DEP#commandlinetool

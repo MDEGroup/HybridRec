@@ -1,0 +1,6 @@
+2	#DEP#eslint
+3	#DEP#le
+4	#DEP#babel
+5	#DEP#webpack
+6	#DEP#buildtool
+7	#DEP#frontend

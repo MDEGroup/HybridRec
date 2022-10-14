@@ -1,0 +1,6 @@
+2	#DEP#cloud
+3	#DEP#aw
+4	#DEP#terraform
+5	#DEP#kubernet
+6	#DEP#gcp
+7	#DEP#golang

@@ -1,0 +1,7 @@
+2	#DEP#golanglibrari
+3	#DEP#commandlin
+4	#DEP#toml
+5	#DEP#yaml
+6	#DEP#json
+7	#DEP#go
+8	#DEP#cli

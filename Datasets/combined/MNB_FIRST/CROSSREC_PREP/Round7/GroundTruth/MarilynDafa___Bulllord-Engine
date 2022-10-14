@@ -1,0 +1,13 @@
+2	#DEP#opengl
+3	#DEP#webgl
+4	#DEP#window
+5	#DEP#gameengin
+6	#DEP#android
+7	#DEP#metal
+8	#DEP#uwp
+9	#DEP#io
+10	#DEP#diretx
+11	#DEP#unix-based
+12	#DEP#c
+13	#DEP#osx
+14	#DEP#vulkan

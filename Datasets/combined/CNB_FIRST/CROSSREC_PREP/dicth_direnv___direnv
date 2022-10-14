@@ -1,0 +1,8 @@
+1	direnv___direnv
+2	#DEP#fish
+3	#DEP#shell
+4	#DEP#exten
+5	#DEP#zsh
+6	#DEP#bash
+7	#DEP#c
+8	#DEP#environ

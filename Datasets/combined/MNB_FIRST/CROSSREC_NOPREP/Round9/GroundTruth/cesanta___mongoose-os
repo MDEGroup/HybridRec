@@ -1,0 +1,8 @@
+2	#DEP#awiot
+3	#DEP#firmwar
+4	#DEP#aw
+5	#DEP#esp8266
+6	#DEP#stm32
+7	#DEP#cc3200
+8	#DEP#iot
+9	#DEP#esp32

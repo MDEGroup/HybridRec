@@ -1,0 +1,13 @@
+1	intel-iot-devkit___mraa
+2	#DEP#inteljoul
+3	#DEP#i2c
+4	#DEP#commun
+5	#DEP#galileo
+6	#DEP#spi
+7	#DEP#mraa
+8	#DEP#io
+9	#DEP#gpio
+10	#DEP#libmraa
+11	#DEP#raspberripi
+12	#DEP#linux
+13	#DEP#board

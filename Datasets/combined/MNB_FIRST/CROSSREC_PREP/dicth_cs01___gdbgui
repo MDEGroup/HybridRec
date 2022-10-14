@@ -1,0 +1,14 @@
+1	cs01___gdbgui
+2	#DEP#cpluplu
+3	#DEP#rust
+4	#DEP#design
+5	#DEP#go
+6	#DEP#python
+7	#DEP#flask
+8	#DEP#soketio
+9	#DEP#debuggvisu
+10	#DEP#front-end
+11	#DEP#gdb
+12	#DEP#socket
+13	#DEP#c
+14	#DEP#browser

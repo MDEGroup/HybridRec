@@ -1,0 +1,6 @@
+2	#DEP#knitr
+3	#DEP#kableextra
+4	#DEP#latex
+5	#DEP#kabl
+6	#DEP#rmarkdown
+7	#DEP#html

@@ -1,0 +1,8 @@
+1	rustwasm___wasm-pack
+2	#DEP#rust
+3	#DEP#rustwasm
+4	#DEP#registri
+5	#DEP#cli
+6	#DEP#npm
+7	#DEP#wasm
+8	#DEP#packag

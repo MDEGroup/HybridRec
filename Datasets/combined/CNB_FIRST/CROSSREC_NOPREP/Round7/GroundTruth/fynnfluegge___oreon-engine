@@ -1,0 +1,11 @@
+2	#DEP#oreonengin
+3	#DEP#gameengin
+4	#DEP#lombok
+5	#DEP#vulkan
+6	#DEP#vulkanapi
+7	#DEP#vulkangameengin
+8	#DEP#glfw
+9	#DEP#java
+10	#DEP#lwjgl3
+11	#DEP#lwjgl
+12	#DEP#opengl

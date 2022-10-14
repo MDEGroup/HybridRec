@@ -1,0 +1,8 @@
+2	#DEP#nginx
+3	#DEP#homebridg
+4	#DEP#plex
+5	#DEP#alpin
+6	#DEP#cloud
+7	#DEP#docker
+8	#DEP#next
+9	#DEP#ldap

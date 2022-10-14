@@ -1,0 +1,16 @@
+2	#DEP#ed25519
+3	#DEP#cryptonot
+4	#DEP#monero
+5	#DEP#protocol
+6	#DEP#transactsign
+7	#DEP#trezormonero
+8	#DEP#hardwarwallet
+9	#DEP#bulletproof
+10	#DEP#moneroag
+11	#DEP#offload
+12	#DEP#ringct
+13	#DEP#trezor
+14	#DEP#keyimagsync
+15	#DEP#trezorcrypto
+16	#DEP#python
+17	#DEP#borromean

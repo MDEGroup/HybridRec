@@ -1,0 +1,15 @@
+2	#DEP#api
+3	#DEP#mongo
+4	#DEP#dalli
+5	#DEP#http
+6	#DEP#rubi
+7	#DEP#featurtoggl
+8	#DEP#flipper
+9	#DEP#rail
+10	#DEP#memcach
+11	#DEP#redi
+12	#DEP#featur
+13	#DEP#rollout
+14	#DEP#featurflag
+15	#DEP#mysql
+16	#DEP#postgr

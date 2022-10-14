@@ -1,0 +1,7 @@
+2	#DEP#devop
+3	#DEP#virtualbox
+4	#DEP#vagrantbox
+5	#DEP#packer
+6	#DEP#vagrant
+7	#DEP#vmware
+8	#DEP#basebox

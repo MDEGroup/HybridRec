@@ -1,0 +1,8 @@
+2	#DEP#libtorr
+3	#DEP#bittorr
+4	#DEP#brew
+5	#DEP#maco
+6	#DEP#file-system
+7	#DEP#fuse
+8	#DEP#unix-based
+9	#DEP#osxfus

@@ -1,0 +1,8 @@
+2	#DEP#testframework
+3	#DEP#mock
+4	#DEP#mountebank
+5	#DEP#stub
+6	#DEP#servicvirtu
+7	#DEP#testautom
+8	#DEP#test
+9	#DEP#microservictest

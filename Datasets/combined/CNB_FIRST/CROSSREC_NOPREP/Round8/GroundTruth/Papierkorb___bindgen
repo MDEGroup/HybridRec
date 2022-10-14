@@ -1,0 +1,6 @@
+2	#DEP#bindgen
+3	#DEP#crystal
+4	#DEP#wrappergen
+5	#DEP#c
+6	#DEP#cpluplu
+7	#DEP#cpp

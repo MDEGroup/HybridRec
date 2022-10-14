@@ -1,0 +1,14 @@
+1	wal-e___wal-e
+2	#DEP#postgr
+3	#DEP#postgresql
+4	#DEP#replic
+5	#DEP#azurblob
+6	#DEP#pitr
+7	#DEP#googlcloudstorag
+8	#DEP#s3
+9	#DEP#openstackswift
+10	#DEP#recoveri
+11	#DEP#python
+12	#DEP#backup
+13	#DEP#archiv
+14	#DEP#blobstor

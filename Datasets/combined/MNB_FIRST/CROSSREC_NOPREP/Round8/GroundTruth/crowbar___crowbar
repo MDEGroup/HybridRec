@@ -1,0 +1,9 @@
+2	#DEP#systemmanag
+3	#DEP#openstack
+4	#DEP#crowbar
+5	#DEP#baremet
+6	#DEP#cli
+7	#DEP#oper
+8	#DEP#ceph
+9	#DEP#webui
+10	#DEP#deploy

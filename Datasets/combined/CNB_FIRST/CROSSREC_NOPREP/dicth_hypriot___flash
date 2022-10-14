@@ -1,0 +1,8 @@
+1	hypriot___flash
+2	#DEP#wifiset
+3	#DEP#sdcard
+4	#DEP#sdcardimag
+5	#DEP#hypriot
+6	#DEP#flash
+7	#DEP#raspberripi
+8	#DEP#cardread

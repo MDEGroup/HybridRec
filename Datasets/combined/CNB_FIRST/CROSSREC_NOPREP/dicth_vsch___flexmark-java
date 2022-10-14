@@ -1,0 +1,12 @@
+1	vsch___flexmark-java
+2	#DEP#pegdown
+3	#DEP#markdownflavor
+4	#DEP#markdownconv
+5	#DEP#commonmark
+6	#DEP#htmlmarkdown
+7	#DEP#markdownhtml
+8	#DEP#markdownprocessor
+9	#DEP#markdown
+10	#DEP#java
+11	#DEP#markdownpdf
+12	#DEP#markdownpars

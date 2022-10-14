@@ -1,0 +1,7 @@
+2	#DEP#contain
+3	#DEP#cri
+4	#DEP#cncf
+5	#DEP#containerd
+6	#DEP#docker
+7	#DEP#oci
+8	#DEP#kubernet

@@ -1,0 +1,9 @@
+1	koajs___koa-redis
+2	#DEP#koa
+3	#DEP#cach
+4	#DEP#session
+5	#DEP#redi
+6	#DEP#storag
+7	#DEP#node
+8	#DEP#cluster
+9	#DEP#sentinel

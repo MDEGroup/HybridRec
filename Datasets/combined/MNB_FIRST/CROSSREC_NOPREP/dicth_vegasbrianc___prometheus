@@ -1,0 +1,12 @@
+1	vegasbrianc___prometheus
+2	#DEP#cadvisor
+3	#DEP#nodeexport
+4	#DEP#alert
+5	#DEP#prometheu
+6	#DEP#grafanadashboard
+7	#DEP#docker
+8	#DEP#dockercompo
+9	#DEP#stack
+10	#DEP#grafana
+11	#DEP#dashboardtemplat
+12	#DEP#dockerswarm

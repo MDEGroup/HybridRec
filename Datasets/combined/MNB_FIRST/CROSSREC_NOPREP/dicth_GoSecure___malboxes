@@ -1,0 +1,7 @@
+1	GoSecure___malboxes
+2	#DEP#virtualmachin
+3	#DEP#malwarresearch
+4	#DEP#packer
+5	#DEP#malwaranalysi
+6	#DEP#vagrant
+7	#DEP#python3

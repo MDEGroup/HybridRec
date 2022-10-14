@@ -1,0 +1,6 @@
+2	#DEP#kubernetdeploy
+3	#DEP#googlcloud
+4	#DEP#helm
+5	#DEP#terraform
+6	#DEP#kubernet
+7	#DEP#gitlabci

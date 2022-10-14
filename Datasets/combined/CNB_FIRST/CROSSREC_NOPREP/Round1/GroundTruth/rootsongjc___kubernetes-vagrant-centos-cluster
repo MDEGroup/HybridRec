@@ -1,0 +1,10 @@
+2	#DEP#virtualbox
+3	#DEP#istio
+4	#DEP#helm
+5	#DEP#vagrant
+6	#DEP#docker
+7	#DEP#kubernetclust
+8	#DEP#traefik
+9	#DEP#kubernet
+10	#DEP#cloudnativ
+11	#DEP#vagrantfil

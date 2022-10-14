@@ -1,0 +1,9 @@
+1	prometheus___alertmanager
+2	#DEP#slack
+3	#DEP#alertmanag
+4	#DEP#dedupl
+5	#DEP#notif
+6	#DEP#opsgeni
+7	#DEP#monitor
+8	#DEP#pagerduti
+9	#DEP#email

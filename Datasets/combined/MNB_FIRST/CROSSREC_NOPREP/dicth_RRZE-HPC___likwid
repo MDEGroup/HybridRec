@@ -1,0 +1,16 @@
+1	RRZE-HPC___likwid
+2	#DEP#lua
+3	#DEP#profil
+4	#DEP#x86
+5	#DEP#benchmark
+6	#DEP#thread
+7	#DEP#likwid
+8	#DEP#performengin
+9	#DEP#instrument
+10	#DEP#assembl
+11	#DEP#performanalysi
+12	#DEP#c
+13	#DEP#hwloc
+14	#DEP#linux
+15	#DEP#hardwarperformcount
+16	#DEP#pin

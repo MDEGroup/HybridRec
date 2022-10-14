@@ -1,0 +1,7 @@
+1	xyproto___algernon
+2	#DEP#http2
+3	#DEP#postgresql
+4	#DEP#redi
+5	#DEP#lua
+6	#DEP#mysql
+7	#DEP#go

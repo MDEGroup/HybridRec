@@ -1,0 +1,10 @@
+2	#DEP#aiot
+3	#DEP#deeplearn
+4	#DEP#mqtt
+5	#DEP#tensorflow
+6	#DEP#edgai
+7	#DEP#openvino
+8	#DEP#tensorrt
+9	#DEP#iot
+10	#DEP#raspberripi
+11	#DEP#edgdev

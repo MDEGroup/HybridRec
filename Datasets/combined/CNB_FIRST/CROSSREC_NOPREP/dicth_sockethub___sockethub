@@ -1,0 +1,16 @@
+1	sockethub___sockethub
+2	#DEP#facebook
+3	#DEP#polyglot
+4	#DEP#smtp
+5	#DEP#websocket
+6	#DEP#xmpp
+7	#DEP#irc
+8	#DEP#sockethub
+9	#DEP#twitter
+10	#DEP#javascript
+11	#DEP#unhost
+12	#DEP#activstreamverb
+13	#DEP#nodej
+14	#DEP#redi
+15	#DEP#socketio
+16	#DEP#activstream

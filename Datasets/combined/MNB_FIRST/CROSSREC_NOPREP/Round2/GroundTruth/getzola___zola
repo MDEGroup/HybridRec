@@ -1,0 +1,11 @@
+2	#DEP#documenttool
+3	#DEP#rust
+4	#DEP#static
+5	#DEP#tera
+6	#DEP#staticsitegen
+7	#DEP#cm
+8	#DEP#markdownhtml
+9	#DEP#markdown
+10	#DEP#sitegen
+11	#DEP#contentmanagsystem
+12	#DEP#blogengin

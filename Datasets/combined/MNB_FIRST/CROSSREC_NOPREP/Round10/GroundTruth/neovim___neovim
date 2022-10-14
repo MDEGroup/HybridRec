@@ -1,0 +1,9 @@
+2	#DEP#texteditor
+3	#DEP#lua
+4	#DEP#api
+5	#DEP#nvim
+6	#DEP#extens
+7	#DEP#neovim
+8	#DEP#crossplatform
+9	#DEP#c
+10	#DEP#vim

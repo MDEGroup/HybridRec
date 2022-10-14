@@ -1,0 +1,16 @@
+2	#DEP#gradl
+3	#DEP#rxjava2
+4	#DEP#retrofit
+5	#DEP#mvparchitectur
+6	#DEP#okbu
+7	#DEP#router
+8	#DEP#realm
+9	#DEP#javassist
+10	#DEP#databind
+11	#DEP#mvp
+12	#DEP#aop
+13	#DEP#apt
+14	#DEP#aspectj
+15	#DEP#materidesign
+16	#DEP#rxjava
+17	#DEP#aoparchitectur

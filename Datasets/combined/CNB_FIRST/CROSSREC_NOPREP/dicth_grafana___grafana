@@ -1,0 +1,15 @@
+1	grafana___grafana
+2	#DEP#busiintellig
+3	#DEP#metric
+4	#DEP#alert
+5	#DEP#go
+6	#DEP#prometheu
+7	#DEP#monitor
+8	#DEP#datavisu
+9	#DEP#influxdb
+10	#DEP#grafana
+11	#DEP#dashboard
+12	#DEP#elasticsearch
+13	#DEP#mysql
+14	#DEP#postgr
+15	#DEP#analyt

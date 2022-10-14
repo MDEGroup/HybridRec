@@ -1,0 +1,7 @@
+2	#DEP#gradl
+3	#DEP#gradlplugin
+4	#DEP#asm
+5	#DEP#hugo
+6	#DEP#okhttp
+7	#DEP#android
+8	#DEP#bytecodmanipul

@@ -1,0 +1,11 @@
+2	#DEP#gradl
+3	#DEP#javassist
+4	#DEP#hook
+5	#DEP#lifecycl
+6	#DEP#mvp
+7	#DEP#apt
+8	#DEP#retrofit2
+9	#DEP#aspectj
+10	#DEP#rxjava
+11	#DEP#javassistaop
+12	#DEP#android

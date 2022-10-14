@@ -1,0 +1,7 @@
+1	SuperTux___supertux
+2	#DEP#sdl2
+3	#DEP#game
+4	#DEP#supertux
+5	#DEP#cpluplu
+6	#DEP#opengl
+7	#DEP#sdl

@@ -1,0 +1,6 @@
+1	ServiceStack___redis-windows
+2	#DEP#window
+3	#DEP#vagrant
+4	#DEP#msopentech
+5	#DEP#redi
+6	#DEP#sentinel

@@ -1,0 +1,9 @@
+2	#DEP#keyvalu
+3	#DEP#etcd
+4	#DEP#distributsystem
+5	#DEP#go
+6	#DEP#consensu
+7	#DEP#databas
+8	#DEP#raft
+9	#DEP#distributdataba
+10	#DEP#kubernet

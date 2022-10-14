@@ -1,0 +1,9 @@
+1	hexchat___hexchat
+2	#DEP#ircclient
+3	#DEP#gtk
+4	#DEP#irc
+5	#DEP#hexchat
+6	#DEP#meson
+7	#DEP#c
+8	#DEP#linux
+9	#DEP#window

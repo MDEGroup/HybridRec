@@ -1,0 +1,9 @@
+1	reactos___reactos
+2	#DEP#window
+3	#DEP#kernel
+4	#DEP#opersystem
+5	#DEP#gpl
+6	#DEP#c
+7	#DEP#driver
+8	#DEP#api
+9	#DEP#osdev

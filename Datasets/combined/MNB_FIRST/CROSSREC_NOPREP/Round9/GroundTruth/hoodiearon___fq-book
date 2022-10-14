@@ -1,0 +1,9 @@
+2	#DEP#ssh
+3	#DEP#ssr
+4	#DEP#ipf
+5	#DEP#shadowsock
+6	#DEP#vpn
+7	#DEP#fqbook
+8	#DEP#gfw
+9	#DEP#proxi
+10	#DEP#webproxi

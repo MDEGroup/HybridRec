@@ -1,0 +1,8 @@
+2	#DEP#seed
+3	#DEP#mybati
+4	#DEP#mapper
+5	#DEP#api
+6	#DEP#rest
+7	#DEP#mybatipagehelp
+8	#DEP#java
+9	#DEP#springboot

@@ -1,0 +1,9 @@
+2	#DEP#amd
+3	#DEP#ubuntu
+4	#DEP#opencl
+5	#DEP#coriand
+6	#DEP#radeon
+7	#DEP#mac
+8	#DEP#nvidia
+9	#DEP#intel
+10	#DEP#gpu

@@ -1,0 +1,8 @@
+1	nextcloud___nextcloudpi
+2	#DEP#raspberripi
+3	#DEP#qemu
+4	#DEP#cloud
+5	#DEP#dokerimag
+6	#DEP#next
+7	#DEP#c
+8	#DEP#arm

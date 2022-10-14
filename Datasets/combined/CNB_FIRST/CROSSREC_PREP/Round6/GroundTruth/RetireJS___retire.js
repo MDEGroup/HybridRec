@@ -1,0 +1,14 @@
+2	#DEP#librari
+3	#DEP#javascript
+4	#DEP#grunt
+5	#DEP#vulner
+6	#DEP#sc
+7	#DEP#softwarompositanalysi
+8	#DEP#insecur
+9	#DEP#exten
+10	#DEP#chromeexten
+11	#DEP#plugin
+12	#DEP#anner
+13	#DEP#c
+14	#DEP#build
+15	#DEP#browser

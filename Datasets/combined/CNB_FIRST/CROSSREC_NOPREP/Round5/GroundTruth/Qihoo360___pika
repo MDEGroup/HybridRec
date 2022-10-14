@@ -1,0 +1,6 @@
+2	#DEP#rediinterfac
+3	#DEP#nosqldatastorag
+4	#DEP#rocksdb
+5	#DEP#nosql
+6	#DEP#nosqldataba
+7	#DEP#redi

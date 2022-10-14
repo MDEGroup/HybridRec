@@ -1,0 +1,12 @@
+1	omnisci___omniscidb
+2	#DEP#sql
+3	#DEP#olap
+4	#DEP#llvm
+5	#DEP#interact
+6	#DEP#machinlearn
+7	#DEP#mapd
+8	#DEP#visual
+9	#DEP#omnisci
+10	#DEP#realtim
+11	#DEP#databas
+12	#DEP#gpu

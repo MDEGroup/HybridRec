@@ -1,0 +1,13 @@
+1	api-platform___core
+2	#DEP#hydraapi
+3	#DEP#jsonapi
+4	#DEP#api
+5	#DEP#rest
+6	#DEP#hypermedia
+7	#DEP#graphql
+8	#DEP#hal
+9	#DEP#symfonibundl
+10	#DEP#symfoni
+11	#DEP#php
+12	#DEP#swagger
+13	#DEP#jsonld

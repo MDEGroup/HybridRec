@@ -1,0 +1,12 @@
+2	#DEP#dn
+3	#DEP#javascript
+4	#DEP#multisour
+5	#DEP#webrt
+6	#DEP#ppcdn
+7	#DEP#video
+8	#DEP#http
+9	#DEP#c
+10	#DEP#stream
+11	#DEP#browser
+12	#DEP#webpp
+13	#DEP#live

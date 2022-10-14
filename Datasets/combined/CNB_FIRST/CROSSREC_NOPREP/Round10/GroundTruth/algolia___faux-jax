@@ -1,0 +1,6 @@
+2	#DEP#mock
+3	#DEP#http
+4	#DEP#xdomainrequest
+5	#DEP#test
+6	#DEP#xmlhttprequest
+7	#DEP#ajax

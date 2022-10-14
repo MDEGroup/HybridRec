@@ -1,0 +1,6 @@
+2	#DEP#mirokernel
+3	#DEP#asynhronio
+4	#DEP#posixompat
+5	#DEP#cplusplus
+6	#DEP#opersystem
+7	#DEP#c

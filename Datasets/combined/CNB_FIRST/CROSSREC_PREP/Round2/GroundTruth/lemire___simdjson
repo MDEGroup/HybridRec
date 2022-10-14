@@ -1,0 +1,8 @@
+2	#DEP#aarch
+3	#DEP#json
+4	#DEP#simd
+5	#DEP#sonpars
+6	#DEP#avx
+7	#DEP#sse
+8	#DEP#neon
+9	#DEP#arm

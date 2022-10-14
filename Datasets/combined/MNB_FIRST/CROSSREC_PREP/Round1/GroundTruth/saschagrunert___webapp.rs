@@ -1,0 +1,9 @@
+2	#DEP#rust
+3	#DEP#webapp
+4	#DEP#bakend
+5	#DEP#atixweb
+6	#DEP#front-end
+7	#DEP#http
+8	#DEP#dieselr
+9	#DEP#c
+10	#DEP#postgresql

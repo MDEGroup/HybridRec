@@ -1,0 +1,10 @@
+2	#DEP#postgresql
+3	#DEP#orm
+4	#DEP#oracl
+5	#DEP#sqlite
+6	#DEP#chloe
+7	#DEP#poco
+8	#DEP#csharp
+9	#DEP#dotnetcor
+10	#DEP#mysql
+11	#DEP#dotnet

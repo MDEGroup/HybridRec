@@ -1,0 +1,9 @@
+1	bytecodealliance___cranelift
+2	#DEP#rust
+3	#DEP#cretonn
+4	#DEP#cranelift
+5	#DEP#aotcompil
+6	#DEP#codegen
+7	#DEP#compil
+8	#DEP#wasm
+9	#DEP#jit

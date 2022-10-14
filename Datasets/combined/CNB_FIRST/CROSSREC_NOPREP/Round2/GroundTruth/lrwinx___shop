@@ -1,0 +1,9 @@
+2	#DEP#zuulfeign
+3	#DEP#java8
+4	#DEP#zuul
+5	#DEP#springcloud
+6	#DEP#eda
+7	#DEP#tcc
+8	#DEP#springboot
+9	#DEP#apigateway
+10	#DEP#maven

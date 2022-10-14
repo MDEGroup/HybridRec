@@ -1,0 +1,14 @@
+2	#DEP#selector
+3	#DEP#sc
+4	#DEP#numberseletor
+5	#DEP#trigg
+6	#DEP#select
+7	#DEP#areapik
+8	#DEP#caadselector
+9	#DEP#mobil
+10	#DEP#piker
+11	#DEP#areaseletor
+12	#DEP#caad
+13	#DEP#c
+14	#DEP#numberpik
+15	#DEP#selet

@@ -1,0 +1,9 @@
+2	#DEP#nginx
+3	#DEP#postgresql
+4	#DEP#ubuntu
+5	#DEP#linux
+6	#DEP#mongodb
+7	#DEP#redi
+8	#DEP#book
+9	#DEP#ebook
+10	#DEP#mysql

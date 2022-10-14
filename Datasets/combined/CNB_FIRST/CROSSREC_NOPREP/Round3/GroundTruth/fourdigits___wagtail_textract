@@ -1,0 +1,6 @@
+2	#DEP#wagtail
+3	#DEP#textract
+4	#DEP#search
+5	#DEP#tesseract
+6	#DEP#textextract
+7	#DEP#django

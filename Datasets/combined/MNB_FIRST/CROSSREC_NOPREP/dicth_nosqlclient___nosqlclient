@@ -1,0 +1,14 @@
+1	nosqlclient___nosqlclient
+2	#DEP#mongocli
+3	#DEP#mongodbinstanc
+4	#DEP#meteor
+5	#DEP#manag
+6	#DEP#nosql
+7	#DEP#monitor
+8	#DEP#docker
+9	#DEP#meteorj
+10	#DEP#webappl
+11	#DEP#crossplatform
+12	#DEP#databasmanag
+13	#DEP#mongodbmanag
+14	#DEP#mongodb

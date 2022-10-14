@@ -1,0 +1,12 @@
+1	ntop___ntopng
+2	#DEP#realtim
+3	#DEP#ipf
+4	#DEP#paketanali
+5	#DEP#paketproess
+6	#DEP#traffionitor
+7	#DEP#ix
+8	#DEP#docker
+9	#DEP#network
+10	#DEP#c
+11	#DEP#kubernet
+12	#DEP#snmp

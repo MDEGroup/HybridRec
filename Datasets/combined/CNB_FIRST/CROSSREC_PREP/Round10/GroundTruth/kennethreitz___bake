@@ -1,0 +1,10 @@
+2	#DEP#makefil
+3	#DEP#invok
+4	#DEP#sc
+5	#DEP#shell
+6	#DEP#bakefil
+7	#DEP#shellript
+8	#DEP#homebrew
+9	#DEP#bash
+10	#DEP#tap
+11	#DEP#make

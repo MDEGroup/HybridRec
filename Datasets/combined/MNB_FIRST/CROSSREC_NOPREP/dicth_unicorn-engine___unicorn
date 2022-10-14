@@ -1,0 +1,13 @@
+1	unicorn-engine___unicorn
+2	#DEP#emul
+3	#DEP#arm
+4	#DEP#m68k
+5	#DEP#x8664
+6	#DEP#sparc
+7	#DEP#x86
+8	#DEP#framework
+9	#DEP#arm64
+10	#DEP#reversengin
+11	#DEP#mip
+12	#DEP#cpu
+13	#DEP#secur

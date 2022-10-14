@@ -1,0 +1,7 @@
+2	#DEP#gradl
+3	#DEP#aws3
+4	#DEP#circleciorb
+5	#DEP#lein
+6	#DEP#heroku
+7	#DEP#rollbar
+8	#DEP#maven

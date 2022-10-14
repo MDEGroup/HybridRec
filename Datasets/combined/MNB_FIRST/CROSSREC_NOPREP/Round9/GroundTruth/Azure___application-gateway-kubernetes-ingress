@@ -1,0 +1,8 @@
+2	#DEP#ingres
+3	#DEP#ak
+4	#DEP#ingrescontrol
+5	#DEP#azur
+6	#DEP#go
+7	#DEP#agic
+8	#DEP#applicgateway
+9	#DEP#kubernet

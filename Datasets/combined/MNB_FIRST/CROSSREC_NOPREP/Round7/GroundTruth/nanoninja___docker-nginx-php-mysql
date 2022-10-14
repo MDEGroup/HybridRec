@@ -1,0 +1,8 @@
+2	#DEP#compos
+3	#DEP#phpfpm7
+4	#DEP#phpmyadmin
+5	#DEP#nginx
+6	#DEP#dockercompo
+7	#DEP#docker
+8	#DEP#lemp
+9	#DEP#mysql

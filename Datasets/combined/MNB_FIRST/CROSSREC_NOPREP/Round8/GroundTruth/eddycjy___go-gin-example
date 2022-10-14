@@ -1,0 +1,8 @@
+2	#DEP#api
+3	#DEP#gorm
+4	#DEP#go
+5	#DEP#golang
+6	#DEP#jwt
+7	#DEP#gin
+8	#DEP#swagger
+9	#DEP#endless

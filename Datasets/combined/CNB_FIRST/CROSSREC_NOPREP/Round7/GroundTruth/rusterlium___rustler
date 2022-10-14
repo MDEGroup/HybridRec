@@ -1,0 +1,6 @@
+2	#DEP#bind
+3	#DEP#rust
+4	#DEP#ffi
+5	#DEP#elixir
+6	#DEP#nif
+7	#DEP#erlang

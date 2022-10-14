@@ -1,0 +1,11 @@
+2	#DEP#visual
+3	#DEP#openwhisk
+4	#DEP#dashboard
+5	#DEP#design
+6	#DEP#serverless
+7	#DEP#plugin
+8	#DEP#electron
+9	#DEP#c
+10	#DEP#kubetl
+11	#DEP#kubernet
+12	#DEP#command-line

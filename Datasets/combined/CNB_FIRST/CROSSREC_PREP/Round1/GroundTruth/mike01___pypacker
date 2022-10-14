@@ -1,0 +1,13 @@
+2	#DEP#udp
+3	#DEP#tp
+4	#DEP#test
+5	#DEP#ethernet
+6	#DEP#paketr
+7	#DEP#ip
+8	#DEP#intereptpaket
+9	#DEP#python
+10	#DEP#soket
+11	#DEP#network
+12	#DEP#protool
+13	#DEP#c
+14	#DEP#bgp

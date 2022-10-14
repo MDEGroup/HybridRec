@@ -1,0 +1,11 @@
+1	hope-for___hope-boot
+2	#DEP#maven
+3	#DEP#thymeleaf
+4	#DEP#design
+5	#DEP#swagger
+6	#DEP#mapper
+7	#DEP#mybati
+8	#DEP#spring-boot
+9	#DEP#redi
+10	#DEP#sso
+11	#DEP#flyway

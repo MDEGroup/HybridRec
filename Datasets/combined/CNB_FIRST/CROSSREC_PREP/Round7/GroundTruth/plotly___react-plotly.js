@@ -1,0 +1,9 @@
+2	#DEP#plotli
+3	#DEP#librari
+4	#DEP#finteh
+5	#DEP#binformat
+6	#DEP#react
+7	#DEP#datavisu
+8	#DEP#io
+9	#DEP#chart
+10	#DEP#c

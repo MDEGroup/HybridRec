@@ -1,0 +1,10 @@
+2	#DEP#postgresql
+3	#DEP#orm
+4	#DEP#sqlboiler
+5	#DEP#go
+6	#DEP#golang
+7	#DEP#mssql
+8	#DEP#sqlite3
+9	#DEP#databas
+10	#DEP#mysql
+11	#DEP#postgr

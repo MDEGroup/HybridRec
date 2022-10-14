@@ -1,0 +1,10 @@
+1	ueboot___ueboot
+2	#DEP#datajpa
+3	#DEP#maven
+4	#DEP#view
+5	#DEP#design
+6	#DEP#lombok
+7	#DEP#vue
+8	#DEP#iviewcrud
+9	#DEP#spring-boot
+10	#DEP#spring

@@ -1,0 +1,9 @@
+2	#DEP#nosql
+3	#DEP#distributdataba
+4	#DEP#databas
+5	#DEP#roksdb
+6	#DEP#raft
+7	#DEP#transatstorag
+8	#DEP#transat
+9	#DEP#c
+10	#DEP#redi

@@ -1,0 +1,12 @@
+2	#DEP#url
+3	#DEP#tl
+4	#DEP#tcp
+5	#DEP#localmachin
+6	#DEP#tltunnel
+7	#DEP#http
+8	#DEP#tunnel
+9	#DEP#go
+10	#DEP#golang
+11	#DEP#http2
+12	#DEP#proxi
+13	#DEP#basicauth

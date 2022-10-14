@@ -1,0 +1,12 @@
+2	#DEP#ambassador
+3	#DEP#envoyproxi
+4	#DEP#kubernetannot
+5	#DEP#apigateway
+6	#DEP#envoy
+7	#DEP#kubernetingr
+8	#DEP#microservic
+9	#DEP#docker
+10	#DEP#gatewayapi
+11	#DEP#apimanag
+12	#DEP#kubernet
+13	#DEP#cloudnativ

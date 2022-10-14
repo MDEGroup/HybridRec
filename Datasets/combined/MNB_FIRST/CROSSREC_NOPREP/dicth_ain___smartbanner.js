@@ -1,0 +1,13 @@
+1	ain___smartbanner.js
+2	#DEP#ecmascript6
+3	#DEP#vanillaj
+4	#DEP#smartappbann
+5	#DEP#mobil
+6	#DEP#bower
+7	#DEP#io
+8	#DEP#webdev
+9	#DEP#javascript
+10	#DEP#smartbann
+11	#DEP#nodej
+12	#DEP#npm
+13	#DEP#android

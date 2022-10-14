@@ -1,0 +1,13 @@
+1	DISTORTEC___distortos
+2	#DEP#cpp11
+3	#DEP#microcontrol
+4	#DEP#arm
+5	#DEP#framework
+6	#DEP#rto
+7	#DEP#cortex
+8	#DEP#embed
+9	#DEP#opersystem
+10	#DEP#librari
+11	#DEP#realtim
+12	#DEP#armmicrocontrol
+13	#DEP#cpp

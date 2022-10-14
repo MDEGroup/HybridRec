@@ -1,0 +1,11 @@
+1	upper___db
+2	#DEP#nosql
+3	#DEP#ite
+4	#DEP#databas
+5	#DEP#go
+6	#DEP#orm
+7	#DEP#mysql
+8	#DEP#sql
+9	#DEP#mongo
+10	#DEP#postgresql
+11	#DEP#database

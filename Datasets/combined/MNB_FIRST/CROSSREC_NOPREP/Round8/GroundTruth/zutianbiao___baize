@@ -1,0 +1,12 @@
+2	#DEP#devop
+3	#DEP#cmdb
+4	#DEP#op
+5	#DEP#data
+6	#DEP#monitor
+7	#DEP#bigdata
+8	#DEP#python
+9	#DEP#crontab
+10	#DEP#django
+11	#DEP#analys
+12	#DEP#ansibl
+13	#DEP#log

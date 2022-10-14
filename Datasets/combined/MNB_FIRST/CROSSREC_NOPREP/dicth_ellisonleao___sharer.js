@@ -1,0 +1,12 @@
+1	ellisonleao___sharer.js
+2	#DEP#socialnetwork
+3	#DEP#telegram
+4	#DEP#facebook
+5	#DEP#sharebutton
+6	#DEP#whatsapp
+7	#DEP#pinterest
+8	#DEP#twitter
+9	#DEP#javascript
+10	#DEP#hackernew
+11	#DEP#okru
+12	#DEP#reddit

@@ -1,0 +1,8 @@
+2	#DEP#scikitlearn
+3	#DEP#api
+4	#DEP#apachspark
+5	#DEP#xgboost
+6	#DEP#r
+7	#DEP#pmml
+8	#DEP#realtim
+9	#DEP#lightgbm

@@ -1,0 +1,12 @@
+1	uraimo___SwiftyGPIO
+2	#DEP#raspberripi
+3	#DEP#led
+4	#DEP#swift
+5	#DEP#lddisplay
+6	#DEP#intenet--of-things
+7	#DEP#io
+8	#DEP#uart
+9	#DEP#serialport
+10	#DEP#c
+11	#DEP#spi
+12	#DEP#spiinterfa

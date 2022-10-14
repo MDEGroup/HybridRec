@@ -1,0 +1,6 @@
+1	bitwarden___cli
+2	#DEP#cli
+3	#DEP#nodej
+4	#DEP#npm
+5	#DEP#homebrew
+6	#DEP#typescript

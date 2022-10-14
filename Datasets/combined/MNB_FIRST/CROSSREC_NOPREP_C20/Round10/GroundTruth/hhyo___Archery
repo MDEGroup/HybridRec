@@ -1,0 +1,8 @@
+2	#DEP#django
+3	#DEP#postgresql
+4	#DEP#sqlserver
+5	#DEP#mongodb
+6	#DEP#redi
+7	#DEP#mybati
+8	#DEP#mysql
+9	#DEP#oracl

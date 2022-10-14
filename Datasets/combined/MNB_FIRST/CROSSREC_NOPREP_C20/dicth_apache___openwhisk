@@ -1,0 +1,6 @@
+1	apache___openwhisk
+2	#DEP#serverless
+3	#DEP#cloud
+4	#DEP#docker
+5	#DEP#kubernet
+6	#DEP#faa

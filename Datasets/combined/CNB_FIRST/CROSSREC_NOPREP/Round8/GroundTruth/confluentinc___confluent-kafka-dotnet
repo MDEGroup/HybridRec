@@ -1,0 +1,6 @@
+2	#DEP#kafkacli
+3	#DEP#kafka
+4	#DEP#csharp
+5	#DEP#nuget
+6	#DEP#confluent
+7	#DEP#dotnet

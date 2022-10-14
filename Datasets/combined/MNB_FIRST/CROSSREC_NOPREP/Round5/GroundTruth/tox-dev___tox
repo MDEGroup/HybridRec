@@ -1,0 +1,12 @@
+2	#DEP#autom
+3	#DEP#venv
+4	#DEP#appveyor
+5	#DEP#gitlab
+6	#DEP#travi
+7	#DEP#azurpipelin
+8	#DEP#cli
+9	#DEP#virtualenv
+10	#DEP#circleci
+11	#DEP#python
+12	#DEP#test
+13	#DEP#continuintegr

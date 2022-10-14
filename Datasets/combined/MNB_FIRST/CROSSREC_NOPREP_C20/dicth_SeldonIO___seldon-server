@@ -1,0 +1,16 @@
+1	SeldonIO___seldon-server
+2	#DEP#java
+3	#DEP#machinlearn
+4	#DEP#python
+5	#DEP#cloud
+6	#DEP#microservic
+7	#DEP#aw
+8	#DEP#docker
+9	#DEP#kubernet
+10	#DEP#deeplearn
+11	#DEP#spark
+12	#DEP#tensorflow
+13	#DEP#deploy
+14	#DEP#gcp
+15	#DEP#kafka
+16	#DEP#azur

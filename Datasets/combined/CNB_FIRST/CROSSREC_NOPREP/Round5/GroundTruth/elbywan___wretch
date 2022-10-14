@@ -1,0 +1,12 @@
+2	#DEP#httprequest
+3	#DEP#httpclient
+4	#DEP#promis
+5	#DEP#http
+6	#DEP#json
+7	#DEP#javascript
+8	#DEP#request
+9	#DEP#nodej
+10	#DEP#formdata
+11	#DEP#typescript
+12	#DEP#fetch
+13	#DEP#ajax

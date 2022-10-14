@@ -1,0 +1,12 @@
+2	#DEP#compos
+3	#DEP#git
+4	#DEP#ubuntu
+5	#DEP#envoy
+6	#DEP#lnmp
+7	#DEP#phpfpm
+8	#DEP#terraform
+9	#DEP#nginx
+10	#DEP#php
+11	#DEP#lexicon
+12	#DEP#ansibl
+13	#DEP#deploy

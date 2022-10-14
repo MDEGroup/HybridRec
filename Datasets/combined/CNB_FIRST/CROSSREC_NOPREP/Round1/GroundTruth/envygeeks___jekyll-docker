@@ -1,0 +1,8 @@
+2	#DEP#builder
+3	#DEP#dockerimag
+4	#DEP#rubi
+5	#DEP#jekyl
+6	#DEP#alpinlinux
+7	#DEP#docker
+8	#DEP#shell
+9	#DEP#linux

@@ -1,0 +1,11 @@
+1	anymail___django-anymail
+2	#DEP#sendgrid
+3	#DEP#sendinblu
+4	#DEP#postmark
+5	#DEP#mailgun
+6	#DEP#amazon
+7	#DEP#sparkpost
+8	#DEP#mandril
+9	#DEP#django
+10	#DEP#email
+11	#DEP#mailjet

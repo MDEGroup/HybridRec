@@ -1,0 +1,7 @@
+2	#DEP#webserv
+3	#DEP#graphql
+4	#DEP#httpframework
+5	#DEP#microservic
+6	#DEP#flask
+7	#DEP#falcon
+8	#DEP#python

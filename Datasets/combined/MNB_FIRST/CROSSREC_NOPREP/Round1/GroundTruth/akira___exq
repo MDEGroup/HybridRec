@@ -1,0 +1,7 @@
+2	#DEP#elixir
+3	#DEP#exq
+4	#DEP#jobqueu
+5	#DEP#redi
+6	#DEP#resqu
+7	#DEP#queue
+8	#DEP#sidekiq

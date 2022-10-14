@@ -1,0 +1,6 @@
+2	#DEP#python
+3	#DEP#libnss
+4	#DEP#c
+5	#DEP#browser
+6	#DEP#extratpassword
+7	#DEP#command-line

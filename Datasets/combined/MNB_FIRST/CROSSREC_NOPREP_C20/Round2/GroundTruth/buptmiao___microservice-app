@@ -1,0 +1,5 @@
+2	#DEP#vagrant
+3	#DEP#microservic
+4	#DEP#docker
+5	#DEP#kubernet
+6	#DEP#golang

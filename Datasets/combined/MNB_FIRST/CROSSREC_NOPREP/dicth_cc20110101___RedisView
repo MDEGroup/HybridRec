@@ -1,0 +1,9 @@
+1	cc20110101___RedisView
+2	#DEP#redismanag
+3	#DEP#rediscli
+4	#DEP#qt
+5	#DEP#redislib
+6	#DEP#redisview
+7	#DEP#redi
+8	#DEP#redisgui
+9	#DEP#redistool

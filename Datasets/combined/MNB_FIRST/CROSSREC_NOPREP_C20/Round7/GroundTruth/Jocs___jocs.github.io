@@ -1,0 +1,9 @@
+2	#DEP#vue2
+3	#DEP#gener
+4	#DEP#javascript
+5	#DEP#angular
+6	#DEP#react
+7	#DEP#es6
+8	#DEP#angularj
+9	#DEP#chrome
+10	#DEP#frontend

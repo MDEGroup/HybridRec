@@ -1,0 +1,11 @@
+1	drduh___pwd.sh
+2	#DEP#password
+3	#DEP#sc
+4	#DEP#gpg
+5	#DEP#enrypt
+6	#DEP#bashript
+7	#DEP#bash
+8	#DEP#c
+9	#DEP#unix-based
+10	#DEP#fileenrypt
+11	#DEP#passwordmanag

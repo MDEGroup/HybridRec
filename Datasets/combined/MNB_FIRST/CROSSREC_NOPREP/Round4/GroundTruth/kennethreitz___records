@@ -1,0 +1,8 @@
+2	#DEP#sql
+3	#DEP#orm
+4	#DEP#schema
+5	#DEP#forhuman
+6	#DEP#python
+7	#DEP#sqlalchemi
+8	#DEP#kennethreitz
+9	#DEP#postgr

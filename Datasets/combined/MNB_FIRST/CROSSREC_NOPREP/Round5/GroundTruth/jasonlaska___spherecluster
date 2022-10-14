@@ -1,0 +1,9 @@
+2	#DEP#spherickmean
+3	#DEP#scikitlearn
+4	#DEP#kmean
+5	#DEP#vonmisefish
+6	#DEP#directstatist
+7	#DEP#sampl
+8	#DEP#circularstatist
+9	#DEP#sphericalclust
+10	#DEP#clusteralgorithm

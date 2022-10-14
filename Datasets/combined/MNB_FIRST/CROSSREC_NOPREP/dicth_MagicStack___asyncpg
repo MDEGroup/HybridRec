@@ -1,0 +1,9 @@
+1	MagicStack___asyncpg
+2	#DEP#asyncio
+3	#DEP#databasdriv
+4	#DEP#postgresql
+5	#DEP#asyncpython
+6	#DEP#highperform
+7	#DEP#asyncprogram
+8	#DEP#python3
+9	#DEP#python

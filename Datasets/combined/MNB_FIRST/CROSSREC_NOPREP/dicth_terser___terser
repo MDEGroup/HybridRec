@@ -1,0 +1,7 @@
+1	terser___terser
+2	#DEP#parser
+3	#DEP#mangler
+4	#DEP#compressor
+5	#DEP#javacript
+6	#DEP#uglifyj
+7	#DEP#es6

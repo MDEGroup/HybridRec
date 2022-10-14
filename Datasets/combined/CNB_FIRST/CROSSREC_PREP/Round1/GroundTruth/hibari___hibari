@@ -1,0 +1,5 @@
+2	#DEP#nosql
+3	#DEP#distributdataba
+4	#DEP#elixir
+5	#DEP#thrift
+6	#DEP#erlang

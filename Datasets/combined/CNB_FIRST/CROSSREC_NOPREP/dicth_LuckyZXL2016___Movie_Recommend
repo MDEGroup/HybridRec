@@ -1,0 +1,10 @@
+1	LuckyZXL2016___Movie_Recommend
+2	#DEP#sparkmllib
+3	#DEP#scrapi
+4	#DEP#sparkstream
+5	#DEP#ssmmaven
+6	#DEP#hadoop
+7	#DEP#scala
+8	#DEP#hive
+9	#DEP#nginx
+10	#DEP#mysql

@@ -1,0 +1,6 @@
+2	#DEP#lua
+3	#DEP#cairo
+4	#DEP#imlib2
+5	#DEP#systemmonitor
+6	#DEP#conki
+7	#DEP#cpluplu

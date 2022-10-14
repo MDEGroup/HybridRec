@@ -1,0 +1,8 @@
+2	#DEP#plpg
+3	#DEP#bakgroundwork
+4	#DEP#exten
+5	#DEP#pgtitmanag
+6	#DEP#sql
+7	#DEP#c
+8	#DEP#tit
+9	#DEP#postgresql

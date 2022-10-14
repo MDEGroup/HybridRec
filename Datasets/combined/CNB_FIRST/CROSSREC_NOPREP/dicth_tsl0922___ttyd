@@ -1,0 +1,8 @@
+1	tsl0922___ttyd
+2	#DEP#openwrt
+3	#DEP#libwebsocket
+4	#DEP#terminemul
+5	#DEP#websocket
+6	#DEP#termin
+7	#DEP#tti
+8	#DEP#xterm

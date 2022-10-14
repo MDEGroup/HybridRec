@@ -1,0 +1,15 @@
+2	#DEP#eureka
+3	#DEP#hystrixdashboard
+4	#DEP#springcloud
+5	#DEP#zuul
+6	#DEP#hystrix
+7	#DEP#hystrixturbin
+8	#DEP#ribbon
+9	#DEP#sleuth
+10	#DEP#finchley
+11	#DEP#spring
+12	#DEP#springbootadmin
+13	#DEP#gateway
+14	#DEP#springboot
+15	#DEP#feign
+16	#DEP#consul

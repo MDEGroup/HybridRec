@@ -1,0 +1,6 @@
+2	#DEP#puppet
+3	#DEP#scrape
+4	#DEP#nodej
+5	#DEP#mongoos
+6	#DEP#mongodb
+7	#DEP#chromeheadless

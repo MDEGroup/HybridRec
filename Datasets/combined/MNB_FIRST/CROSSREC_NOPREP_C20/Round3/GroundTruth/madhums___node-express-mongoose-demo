@@ -1,0 +1,7 @@
+2	#DEP#mongodb
+3	#DEP#node
+4	#DEP#express
+5	#DEP#docker
+6	#DEP#heroku
+7	#DEP#demo
+8	#DEP#mongoos

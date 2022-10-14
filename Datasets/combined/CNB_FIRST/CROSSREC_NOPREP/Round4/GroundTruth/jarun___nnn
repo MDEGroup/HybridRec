@@ -1,0 +1,16 @@
+2	#DEP#wsl
+3	#DEP#filemanag
+4	#DEP#product
+5	#DEP#workflow
+6	#DEP#diskusag
+7	#DEP#search
+8	#DEP#commandlin
+9	#DEP#launcher
+10	#DEP#termin
+11	#DEP#filesystem
+12	#DEP#c
+13	#DEP#termux
+14	#DEP#raspberripi
+15	#DEP#batchrenam
+16	#DEP#vim
+17	#DEP#diskspac

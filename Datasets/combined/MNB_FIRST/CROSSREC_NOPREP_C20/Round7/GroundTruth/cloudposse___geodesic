@@ -1,0 +1,6 @@
+2	#DEP#contain
+3	#DEP#aw
+4	#DEP#docker
+5	#DEP#shell
+6	#DEP#kubernet
+7	#DEP#terraform

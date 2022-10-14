@@ -1,0 +1,9 @@
+2	#DEP#vagrant
+3	#DEP#docker
+4	#DEP#onsul
+5	#DEP#ansibl
+6	#DEP#ento
+7	#DEP#terraform
+8	#DEP#environ
+9	#DEP#c
+10	#DEP#unix-based

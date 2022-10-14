@@ -1,0 +1,10 @@
+2	#DEP#sc
+3	#DEP#vala
+4	#DEP#wayland
+5	#DEP#unix-based
+6	#DEP#image
+7	#DEP#gnome
+8	#DEP#c
+9	#DEP#reencast
+10	#DEP#gtk
+11	#DEP#gifreord

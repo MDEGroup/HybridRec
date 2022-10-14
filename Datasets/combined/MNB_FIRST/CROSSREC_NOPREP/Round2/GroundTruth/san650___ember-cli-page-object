@@ -1,0 +1,7 @@
+2	#DEP#pageobject
+3	#DEP#qunit
+4	#DEP#embercli
+5	#DEP#ember
+6	#DEP#mocha
+7	#DEP#test
+8	#DEP#pageobjectpattern

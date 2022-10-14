@@ -1,0 +1,9 @@
+1	elgalu___docker-selenium
+2	#DEP#seleniumgrid
+3	#DEP#vnc
+4	#DEP#seleniumserv
+5	#DEP#firefox
+6	#DEP#chrome
+7	#DEP#videorecord
+8	#DEP#headless
+9	#DEP#dockerselenium

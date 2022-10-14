@@ -1,0 +1,10 @@
+2	#DEP#python
+3	#DEP#marshmallow
+4	#DEP#pyramid
+5	#DEP#flask
+6	#DEP#falcon
+7	#DEP#django
+8	#DEP#bottlepi
+9	#DEP#requestvalid
+10	#DEP#aiohttp
+11	#DEP#valid

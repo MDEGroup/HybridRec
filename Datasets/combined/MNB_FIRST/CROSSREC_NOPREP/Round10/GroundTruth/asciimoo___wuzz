@@ -1,0 +1,7 @@
+2	#DEP#curl
+3	#DEP#http
+4	#DEP#go
+5	#DEP#inspector
+6	#DEP#golang
+7	#DEP#cli
+8	#DEP#httpinspect

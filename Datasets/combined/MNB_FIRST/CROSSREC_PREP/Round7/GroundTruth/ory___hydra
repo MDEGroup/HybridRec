@@ -1,0 +1,16 @@
+2	#DEP#ident
+3	#DEP#auth
+4	#DEP#nativ
+5	#DEP#openidprovid
+6	#DEP#oauthserv
+7	#DEP#oauthprovid
+8	#DEP#oid
+9	#DEP#feder
+10	#DEP#cloud
+11	#DEP#docker
+12	#DEP#openidonnetprovid
+13	#DEP#openid
+14	#DEP#openidonnet
+15	#DEP#c
+16	#DEP#hydra
+17	#DEP#sso

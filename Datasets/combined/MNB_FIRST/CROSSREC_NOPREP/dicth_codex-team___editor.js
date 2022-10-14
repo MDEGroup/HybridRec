@@ -1,0 +1,10 @@
+1	codex-team___editor.js
+2	#DEP#ui
+3	#DEP#redactor
+4	#DEP#json
+5	#DEP#wysiwyg
+6	#DEP#javascript
+7	#DEP#codexeditor
+8	#DEP#rawdata
+9	#DEP#editor
+10	#DEP#typescript

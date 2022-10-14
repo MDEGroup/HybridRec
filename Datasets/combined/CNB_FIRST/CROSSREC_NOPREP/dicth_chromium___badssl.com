@@ -1,0 +1,13 @@
+1	chromium___badssl.com
+2	#DEP#rcpp
+3	#DEP#tl
+4	#DEP#sha1
+5	#DEP#http
+6	#DEP#ssl
+7	#DEP#chrome
+8	#DEP#nginx
+9	#DEP#python
+10	#DEP#test
+11	#DEP#browser
+12	#DEP#secur
+13	#DEP#mitm

@@ -1,0 +1,8 @@
+1	feross___simple-peer
+2	#DEP#webrtc
+3	#DEP#p2p
+4	#DEP#datachannel
+5	#DEP#peerconnect
+6	#DEP#javascript
+7	#DEP#nodej
+8	#DEP#browser

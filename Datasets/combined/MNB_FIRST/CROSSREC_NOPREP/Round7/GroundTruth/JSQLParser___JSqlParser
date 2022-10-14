@@ -1,0 +1,13 @@
+2	#DEP#sql
+3	#DEP#statement
+4	#DEP#postgresql
+5	#DEP#oracl
+6	#DEP#hierarchi
+7	#DEP#parser
+8	#DEP#jsqlparser
+9	#DEP#sqlserver
+10	#DEP#ast
+11	#DEP#sqlstatement
+12	#DEP#java
+13	#DEP#mysql
+14	#DEP#paypal

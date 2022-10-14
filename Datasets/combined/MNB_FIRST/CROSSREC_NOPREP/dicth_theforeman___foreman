@@ -1,0 +1,14 @@
+1	theforeman___foreman
+2	#DEP#infrastructur
+3	#DEP#cloud
+4	#DEP#virtual
+5	#DEP#configmanag
+6	#DEP#infrastructurmanag
+7	#DEP#puppet
+8	#DEP#provis
+9	#DEP#rubi
+10	#DEP#theforeman
+11	#DEP#rail
+12	#DEP#hybridcloud
+13	#DEP#maa
+14	#DEP#foreman

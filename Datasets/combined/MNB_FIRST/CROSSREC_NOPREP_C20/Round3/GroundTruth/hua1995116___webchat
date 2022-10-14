@@ -1,0 +1,5 @@
+2	#DEP#websocket
+3	#DEP#nodej
+4	#DEP#mongodb
+5	#DEP#vue
+6	#DEP#express

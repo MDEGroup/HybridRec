@@ -1,0 +1,9 @@
+1	theos___theos
+2	#DEP#makefil
+3	#DEP#window
+4	#DEP#design
+5	#DEP#bldsystem
+6	#DEP#io
+7	#DEP#maco
+8	#DEP#unix-based
+9	#DEP#perl

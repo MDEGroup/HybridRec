@@ -1,0 +1,14 @@
+1	xyproto___algernon
+2	#DEP#sse
+3	#DEP#postgresql
+4	#DEP#lua
+5	#DEP#purego
+6	#DEP#tls13
+7	#DEP#algernon
+8	#DEP#go
+9	#DEP#http2
+10	#DEP#mysql
+11	#DEP#redi
+12	#DEP#pongo2
+13	#DEP#http3
+14	#DEP#quic

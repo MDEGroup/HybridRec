@@ -1,0 +1,7 @@
+2	#DEP#spfrecord
+3	#DEP#spf
+4	#DEP#senderpoliciframework
+5	#DEP#shell
+6	#DEP#posixsh
+7	#DEP#dn
+8	#DEP#continuintegr

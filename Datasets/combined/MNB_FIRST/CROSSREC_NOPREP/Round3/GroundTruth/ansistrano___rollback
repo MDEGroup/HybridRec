@@ -1,0 +1,6 @@
+2	#DEP#ansistrano
+3	#DEP#playbook
+4	#DEP#rollback
+5	#DEP#deploystrategi
+6	#DEP#ansibl
+7	#DEP#deploy

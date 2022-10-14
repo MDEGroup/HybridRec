@@ -1,0 +1,8 @@
+1	ngxs___store
+2	#DEP#ngx
+3	#DEP#cqr
+4	#DEP#statemanag
+5	#DEP#eventsourc
+6	#DEP#ngrx
+7	#DEP#redux
+8	#DEP#angular

@@ -1,0 +1,7 @@
+2	#DEP#keepaliv
+3	#DEP#bgp
+4	#DEP#loadbalanc
+5	#DEP#baremet
+6	#DEP#vrrp
+7	#DEP#kubernet
+8	#DEP#arp

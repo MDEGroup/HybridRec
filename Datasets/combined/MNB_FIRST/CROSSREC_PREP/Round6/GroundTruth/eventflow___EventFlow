@@ -1,0 +1,17 @@
+2	#DEP#domaindrivendesign
+3	#DEP#dotnet
+4	#DEP#nuget
+5	#DEP#rabbitmq
+6	#DEP#elasticsearch
+7	#DEP#qre
+8	#DEP#aw
+9	#DEP#c-sharp
+10	#DEP#asyncait
+11	#DEP#netstandard
+12	#DEP#event
+13	#DEP#ddd
+14	#DEP#qr
+15	#DEP#framework
+16	#DEP#eventstor
+17	#DEP#eventsour
+18	#DEP#c

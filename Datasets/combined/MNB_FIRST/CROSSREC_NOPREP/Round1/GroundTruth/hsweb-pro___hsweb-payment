@@ -1,0 +1,8 @@
+2	#DEP#java8
+3	#DEP#hsweb
+4	#DEP#payment
+5	#DEP#spring
+6	#DEP#weixinpay
+7	#DEP#springboot
+8	#DEP#alipay
+9	#DEP#maven

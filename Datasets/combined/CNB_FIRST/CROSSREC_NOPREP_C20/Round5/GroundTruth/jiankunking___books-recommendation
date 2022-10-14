@@ -1,0 +1,14 @@
+2	#DEP#java
+3	#DEP#spring
+4	#DEP#kafka
+5	#DEP#linux
+6	#DEP#elasticsearch
+7	#DEP#docker
+8	#DEP#http
+9	#DEP#kubernet
+10	#DEP#ansibl
+11	#DEP#springboot
+12	#DEP#golang
+13	#DEP#oauth2
+14	#DEP#mysql
+15	#DEP#architectur

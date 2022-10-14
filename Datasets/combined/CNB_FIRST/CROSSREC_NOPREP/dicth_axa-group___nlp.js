@@ -1,0 +1,12 @@
+1	axa-group___nlp.js
+2	#DEP#entitiextract
+3	#DEP#nlu
+4	#DEP#nlp
+5	#DEP#chatbot
+6	#DEP#conversai
+7	#DEP#naturlanguagprocess
+8	#DEP#classifi
+9	#DEP#sentimentanalysi
+10	#DEP#javascript
+11	#DEP#bot
+12	#DEP#nodej

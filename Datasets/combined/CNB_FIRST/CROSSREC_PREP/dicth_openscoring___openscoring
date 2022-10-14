@@ -1,0 +1,8 @@
+1	openscoring___openscoring
+2	#DEP#apachsk
+3	#DEP#realtim
+4	#DEP#boost
+5	#DEP#scikitlearn
+6	#DEP#lightgbm
+7	#DEP#r
+8	#DEP#api

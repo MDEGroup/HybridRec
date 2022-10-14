@@ -1,0 +1,9 @@
+2	#DEP#ingres
+3	#DEP#bypassfirew
+4	#DEP#reversproxi
+5	#DEP#websocket
+6	#DEP#http
+7	#DEP#tunnel
+8	#DEP#bypassproxi
+9	#DEP#gfw
+10	#DEP#dn

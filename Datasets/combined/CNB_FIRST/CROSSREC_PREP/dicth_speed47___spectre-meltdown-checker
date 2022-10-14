@@ -1,0 +1,9 @@
+1	speed47___spectre-meltdown-checker
+2	#DEP#freebsd
+3	#DEP#go
+4	#DEP#kernel
+5	#DEP#spetr
+6	#DEP#c
+7	#DEP#unix-based
+8	#DEP#mitig
+9	#DEP#dranflybsd

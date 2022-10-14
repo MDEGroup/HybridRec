@@ -1,0 +1,8 @@
+2	#DEP#ssh
+3	#DEP#serverless
+4	#DEP#aw
+5	#DEP#sshcertif
+6	#DEP#lambda
+7	#DEP#python
+8	#DEP#secur
+9	#DEP#bastion

@@ -1,0 +1,12 @@
+1	requery___requery
+2	#DEP#sql
+3	#DEP#oracl
+4	#DEP#sqlite
+5	#DEP#persist
+6	#DEP#kotlin
+7	#DEP#java
+8	#DEP#rxjava
+9	#DEP#jdbc
+10	#DEP#android
+11	#DEP#mysql
+12	#DEP#postgr

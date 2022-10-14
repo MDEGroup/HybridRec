@@ -1,0 +1,8 @@
+1	openSUSE___open-build-service
+2	#DEP#cento
+3	#DEP#debian
+4	#DEP#ubuntu
+5	#DEP#docker
+6	#DEP#rubi
+7	#DEP#rail
+8	#DEP#packag

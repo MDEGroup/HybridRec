@@ -1,0 +1,8 @@
+2	#DEP#infrastructur
+3	#DEP#cloud
+4	#DEP#infrastructurmanag
+5	#DEP#provis
+6	#DEP#autoscgroup
+7	#DEP#swarm
+8	#DEP#docker
+9	#DEP#cluster

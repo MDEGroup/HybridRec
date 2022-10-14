@@ -1,0 +1,15 @@
+2	#DEP#opengl
+3	#DEP#gamedevelop
+4	#DEP#window
+5	#DEP#hlsl
+6	#DEP#sc
+7	#DEP#gameengin
+8	#DEP#android
+9	#DEP#game
+10	#DEP#metal
+11	#DEP#tvo
+12	#DEP#multiplatform
+13	#DEP#maco
+14	#DEP#emripten
+15	#DEP#unix-based
+16	#DEP#directd

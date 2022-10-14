@@ -1,0 +1,7 @@
+1	cfpb___cfgov-refresh
+2	#DEP#capitframework
+3	#DEP#wagtail
+4	#DEP#gulp
+5	#DEP#webpack
+6	#DEP#python
+7	#DEP#django

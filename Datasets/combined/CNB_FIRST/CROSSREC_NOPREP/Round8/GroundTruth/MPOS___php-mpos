@@ -1,0 +1,12 @@
+2	#DEP#nscrypt
+3	#DEP#x11
+4	#DEP#sha256
+5	#DEP#mine
+6	#DEP#scrypt
+7	#DEP#mpo
+8	#DEP#minepool
+9	#DEP#php
+10	#DEP#cryptocurr
+11	#DEP#mpoapi
+12	#DEP#x13
+13	#DEP#x15

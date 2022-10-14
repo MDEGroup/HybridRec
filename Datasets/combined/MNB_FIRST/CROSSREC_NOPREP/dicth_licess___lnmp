@@ -1,0 +1,15 @@
+1	licess___lnmp
+2	#DEP#linuxshel
+3	#DEP#nginxphpmysql
+4	#DEP#lnmpa
+5	#DEP#nginxphp
+6	#DEP#nginxapachphp
+7	#DEP#lamp
+8	#DEP#lnmpalamp
+9	#DEP#lnmp
+10	#DEP#apachphpmysql
+11	#DEP#mariadb
+12	#DEP#nginx
+13	#DEP#shell
+14	#DEP#nginxphpmariadb
+15	#DEP#mysql

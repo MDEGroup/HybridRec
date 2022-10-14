@@ -1,0 +1,6 @@
+2	#DEP#letsencrypt
+3	#DEP#acm
+4	#DEP#tl
+5	#DEP#go
+6	#DEP#ssl
+7	#DEP#terraform

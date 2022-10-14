@@ -1,0 +1,6 @@
+2	#DEP#network
+3	#DEP#websocket
+4	#DEP#game
+5	#DEP#json
+6	#DEP#golang
+7	#DEP#server

@@ -1,0 +1,11 @@
+1	PyMesh___PyMesh
+2	#DEP#graphic
+3	#DEP#outerhul
+4	#DEP#3d
+5	#DEP#geometriprocess
+6	#DEP#meshgen
+7	#DEP#geometri
+8	#DEP#convexhul
+9	#DEP#meshcleanup
+10	#DEP#python
+11	#DEP#meshboolean

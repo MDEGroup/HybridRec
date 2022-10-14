@@ -1,0 +1,9 @@
+2	#DEP#compon
+3	#DEP#javascript
+4	#DEP#node
+5	#DEP#xmpp
+6	#DEP#nodej
+7	#DEP#reactnativ
+8	#DEP#c
+9	#DEP#browser
+10	#DEP#lient

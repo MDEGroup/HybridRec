@@ -1,0 +1,10 @@
+2	#DEP#autom
+3	#DEP#webhook
+4	#DEP#helm
+5	#DEP#keel
+6	#DEP#golang
+7	#DEP#trigger
+8	#DEP#docker
+9	#DEP#semver
+10	#DEP#deploy
+11	#DEP#kubernet

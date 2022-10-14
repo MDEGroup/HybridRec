@@ -1,0 +1,13 @@
+1	twisted___twisted
+2	#DEP#dn
+3	#DEP#imap
+4	#DEP#asyn
+5	#DEP#asynpython
+6	#DEP#xmpp
+7	#DEP#tl
+8	#DEP#python
+9	#DEP#ssl
+10	#DEP#network
+11	#DEP#http
+12	#DEP#smtp
+13	#DEP#c

@@ -1,0 +1,6 @@
+2	#DEP#crossplatformgui
+3	#DEP#dlangui
+4	#DEP#linux
+5	#DEP#opengl
+6	#DEP#sdl
+7	#DEP#widget

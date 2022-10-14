@@ -1,0 +1,12 @@
+1	nmdias___FeedKit
+2	#DEP#atom
+3	#DEP#atomread
+4	#DEP#rreader
+5	#DEP#rfeedpars
+6	#DEP#dublincor
+7	#DEP#r
+8	#DEP#swift
+9	#DEP#feedread
+10	#DEP#feedpars
+11	#DEP#atomfeedpars
+12	#DEP#syndic

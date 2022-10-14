@@ -1,0 +1,6 @@
+2	#DEP#socialactivpublishplatform
+3	#DEP#mongodb
+4	#DEP#restapi
+5	#DEP#wechatminiprogramserv
+6	#DEP#flask
+7	#DEP#cm

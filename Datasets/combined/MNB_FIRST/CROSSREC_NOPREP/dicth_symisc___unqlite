@@ -1,0 +1,10 @@
+1	symisc___unqlite
+2	#DEP#keyvalu
+3	#DEP#transact
+4	#DEP#nosql
+5	#DEP#databas
+6	#DEP#json
+7	#DEP#embed
+8	#DEP#nosqldataba
+9	#DEP#storag
+10	#DEP#c

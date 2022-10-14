@@ -1,0 +1,14 @@
+1	PearInc___PearPlayer.js
+2	#DEP#video
+3	#DEP#webrtc
+4	#DEP#p2p
+5	#DEP#p2pcdn
+6	#DEP#webp2p
+7	#DEP#cdn
+8	#DEP#browser
+9	#DEP#javascript
+10	#DEP#http2
+11	#DEP#stream
+12	#DEP#vod
+13	#DEP#multisourc
+14	#DEP#live

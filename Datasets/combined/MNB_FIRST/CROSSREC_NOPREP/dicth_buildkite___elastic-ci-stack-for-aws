@@ -1,0 +1,7 @@
+1	buildkite___elastic-ci-stack-for-aws
+2	#DEP#continudeploy
+3	#DEP#aw
+4	#DEP#docker
+5	#DEP#buildkit
+6	#DEP#continudeliveri
+7	#DEP#continuintegr

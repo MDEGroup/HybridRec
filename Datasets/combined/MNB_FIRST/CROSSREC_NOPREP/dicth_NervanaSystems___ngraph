@@ -1,0 +1,13 @@
+1	NervanaSystems___ngraph
+2	#DEP#ngraph
+3	#DEP#deeplearn
+4	#DEP#perform
+5	#DEP#caffe2
+6	#DEP#tensorflow
+7	#DEP#compil
+8	#DEP#pytorch
+9	#DEP#mxnet
+10	#DEP#neuralnetwork
+11	#DEP#onnx
+12	#DEP#paddlepaddl
+13	#DEP#deepneuralnetwork

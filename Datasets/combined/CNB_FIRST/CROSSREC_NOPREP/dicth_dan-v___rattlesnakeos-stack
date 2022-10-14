@@ -1,0 +1,17 @@
+1	dan-v___rattlesnakeos-stack
+2	#DEP#otaupdat
+3	#DEP#attest
+4	#DEP#ec2
+5	#DEP#aw
+6	#DEP#spotinstanc
+7	#DEP#awlambda
+8	#DEP#chromium
+9	#DEP#secur
+10	#DEP#golang
+11	#DEP#fdroid
+12	#DEP#terraform
+13	#DEP#verifiboot
+14	#DEP#privaci
+15	#DEP#aosp
+16	#DEP#android
+17	#DEP#signkey

@@ -1,0 +1,12 @@
+1	0xd4d___dnlib
+2	#DEP#spdb
+3	#DEP#metadata
+4	#DEP#dotnet
+5	#DEP#reader
+6	#DEP#window
+7	#DEP#pdb
+8	#DEP#portablepdb
+9	#DEP#modul
+10	#DEP#c
+11	#DEP#assembl
+12	#DEP#writer

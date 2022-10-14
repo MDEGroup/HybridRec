@@ -1,0 +1,8 @@
+2	#DEP#kern
+3	#DEP#opentyp
+4	#DEP#opentypej
+5	#DEP#truetyp
+6	#DEP#javascript
+7	#DEP#nodej
+8	#DEP#font
+9	#DEP#glyph

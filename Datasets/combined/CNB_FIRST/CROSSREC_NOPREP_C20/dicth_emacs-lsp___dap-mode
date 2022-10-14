@@ -1,0 +1,13 @@
+1	emacs-lsp___dap-mode
+2	#DEP#java
+3	#DEP#rust
+4	#DEP#javascript
+5	#DEP#cpp
+6	#DEP#rubi
+7	#DEP#debug
+8	#DEP#lua
+9	#DEP#php
+10	#DEP#swift
+11	#DEP#typescript
+12	#DEP#go
+13	#DEP#emac

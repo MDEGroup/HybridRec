@@ -1,0 +1,15 @@
+1	cncjs___cncjs
+2	#DEP#cncmillcontrol
+3	#DEP#smoothiewar
+4	#DEP#pendant
+5	#DEP#cnc
+6	#DEP#serial
+7	#DEP#grbl
+8	#DEP#cncj
+9	#DEP#linux
+10	#DEP#gcode
+11	#DEP#smoothi
+12	#DEP#marlin
+13	#DEP#raspberripi
+14	#DEP#g2core
+15	#DEP#tinyg

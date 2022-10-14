@@ -1,0 +1,8 @@
+1	crossbeam-rs___crossbeam
+2	#DEP#rust
+3	#DEP#thread
+4	#DEP#concurr
+5	#DEP#synchron
+6	#DEP#datastructur
+7	#DEP#parallel
+8	#DEP#lockfre

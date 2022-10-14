@@ -1,0 +1,13 @@
+1	swc-project___swc
+2	#DEP#rust
+3	#DEP#ecmascriptpars
+4	#DEP#parser
+5	#DEP#swc
+6	#DEP#ecmascript
+7	#DEP#compil
+8	#DEP#typescriptcompil
+9	#DEP#closurcompil
+10	#DEP#javascript
+11	#DEP#typescriptpars
+12	#DEP#typescript
+13	#DEP#babel

@@ -1,0 +1,10 @@
+2	#DEP#cloudform
+3	#DEP#firefoxaddon
+4	#DEP#awconsol
+5	#DEP#aw
+6	#DEP#tropospher
+7	#DEP#terraform
+8	#DEP#awsdk
+9	#DEP#awcli
+10	#DEP#boto3
+11	#DEP#chromeexten

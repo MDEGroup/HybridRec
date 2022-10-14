@@ -1,0 +1,16 @@
+2	#DEP#contentmanagsystem
+3	#DEP#joomla
+4	#DEP#cmbruteforc
+5	#DEP#cmdetect
+6	#DEP#cm
+7	#DEP#cmframework
+8	#DEP#drupalbruteforc
+9	#DEP#joomlabruteforc
+10	#DEP#wordpressbruteforc
+11	#DEP#wordpress
+12	#DEP#wordpressscann
+13	#DEP#bruteforc
+14	#DEP#drupal
+15	#DEP#exploitframework
+16	#DEP#opencartbruteforc
+17	#DEP#webscann

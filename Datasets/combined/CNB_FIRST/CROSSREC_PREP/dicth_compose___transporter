@@ -1,0 +1,8 @@
+1	compose___transporter
+2	#DEP#data-base
+3	#DEP#rabbitmq
+4	#DEP#elasticsearch
+5	#DEP#go
+6	#DEP#etl
+7	#DEP#mongo
+8	#DEP#postgresql

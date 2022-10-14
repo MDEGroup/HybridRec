@@ -1,0 +1,11 @@
+1	OpenRCT2___OpenRCT2
+2	#DEP#xcode
+3	#DEP#linux
+4	#DEP#cpluplu
+5	#DEP#c
+6	#DEP#cmake
+7	#DEP#game
+8	#DEP#cpp
+9	#DEP#opengl
+10	#DEP#server
+11	#DEP#window

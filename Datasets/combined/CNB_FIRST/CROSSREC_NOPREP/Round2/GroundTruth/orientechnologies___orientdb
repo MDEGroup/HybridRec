@@ -1,0 +1,12 @@
+2	#DEP#sql
+3	#DEP#multimast
+4	#DEP#fast
+5	#DEP#graphdataba
+6	#DEP#dbm
+7	#DEP#nosql
+8	#DEP#documentdataba
+9	#DEP#databas
+10	#DEP#multimodeldbm
+11	#DEP#perform
+12	#DEP#graphstor
+13	#DEP#orientdb

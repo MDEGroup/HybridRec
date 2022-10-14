@@ -1,0 +1,7 @@
+2	#DEP#postgresql
+3	#DEP#orm
+4	#DEP#sqlite
+5	#DEP#sqlsever
+6	#DEP#oralc
+7	#DEP#core
+8	#DEP#mysql

@@ -1,0 +1,8 @@
+2	#DEP#languagmodel
+3	#DEP#deeplearn
+4	#DEP#automl
+5	#DEP#pytorch
+6	#DEP#imagclassif
+7	#DEP#convolutnetwork
+8	#DEP#recurrnetwork
+9	#DEP#neuralarchitectursearch

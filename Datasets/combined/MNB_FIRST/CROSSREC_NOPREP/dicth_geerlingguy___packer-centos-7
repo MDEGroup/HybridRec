@@ -1,0 +1,10 @@
+1	geerlingguy___packer-centos-7
+2	#DEP#setup
+3	#DEP#virtualbox
+4	#DEP#packer
+5	#DEP#vagrant
+6	#DEP#cento
+7	#DEP#rhel7
+8	#DEP#centos7
+9	#DEP#box
+10	#DEP#ansibl

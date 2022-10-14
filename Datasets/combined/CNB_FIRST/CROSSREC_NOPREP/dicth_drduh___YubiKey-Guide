@@ -1,0 +1,11 @@
+1	drduh___YubiKey-Guide
+2	#DEP#ssh
+3	#DEP#smartcard
+4	#DEP#gpgagent
+5	#DEP#gnupg
+6	#DEP#gpgconfigur
+7	#DEP#gpg
+8	#DEP#rsacryptographi
+9	#DEP#remotaccess
+10	#DEP#secur
+11	#DEP#yubikey

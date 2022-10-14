@@ -1,0 +1,15 @@
+2	#DEP#hdf5file
+3	#DEP#databas
+4	#DEP#marketstor
+5	#DEP#binanc
+6	#DEP#golang
+7	#DEP#gdax
+8	#DEP#pandadatafram
+9	#DEP#alpaca
+10	#DEP#financitimeseridata
+11	#DEP#bitmex
+12	#DEP#cryptocurr
+13	#DEP#financianalysi
+14	#DEP#timeseridataba
+15	#DEP#trade
+16	#DEP#timeseri

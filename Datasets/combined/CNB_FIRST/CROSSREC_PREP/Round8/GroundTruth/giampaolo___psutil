@@ -1,0 +1,15 @@
+2	#DEP#pu
+3	#DEP#freebsd
+4	#DEP#serv
+5	#DEP#sensor
+6	#DEP#window
+7	#DEP#disk
+8	#DEP#memorianalysi
+9	#DEP#memori
+10	#DEP#python
+11	#DEP#process
+12	#DEP#openbsd
+13	#DEP#monitor
+14	#DEP#c
+15	#DEP#unix-based
+16	#DEP#osx

@@ -1,0 +1,16 @@
+1	ThePhD___sol2
+2	#DEP#lua
+3	#DEP#clang
+4	#DEP#moderncpp
+5	#DEP#visualstudio
+6	#DEP#gcc
+7	#DEP#simpl
+8	#DEP#cpp17
+9	#DEP#io
+10	#DEP#sol
+11	#DEP#visualcpp
+12	#DEP#luabind
+13	#DEP#ndk
+14	#DEP#luascript
+15	#DEP#luajit
+16	#DEP#android

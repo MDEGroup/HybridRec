@@ -1,0 +1,12 @@
+2	#DEP#psr7httpclient
+3	#DEP#coroutin
+4	#DEP#psr7
+5	#DEP#saber
+6	#DEP#httpclient
+7	#DEP#async
+8	#DEP#http
+9	#DEP#swool
+10	#DEP#request
+11	#DEP#php
+12	#DEP#ajax
+13	#DEP#axio

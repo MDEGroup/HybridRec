@@ -1,0 +1,6 @@
+2	#DEP#gradl
+3	#DEP#buildtool
+4	#DEP#gradlplugin
+5	#DEP#java
+6	#DEP#javafx
+7	#DEP#javafxgradlplugin

@@ -1,0 +1,8 @@
+2	#DEP#opencontain
+3	#DEP#contain
+4	#DEP#runc
+5	#DEP#cli
+6	#DEP#rootless
+7	#DEP#docker
+8	#DEP#buildkit
+9	#DEP#linux

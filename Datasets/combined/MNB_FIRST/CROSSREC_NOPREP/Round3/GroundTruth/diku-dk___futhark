@@ -1,0 +1,9 @@
+2	#DEP#boom
+3	#DEP#cuda
+4	#DEP#opencl
+5	#DEP#gpgpu
+6	#DEP#languag
+7	#DEP#futhark
+8	#DEP#compil
+9	#DEP#hpc
+10	#DEP#gpu

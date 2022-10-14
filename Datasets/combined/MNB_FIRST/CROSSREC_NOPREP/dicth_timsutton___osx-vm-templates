@@ -1,0 +1,8 @@
+1	timsutton___osx-vm-templates
+2	#DEP#virtual
+3	#DEP#virtualbox
+4	#DEP#packer
+5	#DEP#maco
+6	#DEP#parallel
+7	#DEP#vagrant
+8	#DEP#vmware

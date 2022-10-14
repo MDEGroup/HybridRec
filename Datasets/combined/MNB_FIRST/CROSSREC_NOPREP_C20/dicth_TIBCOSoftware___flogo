@@ -1,0 +1,11 @@
+1	TIBCOSoftware___flogo
+2	#DEP#serverless
+3	#DEP#microservic
+4	#DEP#iot
+5	#DEP#awlambda
+6	#DEP#tensorflow
+7	#DEP#lambda
+8	#DEP#stream
+9	#DEP#golang
+10	#DEP#go
+11	#DEP#faa

@@ -1,0 +1,9 @@
+2	#DEP#conditrandomfield
+3	#DEP#stateart
+4	#DEP#crf
+5	#DEP#tensorflow
+6	#DEP#glove
+7	#DEP#nameentitirecognit
+8	#DEP#charactemb
+9	#DEP#bilstm
+10	#DEP#ner

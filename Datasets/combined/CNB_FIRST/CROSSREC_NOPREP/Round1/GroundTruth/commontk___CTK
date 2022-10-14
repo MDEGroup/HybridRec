@@ -1,0 +1,13 @@
+2	#DEP#itk
+3	#DEP#medicimag
+4	#DEP#qt
+5	#DEP#mitk
+6	#DEP#pluginmanag
+7	#DEP#3dslicer
+8	#DEP#osgi
+9	#DEP#dicom
+10	#DEP#crossplatform
+11	#DEP#cpluplu
+12	#DEP#opensourc
+13	#DEP#vtk
+14	#DEP#python

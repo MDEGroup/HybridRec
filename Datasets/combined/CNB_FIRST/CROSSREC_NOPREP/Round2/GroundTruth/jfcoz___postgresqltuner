@@ -1,0 +1,8 @@
+2	#DEP#ssh
+3	#DEP#postgr
+4	#DEP#postgresql
+5	#DEP#tune
+6	#DEP#docker
+7	#DEP#perl
+8	#DEP#postgresqldataba
+9	#DEP#membuff

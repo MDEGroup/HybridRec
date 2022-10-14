@@ -1,0 +1,17 @@
+2	#DEP#opengl
+3	#DEP#gameengin
+4	#DEP#swiftpm
+5	#DEP#vulkan
+6	#DEP#tvo
+7	#DEP#game
+8	#DEP#maco
+9	#DEP#swift
+10	#DEP#fiber2d
+11	#DEP#bgfx
+12	#DEP#io
+13	#DEP#metal
+14	#DEP#crossplatform
+15	#DEP#linux
+16	#DEP#android
+17	#DEP#directx
+18	#DEP#sdl

@@ -1,0 +1,7 @@
+2	#DEP#devop
+3	#DEP#errormonitor
+4	#DEP#cspreport
+5	#DEP#monitor
+6	#DEP#django
+7	#DEP#errorlog
+8	#DEP#crashreport

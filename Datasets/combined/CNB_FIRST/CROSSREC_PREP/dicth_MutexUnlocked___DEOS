@@ -1,0 +1,7 @@
+1	MutexUnlocked___DEOS
+2	#DEP#unixlik
+3	#DEP#kernel
+4	#DEP#gpl
+5	#DEP#opersystem
+6	#DEP#driver
+7	#DEP#c

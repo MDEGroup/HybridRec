@@ -1,0 +1,5 @@
+2	#DEP#graphql
+3	#DEP#node
+4	#DEP#koa
+5	#DEP#express
+6	#DEP#apollo

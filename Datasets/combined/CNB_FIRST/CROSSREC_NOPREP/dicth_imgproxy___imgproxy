@@ -1,0 +1,10 @@
+1	imgproxy___imgproxy
+2	#DEP#imag
+3	#DEP#libvip
+4	#DEP#resizimag
+5	#DEP#imagprocess
+6	#DEP#png
+7	#DEP#microservic
+8	#DEP#docker
+9	#DEP#jpeg
+10	#DEP#cropimag

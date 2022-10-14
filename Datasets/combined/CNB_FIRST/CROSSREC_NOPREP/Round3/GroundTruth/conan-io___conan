@@ -1,0 +1,7 @@
+2	#DEP#cplusplu
+3	#DEP#packagmanag
+4	#DEP#multiplatform
+5	#DEP#cmake
+6	#DEP#conan
+7	#DEP#c
+8	#DEP#cpp

@@ -1,0 +1,12 @@
+2	#DEP#activerecord
+3	#DEP#rubigem
+4	#DEP#jsonb
+5	#DEP#postgresql
+6	#DEP#hstore
+7	#DEP#local
+8	#DEP#rubi
+9	#DEP#sequel
+10	#DEP#json
+11	#DEP#rail
+12	#DEP#i18n
+13	#DEP#translat

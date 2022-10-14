@@ -1,0 +1,11 @@
+2	#DEP#tomcat
+3	#DEP#springmvc
+4	#DEP#hibern
+5	#DEP#sampl
+6	#DEP#jetti
+7	#DEP#spring
+8	#DEP#springdatajpa
+9	#DEP#jpa
+10	#DEP#mysql
+11	#DEP#springframework
+12	#DEP#maven

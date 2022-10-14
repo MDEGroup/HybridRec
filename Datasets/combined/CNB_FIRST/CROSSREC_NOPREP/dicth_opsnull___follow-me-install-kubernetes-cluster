@@ -1,0 +1,10 @@
+1	opsnull___follow-me-install-kubernetes-cluster
+2	#DEP#harbor
+3	#DEP#coredn
+4	#DEP#etcd
+5	#DEP#efk
+6	#DEP#heapster
+7	#DEP#docker
+8	#DEP#dockerregistri
+9	#DEP#flanneld
+10	#DEP#kubernet

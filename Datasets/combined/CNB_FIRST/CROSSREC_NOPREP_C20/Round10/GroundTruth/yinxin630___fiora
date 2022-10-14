@@ -1,0 +1,5 @@
+2	#DEP#mongodb
+3	#DEP#react
+4	#DEP#koa
+5	#DEP#socketio
+6	#DEP#chat

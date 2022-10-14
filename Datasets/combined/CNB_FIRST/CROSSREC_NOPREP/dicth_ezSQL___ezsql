@@ -1,0 +1,14 @@
+1	ezSQL___ezsql
+2	#DEP#sql
+3	#DEP#dba
+4	#DEP#ezsql
+5	#DEP#shortcut
+6	#DEP#oracl
+7	#DEP#sqlserver
+8	#DEP#pdo
+9	#DEP#mysqli
+10	#DEP#pgsql
+11	#DEP#sqlite3
+12	#DEP#php
+13	#DEP#dbal
+14	#DEP#mysql

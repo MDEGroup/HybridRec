@@ -1,0 +1,6 @@
+1	nosqlclient___nosqlclient
+2	#DEP#nosql
+3	#DEP#mongodb
+4	#DEP#docker
+5	#DEP#monitor
+6	#DEP#crossplatform

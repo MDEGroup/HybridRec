@@ -1,0 +1,7 @@
+2	#DEP#arduino
+3	#DEP#musicvisu
+4	#DEP#signalprocess
+5	#DEP#esp8266
+6	#DEP#audioprocess
+7	#DEP#raspberripi
+8	#DEP#python

@@ -1,0 +1,12 @@
+2	#DEP#continuintegr
+3	#DEP#dotnetcor
+4	#DEP#dotnet
+5	#DEP#nuget
+6	#DEP#ake
+7	#DEP#test
+8	#DEP#c-sharp
+9	#DEP#autom
+10	#DEP#nunit
+11	#DEP#c
+12	#DEP#build
+13	#DEP#xunit

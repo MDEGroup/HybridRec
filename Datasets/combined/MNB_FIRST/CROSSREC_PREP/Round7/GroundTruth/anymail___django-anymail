@@ -1,0 +1,9 @@
+2	#DEP#django
+3	#DEP#mailgun
+4	#DEP#amazon
+5	#DEP#sendinblu
+6	#DEP#e-mail
+7	#DEP#skpost
+8	#DEP#mandril
+9	#DEP#sendgrid
+10	#DEP#mailet

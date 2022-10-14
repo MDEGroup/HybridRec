@@ -1,0 +1,8 @@
+1	qword-os___qword
+2	#DEP#unixlik
+3	#DEP#xassembl
+4	#DEP#kernel
+5	#DEP#unixshel
+6	#DEP#opersystem
+7	#DEP#unix-based
+8	#DEP#c

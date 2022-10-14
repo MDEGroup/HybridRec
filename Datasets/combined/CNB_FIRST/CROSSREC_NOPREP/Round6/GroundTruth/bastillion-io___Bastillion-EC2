@@ -1,0 +1,9 @@
+2	#DEP#ssh
+3	#DEP#ec2
+4	#DEP#sshclient
+5	#DEP#aw
+6	#DEP#bastionhost
+7	#DEP#webapp
+8	#DEP#java
+9	#DEP#javascript
+10	#DEP#webbas

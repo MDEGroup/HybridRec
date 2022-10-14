@@ -1,0 +1,10 @@
+2	#DEP#java
+3	#DEP#eda
+4	#DEP#api
+5	#DEP#maven
+6	#DEP#gateway
+7	#DEP#zuulfeign
+8	#DEP#cloud
+9	#DEP#spring-boot
+10	#DEP#c
+11	#DEP#spring

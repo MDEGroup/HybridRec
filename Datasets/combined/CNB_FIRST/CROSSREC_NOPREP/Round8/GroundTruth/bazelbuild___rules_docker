@@ -1,0 +1,6 @@
+2	#DEP#cloud
+3	#DEP#dockerimag
+4	#DEP#googl
+5	#DEP#bazelrul
+6	#DEP#bazel
+7	#DEP#docker

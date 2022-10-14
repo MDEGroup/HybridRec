@@ -1,0 +1,6 @@
+2	#DEP#lstmctc
+3	#DEP#keracrnn
+4	#DEP#tensorflow
+5	#DEP#ctpn
+6	#DEP#ocr
+7	#DEP#pytorchcrnn

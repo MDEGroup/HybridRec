@@ -1,0 +1,8 @@
+2	#DEP#lua
+3	#DEP#codegen
+4	#DEP#cocoa
+5	#DEP#java
+6	#DEP#scala
+7	#DEP#thrift
+8	#DEP#finagl
+9	#DEP#android

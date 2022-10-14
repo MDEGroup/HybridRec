@@ -1,0 +1,8 @@
+1	dirkaholic___vagrant-php-dev-box
+2	#DEP#symfoni
+3	#DEP#nginx
+4	#DEP#vagrant
+5	#DEP#php7
+6	#DEP#laravel
+7	#DEP#develop
+8	#DEP#mysql

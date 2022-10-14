@@ -1,0 +1,14 @@
+2	#DEP#typescript
+3	#DEP#babel
+4	#DEP#prettier
+5	#DEP#react
+6	#DEP#reselet
+7	#DEP#eslint
+8	#DEP#redux
+9	#DEP#smodul
+10	#DEP#postss
+11	#DEP#hmr
+12	#DEP#web-pack
+13	#DEP#express
+14	#DEP#reatrout
+15	#DEP#c

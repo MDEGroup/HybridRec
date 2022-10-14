@@ -1,0 +1,12 @@
+2	#DEP#bittorr
+3	#DEP#p2p
+4	#DEP#torrent
+5	#DEP#torrentcli
+6	#DEP#librari
+7	#DEP#magnet
+8	#DEP#cli
+9	#DEP#stream
+10	#DEP#client
+11	#DEP#encrypt
+12	#DEP#dht
+13	#DEP#magnetlink

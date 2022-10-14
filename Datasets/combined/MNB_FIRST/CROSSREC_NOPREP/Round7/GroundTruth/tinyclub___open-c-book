@@ -1,0 +1,10 @@
+2	#DEP#linux
+3	#DEP#debug
+4	#DEP#loader
+5	#DEP#compil
+6	#DEP#elf
+7	#DEP#c
+8	#DEP#excut
+9	#DEP#editor
+10	#DEP#linker
+11	#DEP#process

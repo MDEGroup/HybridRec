@@ -1,0 +1,8 @@
+1	MozillaSecurity___fuzzdata
+2	#DEP#seed
+3	#DEP#corpu
+4	#DEP#set
+5	#DEP#firefox
+6	#DEP#fuzz
+7	#DEP#corpus
+8	#DEP#browser

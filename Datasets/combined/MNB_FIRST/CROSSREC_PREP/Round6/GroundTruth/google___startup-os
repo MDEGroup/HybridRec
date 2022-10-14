@@ -1,0 +1,11 @@
+2	#DEP#java
+3	#DEP#dagger
+4	#DEP#firebas
+5	#DEP#bazel
+6	#DEP#protoolbuff
+7	#DEP#grp
+8	#DEP#cplusplus
+9	#DEP#c
+10	#DEP#fior
+11	#DEP#grpcava
+12	#DEP#rest

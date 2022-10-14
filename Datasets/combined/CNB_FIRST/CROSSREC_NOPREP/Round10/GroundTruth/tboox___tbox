@@ -1,0 +1,12 @@
+2	#DEP#xml
+3	#DEP#coroutin
+4	#DEP#algorithm
+5	#DEP#iter
+6	#DEP#contain
+7	#DEP#tbox
+8	#DEP#json
+9	#DEP#stream
+10	#DEP#plist
+11	#DEP#crossplatform
+12	#DEP#xmake
+13	#DEP#network

@@ -1,0 +1,9 @@
+2	#DEP#messaging
+3	#DEP#monitor
+4	#DEP#boltdb
+5	#DEP#prometheu
+6	#DEP#hatop
+7	#DEP#alertmanag
+8	#DEP#onsul
+9	#DEP#bot
+10	#DEP#c

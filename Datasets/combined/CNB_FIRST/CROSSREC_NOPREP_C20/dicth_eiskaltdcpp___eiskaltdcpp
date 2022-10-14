@@ -1,0 +1,15 @@
+1	eiskaltdcpp___eiskaltdcpp
+2	#DEP#network
+3	#DEP#cli
+4	#DEP#mac
+5	#DEP#linux
+6	#DEP#cpluplu
+7	#DEP#commun
+8	#DEP#qt
+9	#DEP#gui
+10	#DEP#crossplatform
+11	#DEP#p2p
+12	#DEP#chat
+13	#DEP#window
+14	#DEP#messag
+15	#DEP#client

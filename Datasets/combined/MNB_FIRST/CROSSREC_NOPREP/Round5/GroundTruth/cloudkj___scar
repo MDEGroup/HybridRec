@@ -1,0 +1,7 @@
+2	#DEP#cloudform
+3	#DEP#serverless
+4	#DEP#aw
+5	#DEP#cloudfront
+6	#DEP#s3
+7	#DEP#staticsit
+8	#DEP#route53

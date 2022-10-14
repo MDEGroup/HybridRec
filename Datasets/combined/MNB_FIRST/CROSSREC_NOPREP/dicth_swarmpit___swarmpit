@@ -1,0 +1,15 @@
+1	swarmpit___swarmpit
+2	#DEP#ui
+3	#DEP#dockerstack
+4	#DEP#manag
+5	#DEP#swarmmod
+6	#DEP#swarm
+7	#DEP#mobilfriendli
+8	#DEP#dockercontain
+9	#DEP#docker
+10	#DEP#dockercompo
+11	#DEP#stack
+12	#DEP#dockerdevop
+13	#DEP#dockerswarm
+14	#DEP#pwa
+15	#DEP#dockerswarmui

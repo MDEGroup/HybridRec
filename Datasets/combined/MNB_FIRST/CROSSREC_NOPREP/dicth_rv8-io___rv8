@@ -1,0 +1,17 @@
+1	rv8-io___rv8
+2	#DEP#macroopfus
+3	#DEP#rvmeta
+4	#DEP#disassembl
+5	#DEP#histogram
+6	#DEP#risc
+7	#DEP#linux
+8	#DEP#binaritranslat
+9	#DEP#rv8
+10	#DEP#riscv
+11	#DEP#rvjit
+12	#DEP#simul
+13	#DEP#metadata
+14	#DEP#emul
+15	#DEP#rvsim
+16	#DEP#isa
+17	#DEP#rvsi

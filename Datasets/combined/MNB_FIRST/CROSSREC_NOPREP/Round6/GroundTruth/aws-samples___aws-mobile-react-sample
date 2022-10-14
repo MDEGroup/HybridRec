@@ -1,0 +1,12 @@
+2	#DEP#serverless
+3	#DEP#react
+4	#DEP#aw
+5	#DEP#mobilhub
+6	#DEP#lambda
+7	#DEP#cognito
+8	#DEP#awamplifi
+9	#DEP#javascript
+10	#DEP#s3
+11	#DEP#awamplifireact
+12	#DEP#dynamodb
+13	#DEP#apigateway

@@ -1,0 +1,10 @@
+1	hashivim___vim-hashicorp-tools
+2	#DEP#highlight
+3	#DEP#packer
+4	#DEP#hashivim
+5	#DEP#vimhashicorp
+6	#DEP#vagrant
+7	#DEP#terraform
+8	#DEP#syntax
+9	#DEP#vim
+10	#DEP#hashicorp

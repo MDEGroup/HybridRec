@@ -1,0 +1,10 @@
+1	cloudfavorites___favorites-web
+2	#DEP#webjar
+3	#DEP#thymeleaf
+4	#DEP#spring
+5	#DEP#favorit
+6	#DEP#springdatajpa
+7	#DEP#bootstrap
+8	#DEP#springboot
+9	#DEP#jpa
+10	#DEP#docker

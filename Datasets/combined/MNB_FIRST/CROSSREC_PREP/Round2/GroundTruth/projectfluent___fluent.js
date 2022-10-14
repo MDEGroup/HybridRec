@@ -1,0 +1,10 @@
+2	#DEP#internatn
+3	#DEP#react
+4	#DEP#languagneti
+5	#DEP#go
+6	#DEP#format
+7	#DEP#local
+8	#DEP#io
+9	#DEP#languag
+10	#DEP#global
+11	#DEP#translat

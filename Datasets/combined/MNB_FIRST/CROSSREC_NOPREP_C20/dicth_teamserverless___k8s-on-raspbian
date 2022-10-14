@@ -1,0 +1,7 @@
+1	teamserverless___k8s-on-raspbian
+2	#DEP#raspberripi
+3	#DEP#serverless
+4	#DEP#cloud
+5	#DEP#kubernet
+6	#DEP#devop
+7	#DEP#faa

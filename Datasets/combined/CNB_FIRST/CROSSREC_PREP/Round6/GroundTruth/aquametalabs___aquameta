@@ -1,0 +1,10 @@
+2	#DEP#systematalog
+3	#DEP#widget
+4	#DEP#plpg
+5	#DEP#restapi
+6	#DEP#versionontrolsystem
+7	#DEP#event
+8	#DEP#sql
+9	#DEP#postgresql
+10	#DEP#c
+11	#DEP#semant

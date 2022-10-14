@@ -1,0 +1,7 @@
+2	#DEP#elixir
+3	#DEP#rfc4180
+4	#DEP#csv
+5	#DEP#parallel
+6	#DEP#stream
+7	#DEP#encod
+8	#DEP#par

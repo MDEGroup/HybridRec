@@ -1,0 +1,10 @@
+2	#DEP#queri
+3	#DEP#cuda
+4	#DEP#cgo
+5	#DEP#gpuprogram
+6	#DEP#golang
+7	#DEP#data
+8	#DEP#realtim
+9	#DEP#storag
+10	#DEP#databas
+11	#DEP#analyt

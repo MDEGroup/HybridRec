@@ -1,0 +1,14 @@
+2	#DEP#stress
+3	#DEP#urwid
+4	#DEP#psutil
+5	#DEP#tui
+6	#DEP#termin
+7	#DEP#power
+8	#DEP#frequenc
+9	#DEP#monitor
+10	#DEP#cli
+11	#DEP#cpu
+12	#DEP#consol
+13	#DEP#util
+14	#DEP#stresstest
+15	#DEP#temperatur

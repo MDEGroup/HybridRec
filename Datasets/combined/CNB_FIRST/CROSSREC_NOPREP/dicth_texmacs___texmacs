@@ -1,0 +1,7 @@
+1	texmacs___texmacs
+2	#DEP#qt
+3	#DEP#texmac
+4	#DEP#mathemat
+5	#DEP#gnu
+6	#DEP#scheme
+7	#DEP#cpp

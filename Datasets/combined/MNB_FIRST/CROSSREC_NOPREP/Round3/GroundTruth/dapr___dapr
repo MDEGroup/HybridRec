@@ -1,0 +1,8 @@
+2	#DEP#serverless
+3	#DEP#pubsub
+4	#DEP#sidecar
+5	#DEP#statemanag
+6	#DEP#contain
+7	#DEP#eventdriven
+8	#DEP#microservic
+9	#DEP#kubernet

@@ -1,0 +1,14 @@
+2	#DEP#middlewar
+3	#DEP#decor
+4	#DEP#multer
+5	#DEP#expressrout
+6	#DEP#convert
+7	#DEP#dependinject
+8	#DEP#expressdecor
+9	#DEP#restapi
+10	#DEP#nodej
+11	#DEP#socketio
+12	#DEP#lifecyclhook
+13	#DEP#ioc
+14	#DEP#typescript
+15	#DEP#swaggerui

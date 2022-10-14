@@ -1,0 +1,10 @@
+1	miniflux___miniflux
+2	#DEP#go
+3	#DEP#rdf
+4	#DEP#atom
+5	#DEP#feed
+6	#DEP#sonfe
+7	#DEP#r
+8	#DEP#c
+9	#DEP#postgresql
+10	#DEP#letsenrypt

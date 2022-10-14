@@ -1,0 +1,9 @@
+2	#DEP#ffmpegandroid
+3	#DEP#androidndk
+4	#DEP#freetyp
+5	#DEP#h264
+6	#DEP#libass
+7	#DEP#fontconfig
+8	#DEP#shell
+9	#DEP#android
+10	#DEP#fribidi

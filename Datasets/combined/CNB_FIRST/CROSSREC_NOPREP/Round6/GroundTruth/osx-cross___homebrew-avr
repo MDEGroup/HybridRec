@@ -1,0 +1,7 @@
+2	#DEP#arduino
+3	#DEP#avrgcc
+4	#DEP#homebrew
+5	#DEP#avrtoolchain
+6	#DEP#avrprogram
+7	#DEP#brew
+8	#DEP#avr

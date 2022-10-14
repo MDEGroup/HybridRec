@@ -1,0 +1,6 @@
+1	goreleaser___goreleaser
+2	#DEP#docker
+3	#DEP#homebrew
+4	#DEP#golang
+5	#DEP#go
+6	#DEP#packag

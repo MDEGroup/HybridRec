@@ -1,0 +1,9 @@
+2	#DEP#cilium
+3	#DEP#kubeasz
+4	#DEP#etcd
+5	#DEP#k8
+6	#DEP#docker
+7	#DEP#calico
+8	#DEP#ansibl
+9	#DEP#kubernet
+10	#DEP#flannel

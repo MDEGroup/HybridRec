@@ -1,0 +1,13 @@
+2	#DEP#lua
+3	#DEP#mtk
+4	#DEP#samsung
+5	#DEP#opersystem
+6	#DEP#rockchip
+7	#DEP#embedsystem
+8	#DEP#applicengin
+9	#DEP#soc
+10	#DEP#boot
+11	#DEP#freescal
+12	#DEP#bootload
+13	#DEP#xboot
+14	#DEP#allwinn

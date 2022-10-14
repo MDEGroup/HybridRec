@@ -1,0 +1,8 @@
+1	hasura___graphqurl
+2	#DEP#curl
+3	#DEP#queri
+4	#DEP#graphql
+5	#DEP#mutat
+6	#DEP#subscript
+7	#DEP#autocomplet
+8	#DEP#cli

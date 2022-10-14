@@ -1,0 +1,7 @@
+1	zedtux___brewformulas.org
+2	#DEP#search
+3	#DEP#homebrew
+4	#DEP#brewformula
+5	#DEP#maco
+6	#DEP#discovformula
+7	#DEP#macosx

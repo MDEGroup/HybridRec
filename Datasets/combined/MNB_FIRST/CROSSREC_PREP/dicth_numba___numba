@@ -1,0 +1,9 @@
+1	numba___numba
+2	#DEP#allel
+3	#DEP#llvm
+4	#DEP#python
+5	#DEP#ro
+6	#DEP#numpi
+7	#DEP#compil
+8	#DEP#uda
+9	#DEP#c

@@ -1,0 +1,12 @@
+2	#DEP#softwardefinradio
+3	#DEP#sdr
+4	#DEP#qt
+5	#DEP#limesdr
+6	#DEP#fft
+7	#DEP#airspi
+8	#DEP#radio
+9	#DEP#spectrumanalyz
+10	#DEP#hackrf
+11	#DEP#visual
+12	#DEP#python
+13	#DEP#rtlsdr

@@ -1,0 +1,10 @@
+2	#DEP#messaging
+3	#DEP#sonapi
+4	#DEP#artificial
+5	#DEP#python
+6	#DEP#plugin
+7	#DEP#intelligence
+8	#DEP#personassist
+9	#DEP#c
+10	#DEP#assist
+11	#DEP#spai

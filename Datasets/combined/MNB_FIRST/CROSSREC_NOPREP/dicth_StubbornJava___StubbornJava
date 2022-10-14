@@ -1,0 +1,14 @@
+1	StubbornJava___StubbornJava
+2	#DEP#gradl
+3	#DEP#java8
+4	#DEP#jool
+5	#DEP#okhttp3
+6	#DEP#undertow
+7	#DEP#logback
+8	#DEP#jackson
+9	#DEP#jooq
+10	#DEP#terraform
+11	#DEP#java
+12	#DEP#hikaricp
+13	#DEP#ansibl
+14	#DEP#slf4j

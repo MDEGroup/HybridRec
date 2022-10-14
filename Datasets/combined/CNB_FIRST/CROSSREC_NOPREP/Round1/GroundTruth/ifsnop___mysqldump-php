@@ -1,0 +1,14 @@
+2	#DEP#sql
+3	#DEP#php7
+4	#DEP#php5
+5	#DEP#window
+6	#DEP#maco
+7	#DEP#mysqlbackup
+8	#DEP#pdo
+9	#DEP#hhvm
+10	#DEP#databas
+11	#DEP#mariadb
+12	#DEP#php
+13	#DEP#mysqldump
+14	#DEP#linux
+15	#DEP#mysql

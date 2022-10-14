@@ -1,0 +1,8 @@
+1	speedment___speedment
+2	#DEP#java
+3	#DEP#codegen
+4	#DEP#spring
+5	#DEP#databas
+6	#DEP#orm
+7	#DEP#springboot
+8	#DEP#stream

@@ -1,0 +1,11 @@
+1	switchbrew___libnx
+2	#DEP#aarch64
+3	#DEP#develop
+4	#DEP#switch
+5	#DEP#arm64
+6	#DEP#nx
+7	#DEP#homebrew
+8	#DEP#libnx
+9	#DEP#c
+10	#DEP#devkitpro
+11	#DEP#nintendo

@@ -1,0 +1,7 @@
+2	#DEP#serial
+3	#DEP#clojur
+4	#DEP#edn
+5	#DEP#compress
+6	#DEP#taoensso
+7	#DEP#encrypt
+8	#DEP#epl

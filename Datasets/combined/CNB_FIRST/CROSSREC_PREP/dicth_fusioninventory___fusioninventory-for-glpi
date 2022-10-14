@@ -1,0 +1,15 @@
+1	fusioninventory___fusioninventory-for-glpi
+2	#DEP#inventorimanag
+3	#DEP#deploy
+4	#DEP#php
+5	#DEP#dioverinetwork
+6	#DEP#sc
+7	#DEP#softwarinventori
+8	#DEP#devianag
+9	#DEP#plugin
+10	#DEP#onfigurmanag
+11	#DEP#itsm
+12	#DEP#c
+13	#DEP#inventori
+14	#DEP#database
+15	#DEP#snmp

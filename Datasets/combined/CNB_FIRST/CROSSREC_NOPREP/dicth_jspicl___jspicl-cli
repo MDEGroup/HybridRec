@@ -1,0 +1,10 @@
+1	jspicl___jspicl-cli
+2	#DEP#jspicl
+3	#DEP#buildtool
+4	#DEP#rollup
+5	#DEP#commandlineinterfac
+6	#DEP#gamedevelop
+7	#DEP#transpil
+8	#DEP#javascript
+9	#DEP#cli
+10	#DEP#pico8

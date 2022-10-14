@@ -1,0 +1,17 @@
+2	#DEP#archlinux
+3	#DEP#zshtheme
+4	#DEP#ohzsh
+5	#DEP#rofi
+6	#DEP#gtk
+7	#DEP#theme
+8	#DEP#rice
+9	#DEP#i3wm
+10	#DEP#i3gap
+11	#DEP#compton
+12	#DEP#desktopenviron
+13	#DEP#polybar
+14	#DEP#vagrant
+15	#DEP#zsh
+16	#DEP#weechat
+17	#DEP#ansibl
+18	#DEP#vim

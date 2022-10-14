@@ -1,0 +1,9 @@
+2	#DEP#vanillajavaript
+3	#DEP#librari
+4	#DEP#javascript
+5	#DEP#sc
+6	#DEP#vanilla
+7	#DEP#smootheffet
+8	#DEP#tilteffet
+9	#DEP#tiltjavaript
+10	#DEP#c

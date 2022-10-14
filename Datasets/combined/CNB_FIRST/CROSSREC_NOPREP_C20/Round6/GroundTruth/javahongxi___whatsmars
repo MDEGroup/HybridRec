@@ -1,0 +1,10 @@
+2	#DEP#java
+3	#DEP#springmvc
+4	#DEP#spring
+5	#DEP#springcloud
+6	#DEP#redi
+7	#DEP#microservic
+8	#DEP#lambda
+9	#DEP#springboot
+10	#DEP#kafka
+11	#DEP#elasticsearch

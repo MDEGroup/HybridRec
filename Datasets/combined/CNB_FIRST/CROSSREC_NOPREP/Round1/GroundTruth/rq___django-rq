@@ -1,0 +1,7 @@
+2	#DEP#taskqueu
+3	#DEP#jobqueu
+4	#DEP#redi
+5	#DEP#python
+6	#DEP#django
+7	#DEP#backgroundjob
+8	#DEP#rq

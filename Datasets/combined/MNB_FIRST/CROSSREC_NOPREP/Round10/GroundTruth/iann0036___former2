@@ -1,0 +1,6 @@
+2	#DEP#cloudform
+3	#DEP#aw
+4	#DEP#iac
+5	#DEP#tropospher
+6	#DEP#terraform
+7	#DEP#cdk

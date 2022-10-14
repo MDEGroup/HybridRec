@@ -1,0 +1,7 @@
+2	#DEP#scikitlearn
+3	#DEP#datapipelin
+4	#DEP#tensorflow
+5	#DEP#transform
+6	#DEP#scala
+7	#DEP#python
+8	#DEP#spark

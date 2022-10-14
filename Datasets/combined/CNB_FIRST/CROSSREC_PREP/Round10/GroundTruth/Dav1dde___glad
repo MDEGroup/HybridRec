@@ -1,0 +1,13 @@
+2	#DEP#opengl
+3	#DEP#rust
+4	#DEP#sc
+5	#DEP#gle
+6	#DEP#python
+7	#DEP#nim
+8	#DEP#paal
+9	#DEP#odegen
+10	#DEP#gener
+11	#DEP#cplusplus
+12	#DEP#c
+13	#DEP#loadergen
+14	#DEP#vulkan

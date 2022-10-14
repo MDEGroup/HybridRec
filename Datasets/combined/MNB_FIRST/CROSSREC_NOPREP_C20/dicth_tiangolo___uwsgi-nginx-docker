@@ -1,0 +1,12 @@
+1	tiangolo___uwsgi-nginx-docker
+2	#DEP#webserv
+3	#DEP#nginx
+4	#DEP#debian
+5	#DEP#web
+6	#DEP#python
+7	#DEP#docker
+8	#DEP#dockerimag
+9	#DEP#webapp
+10	#DEP#python3
+11	#DEP#python2
+12	#DEP#server

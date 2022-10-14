@@ -1,0 +1,9 @@
+2	#DEP#selfhost
+3	#DEP#ubuntu
+4	#DEP#debian
+5	#DEP#raspbian
+6	#DEP#docker
+7	#DEP#dockercompo
+8	#DEP#htpc
+9	#DEP#homelab
+10	#DEP#mediumserv

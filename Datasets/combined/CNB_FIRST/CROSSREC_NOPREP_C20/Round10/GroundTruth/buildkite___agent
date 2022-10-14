@@ -1,0 +1,5 @@
+2	#DEP#docker
+3	#DEP#continudeliveri
+4	#DEP#continudeploy
+5	#DEP#go
+6	#DEP#continuintegr

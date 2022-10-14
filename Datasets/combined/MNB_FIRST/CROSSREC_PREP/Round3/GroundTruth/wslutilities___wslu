@@ -1,0 +1,8 @@
+2	#DEP#window
+3	#DEP#opensus
+4	#DEP#shell
+5	#DEP#onwindow
+6	#DEP#wsl
+7	#DEP#bash
+8	#DEP#subsystemlinux
+9	#DEP#unix-based

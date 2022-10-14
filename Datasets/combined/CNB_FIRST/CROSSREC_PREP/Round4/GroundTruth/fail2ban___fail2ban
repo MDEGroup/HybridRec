@@ -1,0 +1,16 @@
+2	#DEP#banhost
+3	#DEP#ip
+4	#DEP#bot
+5	#DEP#python
+6	#DEP#hid
+7	#DEP#banmanag
+8	#DEP#attakprev
+9	#DEP#gpl
+10	#DEP#loganalyz
+11	#DEP#intrusprev
+12	#DEP#intrusdetet
+13	#DEP#maco
+14	#DEP#monitor
+15	#DEP#failban
+16	#DEP#unix-based
+17	#DEP#c

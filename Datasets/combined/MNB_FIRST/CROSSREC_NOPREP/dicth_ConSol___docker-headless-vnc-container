@@ -1,0 +1,9 @@
+1	ConSol___docker-headless-vnc-container
+2	#DEP#ubuntu
+3	#DEP#openshift
+4	#DEP#dockerimag
+5	#DEP#headlessvncenviron
+6	#DEP#icewm
+7	#DEP#dockercontain
+8	#DEP#cento
+9	#DEP#xfce

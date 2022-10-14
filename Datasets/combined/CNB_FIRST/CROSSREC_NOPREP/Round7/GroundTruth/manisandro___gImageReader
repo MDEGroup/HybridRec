@@ -1,0 +1,9 @@
+2	#DEP#pdfdocument
+3	#DEP#qt
+4	#DEP#hocrdocu
+5	#DEP#gtk
+6	#DEP#tesseractocr
+7	#DEP#hocr
+8	#DEP#ocr
+9	#DEP#cpluplu
+10	#DEP#scanner

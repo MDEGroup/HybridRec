@@ -1,0 +1,11 @@
+2	#DEP#storagserv
+3	#DEP#databasserv
+4	#DEP#objectc
+5	#DEP#iosdk
+6	#DEP#pushnotif
+7	#DEP#firebasauth
+8	#DEP#firebasdataba
+9	#DEP#authent
+10	#DEP#firebasmessag
+11	#DEP#firebas
+12	#DEP#firebasstorag

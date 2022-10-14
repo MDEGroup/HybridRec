@@ -1,0 +1,8 @@
+1	geerlingguy___ansible-role-certbot
+2	#DEP#letsencrypt
+3	#DEP#http
+4	#DEP#certbot
+5	#DEP#ssl
+6	#DEP#certif
+7	#DEP#role
+8	#DEP#ansibl

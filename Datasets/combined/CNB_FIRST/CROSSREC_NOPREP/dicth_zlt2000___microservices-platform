@@ -1,0 +1,15 @@
+1	zlt2000___microservices-platform
+2	#DEP#springcloudalibaba
+3	#DEP#zuul
+4	#DEP#springcloud
+5	#DEP#gpe
+6	#DEP#oauth2
+7	#DEP#sentiel
+8	#DEP#rbac
+9	#DEP#microservic
+10	#DEP#jwt
+11	#DEP#java
+12	#DEP#naco
+13	#DEP#springboot
+14	#DEP#elk
+15	#DEP#platform

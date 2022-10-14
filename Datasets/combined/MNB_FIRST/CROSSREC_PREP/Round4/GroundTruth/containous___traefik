@@ -1,0 +1,12 @@
+2	#DEP#marathon
+3	#DEP#meso
+4	#DEP#go
+5	#DEP#zookeep
+6	#DEP#loadbalan
+7	#DEP#docker
+8	#DEP#reversproxi
+9	#DEP#onsul
+10	#DEP#microservic
+11	#DEP#c
+12	#DEP#kubernet
+13	#DEP#letsenrypt

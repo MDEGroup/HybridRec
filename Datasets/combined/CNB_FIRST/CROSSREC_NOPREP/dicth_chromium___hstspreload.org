@@ -1,0 +1,7 @@
+1	chromium___hstspreload.org
+2	#DEP#hst
+3	#DEP#chromium
+4	#DEP#http
+5	#DEP#hstspreload
+6	#DEP#chrome
+7	#DEP#secur

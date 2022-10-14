@@ -1,0 +1,10 @@
+1	fastlane-community___xcov
+2	#DEP#htmlreport
+3	#DEP#commandlinetool
+4	#DEP#xcode
+5	#DEP#coverag
+6	#DEP#coveragreport
+7	#DEP#fastlan
+8	#DEP#ci
+9	#DEP#xccoverag
+10	#DEP#continuintegr

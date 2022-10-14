@@ -1,0 +1,15 @@
+1	letoram___arcan
+2	#DEP#lua
+3	#DEP#freebsd
+4	#DEP#gameengin
+5	#DEP#openbsd
+6	#DEP#multimediagraphiclibrari
+7	#DEP#desktopenviron
+8	#DEP#visual
+9	#DEP#displayserv
+10	#DEP#audioprocess
+11	#DEP#c
+12	#DEP#wayland
+13	#DEP#linux
+14	#DEP#virtualr
+15	#DEP#videoprocess

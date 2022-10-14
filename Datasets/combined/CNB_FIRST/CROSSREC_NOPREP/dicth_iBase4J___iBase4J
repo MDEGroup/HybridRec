@@ -1,0 +1,17 @@
+1	iBase4J___iBase4J
+2	#DEP#dubbo
+3	#DEP#mybati
+4	#DEP#springmvc
+5	#DEP#session
+6	#DEP#ibase4j
+7	#DEP#quartz
+8	#DEP#aop
+9	#DEP#springboot
+10	#DEP#java
+11	#DEP#spring
+12	#DEP#shiro
+13	#DEP#redi
+14	#DEP#motan
+15	#DEP#redisson
+16	#DEP#springdataredi
+17	#DEP#maven

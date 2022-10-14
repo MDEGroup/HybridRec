@@ -1,0 +1,13 @@
+2	#DEP#circuitbreak
+3	#DEP#rest
+4	#DEP#framework
+5	#DEP#istio
+6	#DEP#distributsystem
+7	#DEP#grpc
+8	#DEP#gorest
+9	#DEP#go
+10	#DEP#serviccent
+11	#DEP#microservic
+12	#DEP#servicemesh
+13	#DEP#kubernet
+14	#DEP#cloudnativ

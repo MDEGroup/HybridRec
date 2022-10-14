@@ -1,0 +1,8 @@
+1	trco___django-bootstrap-modal-forms
+2	#DEP#bootstrap3
+3	#DEP#bootstrap4
+4	#DEP#jqueri
+5	#DEP#django
+6	#DEP#ajax
+7	#DEP#modal
+8	#DEP#form

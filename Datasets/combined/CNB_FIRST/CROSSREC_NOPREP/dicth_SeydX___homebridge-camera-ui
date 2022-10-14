@@ -1,0 +1,12 @@
+1	SeydX___homebridge-camera-ui
+2	#DEP#gui
+3	#DEP#homebridgplugin
+4	#DEP#rtsp
+5	#DEP#homebridg
+6	#DEP#http
+7	#DEP#ftp
+8	#DEP#motion
+9	#DEP#mqtt
+10	#DEP#stream
+11	#DEP#camera
+12	#DEP#webui

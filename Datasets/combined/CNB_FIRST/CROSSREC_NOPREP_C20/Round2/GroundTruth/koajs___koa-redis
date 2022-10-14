@@ -1,0 +1,6 @@
+2	#DEP#node
+3	#DEP#redi
+4	#DEP#koa
+5	#DEP#cluster
+6	#DEP#cach
+7	#DEP#storag

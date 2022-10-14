@@ -1,0 +1,6 @@
+2	#DEP#express
+3	#DEP#graphql
+4	#DEP#apolloserv
+5	#DEP#nodej
+6	#DEP#mongoos
+7	#DEP#mongodb

@@ -1,0 +1,12 @@
+2	#DEP#wordvec
+3	#DEP#machinlearn
+4	#DEP#supervislearn
+5	#DEP#fasttext
+6	#DEP#onlinlearn
+7	#DEP#scikitlearn
+8	#DEP#textlassif
+9	#DEP#c
+10	#DEP#shallowlearn
+11	#DEP#wordemb
+12	#DEP#textmin
+13	#DEP#gensim

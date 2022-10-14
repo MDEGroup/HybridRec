@@ -1,0 +1,8 @@
+2	#DEP#finch
+3	#DEP#rest
+4	#DEP#web
+5	#DEP#http
+6	#DEP#circ
+7	#DEP#json
+8	#DEP#scala
+9	#DEP#finagl

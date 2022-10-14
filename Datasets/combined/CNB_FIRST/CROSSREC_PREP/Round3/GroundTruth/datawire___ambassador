@@ -1,0 +1,12 @@
+2	#DEP#annot
+3	#DEP#gateway
+4	#DEP#microservic
+5	#DEP#ingr
+6	#DEP#cloud
+7	#DEP#docker
+8	#DEP#envoy
+9	#DEP#manag
+10	#DEP#nativ
+11	#DEP#envoyproxi
+12	#DEP#api
+13	#DEP#kubernet

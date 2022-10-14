@@ -1,0 +1,16 @@
+1	tiangolo___uwsgi-nginx-flask-docker
+2	#DEP#nginx
+3	#DEP#serv
+4	#DEP#webapp
+5	#DEP#contain
+6	#DEP#python
+7	#DEP#flask
+8	#DEP#docker
+9	#DEP#alpin
+10	#DEP#uwsgi
+11	#DEP#appl
+12	#DEP#dokerfil
+13	#DEP#dokerimag
+14	#DEP#unix-based
+15	#DEP#c
+16	#DEP#imag

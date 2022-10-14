@@ -1,0 +1,7 @@
+2	#DEP#containruntiminterfac
+3	#DEP#katacontain
+4	#DEP#k8signod
+5	#DEP#runc
+6	#DEP#oci
+7	#DEP#ociruntim
+8	#DEP#kubernet

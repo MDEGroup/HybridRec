@@ -1,0 +1,6 @@
+1	gfx-rs___gfx
+2	#DEP#rust
+3	#DEP#vulkan
+4	#DEP#gpu
+5	#DEP#graphic
+6	#DEP#opengl

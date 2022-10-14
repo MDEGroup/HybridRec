@@ -1,0 +1,7 @@
+2	#DEP#virtualmachin
+3	#DEP#compil
+4	#DEP#beam
+5	#DEP#erlang
+6	#DEP#erlangvm
+7	#DEP#webassembl
+8	#DEP#lumen

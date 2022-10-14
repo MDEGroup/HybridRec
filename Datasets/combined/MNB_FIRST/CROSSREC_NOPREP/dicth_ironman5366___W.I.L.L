@@ -1,0 +1,10 @@
+1	ironman5366___W.I.L.L
+2	#DEP#jsonapi
+3	#DEP#spaci
+4	#DEP#telegram
+5	#DEP#personassist
+6	#DEP#plugin
+7	#DEP#pa
+8	#DEP#assist
+9	#DEP#ai
+10	#DEP#python

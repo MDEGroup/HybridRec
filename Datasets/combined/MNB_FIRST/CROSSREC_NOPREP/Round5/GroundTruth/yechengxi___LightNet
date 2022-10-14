@@ -1,0 +1,10 @@
+2	#DEP#lstm
+3	#DEP#deeplearn
+4	#DEP#sgd
+5	#DEP#cnn
+6	#DEP#neuralnetwork
+7	#DEP#quasirecurrneuralnetwork
+8	#DEP#matlab
+9	#DEP#mlp
+10	#DEP#cudnn
+11	#DEP#rnn

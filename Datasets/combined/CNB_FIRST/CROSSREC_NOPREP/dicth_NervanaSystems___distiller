@@ -1,0 +1,15 @@
+1	NervanaSystems___distiller
+2	#DEP#distil
+3	#DEP#truncatsvd
+4	#DEP#earliexit
+5	#DEP#quantiz
+6	#DEP#jupytnotebook
+7	#DEP#networkcompress
+8	#DEP#regular
+9	#DEP#pytorch
+10	#DEP#grouplasso
+11	#DEP#prune
+12	#DEP#onnx
+13	#DEP#automlcompress
+14	#DEP#prunestructur
+15	#DEP#deepneuralnetwork

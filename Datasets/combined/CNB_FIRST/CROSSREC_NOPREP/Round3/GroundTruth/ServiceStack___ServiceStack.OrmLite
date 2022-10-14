@@ -1,0 +1,13 @@
+2	#DEP#netcor
+3	#DEP#postgresql
+4	#DEP#orm
+5	#DEP#oracl
+6	#DEP#sqlite
+7	#DEP#netframework
+8	#DEP#linq
+9	#DEP#sqlserver
+10	#DEP#highperform
+11	#DEP#poco
+12	#DEP#csharp
+13	#DEP#mysql
+14	#DEP#firebird

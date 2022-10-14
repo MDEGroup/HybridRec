@@ -1,0 +1,5 @@
+2	#DEP#raspberripi
+3	#DEP#selfdrivear
+4	#DEP#tensorflow
+5	#DEP#python
+6	#DEP#c

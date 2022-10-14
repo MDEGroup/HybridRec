@@ -1,0 +1,11 @@
+1	scivision___georinex
+2	#DEP#gp
+3	#DEP#panda
+4	#DEP#xarray
+5	#DEP#matlabpythoninterfac
+6	#DEP#netcdf4
+7	#DEP#gnss
+8	#DEP#geoscienc
+9	#DEP#rinex
+10	#DEP#python
+11	#DEP#matlab

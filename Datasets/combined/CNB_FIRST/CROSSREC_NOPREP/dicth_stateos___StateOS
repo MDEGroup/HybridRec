@@ -1,0 +1,17 @@
+1	stateos___StateOS
+2	#DEP#cmsi
+3	#DEP#microcontrol
+4	#DEP#arm
+5	#DEP#cooper
+6	#DEP#cmsirto
+7	#DEP#rto
+8	#DEP#cortex
+9	#DEP#nasaapi
+10	#DEP#embed
+11	#DEP#opersystem
+12	#DEP#cmsios2
+13	#DEP#realtim
+14	#DEP#iot
+15	#DEP#stm8
+16	#DEP#preemptiv
+17	#DEP#kernel

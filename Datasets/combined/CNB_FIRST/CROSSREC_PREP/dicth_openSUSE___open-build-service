@@ -1,0 +1,17 @@
+1	openSUSE___open-build-service
+2	#DEP#appimag
+3	#DEP#rpm
+4	#DEP#api
+5	#DEP#opensus
+6	#DEP#design
+7	#DEP#arhlinux
+8	#DEP#deb
+9	#DEP#pkgbld
+10	#DEP#rubi
+11	#DEP#docker
+12	#DEP#appl
+13	#DEP#pakag
+14	#DEP#ento
+15	#DEP#unix-based
+16	#DEP#c
+17	#DEP#rpmbld

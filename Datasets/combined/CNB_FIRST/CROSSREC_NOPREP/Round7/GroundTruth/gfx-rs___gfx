@@ -1,0 +1,10 @@
+2	#DEP#rust
+3	#DEP#graphic
+4	#DEP#gfx
+5	#DEP#vulkan
+6	#DEP#dx12
+7	#DEP#dx11
+8	#DEP#graphicapi
+9	#DEP#metal
+10	#DEP#opengl
+11	#DEP#gpu

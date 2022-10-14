@@ -1,0 +1,9 @@
+1	koala-interactive___frenchkiss.js
+2	#DEP#frenchkiss
+3	#DEP#languag
+4	#DEP#local
+5	#DEP#translat
+6	#DEP#internation
+7	#DEP#javascript
+8	#DEP#i18n
+9	#DEP#interpol

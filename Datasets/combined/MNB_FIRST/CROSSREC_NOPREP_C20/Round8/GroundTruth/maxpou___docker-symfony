@@ -1,0 +1,6 @@
+2	#DEP#symfoni
+3	#DEP#nginx
+4	#DEP#docker
+5	#DEP#php7
+6	#DEP#mysql
+7	#DEP#dockercompo

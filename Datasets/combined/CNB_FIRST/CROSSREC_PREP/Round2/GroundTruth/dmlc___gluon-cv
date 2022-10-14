@@ -1,0 +1,12 @@
+2	#DEP#computvis
+3	#DEP#machinlearn
+4	#DEP#obectdetect
+5	#DEP#semantseg
+6	#DEP#generative-adversarial-network
+7	#DEP#ationreognit
+8	#DEP#poseestim
+9	#DEP#deeplearn
+10	#DEP#gluon
+11	#DEP#imaglassif
+12	#DEP#mxnet
+13	#DEP#c

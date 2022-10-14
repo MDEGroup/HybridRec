@@ -1,0 +1,10 @@
+1	DT42___BerryNet
+2	#DEP#raspberripi
+3	#DEP#openvino
+4	#DEP#edgai
+5	#DEP#qt
+6	#DEP#edgdev
+7	#DEP#tensorflow
+8	#DEP#intenet--of-things
+9	#DEP#deeplearn
+10	#DEP#tensorrt

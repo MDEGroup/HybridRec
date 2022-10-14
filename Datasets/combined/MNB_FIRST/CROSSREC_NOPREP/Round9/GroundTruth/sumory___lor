@@ -1,0 +1,7 @@
+2	#DEP#lua
+3	#DEP#api
+4	#DEP#rest
+5	#DEP#web
+6	#DEP#sinatra
+7	#DEP#nginx
+8	#DEP#openresti

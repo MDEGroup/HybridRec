@@ -1,0 +1,12 @@
+1	newcontext-oss___kitchen-terraform
+2	#DEP#provision
+3	#DEP#terraformprovid
+4	#DEP#rubi
+5	#DEP#driver
+6	#DEP#kitchen
+7	#DEP#terraform
+8	#DEP#behaviour
+9	#DEP#rubygem
+10	#DEP#verifi
+11	#DEP#kitchenterraform
+12	#DEP#testkitchen

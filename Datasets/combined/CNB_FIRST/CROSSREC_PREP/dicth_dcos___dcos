@@ -1,0 +1,9 @@
+1	dcos___dcos
+2	#DEP#pakagmanag
+3	#DEP#marathon
+4	#DEP#meso
+5	#DEP#luster
+6	#DEP#mesodn
+7	#DEP#python
+8	#DEP#docker
+9	#DEP#c

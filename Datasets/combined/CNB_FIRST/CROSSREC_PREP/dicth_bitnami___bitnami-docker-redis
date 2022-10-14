@@ -1,0 +1,13 @@
+1	bitnami___bitnami-docker-redis
+2	#DEP#nosql
+3	#DEP#databas
+4	#DEP#keyvalu
+5	#DEP#luster
+6	#DEP#contain
+7	#DEP#docker
+8	#DEP#produtreadi
+9	#DEP#dokerimag
+10	#DEP#nonroot
+11	#DEP#bitnami
+12	#DEP#c
+13	#DEP#redi

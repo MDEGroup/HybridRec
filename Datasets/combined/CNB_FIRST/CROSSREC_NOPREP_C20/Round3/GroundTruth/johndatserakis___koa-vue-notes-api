@@ -1,0 +1,11 @@
+2	#DEP#templat
+3	#DEP#backend
+4	#DEP#node
+5	#DEP#boilerpl
+6	#DEP#koa
+7	#DEP#databas
+8	#DEP#api
+9	#DEP#demo
+10	#DEP#spa
+11	#DEP#jwt
+12	#DEP#mysql

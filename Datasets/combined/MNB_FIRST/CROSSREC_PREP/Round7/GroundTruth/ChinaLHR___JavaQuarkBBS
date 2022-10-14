@@ -1,0 +1,14 @@
+2	#DEP#netti
+3	#DEP#bootstrap
+4	#DEP#datajpa
+5	#DEP#thymeleaf
+6	#DEP#design
+7	#DEP#jqueri
+8	#DEP#mvc
+9	#DEP#redi
+10	#DEP#lay
+11	#DEP#socket
+12	#DEP#spring-boot
+13	#DEP#hibern
+14	#DEP#spring
+15	#DEP#swagger

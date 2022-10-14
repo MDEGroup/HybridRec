@@ -1,0 +1,9 @@
+1	hermitcore___libhermit
+2	#DEP#virtual
+3	#DEP#highperformcomput
+4	#DEP#osdev
+5	#DEP#opersystem
+6	#DEP#unikernel
+7	#DEP#cloudcomput
+8	#DEP#kernel
+9	#DEP#multikernel

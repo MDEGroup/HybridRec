@@ -1,0 +1,11 @@
+1	novoda___gradle-static-analysis-plugin
+2	#DEP#gradl
+3	#DEP#androidlint
+4	#DEP#codequ
+5	#DEP#gradlplugin
+6	#DEP#detekt
+7	#DEP#checkstyl
+8	#DEP#pmd
+9	#DEP#findbug
+10	#DEP#opensourc
+11	#DEP#novoda

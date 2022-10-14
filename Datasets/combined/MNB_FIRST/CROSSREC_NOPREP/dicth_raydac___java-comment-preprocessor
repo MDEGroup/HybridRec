@@ -1,0 +1,8 @@
+1	raydac___java-comment-preprocessor
+2	#DEP#preprocessor
+3	#DEP#anttask
+4	#DEP#java
+5	#DEP#cli
+6	#DEP#multipass
+7	#DEP#comment
+8	#DEP#maven

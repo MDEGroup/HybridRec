@@ -1,0 +1,9 @@
+2	#DEP#azur
+3	#DEP#meso
+4	#DEP#contain
+5	#DEP#docker
+6	#DEP#swarmmod
+7	#DEP#kubernet
+8	#DEP#c
+9	#DEP#swarm
+10	#DEP#orhestr

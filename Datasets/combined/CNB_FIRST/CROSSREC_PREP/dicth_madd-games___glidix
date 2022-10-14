@@ -1,0 +1,7 @@
+1	madd-games___glidix
+2	#DEP#posix
+3	#DEP#design
+4	#DEP#kernel
+5	#DEP#shell
+6	#DEP#opersystem
+7	#DEP#c

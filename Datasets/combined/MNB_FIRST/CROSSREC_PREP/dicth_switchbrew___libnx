@@ -1,0 +1,7 @@
+1	switchbrew___libnx
+2	#DEP#aarch
+3	#DEP#swith
+4	#DEP#homebrew
+5	#DEP#c
+6	#DEP#nintendo
+7	#DEP#arm

@@ -1,0 +1,14 @@
+2	#DEP#postgresql
+3	#DEP#jsf
+4	#DEP#web
+5	#DEP#financi
+6	#DEP#apachshiro
+7	#DEP#cdi
+8	#DEP#mariadb
+9	#DEP#control
+10	#DEP#java
+11	#DEP#docker
+12	#DEP#primefac
+13	#DEP#html
+14	#DEP#wildfli
+15	#DEP#maven

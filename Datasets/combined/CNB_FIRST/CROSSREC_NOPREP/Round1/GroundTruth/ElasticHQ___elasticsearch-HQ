@@ -1,0 +1,6 @@
+2	#DEP#elasticsearchcli
+3	#DEP#elastichq
+4	#DEP#elasticsearchgui
+5	#DEP#monitor
+6	#DEP#elasticsearchplugin
+7	#DEP#elasticsearch

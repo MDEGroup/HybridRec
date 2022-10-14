@@ -1,0 +1,7 @@
+2	#DEP#sendgrid
+3	#DEP#smtp
+4	#DEP#mailgun
+5	#DEP#csharp
+6	#DEP#dotnetcor
+7	#DEP#dotnet
+8	#DEP#email

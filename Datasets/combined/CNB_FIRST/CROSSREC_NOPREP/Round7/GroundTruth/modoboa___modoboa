@@ -1,0 +1,10 @@
+2	#DEP#email
+3	#DEP#host
+4	#DEP#modoboa
+5	#DEP#dovecot
+6	#DEP#postfix
+7	#DEP#jqueri
+8	#DEP#javascript
+9	#DEP#python3
+10	#DEP#django
+11	#DEP#python

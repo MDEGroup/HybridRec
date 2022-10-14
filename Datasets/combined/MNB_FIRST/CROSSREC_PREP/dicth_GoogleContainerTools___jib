@@ -1,0 +1,11 @@
+1	GoogleContainerTools___jib
+2	#DEP#java
+3	#DEP#maven
+4	#DEP#gradl
+5	#DEP#dokerregistri
+6	#DEP#contain
+7	#DEP#docker
+8	#DEP#plugin
+9	#DEP#microservic
+10	#DEP#c
+11	#DEP#kubernet

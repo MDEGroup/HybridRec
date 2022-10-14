@@ -1,0 +1,10 @@
+2	#DEP#bionic
+3	#DEP#ubuntu
+4	#DEP#virtualbox
+5	#DEP#packer
+6	#DEP#ubuntu1804
+7	#DEP#1804
+8	#DEP#vagrant
+9	#DEP#vmware
+10	#DEP#fusion
+11	#DEP#ansibl

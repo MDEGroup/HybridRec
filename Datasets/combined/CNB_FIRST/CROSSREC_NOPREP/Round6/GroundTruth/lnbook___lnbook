@@ -1,0 +1,9 @@
+2	#DEP#bitcoin
+3	#DEP#peer
+4	#DEP#p2p
+5	#DEP#blockchain
+6	#DEP#clightn
+7	#DEP#lightnnetwork
+8	#DEP#payment
+9	#DEP#lnd
+10	#DEP#ln

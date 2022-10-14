@@ -1,0 +1,11 @@
+2	#DEP#presto
+3	#DEP#postgr
+4	#DEP#dataanalysi
+5	#DEP#saphana
+6	#DEP#sqlserver
+7	#DEP#sqleditor
+8	#DEP#datavisu
+9	#DEP#crateio
+10	#DEP#cassandra
+11	#DEP#mysql
+12	#DEP#vertica

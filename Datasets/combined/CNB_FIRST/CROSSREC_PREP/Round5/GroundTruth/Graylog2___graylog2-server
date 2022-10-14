@@ -1,0 +1,11 @@
+2	#DEP#loganalysi
+3	#DEP#logserv
+4	#DEP#siem
+5	#DEP#logmanag
+6	#DEP#kafka
+7	#DEP#log
+8	#DEP#seurlog
+9	#DEP#logview
+10	#DEP#amqp
+11	#DEP#c
+12	#DEP#logolletor

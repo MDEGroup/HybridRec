@@ -1,0 +1,7 @@
+1	apitrace___apitrace
+2	#DEP#d3d11
+3	#DEP#debugtool
+4	#DEP#direct3d
+5	#DEP#d3d9
+6	#DEP#opengl
+7	#DEP#d3d12

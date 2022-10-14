@@ -1,0 +1,9 @@
+1	nieklinnenbank___FreeNOS
+2	#DEP#raspberripi
+3	#DEP#cpluplu
+4	#DEP#intel
+5	#DEP#opersystem
+6	#DEP#mirokernel
+7	#DEP#raspberrypi
+8	#DEP#c
+9	#DEP#arm

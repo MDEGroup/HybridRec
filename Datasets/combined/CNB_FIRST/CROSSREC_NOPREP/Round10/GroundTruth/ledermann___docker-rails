@@ -1,0 +1,10 @@
+2	#DEP#fileupload
+3	#DEP#referimpl
+4	#DEP#rubi
+5	#DEP#sidekiq
+6	#DEP#rail
+7	#DEP#actionc
+8	#DEP#docker
+9	#DEP#elasticsearch
+10	#DEP#deploy
+11	#DEP#stimulusj

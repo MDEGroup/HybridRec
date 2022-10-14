@@ -1,0 +1,11 @@
+1	nitroshare___nitroshare-desktop
+2	#DEP#gui
+3	#DEP#tl
+4	#DEP#qt
+5	#DEP#qt5
+6	#DEP#nitroshar
+7	#DEP#qmdnsengin
+8	#DEP#qhttpengin
+9	#DEP#crossplatform
+10	#DEP#cpluplu
+11	#DEP#cmake

@@ -1,0 +1,9 @@
+1	debezium___debezium
+2	#DEP#kafkaproduc
+3	#DEP#kafkaconnect
+4	#DEP#cdc
+5	#DEP#changdatacaptur
+6	#DEP#kafka
+7	#DEP#databas
+8	#DEP#debezium
+9	#DEP#apachkafka

@@ -1,0 +1,12 @@
+1	api-platform___core
+2	#DEP#graphql
+3	#DEP#php
+4	#DEP#hydra
+5	#DEP#sonapi
+6	#DEP#bundl
+7	#DEP#sonld
+8	#DEP#rest
+9	#DEP#symfoni
+10	#DEP#api
+11	#DEP#swagger
+12	#DEP#hal

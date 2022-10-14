@@ -1,0 +1,9 @@
+2	#DEP#email
+3	#DEP#python
+4	#DEP#gpgencrypt
+5	#DEP#openpgp
+6	#DEP#webapp
+7	#DEP#python3
+8	#DEP#django
+9	#DEP#openpgpj
+10	#DEP#secur

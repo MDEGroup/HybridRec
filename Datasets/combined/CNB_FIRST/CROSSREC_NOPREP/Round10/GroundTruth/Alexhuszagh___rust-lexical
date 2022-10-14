@@ -1,0 +1,7 @@
+2	#DEP#rust
+3	#DEP#floatpoint
+4	#DEP#precis
+5	#DEP#stringconv
+6	#DEP#std
+7	#DEP#encod
+8	#DEP#par

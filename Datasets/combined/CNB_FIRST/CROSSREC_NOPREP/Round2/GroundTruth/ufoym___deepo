@@ -1,0 +1,17 @@
+2	#DEP#caff
+3	#DEP#deeplearn
+4	#DEP#dockerfilgen
+5	#DEP#torch
+6	#DEP#caffe2
+7	#DEP#dockerimag
+8	#DEP#tensorflow
+9	#DEP#cntk
+10	#DEP#sonnet
+11	#DEP#pytorch
+12	#DEP#chainer
+13	#DEP#mxnet
+14	#DEP#jupyt
+15	#DEP#lasagn
+16	#DEP#onnx
+17	#DEP#theano
+18	#DEP#kera

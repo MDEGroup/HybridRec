@@ -1,0 +1,6 @@
+1	docker-slim___docker-slim
+2	#DEP#contain
+3	#DEP#docker
+4	#DEP#secur
+5	#DEP#golang
+6	#DEP#go

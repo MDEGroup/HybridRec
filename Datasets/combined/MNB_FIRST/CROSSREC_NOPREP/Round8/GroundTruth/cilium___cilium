@@ -1,0 +1,17 @@
+2	#DEP#xdp
+3	#DEP#api
+4	#DEP#bpf
+5	#DEP#loadbalanc
+6	#DEP#contain
+7	#DEP#http
+8	#DEP#troubleshoot
+9	#DEP#grpc
+10	#DEP#microservic
+11	#DEP#secur
+12	#DEP#kafka
+13	#DEP#monitor
+14	#DEP#docker
+15	#DEP#kubernetnetwork
+16	#DEP#kernel
+17	#DEP#kubernet
+18	#DEP#cni

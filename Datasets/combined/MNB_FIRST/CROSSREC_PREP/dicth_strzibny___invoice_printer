@@ -1,0 +1,9 @@
+1	strzibny___invoice_printer
+2	#DEP#aw
+3	#DEP#invoipdf
+4	#DEP#pdfgener
+5	#DEP#pdfinvoi
+6	#DEP#prn
+7	#DEP#c
+8	#DEP#invoi
+9	#DEP#command-line

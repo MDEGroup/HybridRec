@@ -1,0 +1,9 @@
+2	#DEP#sql
+3	#DEP#postgresql
+4	#DEP#orm
+5	#DEP#sqlite
+6	#DEP#transact
+7	#DEP#mssql
+8	#DEP#mariadb
+9	#DEP#javascript
+10	#DEP#mysql

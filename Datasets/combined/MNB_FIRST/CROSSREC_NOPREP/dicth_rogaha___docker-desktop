@@ -1,0 +1,9 @@
+1	rogaha___docker-desktop
+2	#DEP#ssh
+3	#DEP#xpra
+4	#DEP#desktop
+5	#DEP#libreoffic
+6	#DEP#firefox
+7	#DEP#docker
+8	#DEP#rootless
+9	#DEP#dockerdesktop

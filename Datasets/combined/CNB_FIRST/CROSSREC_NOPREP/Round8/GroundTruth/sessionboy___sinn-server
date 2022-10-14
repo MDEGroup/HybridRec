@@ -1,0 +1,9 @@
+2	#DEP#asyncawait
+3	#DEP#koa2
+4	#DEP#ej
+5	#DEP#nginx
+6	#DEP#nodej
+7	#DEP#restapi
+8	#DEP#docker
+9	#DEP#mongoos
+10	#DEP#es6

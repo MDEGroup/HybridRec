@@ -1,0 +1,8 @@
+2	#DEP#postgr
+3	#DEP#orm
+4	#DEP#ormframework
+5	#DEP#crystal
+6	#DEP#databaswrapp
+7	#DEP#databas
+8	#DEP#mysql
+9	#DEP#ecto

@@ -1,0 +1,11 @@
+2	#DEP#circuitbreak
+3	#DEP#api
+4	#DEP#etcd
+5	#DEP#microservic
+6	#DEP#go
+7	#DEP#golang
+8	#DEP#proxi
+9	#DEP#gateway
+10	#DEP#trafficcontrol
+11	#DEP#apigateway
+12	#DEP#backendapi

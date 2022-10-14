@@ -1,0 +1,6 @@
+2	#DEP#sql
+3	#DEP#aspnetcor
+4	#DEP#efcor
+5	#DEP#mvc
+6	#DEP#local
+7	#DEP#global

@@ -1,0 +1,10 @@
+1	elixir-grpc___grpc
+2	#DEP#googl
+3	#DEP#rpc
+4	#DEP#protocolbuff
+5	#DEP#protobuf
+6	#DEP#elixir
+7	#DEP#grp
+8	#DEP#http
+9	#DEP#c
+10	#DEP#rp

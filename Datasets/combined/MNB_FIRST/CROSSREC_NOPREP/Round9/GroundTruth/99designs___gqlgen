@@ -1,0 +1,7 @@
+2	#DEP#schemafirst
+3	#DEP#gogener
+4	#DEP#graphql
+5	#DEP#codegen
+6	#DEP#golang
+7	#DEP#dataload
+8	#DEP#subscript

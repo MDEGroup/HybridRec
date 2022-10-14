@@ -1,0 +1,9 @@
+1	jupyterhub___jupyterhub-deploy-docker
+2	#DEP#deploy
+3	#DEP#upyt
+4	#DEP#upyterhub
+5	#DEP#contain
+6	#DEP#docker
+7	#DEP#dokervolum
+8	#DEP#jupytnotebook
+9	#DEP#c

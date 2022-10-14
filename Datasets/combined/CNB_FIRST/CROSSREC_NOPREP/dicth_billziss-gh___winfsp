@@ -1,0 +1,8 @@
+1	billziss-gh___winfsp
+2	#DEP#windowkernel
+3	#DEP#fuse
+4	#DEP#driver
+5	#DEP#filesystem
+6	#DEP#kernel
+7	#DEP#gplv3
+8	#DEP#window

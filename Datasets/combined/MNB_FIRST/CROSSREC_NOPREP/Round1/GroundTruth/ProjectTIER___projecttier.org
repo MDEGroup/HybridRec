@@ -1,0 +1,6 @@
+2	#DEP#wagtail
+3	#DEP#educ
+4	#DEP#research
+5	#DEP#agpl
+6	#DEP#python3
+7	#DEP#django

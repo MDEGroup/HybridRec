@@ -1,0 +1,11 @@
+2	#DEP#render
+3	#DEP#light
+4	#DEP#blender
+5	#DEP#qt
+6	#DEP#3dsmax
+7	#DEP#anim
+8	#DEP#vfx
+9	#DEP#maya
+10	#DEP#python
+11	#DEP#visualeffect
+12	#DEP#cpp

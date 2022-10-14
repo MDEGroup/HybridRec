@@ -1,0 +1,8 @@
+1	transmission-remote-gui___transgui
+2	#DEP#torrent
+3	#DEP#transmiss
+4	#DEP#remotontrol
+5	#DEP#design
+6	#DEP#transmissdaemon
+7	#DEP#bittorr
+8	#DEP#c

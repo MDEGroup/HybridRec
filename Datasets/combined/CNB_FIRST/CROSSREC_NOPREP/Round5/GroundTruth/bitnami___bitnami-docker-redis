@@ -1,0 +1,11 @@
+2	#DEP#keyvalu
+3	#DEP#nonroot
+4	#DEP#contain
+5	#DEP#dockerimag
+6	#DEP#nosql
+7	#DEP#docker
+8	#DEP#productreadi
+9	#DEP#redi
+10	#DEP#databas
+11	#DEP#cluster
+12	#DEP#bitnami

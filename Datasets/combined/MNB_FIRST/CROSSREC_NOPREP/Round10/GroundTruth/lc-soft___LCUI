@@ -1,0 +1,6 @@
+2	#DEP#crossplatformgui
+3	#DEP#uwp
+4	#DEP#guiframework
+5	#DEP#c
+6	#DEP#window
+7	#DEP#guitoolkit

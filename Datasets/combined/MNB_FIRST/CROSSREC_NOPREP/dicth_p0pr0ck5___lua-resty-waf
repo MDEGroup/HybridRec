@@ -1,0 +1,7 @@
+1	p0pr0ck5___lua-resty-waf
+2	#DEP#luarestiwaf
+3	#DEP#lua
+4	#DEP#modsecur
+5	#DEP#nginxlua
+6	#DEP#openresti
+7	#DEP#waf

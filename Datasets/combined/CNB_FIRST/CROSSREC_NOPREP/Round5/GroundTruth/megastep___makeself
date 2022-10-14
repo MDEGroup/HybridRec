@@ -1,0 +1,8 @@
+2	#DEP#extractarchiv
+3	#DEP#unix
+4	#DEP#compress
+5	#DEP#makeselfarchiv
+6	#DEP#shell
+7	#DEP#linux
+8	#DEP#makeself
+9	#DEP#tararchiv

@@ -1,0 +1,7 @@
+2	#DEP#spirv
+3	#DEP#vulkan
+4	#DEP#wine
+5	#DEP#d3d11
+6	#DEP#game
+7	#DEP#dxbc
+8	#DEP#linux

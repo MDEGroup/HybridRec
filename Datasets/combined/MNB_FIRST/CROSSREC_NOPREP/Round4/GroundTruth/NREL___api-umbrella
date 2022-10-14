@@ -1,0 +1,6 @@
+2	#DEP#lua
+3	#DEP#nginx
+4	#DEP#luajit
+5	#DEP#openresti
+6	#DEP#apimanag
+7	#DEP#apigateway

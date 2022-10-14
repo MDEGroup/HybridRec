@@ -1,0 +1,7 @@
+2	#DEP#serverless
+3	#DEP#contain
+4	#DEP#googl
+5	#DEP#function
+6	#DEP#app
+7	#DEP#kubernet
+8	#DEP#istio

@@ -1,0 +1,8 @@
+2	#DEP#miner
+3	#DEP#cuda
+4	#DEP#ubuntu
+5	#DEP#monero
+6	#DEP#xmr
+7	#DEP#nvidiadock
+8	#DEP#docker
+9	#DEP#nvidia

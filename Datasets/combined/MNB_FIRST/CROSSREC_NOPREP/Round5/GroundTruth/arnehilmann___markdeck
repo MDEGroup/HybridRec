@@ -1,0 +1,15 @@
+2	#DEP#asciiart
+3	#DEP#decktap
+4	#DEP#revealj
+5	#DEP#mathjax
+6	#DEP#pandocfilt
+7	#DEP#vegalit
+8	#DEP#asciinema
+9	#DEP#present
+10	#DEP#markdownhtml
+11	#DEP#graphviz
+12	#DEP#markdown
+13	#DEP#pandoc
+14	#DEP#ditaa
+15	#DEP#plantuml
+16	#DEP#slidedeck

@@ -1,0 +1,12 @@
+2	#DEP#book
+3	#DEP#rest
+4	#DEP#booktyp
+5	#DEP#pdfconvert
+6	#DEP#ebook
+7	#DEP#ibook
+8	#DEP#edit
+9	#DEP#epub
+10	#DEP#javascript
+11	#DEP#pdf
+12	#DEP#python
+13	#DEP#django

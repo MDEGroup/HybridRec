@@ -1,0 +1,8 @@
+1	minetest___minetest
+2	#DEP#minetest
+3	#DEP#voxel
+4	#DEP#lua
+5	#DEP#gameengin
+6	#DEP#cpp11
+7	#DEP#voxelengin
+8	#DEP#cpluplu

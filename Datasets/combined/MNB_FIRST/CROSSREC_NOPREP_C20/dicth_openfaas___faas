@@ -1,0 +1,6 @@
+1	openfaas___faas
+2	#DEP#serverless
+3	#DEP#docker
+4	#DEP#kubernet
+5	#DEP#lambda
+6	#DEP#faa

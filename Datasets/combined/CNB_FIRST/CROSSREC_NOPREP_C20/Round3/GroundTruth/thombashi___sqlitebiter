@@ -1,0 +1,5 @@
+2	#DEP#sqlite
+3	#DEP#html
+4	#DEP#json
+5	#DEP#csv
+6	#DEP#jupytnotebook

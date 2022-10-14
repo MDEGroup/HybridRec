@@ -1,0 +1,12 @@
+1	ivandavidov___minimal
+2	#DEP#glibc
+3	#DEP#shellscript
+4	#DEP#efi
+5	#DEP#opersystem
+6	#DEP#busybox
+7	#DEP#shell
+8	#DEP#minim
+9	#DEP#overlay
+10	#DEP#linux
+11	#DEP#uefi
+12	#DEP#linuxkernel

@@ -1,0 +1,6 @@
+2	#DEP#scikitlearn
+3	#DEP#panda
+4	#DEP#jupytnotebook
+5	#DEP#numpi
+6	#DEP#matplotlib
+7	#DEP#python

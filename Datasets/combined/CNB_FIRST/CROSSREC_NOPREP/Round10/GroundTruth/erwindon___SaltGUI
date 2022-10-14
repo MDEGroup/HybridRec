@@ -1,0 +1,13 @@
+2	#DEP#minion
+3	#DEP#pam
+4	#DEP#salt
+5	#DEP#j
+6	#DEP#webapp
+7	#DEP#javascript
+8	#DEP#yarn
+9	#DEP#eslint
+10	#DEP#frontend
+11	#DEP#html
+12	#DEP#es6
+13	#DEP#htmlc
+14	#DEP#html5

@@ -1,0 +1,7 @@
+2	#DEP#ssh
+3	#DEP#docker
+4	#DEP#dockerimag
+5	#DEP#rubi
+6	#DEP#deploy
+7	#DEP#wordpress
+8	#DEP#autom

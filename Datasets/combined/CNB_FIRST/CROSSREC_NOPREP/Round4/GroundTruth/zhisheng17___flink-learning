@@ -1,0 +1,11 @@
+2	#DEP#hbase
+3	#DEP#rocketmq
+4	#DEP#rabbitmq
+5	#DEP#flink
+6	#DEP#kafka
+7	#DEP#stream
+8	#DEP#streamprocess
+9	#DEP#redi
+10	#DEP#spark
+11	#DEP#elasticsearch
+12	#DEP#mysql

@@ -1,0 +1,12 @@
+2	#DEP#postgresql
+3	#DEP#sqlite
+4	#DEP#theme
+5	#DEP#cmf
+6	#DEP#cm
+7	#DEP#symfoni
+8	#DEP#php
+9	#DEP#bolt
+10	#DEP#mysql
+11	#DEP#symfoniappl
+12	#DEP#twig
+13	#DEP#silex

@@ -1,0 +1,15 @@
+1	opencv___cvat
+2	#DEP#computvis
+3	#DEP#imagenet
+4	#DEP#semantseg
+5	#DEP#ionannot
+6	#DEP#imagannot
+7	#DEP#label
+8	#DEP#annot
+9	#DEP#tensorflow
+10	#DEP#videoannot
+11	#DEP#imaglabel
+12	#DEP#dataset
+13	#DEP#deeplearn
+14	#DEP#c
+15	#DEP#imaglassif

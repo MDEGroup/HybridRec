@@ -1,0 +1,15 @@
+2	#DEP#nlp
+3	#DEP#stemmer
+4	#DEP#crystallanguag
+5	#DEP#inflector
+6	#DEP#readabl
+7	#DEP#sentimentanalysi
+8	#DEP#tri
+9	#DEP#crystal
+10	#DEP#crystallang
+11	#DEP#transliter
+12	#DEP#shard
+13	#DEP#tfidf
+14	#DEP#wordnet
+15	#DEP#phonet
+16	#DEP#stringdistanc

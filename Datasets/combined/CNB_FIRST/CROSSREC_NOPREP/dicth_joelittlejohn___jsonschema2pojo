@@ -1,0 +1,9 @@
+1	joelittlejohn___jsonschema2pojo
+2	#DEP#jsonschema
+3	#DEP#mavenplugin
+4	#DEP#gradlplugin
+5	#DEP#json
+6	#DEP#jackson
+7	#DEP#anttask
+8	#DEP#java
+9	#DEP#gson

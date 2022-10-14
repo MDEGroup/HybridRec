@@ -1,0 +1,10 @@
+2	#DEP#hashicorpterraform
+3	#DEP#hcl
+4	#DEP#tool
+5	#DEP#util
+6	#DEP#convert
+7	#DEP#yaml
+8	#DEP#terraform
+9	#DEP#commandlinetool
+10	#DEP#kubernet
+11	#DEP#hashicorp

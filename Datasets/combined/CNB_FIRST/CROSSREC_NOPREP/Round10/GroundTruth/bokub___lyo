@@ -1,0 +1,9 @@
+2	#DEP#minifi
+3	#DEP#es5
+4	#DEP#uglifi
+5	#DEP#compil
+6	#DEP#browserifi
+7	#DEP#build
+8	#DEP#modul
+9	#DEP#browser
+10	#DEP#babel

@@ -1,0 +1,8 @@
+1	DeepGraphLearning___graphvite
+2	#DEP#cuda
+3	#DEP#knowledggraph
+4	#DEP#networkemb
+5	#DEP#machinlearn
+6	#DEP#datavisu
+7	#DEP#representlearn
+8	#DEP#gpu

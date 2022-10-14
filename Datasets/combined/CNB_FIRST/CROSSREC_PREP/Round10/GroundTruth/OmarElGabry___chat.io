@@ -1,0 +1,8 @@
+2	#DEP#realtim
+3	#DEP#passport
+4	#DEP#nodej
+5	#DEP#soket
+6	#DEP#express
+7	#DEP#c
+8	#DEP#mongoos
+9	#DEP#redi

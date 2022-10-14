@@ -1,0 +1,9 @@
+2	#DEP#typescript
+3	#DEP#pubsub
+4	#DEP#nodej
+5	#DEP#ommeri
+6	#DEP#socket
+7	#DEP#http
+8	#DEP#runtim
+9	#DEP#router
+10	#DEP#c

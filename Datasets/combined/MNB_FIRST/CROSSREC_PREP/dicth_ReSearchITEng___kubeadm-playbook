@@ -1,0 +1,17 @@
+1	ReSearchITEng___kubeadm-playbook
+2	#DEP#ingreontrol
+3	#DEP#dashboard
+4	#DEP#helm
+5	#DEP#luster
+6	#DEP#sc
+7	#DEP#multimast
+8	#DEP#persistvolumlaim
+9	#DEP#proxi
+10	#DEP#book
+11	#DEP#kubeadm
+12	#DEP#ansibl
+13	#DEP#persistvolum
+14	#DEP#ento
+15	#DEP#unix-based
+16	#DEP#c
+17	#DEP#kubernet

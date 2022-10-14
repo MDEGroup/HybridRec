@@ -1,0 +1,11 @@
+1	ellisonleao___sharer.js
+2	#DEP#messaging
+3	#DEP#javascript
+4	#DEP#hakernew
+5	#DEP#sharebutton
+6	#DEP#pinte
+7	#DEP#social-network
+8	#DEP#reddit
+9	#DEP#faebook
+10	#DEP#c
+11	#DEP#rest

@@ -1,0 +1,7 @@
+1	adithyakhamithkar___ansible-playbooks
+2	#DEP#nginx
+3	#DEP#vagrant
+4	#DEP#ubuntu
+5	#DEP#docker
+6	#DEP#mysql
+7	#DEP#elasticsearch

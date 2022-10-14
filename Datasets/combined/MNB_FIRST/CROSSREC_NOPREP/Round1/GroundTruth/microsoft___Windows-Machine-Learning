@@ -1,0 +1,14 @@
+2	#DEP#coreml
+3	#DEP#scikitlearn
+4	#DEP#deeplearn
+5	#DEP#caffe2
+6	#DEP#tensorflow
+7	#DEP#pytorch
+8	#DEP#machinlearn
+9	#DEP#ml
+10	#DEP#neuralnetwork
+11	#DEP#onnx
+12	#DEP#ai
+13	#DEP#winmltool
+14	#DEP#kera
+15	#DEP#window

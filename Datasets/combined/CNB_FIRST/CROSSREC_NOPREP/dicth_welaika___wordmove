@@ -1,0 +1,13 @@
+1	welaika___wordmove
+2	#DEP#wpcli
+3	#DEP#ssh
+4	#DEP#gem
+5	#DEP#autom
+6	#DEP#dockerimag
+7	#DEP#ftp
+8	#DEP#rubi
+9	#DEP#multistag
+10	#DEP#wordpress
+11	#DEP#docker
+12	#DEP#taskrunn
+13	#DEP#deploy

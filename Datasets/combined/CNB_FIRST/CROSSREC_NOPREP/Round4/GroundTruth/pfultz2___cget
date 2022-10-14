@@ -1,0 +1,13 @@
+2	#DEP#pkgconfig
+3	#DEP#cplusplu
+4	#DEP#packagmanag
+5	#DEP#cmakepackag
+6	#DEP#osx
+7	#DEP#cget
+8	#DEP#dependmanag
+9	#DEP#cmake
+10	#DEP#c
+11	#DEP#crossplatform
+12	#DEP#linux
+13	#DEP#window
+14	#DEP#cpp

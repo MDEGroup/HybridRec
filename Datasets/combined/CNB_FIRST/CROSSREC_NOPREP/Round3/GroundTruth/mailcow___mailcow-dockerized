@@ -1,0 +1,8 @@
+2	#DEP#dovecot
+3	#DEP#postfix
+4	#DEP#mailcow
+5	#DEP#mailserv
+6	#DEP#docker
+7	#DEP#sogo
+8	#DEP#groupwar
+9	#DEP#rspamd

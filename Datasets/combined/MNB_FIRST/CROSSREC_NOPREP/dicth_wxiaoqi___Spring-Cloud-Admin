@@ -1,0 +1,7 @@
+1	wxiaoqi___Spring-Cloud-Admin
+2	#DEP#eureka
+3	#DEP#mybati
+4	#DEP#springcloud
+5	#DEP#ribbon
+6	#DEP#zuul
+7	#DEP#springboot

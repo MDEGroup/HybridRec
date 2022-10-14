@@ -1,0 +1,7 @@
+1	http4s___http4s
+2	#DEP#sc
+3	#DEP#typelevel
+4	#DEP#filesystem
+5	#DEP#client
+6	#DEP#http
+7	#DEP#c

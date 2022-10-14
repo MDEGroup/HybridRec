@@ -1,0 +1,15 @@
+2	#DEP#ae
+3	#DEP#serverless
+4	#DEP#decrypt
+5	#DEP#fileencrypt
+6	#DEP#clientsid
+7	#DEP#ae128
+8	#DEP#ae256
+9	#DEP#webcrypto
+10	#DEP#javascript
+11	#DEP#aeencrypt
+12	#DEP#webcryptoapi
+13	#DEP#encryptdecrypt
+14	#DEP#crypto
+15	#DEP#encrypt
+16	#DEP#browser

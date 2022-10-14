@@ -1,0 +1,11 @@
+1	platformio___platform-espressif32
+2	#DEP#continudeploy
+3	#DEP#arduino
+4	#DEP#firmwar
+5	#DEP#esp32
+6	#DEP#arduinoid
+7	#DEP#platformioplatform
+8	#DEP#build
+9	#DEP#iot
+10	#DEP#flash
+11	#DEP#continuintegr

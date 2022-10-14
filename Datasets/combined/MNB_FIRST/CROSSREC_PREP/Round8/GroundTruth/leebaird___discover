@@ -1,0 +1,13 @@
+2	#DEP#payloadgen
+3	#DEP#test
+4	#DEP#osint
+5	#DEP#informgath
+6	#DEP#sc
+7	#DEP#penetr
+8	#DEP#reonnaiss
+9	#DEP#redteam
+10	#DEP#bash
+11	#DEP#metasploit
+12	#DEP#unix-based
+13	#DEP#nmap
+14	#DEP#c

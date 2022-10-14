@@ -1,0 +1,8 @@
+2	#DEP#loopback
+3	#DEP#nativescript
+4	#DEP#ionic
+5	#DEP#nodej
+6	#DEP#sdkbuilder
+7	#DEP#typescript
+8	#DEP#fireloop
+9	#DEP#angular

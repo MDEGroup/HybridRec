@@ -1,0 +1,16 @@
+2	#DEP#sclient
+3	#DEP#googl
+4	#DEP#sftplient
+5	#DEP#webapp
+6	#DEP#sbrowser
+7	#DEP#fileview
+8	#DEP#dropboxli
+9	#DEP#ftp
+10	#DEP#webdavli
+11	#DEP#fileshar
+12	#DEP#ftplient
+13	#DEP#filemanag
+14	#DEP#dropbox
+15	#DEP#orgmod
+16	#DEP#driv
+17	#DEP#c

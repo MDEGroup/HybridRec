@@ -1,0 +1,12 @@
+2	#DEP#consolappl
+3	#DEP#freebsd
+4	#DEP#maco
+5	#DEP#openbsd
+6	#DEP#tui
+7	#DEP#termin
+8	#DEP#consol
+9	#DEP#c
+10	#DEP#system
+11	#DEP#linux
+12	#DEP#processmonitor
+13	#DEP#htop

@@ -1,0 +1,6 @@
+2	#DEP#terminemul
+3	#DEP#vt100
+4	#DEP#python
+5	#DEP#c
+6	#DEP#terminfo
+7	#DEP#opengl

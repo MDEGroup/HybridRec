@@ -1,0 +1,14 @@
+2	#DEP#autom
+3	#DEP#jenkincli
+4	#DEP#jenkininst
+5	#DEP#immutinfrastructur
+6	#DEP#jenkinconfigur
+7	#DEP#vagrant
+8	#DEP#scriptconsol
+9	#DEP#bootstrapscript
+10	#DEP#bootstrap
+11	#DEP#dockercompo
+12	#DEP#rpm
+13	#DEP#jenkin
+14	#DEP#deb
+15	#DEP#packag

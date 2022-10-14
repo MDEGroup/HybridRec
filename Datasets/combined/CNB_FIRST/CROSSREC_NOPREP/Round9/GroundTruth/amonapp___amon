@@ -1,0 +1,10 @@
+2	#DEP#statsd
+3	#DEP#metric
+4	#DEP#systeminform
+5	#DEP#perform
+6	#DEP#agent
+7	#DEP#monitor
+8	#DEP#healthcheck
+9	#DEP#alarm
+10	#DEP#dashboard
+11	#DEP#alert

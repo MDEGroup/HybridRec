@@ -1,0 +1,16 @@
+1	AppMetrics___AppMetrics
+2	#DEP#metric
+3	#DEP#instrument
+4	#DEP#prometheu
+5	#DEP#grafanadashboard
+6	#DEP#monitor
+7	#DEP#applicinsight
+8	#DEP#healthcheck
+9	#DEP#influxdb
+10	#DEP#dotnetcor
+11	#DEP#grafana
+12	#DEP#dotnetstandard
+13	#DEP#graphit
+14	#DEP#perform
+15	#DEP#dotnetframework
+16	#DEP#dotnet

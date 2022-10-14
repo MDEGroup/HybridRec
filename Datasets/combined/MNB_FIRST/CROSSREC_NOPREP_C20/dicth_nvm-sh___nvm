@@ -1,0 +1,6 @@
+1	nvm-sh___nvm
+2	#DEP#bash
+3	#DEP#zsh
+4	#DEP#nodej
+5	#DEP#node
+6	#DEP#shell

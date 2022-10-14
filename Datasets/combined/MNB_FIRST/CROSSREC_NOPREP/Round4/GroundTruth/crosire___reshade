@@ -1,0 +1,6 @@
+2	#DEP#shader
+3	#DEP#d3d11
+4	#DEP#d3d9
+5	#DEP#injector
+6	#DEP#postprocess
+7	#DEP#opengl

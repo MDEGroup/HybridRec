@@ -1,0 +1,7 @@
+2	#DEP#opengl
+3	#DEP#gui
+4	#DEP#widget
+5	#DEP#dlang
+6	#DEP#sdl
+7	#DEP#design
+8	#DEP#unix-based

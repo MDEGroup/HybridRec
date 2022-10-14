@@ -1,0 +1,11 @@
+2	#DEP#knitr
+3	#DEP#notebook
+4	#DEP#rstudio
+5	#DEP#jupytnotebook
+6	#DEP#jupyterlab
+7	#DEP#jupyterlabexten
+8	#DEP#markdown
+9	#DEP#hydrogen
+10	#DEP#rmarkdown
+11	#DEP#python
+12	#DEP#versioncontrol

@@ -1,0 +1,7 @@
+2	#DEP#apn
+3	#DEP#wn
+4	#DEP#pushnotif
+5	#DEP#fcm
+6	#DEP#python
+7	#DEP#django
+8	#DEP#gcm

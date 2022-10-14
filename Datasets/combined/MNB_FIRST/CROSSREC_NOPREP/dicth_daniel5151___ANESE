@@ -1,0 +1,14 @@
+1	daniel5151___ANESE
+2	#DEP#sdl2
+3	#DEP#nestest
+4	#DEP#ne
+5	#DEP#6502
+6	#DEP#apu
+7	#DEP#retro
+8	#DEP#assembl
+9	#DEP#ppu
+10	#DEP#cmake
+11	#DEP#neemul
+12	#DEP#emul
+13	#DEP#crossplatform
+14	#DEP#sdl

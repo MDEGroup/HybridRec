@@ -1,0 +1,10 @@
+2	#DEP#serverless
+3	#DEP#cloud
+4	#DEP#python27
+5	#DEP#aw
+6	#DEP#serverlessframework
+7	#DEP#awlambda
+8	#DEP#awapigateway
+9	#DEP#lambda
+10	#DEP#python3
+11	#DEP#python

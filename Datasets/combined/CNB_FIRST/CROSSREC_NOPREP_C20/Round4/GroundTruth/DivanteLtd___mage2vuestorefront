@@ -1,0 +1,5 @@
+2	#DEP#nosql
+3	#DEP#mongodb
+4	#DEP#redi
+5	#DEP#backend
+6	#DEP#elasticsearch

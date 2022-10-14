@@ -1,0 +1,11 @@
+2	#DEP#testtool
+3	#DEP#tdd
+4	#DEP#python2
+5	#DEP#decor
+6	#DEP#mock
+7	#DEP#http
+8	#DEP#streamrespon
+9	#DEP#httpretti
+10	#DEP#python
+11	#DEP#test
+12	#DEP#fakeweb

@@ -1,0 +1,9 @@
+1	kubernetes___kube-state-metrics
+2	#DEP#prometheu
+3	#DEP#export
+4	#DEP#prometheuexport
+5	#DEP#metri
+6	#DEP#observ
+7	#DEP#monitor
+8	#DEP#c
+9	#DEP#kubernet

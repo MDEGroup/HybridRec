@@ -1,0 +1,8 @@
+2	#DEP#deferload
+3	#DEP#emac
+4	#DEP#melpa
+5	#DEP#keyword
+6	#DEP#autoload
+7	#DEP#keymap
+8	#DEP#handler
+9	#DEP#emaclisp

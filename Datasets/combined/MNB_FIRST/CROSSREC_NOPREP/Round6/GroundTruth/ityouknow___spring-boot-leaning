@@ -1,0 +1,16 @@
+2	#DEP#mybati
+3	#DEP#druid
+4	#DEP#websocket
+5	#DEP#thymeleaf
+6	#DEP#quartz
+7	#DEP#springboot
+8	#DEP#docker
+9	#DEP#memcach
+10	#DEP#redi
+11	#DEP#jpa
+12	#DEP#springboot2
+13	#DEP#swagger
+14	#DEP#elasticsearch
+15	#DEP#mongodb
+16	#DEP#secur
+17	#DEP#activemq

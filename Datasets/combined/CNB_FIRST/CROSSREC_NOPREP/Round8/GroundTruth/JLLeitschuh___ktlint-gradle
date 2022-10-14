@@ -1,0 +1,6 @@
+2	#DEP#gradl
+3	#DEP#ktlint
+4	#DEP#gradlplugin
+5	#DEP#kotlin
+6	#DEP#gradlscriptkotlin
+7	#DEP#lint

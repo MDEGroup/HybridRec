@@ -1,0 +1,7 @@
+2	#DEP#qt
+3	#DEP#qt5
+4	#DEP#windowdesktop
+5	#DEP#protobuf
+6	#DEP#remotdesktop
+7	#DEP#remotcontrol
+8	#DEP#cpp

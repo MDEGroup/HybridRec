@@ -1,0 +1,6 @@
+1	ledermann___docker-rails
+2	#DEP#docker
+3	#DEP#rubi
+4	#DEP#deploy
+5	#DEP#rail
+6	#DEP#elasticsearch

@@ -1,0 +1,11 @@
+2	#DEP#nginx
+3	#DEP#aw
+4	#DEP#react
+5	#DEP#design
+6	#DEP#eslint
+7	#DEP#io
+8	#DEP#ax
+9	#DEP#express
+10	#DEP#mobx
+11	#DEP#reatrout
+12	#DEP#c

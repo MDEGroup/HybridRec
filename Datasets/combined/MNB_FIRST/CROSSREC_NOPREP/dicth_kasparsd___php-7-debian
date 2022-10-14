@@ -1,0 +1,8 @@
+1	kasparsd___php-7-debian
+2	#DEP#ubuntu
+3	#DEP#php7
+4	#DEP#debian
+5	#DEP#phpfpm
+6	#DEP#php
+7	#DEP#cli
+8	#DEP#shell

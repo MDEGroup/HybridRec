@@ -1,0 +1,10 @@
+2	#DEP#arduino
+3	#DEP#lisp
+4	#DEP#microcontrol
+5	#DEP#arm
+6	#DEP#teensi
+7	#DEP#clojur
+8	#DEP#baremet
+9	#DEP#compil
+10	#DEP#embedsystem
+11	#DEP#atmega

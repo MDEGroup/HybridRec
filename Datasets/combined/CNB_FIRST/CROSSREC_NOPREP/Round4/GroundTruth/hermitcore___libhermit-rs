@@ -1,0 +1,8 @@
+2	#DEP#rustlang
+3	#DEP#virtual
+4	#DEP#highperformcomput
+5	#DEP#osdev
+6	#DEP#opersystem
+7	#DEP#unikernel
+8	#DEP#cloudcomput
+9	#DEP#kernel

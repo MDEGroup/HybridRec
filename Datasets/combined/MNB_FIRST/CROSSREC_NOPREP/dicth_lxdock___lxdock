@@ -1,0 +1,12 @@
+1	lxdock___lxdock
+2	#DEP#devoptool
+3	#DEP#lxdock
+4	#DEP#devop
+5	#DEP#orchestr
+6	#DEP#contain
+7	#DEP#vagrant
+8	#DEP#lxd
+9	#DEP#python3
+10	#DEP#linux
+11	#DEP#python
+12	#DEP#lxc

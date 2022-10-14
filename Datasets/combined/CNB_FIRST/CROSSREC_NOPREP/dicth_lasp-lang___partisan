@@ -1,0 +1,9 @@
+1	lasp-lang___partisan
+2	#DEP#tcp
+3	#DEP#gossipround
+4	#DEP#elixir
+5	#DEP#distributsystem
+6	#DEP#membership
+7	#DEP#failurdetect
+8	#DEP#erlang
+9	#DEP#gossip

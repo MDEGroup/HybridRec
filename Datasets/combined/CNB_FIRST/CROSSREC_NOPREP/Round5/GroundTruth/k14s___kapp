@@ -1,0 +1,7 @@
+2	#DEP#devop
+3	#DEP#kubernet
+4	#DEP#kubernetdeploy
+5	#DEP#go
+6	#DEP#k8
+7	#DEP#cli
+8	#DEP#deploy

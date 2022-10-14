@@ -1,0 +1,10 @@
+1	quantmind___pulsar
+2	#DEP#wsgi
+3	#DEP#httpserver
+4	#DEP#testframework
+5	#DEP#multiprocess
+6	#DEP#asyncio
+7	#DEP#rpc
+8	#DEP#greenlet
+9	#DEP#http
+10	#DEP#python

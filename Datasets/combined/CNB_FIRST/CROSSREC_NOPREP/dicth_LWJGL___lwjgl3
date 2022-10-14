@@ -1,0 +1,11 @@
+1	LWJGL___lwjgl3
+2	#DEP#bind
+3	#DEP#vulkan
+4	#DEP#opencl
+5	#DEP#glfw
+6	#DEP#kotlin
+7	#DEP#java
+8	#DEP#vr
+9	#DEP#lwjgl
+10	#DEP#open
+11	#DEP#opengl

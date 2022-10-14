@@ -1,0 +1,12 @@
+1	csete___gqrx
+2	#DEP#sdr
+3	#DEP#receiv
+4	#DEP#qt
+5	#DEP#fft
+6	#DEP#airspi
+7	#DEP#gqrx
+8	#DEP#gnuradio
+9	#DEP#hackrf
+10	#DEP#rtlsdr
+11	#DEP#rfspace
+12	#DEP#funcubdongl

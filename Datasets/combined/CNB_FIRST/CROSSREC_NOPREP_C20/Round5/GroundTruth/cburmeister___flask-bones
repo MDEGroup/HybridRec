@@ -1,0 +1,5 @@
+2	#DEP#flask
+3	#DEP#yarn
+4	#DEP#docker
+5	#DEP#babel
+6	#DEP#travici

@@ -1,0 +1,8 @@
+2	#DEP#mongodb
+3	#DEP#springcloud
+4	#DEP#redi
+5	#DEP#docker
+6	#DEP#springboot
+7	#DEP#mybati
+8	#DEP#mysql
+9	#DEP#elasticsearch

@@ -1,0 +1,6 @@
+1	oneinstack___oneinstack
+2	#DEP#nginx
+3	#DEP#mariadb
+4	#DEP#redi
+5	#DEP#php
+6	#DEP#mysql

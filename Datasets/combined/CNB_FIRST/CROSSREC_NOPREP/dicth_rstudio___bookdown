@@ -1,0 +1,8 @@
+1	rstudio___bookdown
+2	#DEP#book
+3	#DEP#latex
+4	#DEP#epub
+5	#DEP#bookdown
+6	#DEP#gitbook
+7	#DEP#rmarkdown
+8	#DEP#html

@@ -1,0 +1,8 @@
+2	#DEP#jasmin
+3	#DEP#teaspoon
+4	#DEP#coverag
+5	#DEP#qunit
+6	#DEP#rail
+7	#DEP#browserstack
+8	#DEP#javascripttest
+9	#DEP#mocha

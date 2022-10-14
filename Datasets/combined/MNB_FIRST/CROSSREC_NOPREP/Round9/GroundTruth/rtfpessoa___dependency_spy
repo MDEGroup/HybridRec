@@ -1,0 +1,9 @@
+2	#DEP#compos
+3	#DEP#bower
+4	#DEP#depend
+5	#DEP#maven
+6	#DEP#version
+7	#DEP#rubygem
+8	#DEP#npm
+9	#DEP#scanner
+10	#DEP#vulner

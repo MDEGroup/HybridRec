@@ -1,0 +1,14 @@
+2	#DEP#tl
+3	#DEP#smtp
+4	#DEP#xmpp
+5	#DEP#async
+6	#DEP#http
+7	#DEP#eventdriven
+8	#DEP#irc
+9	#DEP#twist
+10	#DEP#ssl
+11	#DEP#asyncpython
+12	#DEP#dn
+13	#DEP#imap
+14	#DEP#python
+15	#DEP#network

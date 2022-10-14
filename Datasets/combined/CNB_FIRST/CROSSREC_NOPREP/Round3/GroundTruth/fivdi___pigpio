@@ -1,0 +1,10 @@
+2	#DEP#servo
+3	#DEP#hcsr04
+4	#DEP#motor
+5	#DEP#gpio
+6	#DEP#javascript
+7	#DEP#nodej
+8	#DEP#pwm
+9	#DEP#iot
+10	#DEP#raspberripi
+11	#DEP#interrupt

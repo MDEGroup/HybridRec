@@ -1,0 +1,15 @@
+2	#DEP#varnish
+3	#DEP#apachd
+4	#DEP#nginx
+5	#DEP#test
+6	#DEP#php
+7	#DEP#design
+8	#DEP#ento
+9	#DEP#alpin
+10	#DEP#docker
+11	#DEP#http
+12	#DEP#dokerfil
+13	#DEP#dokerimag
+14	#DEP#unix-based
+15	#DEP#c
+16	#DEP#liqbas

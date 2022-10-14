@@ -1,0 +1,7 @@
+2	#DEP#networkmonitor
+3	#DEP#dfir
+4	#DEP#zeek
+5	#DEP#bro
+6	#DEP#nsm
+7	#DEP#secur
+8	#DEP#pcap

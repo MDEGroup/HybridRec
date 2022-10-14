@@ -1,0 +1,14 @@
+1	dmlc___gluon-cv
+2	#DEP#poseestim
+3	#DEP#deeplearn
+4	#DEP#semantseg
+5	#DEP#computvis
+6	#DEP#actionrecognit
+7	#DEP#machinlearn
+8	#DEP#imagclassif
+9	#DEP#mxnet
+10	#DEP#neuralnetwork
+11	#DEP#gan
+12	#DEP#personreid
+13	#DEP#objectdetect
+14	#DEP#gluon

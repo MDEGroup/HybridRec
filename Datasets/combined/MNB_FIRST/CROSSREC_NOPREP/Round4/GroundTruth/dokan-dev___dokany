@@ -1,0 +1,15 @@
+2	#DEP#devicdriv
+3	#DEP#fuse
+4	#DEP#kernelmod
+5	#DEP#driver
+6	#DEP#userland
+7	#DEP#filesystemlibrari
+8	#DEP#dokan
+9	#DEP#dokanlibrari
+10	#DEP#createfil
+11	#DEP#fusewrapp
+12	#DEP#c
+13	#DEP#filesystem
+14	#DEP#dll
+15	#DEP#sy
+16	#DEP#window

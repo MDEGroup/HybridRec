@@ -1,0 +1,6 @@
+2	#DEP#wagtail
+3	#DEP#wagtailcm
+4	#DEP#quaker
+5	#DEP#python3
+6	#DEP#python
+7	#DEP#django

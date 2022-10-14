@@ -1,0 +1,6 @@
+2	#DEP#postgresql
+3	#DEP#developexperi
+4	#DEP#schemamigrat
+5	#DEP#schemachang
+6	#DEP#developtool
+7	#DEP#python

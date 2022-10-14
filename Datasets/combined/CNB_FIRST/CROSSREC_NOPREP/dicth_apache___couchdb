@@ -1,0 +1,12 @@
+1	apache___couchdb
+2	#DEP#cloud
+3	#DEP#couchdb
+4	#DEP#cplusplu
+5	#DEP#networkcli
+6	#DEP#http
+7	#DEP#content
+8	#DEP#javascript
+9	#DEP#networkserv
+10	#DEP#erlang
+11	#DEP#bigdata
+12	#DEP#databas

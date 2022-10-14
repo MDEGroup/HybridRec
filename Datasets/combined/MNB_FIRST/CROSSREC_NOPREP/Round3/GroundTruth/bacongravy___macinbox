@@ -1,0 +1,8 @@
+2	#DEP#catalina
+3	#DEP#paralleldesktop
+4	#DEP#macocatalina
+5	#DEP#virtualbox
+6	#DEP#vagrantbox
+7	#DEP#maco
+8	#DEP#vmwarefus
+9	#DEP#vagrant

@@ -1,0 +1,9 @@
+1	ghdl___ghdl
+2	#DEP#llvm
+3	#DEP#gcc
+4	#DEP#ghdl
+5	#DEP#testbench
+6	#DEP#compil
+7	#DEP#hardwar
+8	#DEP#vhdl
+9	#DEP#simul

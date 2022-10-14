@@ -1,0 +1,14 @@
+1	linuxserver___Heimdall
+2	#DEP#nginx
+3	#DEP#plex
+4	#DEP#bookmark
+5	#DEP#dashboard
+6	#DEP#heimdal
+7	#DEP#embi
+8	#DEP#homepag
+9	#DEP#applic
+10	#DEP#landingpag
+11	#DEP#ouhpotato
+12	#DEP#startpag
+13	#DEP#sonarr
+14	#DEP#c

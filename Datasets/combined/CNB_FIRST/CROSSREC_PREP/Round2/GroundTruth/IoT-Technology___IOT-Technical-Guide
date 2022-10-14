@@ -1,0 +1,14 @@
+2	#DEP#nosql
+3	#DEP#wt
+4	#DEP#realtim
+5	#DEP#oap
+6	#DEP#ruleengin
+7	#DEP#gateway
+8	#DEP#qt
+9	#DEP#socket
+10	#DEP#sql
+11	#DEP#http
+12	#DEP#multiten
+13	#DEP#c
+14	#DEP#token
+15	#DEP#miorservi

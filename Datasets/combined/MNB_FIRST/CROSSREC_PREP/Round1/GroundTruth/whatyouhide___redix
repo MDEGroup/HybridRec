@@ -1,0 +1,6 @@
+2	#DEP#librari
+3	#DEP#pubsub
+4	#DEP#elixir
+5	#DEP#redi
+6	#DEP#sentinel
+7	#DEP#command-line

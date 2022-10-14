@@ -1,0 +1,6 @@
+2	#DEP#continudeploy
+3	#DEP#codedeploy
+4	#DEP#cloudform
+5	#DEP#aw
+6	#DEP#codebuild
+7	#DEP#continuintegr

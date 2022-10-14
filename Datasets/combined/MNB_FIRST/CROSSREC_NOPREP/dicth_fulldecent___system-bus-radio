@@ -1,0 +1,16 @@
+1	fulldecent___system-bus-radio
+2	#DEP#microprocessor
+3	#DEP#commun
+4	#DEP#softwardefinradio
+5	#DEP#exfiltr
+6	#DEP#radio
+7	#DEP#engin
+8	#DEP#radiat
+9	#DEP#electrengin
+10	#DEP#secur
+11	#DEP#equip
+12	#DEP#transmitt
+13	#DEP#communprotocol
+14	#DEP#lowlevel
+15	#DEP#transmiss
+16	#DEP#airgap

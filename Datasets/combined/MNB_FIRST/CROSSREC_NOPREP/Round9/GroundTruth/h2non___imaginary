@@ -1,0 +1,12 @@
+2	#DEP#imag
+3	#DEP#libvip
+4	#DEP#resizimag
+5	#DEP#imagprocess
+6	#DEP#png
+7	#DEP#microservic
+8	#DEP#webp
+9	#DEP#gif
+10	#DEP#docker
+11	#DEP#watermark
+12	#DEP#jpeg
+13	#DEP#cropimag

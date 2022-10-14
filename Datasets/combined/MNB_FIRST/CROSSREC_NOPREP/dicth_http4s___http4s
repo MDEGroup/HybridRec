@@ -1,0 +1,8 @@
+1	http4s___http4s
+2	#DEP#httpserver
+3	#DEP#typelevel
+4	#DEP#httpclient
+5	#DEP#http
+6	#DEP#fs2
+7	#DEP#scala
+8	#DEP#cat

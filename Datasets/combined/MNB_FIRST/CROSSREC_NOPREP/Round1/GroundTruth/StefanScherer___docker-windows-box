@@ -1,0 +1,8 @@
+2	#DEP#dockermachin
+3	#DEP#dockerengin
+4	#DEP#windowcontain
+5	#DEP#wsl2
+6	#DEP#lcow
+7	#DEP#vagrant
+8	#DEP#dockerswarm
+9	#DEP#vagrantfil

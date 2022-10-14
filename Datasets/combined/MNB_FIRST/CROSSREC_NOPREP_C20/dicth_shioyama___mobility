@@ -1,0 +1,8 @@
+1	shioyama___mobility
+2	#DEP#postgresql
+3	#DEP#translat
+4	#DEP#local
+5	#DEP#i18n
+6	#DEP#json
+7	#DEP#rubi
+8	#DEP#rail

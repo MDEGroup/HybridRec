@@ -1,0 +1,17 @@
+2	#DEP#atom
+3	#DEP#arduino
+4	#DEP#platformio
+5	#DEP#microcontrol
+6	#DEP#mbed
+7	#DEP#fpga
+8	#DEP#debugg
+9	#DEP#lattic
+10	#DEP#embed
+11	#DEP#esp8266
+12	#DEP#hardwar
+13	#DEP#librari
+14	#DEP#build
+15	#DEP#ide
+16	#DEP#iot
+17	#DEP#verilog
+18	#DEP#esp32

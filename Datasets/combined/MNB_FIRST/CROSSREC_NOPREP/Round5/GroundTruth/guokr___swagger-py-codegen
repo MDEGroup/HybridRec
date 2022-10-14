@@ -1,0 +1,8 @@
+2	#DEP#swaggercodegen
+3	#DEP#sanic
+4	#DEP#pypi
+5	#DEP#tornado
+6	#DEP#flask
+7	#DEP#falcon
+8	#DEP#swagger
+9	#DEP#python

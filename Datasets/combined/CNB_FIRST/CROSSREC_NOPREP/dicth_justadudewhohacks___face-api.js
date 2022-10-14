@@ -1,0 +1,13 @@
+1	justadudewhohacks___face-api.js
+2	#DEP#tfj
+3	#DEP#facedetect
+4	#DEP#facelandmark
+5	#DEP#tensorflowj
+6	#DEP#ageestim
+7	#DEP#facerecognit
+8	#DEP#tensorflow
+9	#DEP#j
+10	#DEP#javascript
+11	#DEP#nodej
+12	#DEP#emotrecognit
+13	#DEP#genderrecognit

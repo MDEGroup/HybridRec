@@ -1,0 +1,8 @@
+1	FairwindsOps___rok8s-scripts
+2	#DEP#contain
+3	#DEP#docker
+4	#DEP#continudeliveri
+5	#DEP#kubernet
+6	#DEP#ci
+7	#DEP#continudeploy
+8	#DEP#continuintegr

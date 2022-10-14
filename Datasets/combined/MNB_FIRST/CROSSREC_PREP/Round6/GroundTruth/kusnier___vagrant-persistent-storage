@@ -1,0 +1,5 @@
+2	#DEP#persiststorag
+3	#DEP#disk
+4	#DEP#vagrant
+5	#DEP#virtualbox
+6	#DEP#storag

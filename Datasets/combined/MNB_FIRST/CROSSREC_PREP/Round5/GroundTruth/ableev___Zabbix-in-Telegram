@@ -1,0 +1,8 @@
+2	#DEP#messaging
+3	#DEP#sc
+4	#DEP#zabbix
+5	#DEP#notification
+6	#DEP#zabbixalert
+7	#DEP#zabbixalertript
+8	#DEP#bot
+9	#DEP#zabbixnotif

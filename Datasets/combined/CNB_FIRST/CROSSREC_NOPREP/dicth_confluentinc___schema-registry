@@ -1,0 +1,8 @@
+1	confluentinc___schema-registry
+2	#DEP#avro
+3	#DEP#schema
+4	#DEP#avroschema
+5	#DEP#kafka
+6	#DEP#restapi
+7	#DEP#confluent
+8	#DEP#schemaregistri

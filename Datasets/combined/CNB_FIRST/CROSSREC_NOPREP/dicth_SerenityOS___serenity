@@ -1,0 +1,9 @@
+1	SerenityOS___serenity
+2	#DEP#x86kernel
+3	#DEP#opersystem
+4	#DEP#guiframework
+5	#DEP#seren
+6	#DEP#browserengin
+7	#DEP#cpluplu
+8	#DEP#browser
+9	#DEP#unixlik

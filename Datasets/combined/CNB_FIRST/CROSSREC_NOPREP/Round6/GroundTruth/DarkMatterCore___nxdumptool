@@ -1,0 +1,9 @@
+2	#DEP#sdmmc
+3	#DEP#homebrew
+4	#DEP#emmc
+5	#DEP#nintendoswitch
+6	#DEP#dump
+7	#DEP#nsp
+8	#DEP#xci
+9	#DEP#gamecard
+10	#DEP#libnx

@@ -1,0 +1,8 @@
+1	nspire-emus___firebird
+2	#DEP#emul
+3	#DEP#arm
+4	#DEP#tinspir
+5	#DEP#calcul
+6	#DEP#c
+7	#DEP#cpp
+8	#DEP#jit

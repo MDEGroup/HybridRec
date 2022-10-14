@@ -1,0 +1,11 @@
+1	tmux-python___tmuxp
+2	#DEP#termin
+3	#DEP#python
+4	#DEP#json
+5	#DEP#liutil
+6	#DEP#io
+7	#DEP#sessnmanag
+8	#DEP#yaml
+9	#DEP#c
+10	#DEP#tmux
+11	#DEP#command-line

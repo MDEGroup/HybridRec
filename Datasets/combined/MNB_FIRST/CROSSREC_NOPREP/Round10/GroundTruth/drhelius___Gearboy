@@ -1,0 +1,10 @@
+2	#DEP#gameboy
+3	#DEP#linux
+4	#DEP#io
+5	#DEP#nintendogameboy
+6	#DEP#raspberripi
+7	#DEP#emul
+8	#DEP#libretro
+9	#DEP#gameboyemul
+10	#DEP#retroarch
+11	#DEP#gameboycoloremul

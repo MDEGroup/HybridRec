@@ -1,0 +1,6 @@
+2	#DEP#tsdb
+3	#DEP#go
+4	#DEP#monitor
+5	#DEP#scollector
+6	#DEP#bosun
+7	#DEP#alert

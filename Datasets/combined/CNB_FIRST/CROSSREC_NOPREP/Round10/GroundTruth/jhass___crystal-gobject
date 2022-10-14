@@ -1,0 +1,7 @@
+2	#DEP#libnotifi
+3	#DEP#gdk
+4	#DEP#gobjectintrospect
+5	#DEP#gtk
+6	#DEP#crystal
+7	#DEP#shard
+8	#DEP#glib

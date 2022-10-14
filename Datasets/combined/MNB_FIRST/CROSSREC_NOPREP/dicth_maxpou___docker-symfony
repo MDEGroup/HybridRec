@@ -1,0 +1,8 @@
+1	maxpou___docker-symfony
+2	#DEP#php7
+3	#DEP#dockersymfoni
+4	#DEP#symfoni
+5	#DEP#nginx
+6	#DEP#dockercompo
+7	#DEP#docker
+8	#DEP#mysql

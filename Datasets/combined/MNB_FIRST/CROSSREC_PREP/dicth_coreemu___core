@@ -1,0 +1,6 @@
+1	coreemu___core
+2	#DEP#eman
+3	#DEP#wireless
+4	#DEP#python
+5	#DEP#network
+6	#DEP#emul

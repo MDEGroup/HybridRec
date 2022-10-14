@@ -1,0 +1,12 @@
+2	#DEP#lua
+3	#DEP#parser
+4	#DEP#tool
+5	#DEP#util
+6	#DEP#convert
+7	#DEP#syntax
+8	#DEP#lexer
+9	#DEP#transpil
+10	#DEP#tic80
+11	#DEP#translat
+12	#DEP#pico8
+13	#DEP#shorthand

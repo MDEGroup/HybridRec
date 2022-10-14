@@ -1,0 +1,10 @@
+2	#DEP#devop
+3	#DEP#selfhost
+4	#DEP#exoframserv
+5	#DEP#exofram
+6	#DEP#deploytool
+7	#DEP#docker
+8	#DEP#nodej
+9	#DEP#traefik
+10	#DEP#deploy
+11	#DEP#dockermanagtool

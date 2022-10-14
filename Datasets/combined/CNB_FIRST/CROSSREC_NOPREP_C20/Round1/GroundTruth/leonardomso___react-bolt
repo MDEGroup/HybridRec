@@ -1,0 +1,8 @@
+2	#DEP#boilerpl
+3	#DEP#eslint
+4	#DEP#react
+5	#DEP#jest
+6	#DEP#redux
+7	#DEP#cs
+8	#DEP#babel
+9	#DEP#webpack

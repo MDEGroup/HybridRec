@@ -1,0 +1,12 @@
+2	#DEP#schedul
+3	#DEP#aw
+4	#DEP#amazonwebserv
+5	#DEP#contain
+6	#DEP#eccli
+7	#DEP#ecserv
+8	#DEP#ec
+9	#DEP#docker
+10	#DEP#awec
+11	#DEP#awcli
+12	#DEP#scale
+13	#DEP#deploy

@@ -1,0 +1,17 @@
+1	dbohdan___structured-text-tools
+2	#DEP#configurfil
+3	#DEP#xml
+4	#DEP#toml
+5	#DEP#structurtext
+6	#DEP#tsv
+7	#DEP#csv
+8	#DEP#json
+9	#DEP#ini
+10	#DEP#yaml
+11	#DEP#awk
+12	#DEP#textfil
+13	#DEP#cli
+14	#DEP#delimitfil
+15	#DEP#html
+16	#DEP#list
+17	#DEP#convers

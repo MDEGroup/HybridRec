@@ -1,0 +1,16 @@
+2	#DEP#p2s2p
+3	#DEP#ssh
+4	#DEP#tl
+5	#DEP#p2p
+6	#DEP#tcp
+7	#DEP#packetcaptur
+8	#DEP#websocket
+9	#DEP#transparproxi
+10	#DEP#mitmproxi
+11	#DEP#http
+12	#DEP#http2
+13	#DEP#proxi
+14	#DEP#nat
+15	#DEP#lowmemori
+16	#DEP#quic
+17	#DEP#kcp

@@ -1,0 +1,9 @@
+2	#DEP#seleniumgrid
+3	#DEP#saucelab
+4	#DEP#testingbot
+5	#DEP#browserstack
+6	#DEP#docker
+7	#DEP#selenium
+8	#DEP#test
+9	#DEP#kubernet
+10	#DEP#dockerselenium

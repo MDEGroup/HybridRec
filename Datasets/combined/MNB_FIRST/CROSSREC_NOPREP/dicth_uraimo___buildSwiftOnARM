@@ -1,0 +1,7 @@
+1	uraimo___buildSwiftOnARM
+2	#DEP#arm
+3	#DEP#ubuntu
+4	#DEP#debian
+5	#DEP#swift
+6	#DEP#raspbian
+7	#DEP#raspberrypi

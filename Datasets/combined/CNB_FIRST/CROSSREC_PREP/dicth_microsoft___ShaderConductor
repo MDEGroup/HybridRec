@@ -1,0 +1,7 @@
+1	microsoft___ShaderConductor
+2	#DEP#opengl
+3	#DEP#hlsl
+4	#DEP#metal
+5	#DEP#compil
+6	#DEP#shader
+7	#DEP#vulkan

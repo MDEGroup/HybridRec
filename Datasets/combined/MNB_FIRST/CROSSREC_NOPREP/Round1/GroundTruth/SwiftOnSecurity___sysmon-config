@@ -1,0 +1,8 @@
+2	#DEP#sysintern
+3	#DEP#netsec
+4	#DEP#threathunt
+5	#DEP#monitor
+6	#DEP#threatintel
+7	#DEP#window
+8	#DEP#log
+9	#DEP#sysmon

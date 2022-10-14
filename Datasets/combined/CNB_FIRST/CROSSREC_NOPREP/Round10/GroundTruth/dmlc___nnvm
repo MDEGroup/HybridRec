@@ -1,0 +1,10 @@
+2	#DEP#rocm
+3	#DEP#cuda
+4	#DEP#opencl
+5	#DEP#deeplearn
+6	#DEP#nnvm
+7	#DEP#tvm
+8	#DEP#metal
+9	#DEP#optim
+10	#DEP#computgraph
+11	#DEP#deploy

@@ -1,0 +1,6 @@
+2	#DEP#vozltnginxmodul
+3	#DEP#nginxmodul
+4	#DEP#nginxvhosttrafficstatu
+5	#DEP#monitor
+6	#DEP#nginx
+7	#DEP#c

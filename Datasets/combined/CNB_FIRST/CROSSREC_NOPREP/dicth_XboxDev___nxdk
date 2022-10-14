@@ -1,0 +1,12 @@
+1	XboxDev___nxdk
+2	#DEP#llvm
+3	#DEP#shader
+4	#DEP#3d
+5	#DEP#xiso
+6	#DEP#toolchain
+7	#DEP#homebrew
+8	#DEP#compil
+9	#DEP#xboxkrnl
+10	#DEP#nxdk
+11	#DEP#xbox
+12	#DEP#linker

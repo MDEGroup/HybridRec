@@ -1,0 +1,10 @@
+2	#DEP#uniti
+3	#DEP#patcher
+4	#DEP#runtim
+5	#DEP#nondestruct
+6	#DEP#csharp
+7	#DEP#cil
+8	#DEP#detour
+9	#DEP#dotnet
+10	#DEP#mono
+11	#DEP#monkeypatch

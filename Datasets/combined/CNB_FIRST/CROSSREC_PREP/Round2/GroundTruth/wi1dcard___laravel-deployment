@@ -1,0 +1,11 @@
+2	#DEP#nginx
+3	#DEP#deploy
+4	#DEP#lexion
+5	#DEP#php
+6	#DEP#git
+7	#DEP#ompos
+8	#DEP#envoy
+9	#DEP#ansibl
+10	#DEP#c
+11	#DEP#terraform
+12	#DEP#unix-based

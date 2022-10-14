@@ -1,0 +1,16 @@
+2	#DEP#zshplugin
+3	#DEP#fishshel
+4	#DEP#fuzzi
+5	#DEP#autojump
+6	#DEP#bash
+7	#DEP#fish
+8	#DEP#plugin
+9	#DEP#jump
+10	#DEP#j
+11	#DEP#zsh
+12	#DEP#cd
+13	#DEP#shell
+14	#DEP#z
+15	#DEP#fasd
+16	#DEP#powershel
+17	#DEP#fzf

@@ -1,0 +1,8 @@
+2	#DEP#express
+3	#DEP#socket
+4	#DEP#realtim
+5	#DEP#redi
+6	#DEP#nodej
+7	#DEP#mongoos
+8	#DEP#chat
+9	#DEP#passport

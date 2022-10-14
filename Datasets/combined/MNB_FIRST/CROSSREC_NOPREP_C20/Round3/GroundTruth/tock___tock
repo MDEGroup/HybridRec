@@ -1,0 +1,6 @@
+2	#DEP#rust
+3	#DEP#embed
+4	#DEP#opersystem
+5	#DEP#iot
+6	#DEP#arm
+7	#DEP#kernel

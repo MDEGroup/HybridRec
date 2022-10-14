@@ -1,0 +1,8 @@
+2	#DEP#lua
+3	#DEP#httpclient
+4	#DEP#http
+5	#DEP#nginxlua
+6	#DEP#nginx
+7	#DEP#stream
+8	#DEP#luajit
+9	#DEP#openresti

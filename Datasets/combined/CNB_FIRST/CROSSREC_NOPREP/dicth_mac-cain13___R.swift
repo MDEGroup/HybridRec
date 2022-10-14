@@ -1,0 +1,14 @@
+1	mac-cain13___R.swift
+2	#DEP#xcode
+3	#DEP#segu
+4	#DEP#codegen
+5	#DEP#autocompletresourc
+6	#DEP#swift
+7	#DEP#autocompletimag
+8	#DEP#io
+9	#DEP#uiimag
+10	#DEP#uistoryboard
+11	#DEP#autocomplet
+12	#DEP#customfont
+13	#DEP#localis
+14	#DEP#uifont

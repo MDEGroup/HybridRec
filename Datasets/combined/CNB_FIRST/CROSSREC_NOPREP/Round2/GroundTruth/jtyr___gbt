@@ -1,0 +1,16 @@
+2	#DEP#gbt
+3	#DEP#ssh
+4	#DEP#su
+5	#DEP#bash
+6	#DEP#prompt
+7	#DEP#kubectl
+8	#DEP#go
+9	#DEP#screen
+10	#DEP#vagrant
+11	#DEP#docker
+12	#DEP#shell
+13	#DEP#termux
+14	#DEP#zsh
+15	#DEP#python
+16	#DEP#mysql
+17	#DEP#sudo

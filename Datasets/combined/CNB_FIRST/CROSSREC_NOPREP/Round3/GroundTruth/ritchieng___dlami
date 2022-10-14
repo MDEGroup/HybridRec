@@ -1,0 +1,8 @@
+2	#DEP#cuda
+3	#DEP#ubuntu
+4	#DEP#aw
+5	#DEP#tensorflow
+6	#DEP#cudnn5
+7	#DEP#python
+8	#DEP#ami
+9	#DEP#kera

@@ -1,0 +1,11 @@
+2	#DEP#visual
+3	#DEP#spetrumanalyz
+4	#DEP#fft
+5	#DEP#qt
+6	#DEP#python
+7	#DEP#io
+8	#DEP#c
+9	#DEP#sdr
+10	#DEP#softwardefinrad
+11	#DEP#hakrf
+12	#DEP#airspi

@@ -1,0 +1,9 @@
+1	sergeykhbr___riscv_vhdl
+2	#DEP#qt
+3	#DEP#systemc
+4	#DEP#debugg
+5	#DEP#riscv
+6	#DEP#soc
+7	#DEP#vhdl
+8	#DEP#simul
+9	#DEP#cpu

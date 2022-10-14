@@ -1,0 +1,5 @@
+2	#DEP#cli
+3	#DEP#ethereum
+4	#DEP#bitcoin
+5	#DEP#monero
+6	#DEP#golang

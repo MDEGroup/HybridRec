@@ -1,0 +1,11 @@
+2	#DEP#sql
+3	#DEP#sqlite
+4	#DEP#dataset
+5	#DEP#csv
+6	#DEP#json
+7	#DEP#datasett
+8	#DEP#automatapi
+9	#DEP#docker
+10	#DEP#datasettio
+11	#DEP#python
+12	#DEP#asgi

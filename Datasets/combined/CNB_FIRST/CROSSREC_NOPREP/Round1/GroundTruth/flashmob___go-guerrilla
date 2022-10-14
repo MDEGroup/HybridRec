@@ -1,0 +1,6 @@
+2	#DEP#smtp
+3	#DEP#mda
+4	#DEP#maildeliveriag
+5	#DEP#smtpserver
+6	#DEP#go
+7	#DEP#server

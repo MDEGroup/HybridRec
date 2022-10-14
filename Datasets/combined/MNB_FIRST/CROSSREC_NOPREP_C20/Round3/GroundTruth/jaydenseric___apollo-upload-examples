@@ -1,0 +1,6 @@
+2	#DEP#nodej
+3	#DEP#eslint
+4	#DEP#react
+5	#DEP#koa
+6	#DEP#babel
+7	#DEP#graphql

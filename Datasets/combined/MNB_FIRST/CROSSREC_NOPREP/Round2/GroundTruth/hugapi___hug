@@ -1,0 +1,8 @@
+2	#DEP#hugapi
+3	#DEP#httpserver
+4	#DEP#commandlin
+5	#DEP#http
+6	#DEP#python3
+7	#DEP#falcon
+8	#DEP#pythonapi
+9	#DEP#python

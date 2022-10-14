@@ -1,0 +1,17 @@
+2	#DEP#minikub
+3	#DEP#ambassador
+4	#DEP#devoptool
+5	#DEP#devop
+6	#DEP#minikubclust
+7	#DEP#apigateway
+8	#DEP#kubernetcli
+9	#DEP#kubernetapi
+10	#DEP#dockerimag
+11	#DEP#kubernetdeploy
+12	#DEP#pod
+13	#DEP#docker
+14	#DEP#kubernetclust
+15	#DEP#kubernetserv
+16	#DEP#python
+17	#DEP#servicmesh
+18	#DEP#kubernet

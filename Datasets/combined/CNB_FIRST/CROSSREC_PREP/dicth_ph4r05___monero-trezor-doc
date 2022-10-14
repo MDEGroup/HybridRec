@@ -1,0 +1,15 @@
+1	ph4r05___monero-trezor-doc
+2	#DEP#wallet
+3	#DEP#monero
+4	#DEP#transatsign
+5	#DEP#bulletproof
+6	#DEP#pdf
+7	#DEP#sign
+8	#DEP#offload
+9	#DEP#ryptonot
+10	#DEP#hardwarwallet
+11	#DEP#paper
+12	#DEP#propos
+13	#DEP#trezor
+14	#DEP#signprotool
+15	#DEP#c

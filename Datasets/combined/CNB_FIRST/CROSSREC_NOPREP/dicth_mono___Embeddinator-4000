@@ -1,0 +1,17 @@
+1	mono___Embeddinator-4000
+2	#DEP#bind
+3	#DEP#interop
+4	#DEP#mobil
+5	#DEP#cplusplu
+6	#DEP#objectc
+7	#DEP#dotnet
+8	#DEP#mono
+9	#DEP#java
+10	#DEP#cppsharp
+11	#DEP#csharp
+12	#DEP#monodroid
+13	#DEP#c
+14	#DEP#cpluplu
+15	#DEP#android
+16	#DEP#xamarin
+17	#DEP#monotouch

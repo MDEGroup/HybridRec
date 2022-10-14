@@ -1,0 +1,6 @@
+2	#DEP#buildtool
+3	#DEP#mavenplugin
+4	#DEP#javafxmavenplugin
+5	#DEP#java
+6	#DEP#javafx
+7	#DEP#maven

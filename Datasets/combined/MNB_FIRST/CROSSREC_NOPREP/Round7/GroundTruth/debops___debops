@@ -1,0 +1,12 @@
+2	#DEP#playbook
+3	#DEP#sysadmintool
+4	#DEP#pki
+5	#DEP#selfhost
+6	#DEP#ubuntu
+7	#DEP#debian
+8	#DEP#debop
+9	#DEP#sysadmin
+10	#DEP#ansibl
+11	#DEP#ansiblcontrol
+12	#DEP#datacent
+13	#DEP#gitlabci

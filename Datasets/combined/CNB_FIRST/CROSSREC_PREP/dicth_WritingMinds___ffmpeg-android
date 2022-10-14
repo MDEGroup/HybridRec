@@ -1,0 +1,8 @@
+1	WritingMinds___ffmpeg-android
+2	#DEP#configuration
+3	#DEP#ndk
+4	#DEP#freetyp
+5	#DEP#ffmpeg
+6	#DEP#android
+7	#DEP#shell
+8	#DEP#font

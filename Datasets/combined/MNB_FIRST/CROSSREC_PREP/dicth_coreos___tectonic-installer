@@ -1,0 +1,8 @@
+1	coreos___tectonic-installer
+2	#DEP#modul
+3	#DEP#contain
+4	#DEP#unix-based
+5	#DEP#docker
+6	#DEP#c
+7	#DEP#terraform
+8	#DEP#kubernet

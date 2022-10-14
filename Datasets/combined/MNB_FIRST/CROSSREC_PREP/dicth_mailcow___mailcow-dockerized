@@ -1,0 +1,10 @@
+1	mailcow___mailcow-dockerized
+2	#DEP#postfix
+3	#DEP#mailserv
+4	#DEP#pwa
+5	#DEP#doveot
+6	#DEP#grour
+7	#DEP#go
+8	#DEP#mailow
+9	#DEP#docker
+10	#DEP#c

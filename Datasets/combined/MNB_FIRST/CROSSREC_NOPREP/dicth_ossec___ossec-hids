@@ -1,0 +1,12 @@
+1	ossec___ossec-hids
+2	#DEP#hid
+3	#DEP#nist80053
+4	#DEP#policimonitor
+5	#DEP#loganalyz
+6	#DEP#fileintegrmanag
+7	#DEP#intrusdetect
+8	#DEP#pcid
+9	#DEP#ossec
+10	#DEP#complianc
+11	#DEP#secur
+12	#DEP#fim

@@ -1,0 +1,7 @@
+1	mumble-voip___mumble
+2	#DEP#game
+3	#DEP#voip
+4	#DEP#client
+5	#DEP#server
+6	#DEP#audio
+7	#DEP#voicechat

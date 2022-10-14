@@ -1,0 +1,14 @@
+2	#DEP#nginx
+3	#DEP#php
+4	#DEP#mariadb
+5	#DEP#shell
+6	#DEP#phpmariadb
+7	#DEP#phpmysql
+8	#DEP#mysql
+9	#DEP#apachphpmy
+10	#DEP#sql
+11	#DEP#shel
+12	#DEP#lamp
+13	#DEP#lnmpalamp
+14	#DEP#apachphp
+15	#DEP#unix-based

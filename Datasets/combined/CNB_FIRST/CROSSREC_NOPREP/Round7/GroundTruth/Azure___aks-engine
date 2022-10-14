@@ -1,0 +1,6 @@
+2	#DEP#orchestr
+3	#DEP#contain
+4	#DEP#azur
+5	#DEP#golang
+6	#DEP#docker
+7	#DEP#kubernet

@@ -1,0 +1,12 @@
+2	#DEP#ssd1331
+3	#DEP#i2c
+4	#DEP#ssd1322
+5	#DEP#ssd1306
+6	#DEP#ssd1327
+7	#DEP#spi
+8	#DEP#ssd1309
+9	#DEP#raspberripi
+10	#DEP#ssd1325
+11	#DEP#ole
+12	#DEP#python
+13	#DEP#sh1106

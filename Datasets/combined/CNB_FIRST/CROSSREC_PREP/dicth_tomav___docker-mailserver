@@ -1,0 +1,16 @@
+1	tomav___docker-mailserver
+2	#DEP#postfix
+3	#DEP#mailserv
+4	#DEP#c
+5	#DEP#imap
+6	#DEP#opendmar
+7	#DEP#doveot
+8	#DEP#docker
+9	#DEP#failban
+10	#DEP#amavi
+11	#DEP#spamassin
+12	#DEP#smtp
+13	#DEP#ldap
+14	#DEP#ssl
+15	#DEP#letsenrypt
+16	#DEP#email

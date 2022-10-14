@@ -1,0 +1,14 @@
+2	#DEP#cloud
+3	#DEP#hyper
+4	#DEP#nextcloud
+5	#DEP#ubuntu
+6	#DEP#virtualbox
+7	#DEP#machin
+8	#DEP#vmwarefus
+9	#DEP#hyperv
+10	#DEP#vmware
+11	#DEP#hypervisor
+12	#DEP#vmwareplay
+13	#DEP#nextcloudvm
+14	#DEP#vm
+15	#DEP#vmwareesxi

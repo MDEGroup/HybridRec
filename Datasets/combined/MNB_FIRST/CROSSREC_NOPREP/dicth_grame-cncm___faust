@@ -1,0 +1,10 @@
+1	grame-cncm___faust
+2	#DEP#llvm
+3	#DEP#functionprogram
+4	#DEP#faust
+5	#DEP#compil
+6	#DEP#c
+7	#DEP#dsp
+8	#DEP#audio
+9	#DEP#wasm
+10	#DEP#cpp

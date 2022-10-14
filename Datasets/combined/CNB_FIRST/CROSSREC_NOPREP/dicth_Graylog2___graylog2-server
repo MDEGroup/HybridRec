@@ -1,0 +1,15 @@
+1	Graylog2___graylog2-server
+2	#DEP#logmanag
+3	#DEP#syslog
+4	#DEP#siem
+5	#DEP#gelf
+6	#DEP#loganalysi
+7	#DEP#secur
+8	#DEP#kafka
+9	#DEP#graylog
+10	#DEP#securlog
+11	#DEP#logview
+12	#DEP#logcollector
+13	#DEP#logserv
+14	#DEP#amqp
+15	#DEP#log

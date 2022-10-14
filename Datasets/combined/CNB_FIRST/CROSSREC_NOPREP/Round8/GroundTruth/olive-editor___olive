@@ -1,0 +1,11 @@
+2	#DEP#videoeditor
+3	#DEP#opengl
+4	#DEP#vst
+5	#DEP#qt
+6	#DEP#maco
+7	#DEP#glsl
+8	#DEP#hardwaraccel
+9	#DEP#crossplatform
+10	#DEP#linux
+11	#DEP#window
+12	#DEP#cpp

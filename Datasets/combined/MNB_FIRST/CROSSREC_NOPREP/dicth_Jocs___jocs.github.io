@@ -1,0 +1,11 @@
+1	Jocs___jocs.github.io
+2	#DEP#react
+3	#DEP#gener
+4	#DEP#promis
+5	#DEP#chrome
+6	#DEP#javascript
+7	#DEP#frontend
+8	#DEP#vue2
+9	#DEP#angularj
+10	#DEP#es6
+11	#DEP#angular

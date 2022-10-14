@@ -1,0 +1,9 @@
+1	imdrasil___jennifer.cr
+2	#DEP#ativereord
+3	#DEP#orm
+4	#DEP#mysql
+5	#DEP#c
+6	#DEP#rystal
+7	#DEP#hainablmethod
+8	#DEP#postgresql
+9	#DEP#rystallanguag

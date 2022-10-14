@@ -1,0 +1,9 @@
+2	#DEP#ircd
+3	#DEP#daemon
+4	#DEP#ircdaemon
+5	#DEP#ircv3
+6	#DEP#sasl
+7	#DEP#irc
+8	#DEP#ircv3support
+9	#DEP#server
+10	#DEP#ircserv

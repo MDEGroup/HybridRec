@@ -1,0 +1,10 @@
+2	#DEP#mksh
+3	#DEP#parser
+4	#DEP#bash
+5	#DEP#bashpars
+6	#DEP#beautifi
+7	#DEP#go
+8	#DEP#formatt
+9	#DEP#posix
+10	#DEP#shell
+11	#DEP#interpret

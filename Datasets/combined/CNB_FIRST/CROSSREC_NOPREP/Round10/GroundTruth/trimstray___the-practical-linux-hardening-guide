@@ -1,0 +1,14 @@
+2	#DEP#openscap
+3	#DEP#manual
+4	#DEP#audit
+5	#DEP#ci
+6	#DEP#redhatenterprislinux
+7	#DEP#checklist
+8	#DEP#pcid
+9	#DEP#linuxharden
+10	#DEP#linuxsecur
+11	#DEP#cento
+12	#DEP#guid
+13	#DEP#harden
+14	#DEP#linux
+15	#DEP#secur

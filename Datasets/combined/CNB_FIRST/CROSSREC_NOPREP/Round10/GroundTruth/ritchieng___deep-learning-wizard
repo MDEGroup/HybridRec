@@ -1,0 +1,16 @@
+2	#DEP#scikitlearn
+3	#DEP#panda
+4	#DEP#deeplearn
+5	#DEP#rapid
+6	#DEP#cuml
+7	#DEP#bash
+8	#DEP#numpi
+9	#DEP#machinlearn
+10	#DEP#plotli
+11	#DEP#pytorch
+12	#DEP#cassandra
+13	#DEP#python
+14	#DEP#databas
+15	#DEP#gym
+16	#DEP#cpp
+17	#DEP#cudf

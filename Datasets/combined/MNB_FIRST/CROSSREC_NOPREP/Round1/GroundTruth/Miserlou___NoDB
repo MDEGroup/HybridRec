@@ -1,0 +1,9 @@
+2	#DEP#serverless
+3	#DEP#nodb
+4	#DEP#aw
+5	#DEP#zappa
+6	#DEP#nosql
+7	#DEP#lambda
+8	#DEP#json
+9	#DEP#s3
+10	#DEP#python

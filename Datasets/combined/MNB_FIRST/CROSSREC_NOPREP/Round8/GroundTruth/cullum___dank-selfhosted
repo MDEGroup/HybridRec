@@ -1,0 +1,12 @@
+2	#DEP#prosodi
+3	#DEP#dnssec
+4	#DEP#selfhost
+5	#DEP#spamd
+6	#DEP#dovecot
+7	#DEP#xmpp
+8	#DEP#dn
+9	#DEP#openbsd
+10	#DEP#opensmtpd
+11	#DEP#ansibl
+12	#DEP#nsd
+13	#DEP#email

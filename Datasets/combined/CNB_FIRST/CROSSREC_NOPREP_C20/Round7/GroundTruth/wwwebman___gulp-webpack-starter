@@ -1,0 +1,5 @@
+2	#DEP#gulp
+3	#DEP#staticsitegen
+4	#DEP#templat
+5	#DEP#yarn
+6	#DEP#webpack

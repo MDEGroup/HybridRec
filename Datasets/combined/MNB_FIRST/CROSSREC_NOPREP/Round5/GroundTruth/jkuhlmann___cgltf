@@ -1,0 +1,10 @@
+2	#DEP#glb
+3	#DEP#gltf2
+4	#DEP#3d
+5	#DEP#gltf2loader
+6	#DEP#singlheaderlib
+7	#DEP#gltf
+8	#DEP#stbstyle
+9	#DEP#c
+10	#DEP#c99
+11	#DEP#gltfloader

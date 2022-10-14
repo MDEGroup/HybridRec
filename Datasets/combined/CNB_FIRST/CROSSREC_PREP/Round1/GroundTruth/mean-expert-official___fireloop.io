@@ -1,0 +1,9 @@
+2	#DEP#typescript
+3	#DEP#design
+4	#DEP#loopbak
+5	#DEP#angular
+6	#DEP#sdkblder
+7	#DEP#nodej
+8	#DEP#ioni
+9	#DEP#c
+10	#DEP#nativescript

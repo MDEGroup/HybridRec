@@ -1,0 +1,8 @@
+2	#DEP#rust
+3	#DEP#publish
+4	#DEP#yamlconfigur
+5	#DEP#staticsitegen
+6	#DEP#blog
+7	#DEP#markdown
+8	#DEP#pandoc
+9	#DEP#write

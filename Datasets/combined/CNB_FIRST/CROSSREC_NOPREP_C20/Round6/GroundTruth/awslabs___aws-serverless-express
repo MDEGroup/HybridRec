@@ -1,0 +1,8 @@
+2	#DEP#serverless
+3	#DEP#nodej
+4	#DEP#node
+5	#DEP#express
+6	#DEP#apigateway
+7	#DEP#lambda
+8	#DEP#expressj
+9	#DEP#awlambda

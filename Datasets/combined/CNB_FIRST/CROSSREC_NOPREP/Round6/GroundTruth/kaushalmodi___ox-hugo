@@ -1,0 +1,13 @@
+2	#DEP#emac
+3	#DEP#orgmod
+4	#DEP#blackfriday
+5	#DEP#convert
+6	#DEP#staticsitegen
+7	#DEP#blog
+8	#DEP#org
+9	#DEP#hugo
+10	#DEP#markdown
+11	#DEP#orgblog
+12	#DEP#emaclisp
+13	#DEP#export
+14	#DEP#elisp

@@ -1,0 +1,7 @@
+1	NFFT___nfft
+2	#DEP#fftw
+3	#DEP#julia
+4	#DEP#nfft
+5	#DEP#c
+6	#DEP#matlab
+7	#DEP#fouriertransform

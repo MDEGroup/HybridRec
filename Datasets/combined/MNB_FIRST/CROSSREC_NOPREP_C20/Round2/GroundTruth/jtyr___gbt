@@ -1,0 +1,9 @@
+2	#DEP#bash
+3	#DEP#ssh
+4	#DEP#zsh
+5	#DEP#python
+6	#DEP#vagrant
+7	#DEP#docker
+8	#DEP#shell
+9	#DEP#mysql
+10	#DEP#go

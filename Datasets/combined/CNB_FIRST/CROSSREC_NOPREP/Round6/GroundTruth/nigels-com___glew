@@ -1,0 +1,8 @@
+2	#DEP#glx
+3	#DEP#opengl
+4	#DEP#visualinfo
+5	#DEP#wgl
+6	#DEP#c
+7	#DEP#glewinfo
+8	#DEP#egl
+9	#DEP#glew

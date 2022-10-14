@@ -1,0 +1,16 @@
+1	tqdm___tqdm
+2	#DEP#gui
+3	#DEP#time
+4	#DEP#eta
+5	#DEP#rate
+6	#DEP#termin
+7	#DEP#parallel
+8	#DEP#progressmet
+9	#DEP#bar
+10	#DEP#cli
+11	#DEP#progress
+12	#DEP#progressbar
+13	#DEP#python
+14	#DEP#meter
+15	#DEP#consol
+16	#DEP#util

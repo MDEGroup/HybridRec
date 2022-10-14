@@ -1,0 +1,13 @@
+2	#DEP#eureka
+3	#DEP#rabbitmq
+4	#DEP#netflix
+5	#DEP#springcloud
+6	#DEP#zuul
+7	#DEP#hystrix
+8	#DEP#jwtauthent
+9	#DEP#springboot
+10	#DEP#jwt
+11	#DEP#swagger2
+12	#DEP#microserv
+13	#DEP#springsecur
+14	#DEP#swagger

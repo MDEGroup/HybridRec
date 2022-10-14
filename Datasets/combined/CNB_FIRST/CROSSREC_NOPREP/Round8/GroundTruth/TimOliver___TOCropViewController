@@ -1,0 +1,12 @@
+2	#DEP#imag
+3	#DEP#cropper
+4	#DEP#imagprocess
+5	#DEP#view
+6	#DEP#viewcontrol
+7	#DEP#crop
+8	#DEP#podfil
+9	#DEP#swift
+10	#DEP#io
+11	#DEP#uiimag
+12	#DEP#cocoapod
+13	#DEP#cropimag

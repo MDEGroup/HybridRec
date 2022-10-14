@@ -1,0 +1,17 @@
+2	#DEP#cpp11
+3	#DEP#clang
+4	#DEP#cmakeid
+5	#DEP#libclang
+6	#DEP#emac
+7	#DEP#melpa
+8	#DEP#rtag
+9	#DEP#cpp17
+10	#DEP#gotodefinit
+11	#DEP#autocomplet
+12	#DEP#flycheck
+13	#DEP#flycheckexten
+14	#DEP#cmake
+15	#DEP#emaclisp
+16	#DEP#ide
+17	#DEP#cpp14
+18	#DEP#cpp

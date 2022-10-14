@@ -1,0 +1,7 @@
+2	#DEP#deeplearn
+3	#DEP#tensorflow
+4	#DEP#pretrain
+5	#DEP#webapp
+6	#DEP#flask
+7	#DEP#kera
+8	#DEP#deploy

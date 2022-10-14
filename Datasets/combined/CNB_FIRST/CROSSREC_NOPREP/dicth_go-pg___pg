@@ -1,0 +1,9 @@
+1	go-pg___pg
+2	#DEP#sql
+3	#DEP#jsonb
+4	#DEP#postgresql
+5	#DEP#orm
+6	#DEP#hstore
+7	#DEP#go
+8	#DEP#golang
+9	#DEP#databas

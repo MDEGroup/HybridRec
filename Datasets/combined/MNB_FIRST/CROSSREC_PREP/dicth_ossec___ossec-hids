@@ -1,0 +1,10 @@
+1	ossec___ossec-hids
+2	#DEP#polici
+3	#DEP#hid
+4	#DEP#omplian
+5	#DEP#intrusdetet
+6	#DEP#loganalyz
+7	#DEP#osse
+8	#DEP#monitor
+9	#DEP#c
+10	#DEP#fileintegrmanag

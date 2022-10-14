@@ -1,0 +1,9 @@
+1	alvarotrigo___pagePiling.js
+2	#DEP#snap
+3	#DEP#swipe
+4	#DEP#slide
+5	#DEP#jqueri
+6	#DEP#mousewheel
+7	#DEP#javascript
+8	#DEP#scroll
+9	#DEP#onepag

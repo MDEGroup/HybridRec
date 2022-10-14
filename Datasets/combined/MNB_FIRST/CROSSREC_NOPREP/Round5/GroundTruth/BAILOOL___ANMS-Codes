@@ -1,0 +1,12 @@
+2	#DEP#cpp11
+3	#DEP#anm
+4	#DEP#adaptnonmaximsuppress
+5	#DEP#qt
+6	#DEP#computvis
+7	#DEP#opencv
+8	#DEP#robot
+9	#DEP#slam
+10	#DEP#python
+11	#DEP#pointdetect
+12	#DEP#matlab
+13	#DEP#cmake

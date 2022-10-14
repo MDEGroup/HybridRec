@@ -1,0 +1,12 @@
+2	#DEP#hdf
+3	#DEP#jm
+4	#DEP#kafkaconnect
+5	#DEP#documentdb
+6	#DEP#mqtt
+7	#DEP#kafka
+8	#DEP#twitter
+9	#DEP#influxdb
+10	#DEP#s3
+11	#DEP#redi
+12	#DEP#cassandra
+13	#DEP#elasticsearch

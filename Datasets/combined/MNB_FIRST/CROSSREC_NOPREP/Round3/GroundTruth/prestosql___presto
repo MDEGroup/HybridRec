@@ -1,0 +1,7 @@
+2	#DEP#presto
+3	#DEP#sql
+4	#DEP#prestodb
+5	#DEP#java
+6	#DEP#hadoop
+7	#DEP#hive
+8	#DEP#bigdata

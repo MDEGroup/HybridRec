@@ -1,0 +1,10 @@
+1	alvarotrigo___multiscroll.js
+2	#DEP#javascript
+3	#DEP#view
+4	#DEP#sc
+5	#DEP#jqueri
+6	#DEP#setion
+7	#DEP#split
+8	#DEP#snap
+9	#DEP#c
+10	#DEP#swipe

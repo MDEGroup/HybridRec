@@ -1,0 +1,9 @@
+2	#DEP#hcl2
+3	#DEP#name
+4	#DEP#nameconv
+5	#DEP#label
+6	#DEP#convent
+7	#DEP#terraformmodul
+8	#DEP#stage
+9	#DEP#terraform
+10	#DEP#namespac

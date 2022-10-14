@@ -1,0 +1,10 @@
+1	amberframework___granite
+2	#DEP#sql
+3	#DEP#orm
+4	#DEP#amber
+5	#DEP#crystal
+6	#DEP#ormmodel
+7	#DEP#granit
+8	#DEP#kemal
+9	#DEP#databas
+10	#DEP#mysql

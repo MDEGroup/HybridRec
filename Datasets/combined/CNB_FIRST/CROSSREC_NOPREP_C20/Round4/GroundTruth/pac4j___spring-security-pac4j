@@ -1,0 +1,11 @@
+2	#DEP#java
+3	#DEP#authent
+4	#DEP#mongodb
+5	#DEP#twitter
+6	#DEP#oauth
+7	#DEP#facebook
+8	#DEP#sql
+9	#DEP#author
+10	#DEP#springboot
+11	#DEP#secur
+12	#DEP#jwt

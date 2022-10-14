@@ -1,0 +1,10 @@
+1	G-Joker___WeaponApp
+2	#DEP#gradl
+3	#DEP#small
+4	#DEP#databind
+5	#DEP#mvvm
+6	#DEP#retrofit2
+7	#DEP#unittest
+8	#DEP#rxjava
+9	#DEP#okhttp
+10	#DEP#android

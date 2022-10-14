@@ -1,0 +1,7 @@
+1	gfx-rs___gfx
+2	#DEP#opengl
+3	#DEP#api
+4	#DEP#rust
+5	#DEP#metal
+6	#DEP#gpu
+7	#DEP#vulkan

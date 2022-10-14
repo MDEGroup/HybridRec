@@ -1,0 +1,10 @@
+1	qword-os___qword
+2	#DEP#x86assembl
+3	#DEP#cprogram
+4	#DEP#opersystem
+5	#DEP#unix
+6	#DEP#unixshel
+7	#DEP#kernel
+8	#DEP#qword
+9	#DEP#unixlik
+10	#DEP#opersystemkernel

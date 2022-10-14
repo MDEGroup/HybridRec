@@ -1,0 +1,6 @@
+1	microsoft___BotFramework-Emulator
+2	#DEP#react
+3	#DEP#redux
+4	#DEP#bot
+5	#DEP#electron
+6	#DEP#typescript

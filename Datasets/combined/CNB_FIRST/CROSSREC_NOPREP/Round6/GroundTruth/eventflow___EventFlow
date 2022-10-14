@@ -1,0 +1,16 @@
+2	#DEP#cqre
+3	#DEP#rabbitmq
+4	#DEP#cqr
+5	#DEP#event
+6	#DEP#domaindrivendesign
+7	#DEP#framework
+8	#DEP#saga
+9	#DEP#asyncawait
+10	#DEP#netstandard
+11	#DEP#ddd
+12	#DEP#eventsourc
+13	#DEP#nuget
+14	#DEP#csharp
+15	#DEP#eventstor
+16	#DEP#elasticsearch
+17	#DEP#dotnet

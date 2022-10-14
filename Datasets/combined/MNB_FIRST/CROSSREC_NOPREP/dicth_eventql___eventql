@@ -1,0 +1,15 @@
+1	eventql___eventql
+2	#DEP#sql
+3	#DEP#cpp11
+4	#DEP#distribut
+5	#DEP#columnarstorag
+6	#DEP#databas
+7	#DEP#mpp
+8	#DEP#eventql
+9	#DEP#stream
+10	#DEP#distributstorag
+11	#DEP#timeseri
+12	#DEP#distributsql
+13	#DEP#distributdataba
+14	#DEP#cpp
+15	#DEP#analyt

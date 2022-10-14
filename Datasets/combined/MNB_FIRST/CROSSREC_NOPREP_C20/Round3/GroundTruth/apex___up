@@ -1,0 +1,13 @@
+2	#DEP#serverless
+3	#DEP#nodej
+4	#DEP#microservic
+5	#DEP#aw
+6	#DEP#http
+7	#DEP#apigateway
+8	#DEP#heroku
+9	#DEP#api
+10	#DEP#deploy
+11	#DEP#lambda
+12	#DEP#golang
+13	#DEP#awlambda
+14	#DEP#graphql

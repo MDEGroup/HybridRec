@@ -1,0 +1,6 @@
+2	#DEP#postgresql
+3	#DEP#etl
+4	#DEP#dataintegr
+5	#DEP#pipelin
+6	#DEP#data
+7	#DEP#python

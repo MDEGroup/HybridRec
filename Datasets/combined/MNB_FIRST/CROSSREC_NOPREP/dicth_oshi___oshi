@@ -1,0 +1,13 @@
+1	oshi___oshi
+2	#DEP#cpuusag
+3	#DEP#processor
+4	#DEP#hardwarinform
+5	#DEP#memoriusag
+6	#DEP#jna
+7	#DEP#diskutil
+8	#DEP#java
+9	#DEP#systemmonitor
+10	#DEP#opersystem
+11	#DEP#processlist
+12	#DEP#serialnumb
+13	#DEP#usbdev

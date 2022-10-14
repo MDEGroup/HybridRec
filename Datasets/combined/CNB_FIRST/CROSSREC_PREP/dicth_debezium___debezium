@@ -1,0 +1,8 @@
+1	debezium___debezium
+2	#DEP#apahkafka
+3	#DEP#databas
+4	#DEP#kafkaprodu
+5	#DEP#kafka
+6	#DEP#hangdataaptur
+7	#DEP#kafkaonnet
+8	#DEP#c

@@ -1,0 +1,14 @@
+1	mistio___mist-ce
+2	#DEP#cloudmanag
+3	#DEP#devop
+4	#DEP#cloud
+5	#DEP#kvm
+6	#DEP#aw
+7	#DEP#vsphere
+8	#DEP#openstack
+9	#DEP#contain
+10	#DEP#monitor
+11	#DEP#docker
+12	#DEP#server
+13	#DEP#hypervisor
+14	#DEP#python

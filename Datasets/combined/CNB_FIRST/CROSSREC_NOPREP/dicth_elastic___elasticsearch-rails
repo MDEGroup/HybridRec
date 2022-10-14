@@ -1,0 +1,8 @@
+1	elastic___elasticsearch-rails
+2	#DEP#activerecord
+3	#DEP#rubirail
+4	#DEP#activemodel
+5	#DEP#elast
+6	#DEP#rubi
+7	#DEP#rail
+8	#DEP#elasticsearch

@@ -1,0 +1,8 @@
+1	cea-sec___miasm
+2	#DEP#disassembl
+3	#DEP#symbolexecut
+4	#DEP#assembl
+5	#DEP#reversengin
+6	#DEP#intermedirepres
+7	#DEP#emul
+8	#DEP#python

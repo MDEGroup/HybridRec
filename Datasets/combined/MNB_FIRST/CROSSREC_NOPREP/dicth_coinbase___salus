@@ -1,0 +1,16 @@
+1	coinbase___salus
+2	#DEP#gosec
+3	#DEP#brakeman
+4	#DEP#rubirail
+5	#DEP#salu
+6	#DEP#j
+7	#DEP#securtool
+8	#DEP#golang
+9	#DEP#cve
+10	#DEP#yarn
+11	#DEP#npm
+12	#DEP#coinbas
+13	#DEP#circleci
+14	#DEP#securscann
+15	#DEP#staticanalysi
+16	#DEP#audit

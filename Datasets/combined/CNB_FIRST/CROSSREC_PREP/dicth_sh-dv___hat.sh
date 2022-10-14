@@ -1,0 +1,14 @@
+1	sh-dv___hat.sh
+2	#DEP#javascript
+3	#DEP#webrypto
+4	#DEP#aeenrypt
+5	#DEP#fileenrypt
+6	#DEP#rypto
+7	#DEP#webryptoapi
+8	#DEP#derypt
+9	#DEP#enrypt
+10	#DEP#serverless
+11	#DEP#c
+12	#DEP#browser
+13	#DEP#enryptderypt
+14	#DEP#lientsid

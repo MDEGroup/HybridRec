@@ -1,0 +1,9 @@
+2	#DEP#etcd
+3	#DEP#contain
+4	#DEP#terraformmodul
+5	#DEP#terraform
+6	#DEP#docker
+7	#DEP#oci
+8	#DEP#coreo
+9	#DEP#containlinux
+10	#DEP#kubernet

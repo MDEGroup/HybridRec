@@ -1,0 +1,11 @@
+2	#DEP#httpserver
+3	#DEP#depend
+4	#DEP#supporttransact
+5	#DEP#embed
+6	#DEP#golang
+7	#DEP#querilanguag
+8	#DEP#restapi
+9	#DEP#standalon
+10	#DEP#tutori
+11	#DEP#swagger
+12	#DEP#graph

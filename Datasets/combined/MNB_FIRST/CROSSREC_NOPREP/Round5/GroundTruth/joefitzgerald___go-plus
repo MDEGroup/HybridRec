@@ -1,0 +1,10 @@
+2	#DEP#atom
+3	#DEP#editor
+4	#DEP#go
+5	#DEP#golang
+6	#DEP#autocomplet
+7	#DEP#build
+8	#DEP#ide
+9	#DEP#lint
+10	#DEP#test
+11	#DEP#format

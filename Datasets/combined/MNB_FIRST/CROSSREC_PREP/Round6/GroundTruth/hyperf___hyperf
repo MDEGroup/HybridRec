@@ -1,0 +1,16 @@
+2	#DEP#sonrpc
+3	#DEP#oroutin
+4	#DEP#annot
+5	#DEP#framework
+6	#DEP#opentra
+7	#DEP#aop
+8	#DEP#apolloli
+9	#DEP#zipkin
+10	#DEP#amqp
+11	#DEP#grp
+12	#DEP#socket
+13	#DEP#swool
+14	#DEP#microservic
+15	#DEP#onsul
+16	#DEP#c
+17	#DEP#dependinect

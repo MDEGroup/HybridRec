@@ -1,0 +1,12 @@
+2	#DEP#cs
+3	#DEP#minifi
+4	#DEP#buildtool
+5	#DEP#gulp
+6	#DEP#autoprefix
+7	#DEP#boilerpl
+8	#DEP#gulpboilerpl
+9	#DEP#javascript
+10	#DEP#svgo
+11	#DEP#concaten
+12	#DEP#sas
+13	#DEP#gulpstart

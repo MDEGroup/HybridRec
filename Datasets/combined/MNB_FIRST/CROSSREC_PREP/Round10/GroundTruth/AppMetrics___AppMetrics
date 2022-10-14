@@ -1,0 +1,15 @@
+2	#DEP#perform
+3	#DEP#dotnetcor
+4	#DEP#dotnet
+5	#DEP#dashboard
+6	#DEP#prometheu
+7	#DEP#healthhek
+8	#DEP#grafana
+9	#DEP#graphit
+10	#DEP#appliinsight
+11	#DEP#metri
+12	#DEP#monitor
+13	#DEP#framework
+14	#DEP#standard
+15	#DEP#c
+16	#DEP#influxdb

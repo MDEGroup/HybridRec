@@ -1,0 +1,10 @@
+2	#DEP#javascript
+3	#DEP#faereognit
+4	#DEP#tensorflow
+5	#DEP#nodej
+6	#DEP#genderreognit
+7	#DEP#faelandmark
+8	#DEP#faedetet
+9	#DEP#emotreognit
+10	#DEP#c
+11	#DEP#ageestim

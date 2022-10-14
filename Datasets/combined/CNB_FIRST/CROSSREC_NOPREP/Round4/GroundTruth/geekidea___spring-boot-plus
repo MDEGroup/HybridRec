@@ -1,0 +1,16 @@
+2	#DEP#mybati
+3	#DEP#rabbitmq
+4	#DEP#druid
+5	#DEP#gener
+6	#DEP#mybatiplu
+7	#DEP#springbootplu
+8	#DEP#kafka
+9	#DEP#jwt
+10	#DEP#cento
+11	#DEP#springbootadmin
+12	#DEP#springcach
+13	#DEP#redi
+14	#DEP#springboot
+15	#DEP#shiro
+16	#DEP#swagger
+17	#DEP#architectur

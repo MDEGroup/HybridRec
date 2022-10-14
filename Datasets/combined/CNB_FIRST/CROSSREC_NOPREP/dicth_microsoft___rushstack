@@ -1,0 +1,11 @@
+1	microsoft___rushstack
+2	#DEP#api
+3	#DEP#monorepo
+4	#DEP#orchestr
+5	#DEP#toolchain
+6	#DEP#rush
+7	#DEP#eslint
+8	#DEP#build
+9	#DEP#nodej
+10	#DEP#apiextractor
+11	#DEP#typescript

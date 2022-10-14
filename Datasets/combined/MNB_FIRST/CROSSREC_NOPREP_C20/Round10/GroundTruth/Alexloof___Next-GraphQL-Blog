@@ -1,0 +1,5 @@
+2	#DEP#mongodb
+3	#DEP#react
+4	#DEP#express
+5	#DEP#mongoos
+6	#DEP#graphql

@@ -1,0 +1,6 @@
+1	go-gl___glfw
+2	#DEP#opengl
+3	#DEP#go
+4	#DEP#game
+5	#DEP#glfwbind
+6	#DEP#glfw

@@ -1,0 +1,9 @@
+2	#DEP#react
+3	#DEP#isomorph
+4	#DEP#serversiderend
+5	#DEP#koa2
+6	#DEP#boilerpl
+7	#DEP#eslint
+8	#DEP#webpack
+9	#DEP#redux
+10	#DEP#babel

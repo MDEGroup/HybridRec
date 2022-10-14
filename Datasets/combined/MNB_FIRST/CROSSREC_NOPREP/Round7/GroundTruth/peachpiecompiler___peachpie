@@ -1,0 +1,12 @@
+2	#DEP#phpcompil
+3	#DEP#aspnetcor
+4	#DEP#coreclr
+5	#DEP#pchpcompil
+6	#DEP#roslyn
+7	#DEP#netstandard
+8	#DEP#dotnetcor
+9	#DEP#php
+10	#DEP#microsoft
+11	#DEP#peachpi
+12	#DEP#opensourc
+13	#DEP#dotnet

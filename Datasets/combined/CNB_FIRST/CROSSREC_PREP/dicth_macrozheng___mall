@@ -1,0 +1,15 @@
+1	macrozheng___mall
+2	#DEP#java
+3	#DEP#rabbitmq
+4	#DEP#elasticsearch
+5	#DEP#design
+6	#DEP#docker
+7	#DEP#cloud
+8	#DEP#redi
+9	#DEP#mysql
+10	#DEP#mybati
+11	#DEP#spring-boot
+12	#DEP#mongo
+13	#DEP#elk
+14	#DEP#spring
+15	#DEP#swagger

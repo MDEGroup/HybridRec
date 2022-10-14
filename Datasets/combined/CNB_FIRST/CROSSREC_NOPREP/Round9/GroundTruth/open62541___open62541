@@ -1,0 +1,11 @@
+2	#DEP#iec62541
+3	#DEP#industriautom
+4	#DEP#m2m
+5	#DEP#opcua
+6	#DEP#server
+7	#DEP#client
+8	#DEP#c
+9	#DEP#iiot
+10	#DEP#opc
+11	#DEP#sdk
+12	#DEP#iot

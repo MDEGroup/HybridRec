@@ -1,0 +1,14 @@
+2	#DEP#develop
+3	#DEP#lando
+4	#DEP#pantheon
+5	#DEP#local
+6	#DEP#rubi
+7	#DEP#laravel
+8	#DEP#environ
+9	#DEP#docker
+10	#DEP#nodej
+11	#DEP#wordpress
+12	#DEP#php
+13	#DEP#python
+14	#DEP#drupal
+15	#DEP#dotnet

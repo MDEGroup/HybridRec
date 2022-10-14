@@ -1,0 +1,9 @@
+2	#DEP#serverless
+3	#DEP#api
+4	#DEP#registri
+5	#DEP#awlambda
+6	#DEP#stdlib
+7	#DEP#nodej
+8	#DEP#node
+9	#DEP#sdk
+10	#DEP#faa

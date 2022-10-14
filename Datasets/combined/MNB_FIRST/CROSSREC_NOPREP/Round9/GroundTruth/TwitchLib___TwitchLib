@@ -1,0 +1,9 @@
+2	#DEP#twitch
+3	#DEP#whisper
+4	#DEP#api
+5	#DEP#event
+6	#DEP#pubsub
+7	#DEP#bot
+8	#DEP#client
+9	#DEP#csharp
+10	#DEP#chat

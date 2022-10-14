@@ -1,0 +1,7 @@
+2	#DEP#rest
+3	#DEP#http
+4	#DEP#async
+5	#DEP#api
+6	#DEP#clojur
+7	#DEP#openapi
+8	#DEP#swagger

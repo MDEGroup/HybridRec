@@ -1,0 +1,10 @@
+2	#DEP#koa2
+3	#DEP#node
+4	#DEP#typescript
+5	#DEP#docker
+6	#DEP#koa
+7	#DEP#sql
+8	#DEP#heroku
+9	#DEP#restapi
+10	#DEP#jwt
+11	#DEP#swagger

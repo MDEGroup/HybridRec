@@ -1,0 +1,6 @@
+2	#DEP#window
+3	#DEP#kernel
+4	#DEP#gpl
+5	#DEP#file-system
+6	#DEP#fuse
+7	#DEP#driver

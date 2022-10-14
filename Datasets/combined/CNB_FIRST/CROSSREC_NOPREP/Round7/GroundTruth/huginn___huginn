@@ -1,0 +1,12 @@
+2	#DEP#autom
+3	#DEP#feedgener
+4	#DEP#notif
+5	#DEP#r
+6	#DEP#scraper
+7	#DEP#agent
+8	#DEP#huginn
+9	#DEP#twitter
+10	#DEP#monitor
+11	#DEP#twitterstream
+12	#DEP#webscrap
+13	#DEP#feed

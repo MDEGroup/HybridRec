@@ -1,0 +1,16 @@
+1	systemd___mkosi
+2	#DEP#btrfsubvolum
+3	#DEP#mkosi
+4	#DEP#distro
+5	#DEP#ubuntu
+6	#DEP#debian
+7	#DEP#opensus
+8	#DEP#btrf
+9	#DEP#partit
+10	#DEP#fedora
+11	#DEP#efi
+12	#DEP#veriti
+13	#DEP#luk
+14	#DEP#squashf
+15	#DEP#diskimag
+16	#DEP#gpt

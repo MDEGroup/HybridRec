@@ -1,0 +1,8 @@
+2	#DEP#script
+3	#DEP#bitcoin
+4	#DEP#bip32
+5	#DEP#transact
+6	#DEP#electrum
+7	#DEP#address
+8	#DEP#php
+9	#DEP#secp256k1

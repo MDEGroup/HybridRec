@@ -1,0 +1,9 @@
+2	#DEP#cheatsheet
+3	#DEP#curl
+4	#DEP#tldr
+5	#DEP#commandlin
+6	#DEP#help
+7	#DEP#termin
+8	#DEP#exampl
+9	#DEP#cli
+10	#DEP#document

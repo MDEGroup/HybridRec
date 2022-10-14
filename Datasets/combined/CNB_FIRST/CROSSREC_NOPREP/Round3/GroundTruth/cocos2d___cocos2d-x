@@ -1,0 +1,10 @@
+2	#DEP#lua
+3	#DEP#gameengin
+4	#DEP#cocos2dx
+5	#DEP#cocos2d
+6	#DEP#io
+7	#DEP#metal
+8	#DEP#cpluplu
+9	#DEP#android
+10	#DEP#window
+11	#DEP#linx

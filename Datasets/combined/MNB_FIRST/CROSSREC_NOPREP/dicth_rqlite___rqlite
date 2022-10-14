@@ -1,0 +1,10 @@
+1	rqlite___rqlite
+2	#DEP#sql
+3	#DEP#sqlite
+4	#DEP#distributsystem
+5	#DEP#go
+6	#DEP#consensu
+7	#DEP#relatdataba
+8	#DEP#databas
+9	#DEP#raft
+10	#DEP#distributdataba

@@ -1,0 +1,7 @@
+1	stablekernel___aqueduct
+2	#DEP#rest
+3	#DEP#framework
+4	#DEP#http
+5	#DEP#orm
+6	#DEP#oauth2
+7	#DEP#server

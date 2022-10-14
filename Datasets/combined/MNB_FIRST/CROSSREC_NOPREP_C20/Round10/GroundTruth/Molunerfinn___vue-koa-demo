@@ -1,0 +1,8 @@
+2	#DEP#koa2
+3	#DEP#vue2
+4	#DEP#jest
+5	#DEP#vue
+6	#DEP#koa
+7	#DEP#docker
+8	#DEP#mysql
+9	#DEP#dockercompo

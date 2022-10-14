@@ -1,0 +1,7 @@
+1	grpc-ecosystem___grpc-gateway
+2	#DEP#openapi
+3	#DEP#grpc
+4	#DEP#go
+5	#DEP#restapi
+6	#DEP#grpcgateway
+7	#DEP#swagger

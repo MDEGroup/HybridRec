@@ -1,0 +1,14 @@
+2	#DEP#iostat
+3	#DEP#tapestat
+4	#DEP#pidstat
+5	#DEP#disk
+6	#DEP#performmonitor
+7	#DEP#sar
+8	#DEP#monitor
+9	#DEP#memori
+10	#DEP#systemmonitor
+11	#DEP#mpstat
+12	#DEP#cpu
+13	#DEP#c
+14	#DEP#linux
+15	#DEP#sadf

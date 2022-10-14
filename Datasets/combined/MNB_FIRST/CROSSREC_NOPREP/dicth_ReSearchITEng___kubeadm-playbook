@@ -1,0 +1,15 @@
+1	ReSearchITEng___kubeadm-playbook
+2	#DEP#playbook
+3	#DEP#multimast
+4	#DEP#persistvolum
+5	#DEP#kubernet
+6	#DEP#ingrescontrol
+7	#DEP#persistvolumclaim
+8	#DEP#ansibl
+9	#DEP#proxi
+10	#DEP#cento
+11	#DEP#dashboard
+12	#DEP#rhel
+13	#DEP#cluster
+14	#DEP#kubeadm
+15	#DEP#helm

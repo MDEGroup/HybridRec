@@ -1,0 +1,17 @@
+2	#DEP#testframework
+3	#DEP#api
+4	#DEP#sjteam
+5	#DEP#openapivalid
+6	#DEP#apiblueprint
+7	#DEP#openapi
+8	#DEP#swagger
+9	#DEP#http
+10	#DEP#dredd
+11	#DEP#cliapp
+12	#DEP#openapi3
+13	#DEP#openapi2
+14	#DEP#unittest
+15	#DEP#testrunn
+16	#DEP#integrtest
+17	#DEP#test
+18	#DEP#valid

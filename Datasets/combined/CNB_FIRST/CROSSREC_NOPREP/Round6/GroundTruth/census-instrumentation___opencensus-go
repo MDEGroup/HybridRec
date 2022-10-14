@@ -1,0 +1,11 @@
+2	#DEP#cloud
+3	#DEP#distributtrac
+4	#DEP#stat
+5	#DEP#go
+6	#DEP#zipkin
+7	#DEP#golang
+8	#DEP#prometheu
+9	#DEP#monitor
+10	#DEP#opencensu
+11	#DEP#jaegertrac
+12	#DEP#trace

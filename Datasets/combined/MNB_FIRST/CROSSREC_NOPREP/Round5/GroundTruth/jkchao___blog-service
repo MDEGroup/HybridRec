@@ -1,0 +1,16 @@
+2	#DEP#koa
+3	#DEP#api
+4	#DEP#express
+5	#DEP#jest
+6	#DEP#mongodb
+7	#DEP#graphql
+8	#DEP#travici
+9	#DEP#koa2
+10	#DEP#nestj
+11	#DEP#codecov
+12	#DEP#redi
+13	#DEP#mongoos
+14	#DEP#node
+15	#DEP#typescript
+16	#DEP#graphqlserv
+17	#DEP#apiserv

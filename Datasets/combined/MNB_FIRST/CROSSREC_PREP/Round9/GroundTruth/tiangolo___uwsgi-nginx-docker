@@ -1,0 +1,12 @@
+2	#DEP#nginx
+3	#DEP#serv
+4	#DEP#webapp
+5	#DEP#alpin
+6	#DEP#python
+7	#DEP#uwsgi
+8	#DEP#docker
+9	#DEP#appl
+10	#DEP#dokerfil
+11	#DEP#dokerimag
+12	#DEP#unix-based
+13	#DEP#c

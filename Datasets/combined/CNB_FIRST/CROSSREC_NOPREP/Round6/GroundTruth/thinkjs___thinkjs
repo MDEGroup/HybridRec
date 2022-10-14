@@ -1,0 +1,6 @@
+2	#DEP#esnext
+3	#DEP#koa2
+4	#DEP#es2015
+5	#DEP#thinkj
+6	#DEP#typescript
+7	#DEP#babel

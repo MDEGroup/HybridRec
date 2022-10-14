@@ -1,0 +1,10 @@
+2	#DEP#diskimag
+3	#DEP#btrfsubvolum
+4	#DEP#opensus
+5	#DEP#luk
+6	#DEP#veriti
+7	#DEP#squashf
+8	#DEP#unix-based
+9	#DEP#tit
+10	#DEP#efi
+11	#DEP#btrf

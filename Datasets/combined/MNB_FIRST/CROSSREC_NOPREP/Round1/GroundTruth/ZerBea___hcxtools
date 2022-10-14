@@ -1,0 +1,14 @@
+2	#DEP#wlan
+3	#DEP#johnripp
+4	#DEP#pcapng
+5	#DEP#hashcat
+6	#DEP#penetrtestframework
+7	#DEP#wifisecur
+8	#DEP#wifi
+9	#DEP#wlantraff
+10	#DEP#handshak
+11	#DEP#wpa2
+12	#DEP#hccapx
+13	#DEP#raspberripi
+14	#DEP#wpa
+15	#DEP#pcap

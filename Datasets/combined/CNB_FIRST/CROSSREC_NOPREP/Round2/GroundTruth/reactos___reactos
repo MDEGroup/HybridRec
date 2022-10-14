@@ -1,0 +1,10 @@
+2	#DEP#x86
+3	#DEP#osdev
+4	#DEP#driver
+5	#DEP#win32api
+6	#DEP#opersystem
+7	#DEP#win32
+8	#DEP#c
+9	#DEP#kernel
+10	#DEP#gpl
+11	#DEP#window

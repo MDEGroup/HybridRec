@@ -1,0 +1,10 @@
+1	spring-cloud___spring-cloud-config
+2	#DEP#java
+3	#DEP#vault
+4	#DEP#microservic
+5	#DEP#git
+6	#DEP#cloud
+7	#DEP#spring-boot
+8	#DEP#nativ
+9	#DEP#spring
+10	#DEP#springcor

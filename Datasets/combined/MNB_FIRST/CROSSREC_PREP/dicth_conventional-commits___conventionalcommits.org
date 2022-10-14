@@ -1,0 +1,9 @@
+1	conventional-commits___conventionalcommits.org
+2	#DEP#ommit
+3	#DEP#git
+4	#DEP#onventommit
+5	#DEP#onventhangelog
+6	#DEP#onvent
+7	#DEP#speif
+8	#DEP#c
+9	#DEP#standard

@@ -1,0 +1,7 @@
+2	#DEP#cpluplu
+3	#DEP#cmake
+4	#DEP#qt
+5	#DEP#tl
+6	#DEP#qt5
+7	#DEP#crossplatform
+8	#DEP#gui

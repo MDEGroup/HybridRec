@@ -1,0 +1,8 @@
+1	appbaseio___gem
+2	#DEP#databasgui
+3	#DEP#appbaseio
+4	#DEP#elasticsearchgui
+5	#DEP#chromeexten
+6	#DEP#kibana
+7	#DEP#elasticsearchplugin
+8	#DEP#elasticsearch

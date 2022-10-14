@@ -1,0 +1,6 @@
+2	#DEP#virtualbox
+3	#DEP#vagrant
+4	#DEP#ceph
+5	#DEP#k8conform
+6	#DEP#ansibl
+7	#DEP#kubernet

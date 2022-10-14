@@ -1,0 +1,8 @@
+2	#DEP#electron
+3	#DEP#electronwebpack
+4	#DEP#electronbuild
+5	#DEP#vuecli
+6	#DEP#cli
+7	#DEP#vuecliplugin
+8	#DEP#webpack
+9	#DEP#vue

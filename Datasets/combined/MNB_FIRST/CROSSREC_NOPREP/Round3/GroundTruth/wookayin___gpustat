@@ -1,0 +1,6 @@
+2	#DEP#nvidiasmi
+3	#DEP#commandlin
+4	#DEP#monitor
+5	#DEP#gpustat
+6	#DEP#python
+7	#DEP#gpu

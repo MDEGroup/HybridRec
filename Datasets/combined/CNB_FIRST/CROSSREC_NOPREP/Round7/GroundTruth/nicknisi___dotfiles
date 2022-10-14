@@ -1,0 +1,12 @@
+2	#DEP#git
+3	#DEP#zshsetup
+4	#DEP#dotfil
+5	#DEP#osx
+6	#DEP#homebrew
+7	#DEP#neovim
+8	#DEP#zsh
+9	#DEP#shell
+10	#DEP#tmuxconfigur
+11	#DEP#neovimsetup
+12	#DEP#vim
+13	#DEP#tmux

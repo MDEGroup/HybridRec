@@ -1,0 +1,14 @@
+2	#DEP#dubbo
+3	#DEP#rocketmq
+4	#DEP#springcloud
+5	#DEP#skywalk
+6	#DEP#seata
+7	#DEP#mall
+8	#DEP#xxljob
+9	#DEP#springboot
+10	#DEP#shardspher
+11	#DEP#naco
+12	#DEP#redi
+13	#DEP#zookeep
+14	#DEP#elasticsearch
+15	#DEP#mysql

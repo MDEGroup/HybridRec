@@ -1,0 +1,8 @@
+1	damienbod___angular-auth-oidc-client
+2	#DEP#openid
+3	#DEP#oidc
+4	#DEP#oauth2
+5	#DEP#secur
+6	#DEP#implicitflow
+7	#DEP#npm
+8	#DEP#angular

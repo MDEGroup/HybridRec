@@ -1,0 +1,16 @@
+2	#DEP#mbed
+3	#DEP#serial
+4	#DEP#servicsdk
+5	#DEP#devicsdk
+6	#DEP#azur
+7	#DEP#embed
+8	#DEP#azuriothub
+9	#DEP#seriallibrari
+10	#DEP#iothub
+11	#DEP#azuriot
+12	#DEP#microsoft
+13	#DEP#azuriotsdk
+14	#DEP#sdk
+15	#DEP#c
+16	#DEP#c99
+17	#DEP#iot

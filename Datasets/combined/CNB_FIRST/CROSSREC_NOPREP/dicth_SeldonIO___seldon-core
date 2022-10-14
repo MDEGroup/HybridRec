@@ -1,0 +1,9 @@
+1	SeldonIO___seldon-core
+2	#DEP#serv
+3	#DEP#machinlearn
+4	#DEP#machinlearnop
+5	#DEP#mlop
+6	#DEP#productmachinlearn
+7	#DEP#deploy
+8	#DEP#aiop
+9	#DEP#kubernet

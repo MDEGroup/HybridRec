@@ -1,0 +1,6 @@
+2	#DEP#serv
+3	#DEP#systemd
+4	#DEP#shell
+5	#DEP#c
+6	#DEP#unix-based
+7	#DEP#seurharden

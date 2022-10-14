@@ -1,0 +1,6 @@
+2	#DEP#jupytnotebook
+3	#DEP#tensorflow
+4	#DEP#machinlearn
+5	#DEP#visual
+6	#DEP#colab
+7	#DEP#interpret

@@ -1,0 +1,15 @@
+1	hantsy___spring-reactive-sample
+2	#DEP#rxjava2
+3	#DEP#springdatamongodbreactiv
+4	#DEP#springdataredi
+5	#DEP#springdatar2dbc
+6	#DEP#springdatacassandra
+7	#DEP#reactivstream
+8	#DEP#reactor
+9	#DEP#kotlin
+10	#DEP#springdata
+11	#DEP#springboot
+12	#DEP#spring
+13	#DEP#rxjava
+14	#DEP#springsecur
+15	#DEP#springwebflux

@@ -1,0 +1,8 @@
+2	#DEP#apachspark
+3	#DEP#puppet
+4	#DEP#apachstorm
+5	#DEP#kafka
+6	#DEP#vagrant
+7	#DEP#spark
+8	#DEP#storm
+9	#DEP#apachkafka

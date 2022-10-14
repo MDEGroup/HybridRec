@@ -1,0 +1,8 @@
+2	#DEP#dialog
+3	#DEP#pythia
+4	#DEP#deeplearn
+5	#DEP#pretrainmodel
+6	#DEP#multimod
+7	#DEP#pytorch
+8	#DEP#caption
+9	#DEP#vqa

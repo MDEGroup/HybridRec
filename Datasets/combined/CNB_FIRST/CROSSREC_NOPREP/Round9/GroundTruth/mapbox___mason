@@ -1,0 +1,11 @@
+2	#DEP#cxx
+3	#DEP#cplusplu
+4	#DEP#binari
+5	#DEP#osx
+6	#DEP#npm
+7	#DEP#crossplatform
+8	#DEP#apt
+9	#DEP#dpkg
+10	#DEP#linux
+11	#DEP#packag
+12	#DEP#deploy

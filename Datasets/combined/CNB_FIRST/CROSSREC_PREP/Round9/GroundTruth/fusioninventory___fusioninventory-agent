@@ -1,0 +1,16 @@
+2	#DEP#edid
+3	#DEP#deploy
+4	#DEP#sc
+5	#DEP#fusninventori
+6	#DEP#softwarinventori
+7	#DEP#inventori
+8	#DEP#io
+9	#DEP#daemon
+10	#DEP#network
+11	#DEP#onfigurmanag
+12	#DEP#c
+13	#DEP#agent
+14	#DEP#networkdioveri
+15	#DEP#systeminform
+16	#DEP#perl
+17	#DEP#snmp

@@ -1,0 +1,9 @@
+2	#DEP#spirv
+3	#DEP#graphic
+4	#DEP#shaderc
+5	#DEP#vulkan
+6	#DEP#compil
+7	#DEP#spirvcross
+8	#DEP#glslang
+9	#DEP#glsl
+10	#DEP#hlsl

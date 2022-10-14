@@ -1,0 +1,6 @@
+2	#DEP#go
+3	#DEP#bastn
+4	#DEP#io
+5	#DEP#umpserv
+6	#DEP#ssh
+7	#DEP#firewal

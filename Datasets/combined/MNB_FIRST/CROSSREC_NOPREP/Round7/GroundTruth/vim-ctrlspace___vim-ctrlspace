@@ -1,0 +1,9 @@
+2	#DEP#vimscript
+3	#DEP#buffer
+4	#DEP#workspac
+5	#DEP#vimctrlspac
+6	#DEP#neovim
+7	#DEP#tablin
+8	#DEP#bookmark
+9	#DEP#vim
+10	#DEP#fuzzisearch

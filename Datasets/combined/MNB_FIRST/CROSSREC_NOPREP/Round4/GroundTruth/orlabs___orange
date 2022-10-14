@@ -1,0 +1,9 @@
+2	#DEP#api
+3	#DEP#resti
+4	#DEP#lor
+5	#DEP#monitor
+6	#DEP#proxi
+7	#DEP#nginx
+8	#DEP#gateway
+9	#DEP#openresti
+10	#DEP#ngxlua

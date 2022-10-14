@@ -1,0 +1,7 @@
+2	#DEP#x86
+3	#DEP#x8664
+4	#DEP#asmjit
+5	#DEP#compil
+6	#DEP#assembl
+7	#DEP#cpp
+8	#DEP#jit

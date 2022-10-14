@@ -1,0 +1,9 @@
+2	#DEP#workflow
+3	#DEP#cli
+4	#DEP#node
+5	#DEP#docker
+6	#DEP#selfhost
+7	#DEP#api
+8	#DEP#develop
+9	#DEP#typescript
+10	#DEP#autom

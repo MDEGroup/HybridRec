@@ -1,0 +1,13 @@
+2	#DEP#java
+3	#DEP#javascript
+4	#DEP#dotnet
+5	#DEP#rust
+6	#DEP#php
+7	#DEP#go
+8	#DEP#rubi
+9	#DEP#python
+10	#DEP#elixir
+11	#DEP#docker
+12	#DEP#elm
+13	#DEP#depend
+14	#DEP#terraform

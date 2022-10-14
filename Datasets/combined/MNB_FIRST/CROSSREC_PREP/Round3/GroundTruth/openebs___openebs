@@ -1,0 +1,17 @@
+2	#DEP#persiststorag
+3	#DEP#devop
+4	#DEP#contain
+5	#DEP#cloud
+6	#DEP#storag
+7	#DEP#openeb
+8	#DEP#docker
+9	#DEP#ebvolum
+10	#DEP#k
+11	#DEP#blokstorag
+12	#DEP#nativ
+13	#DEP#er
+14	#DEP#pod
+15	#DEP#persistworkload
+16	#DEP#c
+17	#DEP#kubernet
+18	#DEP#eb

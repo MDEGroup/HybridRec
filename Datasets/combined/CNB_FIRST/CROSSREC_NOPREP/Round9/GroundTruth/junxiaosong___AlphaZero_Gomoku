@@ -1,0 +1,15 @@
+2	#DEP#selflearn
+3	#DEP#mct
+4	#DEP#gomoku
+5	#DEP#montcarlotreesearch
+6	#DEP#tensorflow
+7	#DEP#boardgam
+8	#DEP#gobang
+9	#DEP#rl
+10	#DEP#alphagozero
+11	#DEP#pytorch
+12	#DEP#reinforclearn
+13	#DEP#lasagn
+14	#DEP#theano
+15	#DEP#alphago
+16	#DEP#alphazero

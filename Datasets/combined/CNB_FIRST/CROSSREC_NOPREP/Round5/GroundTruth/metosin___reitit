@@ -1,0 +1,10 @@
+2	#DEP#rout
+3	#DEP#middlewar
+4	#DEP#swagger
+5	#DEP#clojur
+6	#DEP#pedest
+7	#DEP#clojurescript
+8	#DEP#frontend
+9	#DEP#ring
+10	#DEP#interceptor
+11	#DEP#datadriven

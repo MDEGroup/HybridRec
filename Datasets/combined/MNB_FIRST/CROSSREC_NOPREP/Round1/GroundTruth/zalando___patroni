@@ -1,0 +1,9 @@
+2	#DEP#postgresql
+3	#DEP#zookeep
+4	#DEP#etcd
+5	#DEP#failov
+6	#DEP#highavail
+7	#DEP#haproxi
+8	#DEP#consul
+9	#DEP#raft
+10	#DEP#kubernet

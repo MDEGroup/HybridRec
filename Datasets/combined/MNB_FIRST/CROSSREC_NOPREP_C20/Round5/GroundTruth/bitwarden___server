@@ -1,0 +1,8 @@
+2	#DEP#sqlserver
+3	#DEP#docker
+4	#DEP#csharp
+5	#DEP#sql
+6	#DEP#api
+7	#DEP#dotnet
+8	#DEP#aspnetcor
+9	#DEP#dotnetcor

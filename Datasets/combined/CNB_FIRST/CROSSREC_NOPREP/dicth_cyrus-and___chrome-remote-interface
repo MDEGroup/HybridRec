@@ -1,0 +1,11 @@
+1	cyrus-and___chrome-remote-interface
+2	#DEP#opera
+3	#DEP#googlchrom
+4	#DEP#firefox
+5	#DEP#microsoftedg
+6	#DEP#mobilsafari
+7	#DEP#javascript
+8	#DEP#nodej
+9	#DEP#headless
+10	#DEP#browser
+11	#DEP#chromedebugprotocol

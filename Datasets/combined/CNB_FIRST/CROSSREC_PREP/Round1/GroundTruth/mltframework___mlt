@@ -1,0 +1,14 @@
+2	#DEP#opengl
+3	#DEP#audioproess
+4	#DEP#cpluplu
+5	#DEP#sdl
+6	#DEP#c
+7	#DEP#aud
+8	#DEP#ffmpeg
+9	#DEP#freir
+10	#DEP#qt
+11	#DEP#io
+12	#DEP#video
+13	#DEP#videoproess
+14	#DEP#framework
+15	#DEP#multimedia

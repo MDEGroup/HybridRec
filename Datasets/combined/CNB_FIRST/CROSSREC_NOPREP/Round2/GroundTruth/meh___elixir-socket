@@ -1,0 +1,6 @@
+2	#DEP#tcp
+3	#DEP#websocket
+4	#DEP#elixir
+5	#DEP#socket
+6	#DEP#ssl
+7	#DEP#udp

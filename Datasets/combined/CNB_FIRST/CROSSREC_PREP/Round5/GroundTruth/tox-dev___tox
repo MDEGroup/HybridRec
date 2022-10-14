@@ -1,0 +1,13 @@
+2	#DEP#continuintegr
+3	#DEP#travi
+4	#DEP#azur
+5	#DEP#test
+6	#DEP#irlei
+7	#DEP#appveyor
+8	#DEP#python
+9	#DEP#autom
+10	#DEP#pipelin
+11	#DEP#c
+12	#DEP#virtualenv
+13	#DEP#gitlab
+14	#DEP#command-line

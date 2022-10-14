@@ -1,0 +1,9 @@
+2	#DEP#rust
+3	#DEP#glium
+4	#DEP#render
+5	#DEP#game
+6	#DEP#retro
+7	#DEP#wad
+8	#DEP#doom
+9	#DEP#opengl
+10	#DEP#glutin

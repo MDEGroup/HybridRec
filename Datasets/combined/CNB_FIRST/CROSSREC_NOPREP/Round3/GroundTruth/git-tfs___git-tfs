@@ -1,0 +1,6 @@
+2	#DEP#git
+3	#DEP#tfvc
+4	#DEP#csharp
+5	#DEP#tf
+6	#DEP#tfapi
+7	#DEP#libgit2sharp

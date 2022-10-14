@@ -1,0 +1,9 @@
+2	#DEP#facedetect
+3	#DEP#imagresiz
+4	#DEP#imagprocess
+5	#DEP#edgdetect
+6	#DEP#computvis
+7	#DEP#seamcarv
+8	#DEP#machinlearn
+9	#DEP#sobel
+10	#DEP#golang

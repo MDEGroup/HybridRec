@@ -1,0 +1,11 @@
+1	kholia___OSX-KVM
+2	#DEP#qemu
+3	#DEP#hakintosh
+4	#DEP#qemukvm
+5	#DEP#maoinst
+6	#DEP#maco
+7	#DEP#kvm
+8	#DEP#c
+9	#DEP#emul
+10	#DEP#osx
+11	#DEP#maosierra

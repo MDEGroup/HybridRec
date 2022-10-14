@@ -1,0 +1,10 @@
+2	#DEP#bitcoin
+3	#DEP#pool
+4	#DEP#poolserv
+5	#DEP#scrypt
+6	#DEP#payment
+7	#DEP#vardiff
+8	#DEP#csharp
+9	#DEP#server
+10	#DEP#cryptocurr
+11	#DEP#stratum

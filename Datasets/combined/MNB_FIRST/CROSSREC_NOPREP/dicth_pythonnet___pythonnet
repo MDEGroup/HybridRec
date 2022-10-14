@@ -1,0 +1,10 @@
+1	pythonnet___pythonnet
+2	#DEP#clr
+3	#DEP#ffi
+4	#DEP#cpython
+5	#DEP#csharp
+6	#DEP#pythonnet
+7	#DEP#fsharp
+8	#DEP#python
+9	#DEP#dotnet
+10	#DEP#mono

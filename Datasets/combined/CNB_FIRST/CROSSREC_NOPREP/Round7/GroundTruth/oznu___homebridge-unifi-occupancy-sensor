@@ -1,0 +1,6 @@
+2	#DEP#unificontrol
+3	#DEP#homebridgplugin
+4	#DEP#homebridg
+5	#DEP#unifi
+6	#DEP#occupsensor
+7	#DEP#homekit

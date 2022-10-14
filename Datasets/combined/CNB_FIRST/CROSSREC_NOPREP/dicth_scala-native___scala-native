@@ -1,0 +1,7 @@
+1	scala-native___scala-native
+2	#DEP#llvm
+3	#DEP#aot
+4	#DEP#scalanativ
+5	#DEP#compil
+6	#DEP#nativ
+7	#DEP#scala

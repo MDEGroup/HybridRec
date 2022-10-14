@@ -1,0 +1,15 @@
+1	Supereg___homebridge-http-switch
+2	#DEP#httpswitch
+3	#DEP#hap
+4	#DEP#homebridgplugin
+5	#DEP#homebridg
+6	#DEP#regex
+7	#DEP#notif
+8	#DEP#switch
+9	#DEP#http
+10	#DEP#mqtt
+11	#DEP#homekit
+12	#DEP#javascript
+13	#DEP#togglswitch
+14	#DEP#homebridghttp
+15	#DEP#mqttsmarthom

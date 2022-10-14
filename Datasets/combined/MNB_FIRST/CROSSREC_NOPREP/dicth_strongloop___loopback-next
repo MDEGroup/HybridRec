@@ -1,0 +1,14 @@
+1	strongloop___loopback-next
+2	#DEP#strongloop
+3	#DEP#api
+4	#DEP#rest
+5	#DEP#openapi
+6	#DEP#framework
+7	#DEP#loopback
+8	#DEP#dependinject
+9	#DEP#servicproxi
+10	#DEP#nodej
+11	#DEP#ioc
+12	#DEP#swagger
+13	#DEP#typescript
+14	#DEP#repositori

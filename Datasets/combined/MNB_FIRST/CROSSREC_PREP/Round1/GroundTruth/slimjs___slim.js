@@ -1,0 +1,15 @@
+2	#DEP#nativ
+3	#DEP#librari
+4	#DEP#javascript
+5	#DEP#webcompon
+6	#DEP#html
+7	#DEP#dom
+8	#DEP#react
+9	#DEP#angular
+10	#DEP#c
+11	#DEP#aurelia
+12	#DEP#slim
+13	#DEP#front-end
+14	#DEP#framework
+15	#DEP#vuej
+16	#DEP#lifeyl

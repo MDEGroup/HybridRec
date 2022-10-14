@@ -1,0 +1,13 @@
+2	#DEP#presto
+3	#DEP#postgresql
+4	#DEP#serverless
+5	#DEP#microservic
+6	#DEP#athena
+7	#DEP#javascript
+8	#DEP#nodej
+9	#DEP#hive
+10	#DEP#chart
+11	#DEP#cube
+12	#DEP#spark
+13	#DEP#mysql
+14	#DEP#analyt

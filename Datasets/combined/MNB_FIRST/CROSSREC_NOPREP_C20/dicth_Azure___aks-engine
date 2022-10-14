@@ -1,0 +1,6 @@
+1	Azure___aks-engine
+2	#DEP#contain
+3	#DEP#docker
+4	#DEP#kubernet
+5	#DEP#golang
+6	#DEP#azur

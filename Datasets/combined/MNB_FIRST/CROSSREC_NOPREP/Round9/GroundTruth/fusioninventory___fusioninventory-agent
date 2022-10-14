@@ -1,0 +1,13 @@
+2	#DEP#networkdiscoveri
+3	#DEP#edid
+4	#DEP#daemon
+5	#DEP#fusioninventori
+6	#DEP#configurmanag
+7	#DEP#agent
+8	#DEP#systeminform
+9	#DEP#snmp
+10	#DEP#softwarinventori
+11	#DEP#networkinventori
+12	#DEP#inventori
+13	#DEP#perl
+14	#DEP#deploy

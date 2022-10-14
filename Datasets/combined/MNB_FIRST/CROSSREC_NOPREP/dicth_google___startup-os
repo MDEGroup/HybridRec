@@ -1,0 +1,10 @@
+1	google___startup-os
+2	#DEP#protocolbuff
+3	#DEP#grpcjava
+4	#DEP#bazel
+5	#DEP#grpc
+6	#DEP#java
+7	#DEP#firebas
+8	#DEP#dagger
+9	#DEP#firestor
+10	#DEP#cpp

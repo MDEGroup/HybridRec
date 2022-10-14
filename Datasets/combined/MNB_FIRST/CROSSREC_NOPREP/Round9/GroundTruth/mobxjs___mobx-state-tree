@@ -1,0 +1,8 @@
+2	#DEP#statemanag
+3	#DEP#mst
+4	#DEP#mobxstatetre
+5	#DEP#statetre
+6	#DEP#mobx
+7	#DEP#redux
+8	#DEP#observ
+9	#DEP#snapshot

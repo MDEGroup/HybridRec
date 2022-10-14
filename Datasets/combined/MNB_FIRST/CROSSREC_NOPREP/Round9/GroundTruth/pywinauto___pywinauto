@@ -1,0 +1,16 @@
+2	#DEP#autom
+3	#DEP#gui
+4	#DEP#testtool
+5	#DEP#qa
+6	#DEP#uiautomtest
+7	#DEP#hook
+8	#DEP#windowapi
+9	#DEP#pywinauto
+10	#DEP#userinterfac
+11	#DEP#win32api
+12	#DEP#uiautom
+13	#DEP#python
+14	#DEP#linux
+15	#DEP#test
+16	#DEP#pythonlibrari
+17	#DEP#window

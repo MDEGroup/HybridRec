@@ -1,0 +1,9 @@
+2	#DEP#spirv
+3	#DEP#shader
+4	#DEP#compil
+5	#DEP#glslangvalid
+6	#DEP#glslang
+7	#DEP#glsl
+8	#DEP#essl
+9	#DEP#hlsl
+10	#DEP#valid

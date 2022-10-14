@@ -1,0 +1,7 @@
+2	#DEP#serverless
+3	#DEP#node
+4	#DEP#aw
+5	#DEP#awlambda
+6	#DEP#lambda
+7	#DEP#golang
+8	#DEP#faa

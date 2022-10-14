@@ -1,0 +1,16 @@
+2	#DEP#otaupdat
+3	#DEP#firmwarupdat
+4	#DEP#lua
+5	#DEP#otafirmwarupdat
+6	#DEP#swupdat
+7	#DEP#hawkbit
+8	#DEP#emmc
+9	#DEP#embed
+10	#DEP#embedsystem
+11	#DEP#softwarupdat
+12	#DEP#flash
+13	#DEP#industrilinux
+14	#DEP#iot
+15	#DEP#linux
+16	#DEP#ota
+17	#DEP#fota

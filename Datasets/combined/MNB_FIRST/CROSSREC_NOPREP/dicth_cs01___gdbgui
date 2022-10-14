@@ -1,0 +1,15 @@
+1	cs01___gdbgui
+2	#DEP#rust
+3	#DEP#gui
+4	#DEP#gdb
+5	#DEP#websocket
+6	#DEP#debuggvisu
+7	#DEP#golang
+8	#DEP#reactj
+9	#DEP#socketio
+10	#DEP#frontend
+11	#DEP#flask
+12	#DEP#c
+13	#DEP#cpluplu
+14	#DEP#browser
+15	#DEP#python

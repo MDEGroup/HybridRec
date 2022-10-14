@@ -1,0 +1,8 @@
+2	#DEP#languagecli
+3	#DEP#vimplugin
+4	#DEP#linter
+5	#DEP#neovimplugin
+6	#DEP#autocomplet
+7	#DEP#vim
+8	#DEP#languagserverprotocol
+9	#DEP#syntaxcheck

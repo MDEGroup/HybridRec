@@ -1,0 +1,9 @@
+2	#DEP#mailsandbox
+3	#DEP#develop
+4	#DEP#virtualbox
+5	#DEP#parallel
+6	#DEP#samba
+7	#DEP#vagrant
+8	#DEP#vmware
+9	#DEP#docker
+10	#DEP#vm

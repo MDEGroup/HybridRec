@@ -1,0 +1,14 @@
+1	axnsan12___drf-yasg
+2	#DEP#coreapi
+3	#DEP#swaggercodegen
+4	#DEP#openapispecif
+5	#DEP#django
+6	#DEP#rest
+7	#DEP#swaggerui
+8	#DEP#openapi
+9	#DEP#redoc
+10	#DEP#djangorestswagg
+11	#DEP#restapi
+12	#DEP#swagger
+13	#DEP#djangorestframework
+14	#DEP#documentgen

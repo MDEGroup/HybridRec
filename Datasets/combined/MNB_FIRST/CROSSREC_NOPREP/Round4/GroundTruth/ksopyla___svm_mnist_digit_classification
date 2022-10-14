@@ -1,0 +1,6 @@
+2	#DEP#scikitlearn
+3	#DEP#scikitlearnmnist
+4	#DEP#supportvectormachin
+5	#DEP#svmmnist
+6	#DEP#svmmnistclassif
+7	#DEP#mnistclassif

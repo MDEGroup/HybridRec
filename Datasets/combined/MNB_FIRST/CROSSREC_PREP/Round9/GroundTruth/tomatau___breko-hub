@@ -1,0 +1,9 @@
+2	#DEP#babel
+3	#DEP#javascript
+4	#DEP#react
+5	#DEP#lint
+6	#DEP#smodul
+7	#DEP#koa
+8	#DEP#redux
+9	#DEP#web-pack
+10	#DEP#c

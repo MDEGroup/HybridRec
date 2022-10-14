@@ -1,0 +1,6 @@
+2	#DEP#curl
+3	#DEP#httpclient
+4	#DEP#graphql
+5	#DEP#electronapp
+6	#DEP#apicli
+7	#DEP#restapi

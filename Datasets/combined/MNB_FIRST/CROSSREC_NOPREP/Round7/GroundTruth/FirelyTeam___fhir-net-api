@@ -1,0 +1,13 @@
+2	#DEP#fhirpars
+3	#DEP#fhir
+4	#DEP#fhirprofil
+5	#DEP#par
+6	#DEP#serial
+7	#DEP#dotnet
+8	#DEP#fhirspec
+9	#DEP#structuredefinit
+10	#DEP#fhirclient
+11	#DEP#dotnetcor
+12	#DEP#fhirpath
+13	#DEP#fhirserv
+14	#DEP#valid

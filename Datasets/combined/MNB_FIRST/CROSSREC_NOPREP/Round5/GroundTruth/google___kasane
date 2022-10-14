@@ -1,0 +1,6 @@
+2	#DEP#packagmanag
+3	#DEP#kubernetdeploy
+4	#DEP#helm
+5	#DEP#docker
+6	#DEP#ksonnet
+7	#DEP#kubernet

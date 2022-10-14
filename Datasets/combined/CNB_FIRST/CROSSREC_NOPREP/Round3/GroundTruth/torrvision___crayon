@@ -1,0 +1,8 @@
+2	#DEP#torch7
+3	#DEP#deeplearn
+4	#DEP#tensorflow
+5	#DEP#pytorch
+6	#DEP#datavisu
+7	#DEP#docker
+8	#DEP#tensorboard
+9	#DEP#crayon

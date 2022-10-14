@@ -1,0 +1,7 @@
+1	polybar___polybar
+2	#DEP#window
+3	#DEP#polybar
+4	#DEP#bar
+5	#DEP#manag
+6	#DEP#iwm
+7	#DEP#unix-based

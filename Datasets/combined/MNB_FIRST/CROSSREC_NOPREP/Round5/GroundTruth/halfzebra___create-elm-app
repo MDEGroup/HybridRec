@@ -1,0 +1,9 @@
+2	#DEP#elm
+3	#DEP#buildtool
+4	#DEP#boilerpl
+5	#DEP#hmr
+6	#DEP#cli
+7	#DEP#webpack
+8	#DEP#scaffold
+9	#DEP#elmplatform
+10	#DEP#zeroconfigur

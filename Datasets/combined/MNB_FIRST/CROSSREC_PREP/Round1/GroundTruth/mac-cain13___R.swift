@@ -1,0 +1,14 @@
+2	#DEP#xode
+3	#DEP#autoompletresour
+4	#DEP#segu
+5	#DEP#design
+6	#DEP#swift
+7	#DEP#autoompletimag
+8	#DEP#local
+9	#DEP#odegen
+10	#DEP#io
+11	#DEP#autoomplet
+12	#DEP#c
+13	#DEP#font
+14	#DEP#imag
+15	#DEP#storyboard

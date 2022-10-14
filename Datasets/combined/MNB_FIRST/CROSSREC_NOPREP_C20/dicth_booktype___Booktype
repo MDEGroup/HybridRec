@@ -1,0 +1,8 @@
+1	booktype___Booktype
+2	#DEP#django
+3	#DEP#rest
+4	#DEP#python
+5	#DEP#javascript
+6	#DEP#book
+7	#DEP#ebook
+8	#DEP#pdf

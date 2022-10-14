@@ -1,0 +1,6 @@
+2	#DEP#sbt
+3	#DEP#publish
+4	#DEP#sbtplugin
+5	#DEP#publishresolv
+6	#DEP#scala
+7	#DEP#artifact

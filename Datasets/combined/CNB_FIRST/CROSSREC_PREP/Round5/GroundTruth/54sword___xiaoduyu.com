@@ -1,0 +1,9 @@
+2	#DEP#typescript
+3	#DEP#babel
+4	#DEP#reatredux
+5	#DEP#react
+6	#DEP#apolloli
+7	#DEP#nodej
+8	#DEP#web-pack
+9	#DEP#reatrout
+10	#DEP#c

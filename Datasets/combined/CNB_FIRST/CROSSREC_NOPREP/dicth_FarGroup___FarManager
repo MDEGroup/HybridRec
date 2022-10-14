@@ -1,0 +1,15 @@
+1	FarGroup___FarManager
+2	#DEP#filemanag
+3	#DEP#lua
+4	#DEP#winscp
+5	#DEP#color
+6	#DEP#ftpclient
+7	#DEP#commandlin
+8	#DEP#plugin
+9	#DEP#farmanag
+10	#DEP#ofm
+11	#DEP#7zip
+12	#DEP#shell
+13	#DEP#editor
+14	#DEP#window
+15	#DEP#cpp

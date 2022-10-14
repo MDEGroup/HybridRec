@@ -1,0 +1,11 @@
+1	lepture___flask-oauthlib
+2	#DEP#oauth2serv
+3	#DEP#oauth2provid
+4	#DEP#oauthprovid
+5	#DEP#python
+6	#DEP#oauth2
+7	#DEP#oauthclient
+8	#DEP#oauth2client
+9	#DEP#flask
+10	#DEP#oauth
+11	#DEP#oauthserv

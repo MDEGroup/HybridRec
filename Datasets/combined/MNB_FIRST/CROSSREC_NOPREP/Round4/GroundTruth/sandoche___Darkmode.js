@@ -1,0 +1,9 @@
+2	#DEP#darkthem
+3	#DEP#vanillaj
+4	#DEP#nightmod
+5	#DEP#npmpackag
+6	#DEP#dark
+7	#DEP#npmmodul
+8	#DEP#npm
+9	#DEP#darkmod
+10	#DEP#widget

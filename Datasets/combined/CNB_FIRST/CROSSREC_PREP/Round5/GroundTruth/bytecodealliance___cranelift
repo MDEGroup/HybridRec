@@ -1,0 +1,8 @@
+2	#DEP#rust
+3	#DEP#aot
+4	#DEP#odegen
+5	#DEP#ranelift
+6	#DEP#compil
+7	#DEP#c
+8	#DEP#wasm
+9	#DEP#retonn

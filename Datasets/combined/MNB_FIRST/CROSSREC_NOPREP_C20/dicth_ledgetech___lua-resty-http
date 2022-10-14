@@ -1,0 +1,6 @@
+1	ledgetech___lua-resty-http
+2	#DEP#nginx
+3	#DEP#http
+4	#DEP#lua
+5	#DEP#stream
+6	#DEP#httpclient

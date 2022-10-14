@@ -1,0 +1,11 @@
+1	goreleaser___goreleaser
+2	#DEP#homebrew
+3	#DEP#travi
+4	#DEP#go
+5	#DEP#releasautom
+6	#DEP#golang
+7	#DEP#deb
+8	#DEP#docker
+9	#DEP#rpm
+10	#DEP#packag
+11	#DEP#snapcraft

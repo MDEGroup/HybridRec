@@ -1,0 +1,12 @@
+2	#DEP#auth
+3	#DEP#graphql
+4	#DEP#babel
+5	#DEP#javascript
+6	#DEP#knex
+7	#DEP#boilerpl
+8	#DEP#passport
+9	#DEP#nodej
+10	#DEP#docker
+11	#DEP#sql
+12	#DEP#postgresql
+13	#DEP#api

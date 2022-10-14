@@ -1,0 +1,16 @@
+2	#DEP#cloud
+3	#DEP#spanner
+4	#DEP#distributsystem
+5	#DEP#googl
+6	#DEP#grpc
+7	#DEP#gf
+8	#DEP#k8
+9	#DEP#borg
+10	#DEP#chubbi
+11	#DEP#bigtabl
+12	#DEP#gcp
+13	#DEP#toru
+14	#DEP#referarchitectur
+15	#DEP#kubernet
+16	#DEP#gife
+17	#DEP#googlinfrastructur

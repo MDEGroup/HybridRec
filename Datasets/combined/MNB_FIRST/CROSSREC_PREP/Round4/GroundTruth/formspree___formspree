@@ -1,0 +1,6 @@
+2	#DEP#formspre
+3	#DEP#amstack
+4	#DEP#flask
+5	#DEP#sendgrid
+6	#DEP#form
+7	#DEP#postgresql

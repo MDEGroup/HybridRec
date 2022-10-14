@@ -1,0 +1,8 @@
+2	#DEP#cython
+3	#DEP#pypi
+4	#DEP#jython
+5	#DEP#librari
+6	#DEP#virtualenv
+7	#DEP#pypy3
+8	#DEP#python
+9	#DEP#pypa

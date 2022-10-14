@@ -1,0 +1,10 @@
+2	#DEP#bash
+3	#DEP#fish
+4	#DEP#prompt
+5	#DEP#zsh
+6	#DEP#powerlin
+7	#DEP#statuslin
+8	#DEP#python
+9	#DEP#ipython
+10	#DEP#vim
+11	#DEP#tmux

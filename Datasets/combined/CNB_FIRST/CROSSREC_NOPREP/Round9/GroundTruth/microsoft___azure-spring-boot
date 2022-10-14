@@ -1,0 +1,15 @@
+2	#DEP#azurstorag
+3	#DEP#azurserv
+4	#DEP#azurservicbu
+5	#DEP#cloudfoundri
+6	#DEP#microsoftgraph
+7	#DEP#azurdocumentdb
+8	#DEP#azur
+9	#DEP#springdata
+10	#DEP#azuractivdirectori
+11	#DEP#springboot
+12	#DEP#microsoft
+13	#DEP#keyvault
+14	#DEP#springsoci
+15	#DEP#mediumserv
+16	#DEP#springbootstart

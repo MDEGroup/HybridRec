@@ -1,0 +1,8 @@
+2	#DEP#serverless
+3	#DEP#rollup
+4	#DEP#serverlessframework
+5	#DEP#awlambda
+6	#DEP#serverlessplugin
+7	#DEP#webpack
+8	#DEP#typescript
+9	#DEP#babel

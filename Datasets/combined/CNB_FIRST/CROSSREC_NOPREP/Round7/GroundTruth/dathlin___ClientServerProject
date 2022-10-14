@@ -1,0 +1,16 @@
+2	#DEP#modbutcp
+3	#DEP#profinet
+4	#DEP#socket
+5	#DEP#plc
+6	#DEP#json
+7	#DEP#udpsocket
+8	#DEP#server
+9	#DEP#pc
+10	#DEP#client
+11	#DEP#tcpsocket
+12	#DEP#csharp
+13	#DEP#winform
+14	#DEP#wpf
+15	#DEP#c
+16	#DEP#wincc
+17	#DEP#network

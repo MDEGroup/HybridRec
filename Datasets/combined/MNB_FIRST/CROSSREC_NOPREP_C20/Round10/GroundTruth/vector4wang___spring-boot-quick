@@ -1,0 +1,10 @@
+2	#DEP#maven
+3	#DEP#redi
+4	#DEP#spark
+5	#DEP#jwt
+6	#DEP#springboot
+7	#DEP#mybati
+8	#DEP#oauth2
+9	#DEP#swagger
+10	#DEP#assembl
+11	#DEP#elasticsearch

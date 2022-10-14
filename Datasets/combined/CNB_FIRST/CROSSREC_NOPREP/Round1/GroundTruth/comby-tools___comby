@@ -1,0 +1,9 @@
+2	#DEP#rewrit
+3	#DEP#programtransform
+4	#DEP#syntaxtransform
+5	#DEP#searchreplac
+6	#DEP#lint
+7	#DEP#syntax
+8	#DEP#refactor
+9	#DEP#parsercombin
+10	#DEP#par

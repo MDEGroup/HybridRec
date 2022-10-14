@@ -1,0 +1,7 @@
+1	dita-ot___docs
+2	#DEP#ditaot
+3	#DEP#document
+4	#DEP#xslt
+5	#DEP#publish
+6	#DEP#ant
+7	#DEP#xml

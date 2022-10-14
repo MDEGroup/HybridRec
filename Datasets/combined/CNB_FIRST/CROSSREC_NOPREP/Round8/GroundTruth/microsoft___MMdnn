@@ -1,0 +1,11 @@
+2	#DEP#coreml
+3	#DEP#caff
+4	#DEP#tensorflow
+5	#DEP#cntk
+6	#DEP#darknet
+7	#DEP#pytorch
+8	#DEP#visual
+9	#DEP#mxnet
+10	#DEP#modelconvert
+11	#DEP#onnx
+12	#DEP#kera

@@ -1,0 +1,10 @@
+1	xo___xo
+2	#DEP#sql
+3	#DEP#postgresql
+4	#DEP#orm
+5	#DEP#oracl
+6	#DEP#sqlite
+7	#DEP#microsoftsqlserv
+8	#DEP#codegen
+9	#DEP#golang
+10	#DEP#mysql

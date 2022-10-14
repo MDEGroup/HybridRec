@@ -1,0 +1,12 @@
+2	#DEP#atom
+3	#DEP#nodej
+4	#DEP#npm
+5	#DEP#react
+6	#DEP#eslint
+7	#DEP#es2015
+8	#DEP#redux
+9	#DEP#postcss
+10	#DEP#shell
+11	#DEP#git
+12	#DEP#babel
+13	#DEP#webpack

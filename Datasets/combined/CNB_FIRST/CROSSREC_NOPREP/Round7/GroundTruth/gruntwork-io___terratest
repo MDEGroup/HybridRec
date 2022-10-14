@@ -1,0 +1,8 @@
+2	#DEP#devop
+3	#DEP#aw
+4	#DEP#testlibrari
+5	#DEP#packer
+6	#DEP#golang
+7	#DEP#terraform
+8	#DEP#docker
+9	#DEP#test

@@ -1,0 +1,6 @@
+2	#DEP#sqlalchemidatabasmigrat
+3	#DEP#flask
+4	#DEP#databas
+5	#DEP#alemb
+6	#DEP#migrat
+7	#DEP#python

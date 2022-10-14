@@ -1,0 +1,8 @@
+1	jspicl___jspicl
+2	#DEP#jspicl
+3	#DEP#lua
+4	#DEP#esprima
+5	#DEP#ast
+6	#DEP#transpil
+7	#DEP#javascript
+8	#DEP#pico8

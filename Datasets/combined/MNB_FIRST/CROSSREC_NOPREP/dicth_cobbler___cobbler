@@ -1,0 +1,7 @@
+1	cobbler___cobbler
+2	#DEP#cobbler
+3	#DEP#pxe
+4	#DEP#tftp
+5	#DEP#dhcp
+6	#DEP#python
+7	#DEP#deploy

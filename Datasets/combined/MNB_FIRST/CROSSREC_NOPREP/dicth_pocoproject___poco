@@ -1,0 +1,13 @@
+1	pocoproject___poco
+2	#DEP#sql
+3	#DEP#httpserver
+4	#DEP#databasaccess
+5	#DEP#xml
+6	#DEP#httpclient
+7	#DEP#json
+8	#DEP#poco
+9	#DEP#configur
+10	#DEP#crossplatform
+11	#DEP#cpluplu
+12	#DEP#network
+13	#DEP#log

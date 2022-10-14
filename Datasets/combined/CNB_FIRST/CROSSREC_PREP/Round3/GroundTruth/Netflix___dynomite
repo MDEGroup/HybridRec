@@ -1,0 +1,6 @@
+2	#DEP#nosql
+3	#DEP#distributdataba
+4	#DEP#keyvalu
+5	#DEP#c
+6	#DEP#dynomit
+7	#DEP#redi

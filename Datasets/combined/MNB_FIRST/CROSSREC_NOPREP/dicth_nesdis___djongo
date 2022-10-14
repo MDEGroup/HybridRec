@@ -1,0 +1,8 @@
+1	nesdis___djongo
+2	#DEP#sql
+3	#DEP#pymongo
+4	#DEP#nosql
+5	#DEP#nosqldataba
+6	#DEP#relatdataba
+7	#DEP#django
+8	#DEP#mongodb

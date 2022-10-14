@@ -1,0 +1,13 @@
+2	#DEP#postgresql
+3	#DEP#disastrecoveri
+4	#DEP#etcd
+5	#DEP#synchronrepl
+6	#DEP#highavail
+7	#DEP#golang
+8	#DEP#docker
+9	#DEP#standbiclust
+10	#DEP#consul
+11	#DEP#declarconfig
+12	#DEP#kubernet
+13	#DEP#cloudnativ
+14	#DEP#dataconsist

@@ -1,0 +1,10 @@
+2	#DEP#eslint
+3	#DEP#react
+4	#DEP#reactrout
+5	#DEP#express
+6	#DEP#redux
+7	#DEP#postcss
+8	#DEP#i18n
+9	#DEP#babel
+10	#DEP#webpack
+11	#DEP#typescript

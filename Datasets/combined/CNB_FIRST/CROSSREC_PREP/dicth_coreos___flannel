@@ -1,0 +1,8 @@
+1	coreos___flannel
+2	#DEP#overlay
+3	#DEP#go
+4	#DEP#docker
+5	#DEP#network
+6	#DEP#dokerimag
+7	#DEP#c
+8	#DEP#kubernet

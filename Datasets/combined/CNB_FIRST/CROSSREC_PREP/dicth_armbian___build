@@ -1,0 +1,10 @@
+1	armbian___build
+2	#DEP#sdard
+3	#DEP#kernel
+4	#DEP#arm
+5	#DEP#compil
+6	#DEP#build
+7	#DEP#opersystem
+8	#DEP#distribut
+9	#DEP#c
+10	#DEP#unix-based

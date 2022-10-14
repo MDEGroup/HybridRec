@@ -1,0 +1,7 @@
+2	#DEP#uicollectionviewlayoutsubclass
+3	#DEP#uicollectionview
+4	#DEP#swift
+5	#DEP#transit
+6	#DEP#anim
+7	#DEP#io
+8	#DEP#cocoapod

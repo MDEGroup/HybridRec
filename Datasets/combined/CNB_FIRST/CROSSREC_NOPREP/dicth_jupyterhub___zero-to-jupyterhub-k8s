@@ -1,0 +1,8 @@
+1	jupyterhub___zero-to-jupyterhub-k8s
+2	#DEP#jupytnotebook
+3	#DEP#jupyterhubdeploy
+4	#DEP#jupyterhub
+5	#DEP#jupyt
+6	#DEP#kubernetclust
+7	#DEP#kubespawn
+8	#DEP#kubernet

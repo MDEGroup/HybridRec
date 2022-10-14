@@ -1,0 +1,8 @@
+1	nix-community___nixbox
+2	#DEP#nix
+3	#DEP#virtualbox
+4	#DEP#nixo
+5	#DEP#packer
+6	#DEP#libvirt
+7	#DEP#qemu
+8	#DEP#vagrant

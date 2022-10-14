@@ -1,0 +1,10 @@
+2	#DEP#osx
+3	#DEP#linux
+4	#DEP#vulkan
+5	#DEP#gameengin
+6	#DEP#crossplatform
+7	#DEP#android
+8	#DEP#webgl
+9	#DEP#opengl
+10	#DEP#io
+11	#DEP#window

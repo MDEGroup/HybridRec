@@ -1,0 +1,12 @@
+1	slimjs___slim.js
+2	#DEP#framework
+3	#DEP#webcompon
+4	#DEP#dom
+5	#DEP#react
+6	#DEP#javascript
+7	#DEP#angular
+8	#DEP#librari
+9	#DEP#es6
+10	#DEP#html5
+11	#DEP#vuej
+12	#DEP#frontend

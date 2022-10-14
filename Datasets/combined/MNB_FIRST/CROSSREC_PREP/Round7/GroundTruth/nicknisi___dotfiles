@@ -1,0 +1,13 @@
+2	#DEP#neosetup
+3	#DEP#zshsetup
+4	#DEP#neo
+5	#DEP#git
+6	#DEP#shell
+7	#DEP#homebrew
+8	#DEP#zsh
+9	#DEP#vim
+10	#DEP#dotfil
+11	#DEP#tmuxonfigur
+12	#DEP#tmux
+13	#DEP#c
+14	#DEP#osx

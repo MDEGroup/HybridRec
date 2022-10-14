@@ -1,0 +1,14 @@
+1	getredash___redash
+2	#DEP#redash
+3	#DEP#postgresql
+4	#DEP#bigqueri
+5	#DEP#busiintellig
+6	#DEP#bi
+7	#DEP#visual
+8	#DEP#athena
+9	#DEP#javascript
+10	#DEP#redshift
+11	#DEP#python
+12	#DEP#dashboard
+13	#DEP#mysql
+14	#DEP#analyt

@@ -1,0 +1,9 @@
+2	#DEP#frenhkiss
+3	#DEP#internatn
+4	#DEP#javascript
+5	#DEP#interpol
+6	#DEP#local
+7	#DEP#io
+8	#DEP#c
+9	#DEP#languag
+10	#DEP#translat

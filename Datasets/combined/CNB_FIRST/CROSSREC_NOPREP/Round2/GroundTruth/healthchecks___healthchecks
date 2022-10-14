@@ -1,0 +1,6 @@
+2	#DEP#devop
+3	#DEP#op
+4	#DEP#cronjob
+5	#DEP#monitor
+6	#DEP#cron
+7	#DEP#django

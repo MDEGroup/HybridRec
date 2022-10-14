@@ -1,0 +1,7 @@
+2	#DEP#bash
+3	#DEP#cli
+4	#DEP#zsh
+5	#DEP#unix
+6	#DEP#neovim
+7	#DEP#vim
+8	#DEP#go

@@ -1,0 +1,11 @@
+1	emsec___ChameleonMini
+2	#DEP#rfid
+3	#DEP#ontatless
+4	#DEP#reader
+5	#DEP#sniff
+6	#DEP#hak
+7	#DEP#iso
+8	#DEP#emul
+9	#DEP#mifar
+10	#DEP#c
+11	#DEP#nf

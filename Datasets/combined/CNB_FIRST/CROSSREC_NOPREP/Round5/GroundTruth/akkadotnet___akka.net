@@ -1,0 +1,8 @@
+2	#DEP#akka
+3	#DEP#actor
+4	#DEP#concurr
+5	#DEP#distributprogram
+6	#DEP#actormodel
+7	#DEP#reactiv
+8	#DEP#cluster
+9	#DEP#dotnet

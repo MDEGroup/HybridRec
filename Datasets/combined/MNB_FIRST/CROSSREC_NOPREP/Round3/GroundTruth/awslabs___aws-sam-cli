@@ -1,0 +1,8 @@
+2	#DEP#serverless
+3	#DEP#aw
+4	#DEP#serverlessapplicationmodel
+5	#DEP#lambda
+6	#DEP#sam
+7	#DEP#docker
+8	#DEP#python
+9	#DEP#apigateway

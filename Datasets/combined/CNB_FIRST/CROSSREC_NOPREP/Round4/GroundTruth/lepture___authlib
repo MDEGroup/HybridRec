@@ -1,0 +1,13 @@
+2	#DEP#jwk
+3	#DEP#oauth2serv
+4	#DEP#jwe
+5	#DEP#oauth2provid
+6	#DEP#jose
+7	#DEP#oauth
+8	#DEP#jw
+9	#DEP#oidc
+10	#DEP#oauth2
+11	#DEP#jwt
+12	#DEP#flask
+13	#DEP#django
+14	#DEP#openidconnect

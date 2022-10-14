@@ -1,0 +1,12 @@
+1	DivanteLtd___mage2vuestorefront
+2	#DEP#multiprocess
+3	#DEP#kue
+4	#DEP#mongodbsync
+5	#DEP#magento
+6	#DEP#datasynchron
+7	#DEP#nosql
+8	#DEP#magento2
+9	#DEP#redi
+10	#DEP#elasticsearch
+11	#DEP#mongodb
+12	#DEP#backend

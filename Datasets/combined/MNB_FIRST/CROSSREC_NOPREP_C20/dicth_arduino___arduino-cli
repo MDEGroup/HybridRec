@@ -1,0 +1,7 @@
+1	arduino___arduino-cli
+2	#DEP#bash
+3	#DEP#arduino
+4	#DEP#cli
+5	#DEP#cmake
+6	#DEP#commandlin
+7	#DEP#golang

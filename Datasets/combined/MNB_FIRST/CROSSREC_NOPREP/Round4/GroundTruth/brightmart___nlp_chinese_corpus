@@ -1,0 +1,15 @@
+2	#DEP#chinenlp
+3	#DEP#nlp
+4	#DEP#chine
+5	#DEP#languagmodel
+6	#DEP#news
+7	#DEP#bert
+8	#DEP#corpu
+9	#DEP#dataset
+10	#DEP#pretrain
+11	#DEP#chinedataset
+12	#DEP#questionansw
+13	#DEP#word2vec
+14	#DEP#chinecorpu
+15	#DEP#textclassif
+16	#DEP#wiki

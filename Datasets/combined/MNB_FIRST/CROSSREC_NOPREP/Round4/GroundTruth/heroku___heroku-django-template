@@ -1,0 +1,7 @@
+2	#DEP#python
+3	#DEP#startertemplat
+4	#DEP#whitenois
+5	#DEP#heroku
+6	#DEP#herokudjangotemplat
+7	#DEP#django
+8	#DEP#gunicorn

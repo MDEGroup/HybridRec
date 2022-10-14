@@ -1,0 +1,16 @@
+2	#DEP#devoptool
+3	#DEP#testtool
+4	#DEP#tdd
+5	#DEP#tddutil
+6	#DEP#devop
+7	#DEP#puppet
+8	#DEP#infrastructurcod
+9	#DEP#saltstack
+10	#DEP#test
+11	#DEP#docker
+12	#DEP#nagio
+13	#DEP#infrastructurtest
+14	#DEP#chef
+15	#DEP#ansibl
+16	#DEP#kubernet
+17	#DEP#python

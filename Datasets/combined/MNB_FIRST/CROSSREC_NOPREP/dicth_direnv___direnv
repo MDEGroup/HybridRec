@@ -1,0 +1,9 @@
+1	direnv___direnv
+2	#DEP#tcsh
+3	#DEP#direnv
+4	#DEP#shellexten
+5	#DEP#bash
+6	#DEP#fish
+7	#DEP#environ
+8	#DEP#zsh
+9	#DEP#shell

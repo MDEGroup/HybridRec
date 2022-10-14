@@ -1,0 +1,8 @@
+2	#DEP#cuda
+3	#DEP#profil
+4	#DEP#d3d11
+5	#DEP#metal
+6	#DEP#cpu
+7	#DEP#c
+8	#DEP#opengl
+9	#DEP#gpu

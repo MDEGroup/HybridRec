@@ -1,0 +1,9 @@
+2	#DEP#raspberripi
+3	#DEP#aarch
+4	#DEP#rust
+5	#DEP#rpi
+6	#DEP#kernel
+7	#DEP#embed
+8	#DEP#opersystem
+9	#DEP#baremet
+10	#DEP#arm

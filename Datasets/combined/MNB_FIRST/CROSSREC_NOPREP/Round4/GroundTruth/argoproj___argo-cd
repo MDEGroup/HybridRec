@@ -1,0 +1,13 @@
+2	#DEP#continudeploy
+3	#DEP#devop
+4	#DEP#argo
+5	#DEP#argocd
+6	#DEP#pipelin
+7	#DEP#helm
+8	#DEP#cicd
+9	#DEP#cd
+10	#DEP#docker
+11	#DEP#ksonnet
+12	#DEP#gitop
+13	#DEP#continudeliveri
+14	#DEP#kubernet

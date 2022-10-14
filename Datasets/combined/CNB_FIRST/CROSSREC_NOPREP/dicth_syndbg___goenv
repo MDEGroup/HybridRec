@@ -1,0 +1,10 @@
+1	syndbg___goenv
+2	#DEP#versionmanag
+3	#DEP#pyenv
+4	#DEP#bash
+5	#DEP#homebrew
+6	#DEP#goenv
+7	#DEP#go
+8	#DEP#golang
+9	#DEP#rbenv
+10	#DEP#shimgoenv

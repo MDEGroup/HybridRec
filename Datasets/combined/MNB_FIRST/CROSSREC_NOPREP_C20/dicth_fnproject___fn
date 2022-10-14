@@ -1,0 +1,7 @@
+1	fnproject___fn
+2	#DEP#serverless
+3	#DEP#contain
+4	#DEP#docker
+5	#DEP#kubernet
+6	#DEP#lambda
+7	#DEP#faa

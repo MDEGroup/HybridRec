@@ -1,0 +1,10 @@
+2	#DEP#rabbitmq
+3	#DEP#elasticsearch
+4	#DEP#docker
+5	#DEP#cloud
+6	#DEP#redi
+7	#DEP#mysql
+8	#DEP#mybati
+9	#DEP#spring-boot
+10	#DEP#mongo
+11	#DEP#spring

@@ -1,0 +1,10 @@
+2	#DEP#telegrambot
+3	#DEP#telegram
+4	#DEP#webhook
+5	#DEP#poller
+6	#DEP#async
+7	#DEP#rubi
+8	#DEP#bot
+9	#DEP#control
+10	#DEP#rail
+11	#DEP#hotreload

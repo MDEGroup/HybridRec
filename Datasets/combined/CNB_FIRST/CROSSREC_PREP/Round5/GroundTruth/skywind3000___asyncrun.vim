@@ -1,0 +1,11 @@
+2	#DEP#qckfixwindow
+3	#DEP#design
+4	#DEP#neo
+5	#DEP#asynrun
+6	#DEP#plugin
+7	#DEP#neovim
+8	#DEP#bld
+9	#DEP#asynhron
+10	#DEP#vim
+11	#DEP#c
+12	#DEP#make

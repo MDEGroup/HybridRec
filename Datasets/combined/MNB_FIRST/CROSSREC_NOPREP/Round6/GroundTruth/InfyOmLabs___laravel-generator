@@ -1,0 +1,8 @@
+2	#DEP#apigen
+3	#DEP#crudgen
+4	#DEP#infyom
+5	#DEP#laravel
+6	#DEP#laravelgen
+7	#DEP#laravelapigen
+8	#DEP#infyomlaravelgen
+9	#DEP#laravelcurdgen

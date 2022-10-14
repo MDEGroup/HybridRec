@@ -1,0 +1,8 @@
+2	#DEP#web
+3	#DEP#menunavig
+4	#DEP#menu
+5	#DEP#slide
+6	#DEP#smooth
+7	#DEP#menubar
+8	#DEP#app
+9	#DEP#pwa

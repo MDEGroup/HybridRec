@@ -1,0 +1,8 @@
+2	#DEP#medicimag
+3	#DEP#deeplearn
+4	#DEP#xray
+5	#DEP#local
+6	#DEP#thoracdisea
+7	#DEP#pneumonia
+8	#DEP#pytorch
+9	#DEP#classif

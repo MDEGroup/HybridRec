@@ -1,0 +1,8 @@
+1	MongoEngine___mongoengine
+2	#DEP#mongodborm
+3	#DEP#orm
+4	#DEP#mongo
+5	#DEP#pymongo
+6	#DEP#odm
+7	#DEP#python
+8	#DEP#mongodb

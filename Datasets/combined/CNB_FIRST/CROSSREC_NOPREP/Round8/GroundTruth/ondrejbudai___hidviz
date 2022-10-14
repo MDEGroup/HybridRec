@@ -1,0 +1,7 @@
+2	#DEP#hid
+3	#DEP#qt
+4	#DEP#usbhid
+5	#DEP#usb
+6	#DEP#qt5
+7	#DEP#libusb
+8	#DEP#protobuf

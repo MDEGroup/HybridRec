@@ -1,0 +1,10 @@
+1	foxlet___macOS-Simple-KVM
+2	#DEP#virtualmachin
+3	#DEP#catalina
+4	#DEP#kvm
+5	#DEP#hackintosh
+6	#DEP#mojav
+7	#DEP#maco
+8	#DEP#qemu
+9	#DEP#linux
+10	#DEP#highsierra
